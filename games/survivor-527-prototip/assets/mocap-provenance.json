@@ -1,0 +1,82 @@
+[
+  {
+    "clip": "walk",
+    "source": "07_01",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/007/07_01.bvh",
+    "sha256": "f8d82ea6ed1aab0cb7d9ee680f476b65471e2322e1da84add8a8527a2cb0b9a2",
+    "sourceFps": 120.00048000192001,
+    "frames": 79
+  },
+  {
+    "clip": "run",
+    "source": "09_01",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/009/09_01.bvh",
+    "sha256": "90641ccca814b9d8d59f63576a548bb5612477364462d142a9f741268fbe3b78",
+    "sourceFps": 120.00048000192001,
+    "frames": 37
+  },
+  {
+    "clip": "accelerate",
+    "source": "127_04",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/127/127_04.bvh",
+    "sha256": "b33d3440caa994fcb82143b18114cd5118a0a581322fa511db6eaf47e59f7ae1",
+    "sourceFps": 120.00048000192001,
+    "frames": 112
+  },
+  {
+    "clip": "stop",
+    "source": "127_05",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/127/127_05.bvh",
+    "sha256": "302c1681bb27966fd389b567c4403ec2cbae874b5d5017ff0116a7a4955a89ea",
+    "sourceFps": 120.00048000192001,
+    "frames": 97
+  },
+  {
+    "clip": "jump",
+    "source": "127_25",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/127/127_25.bvh",
+    "sha256": "3e183796d134c2cb9f7de8991d7c629bc4112532519973b7f3c5cceeee214425",
+    "sourceFps": 120.00048000192001,
+    "frames": 58
+  },
+  {
+    "clip": "duck",
+    "source": "127_29",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/127/127_29.bvh",
+    "sha256": "7dcc60fd474937d05c1fc153aedbd62ecd2b65c75d7c2226721dc0be666ccd13",
+    "sourceFps": 120.00048000192001,
+    "frames": 53
+  },
+  {
+    "clip": "crawl",
+    "source": "133_01",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/133/133_01.bvh",
+    "sha256": "e5274f03ebb0871aaa6f17ac67850e85bbc3ad565b6e8fb40f78739826b1b320",
+    "sourceFps": 120.00048000192001,
+    "frames": 344
+  },
+  {
+    "clip": "climb",
+    "source": "143_37",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/143/143_37.bvh",
+    "sha256": "534c04ac1f8299551407d127accef2421da0b5bfaa31b2934573abb5cecec235",
+    "sourceFps": 120.00048000192001,
+    "frames": 138
+  },
+  {
+    "clip": "idle",
+    "source": "77_02",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/077/77_02.bvh",
+    "sha256": "d6eef8f4ab182bef1bb5db0c46cbec0261b81a63ce1720b8a19777b7e79887a9",
+    "sourceFps": 120.00048000192001,
+    "frames": 235
+  },
+  {
+    "clip": "swim",
+    "source": "125_01",
+    "url": "https://raw.githubusercontent.com/una-dinosauria/cmu-mocap/master/data/125/125_01.bvh",
+    "sha256": "39ef356c5166b0949b1d9d195d517475d1e0be0004b1a24cff7a4b89d114f98c",
+    "sourceFps": 120.00048000192001,
+    "frames": 1065
+  }
+]

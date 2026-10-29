@@ -18,3 +18,6 @@ function botScore(g,skill,rng=Math.random){return Math.min(g.max,Math.max(0,Math
 function finalWinner(player,bot,playerTie,botTie){return player===bot?(playerTie<botTie?0:1):(player>bot?0:1)}
 const E={games,rank,settle,botScore,finalWinner};if(typeof module!=='undefined')module.exports=E;games.push(...['Bardak Piramidi','Pinpon Atışı','Balonu Havada Tut','Şişe Çevirme','Mendil Maratonu','Kurabiye Yolculuğu','Kart Fırlatma','Somun Kulesi','Makarna Kancası','Vida Ustası','Kâğıt Top Sepeti','Denge Çubuğu'].map((name,i)=>({id:'direct34-'+i,name,icon:'★',direct34:i,max:6,unit:'görev',duration:60,desc:'Nesneyi tut ve sürükle. Koyduğun nesneler sahnede kalır. İddia sayına ulaştığında oyun tamamlanır.'})));root.CoupleEngine=E;
 })(typeof window!=='undefined'?window:globalThis);
+
+// Preserve IDs/order so existing saved rounds remain attached to the same game.
+for(const g of globalThis.CoupleEngine.games){if(g.tv==='plates'||g.tv==='heels'){g.unit='metre';g.max=(g.tv==='plates'?350:450)+g.variant*40;g.desc=g.tv==='plates'?'İki eldeki tabakları dengede tutarak üç şeritli parkurda engellerden kaç. Üç canın var. Mesafe puan kazandırır.':'Topuklu ayakkabıyla ilerle. Alçak engellerde zıpla, yüksek engellerde eğil. Dengeyi koru. Üç canın var.';}}

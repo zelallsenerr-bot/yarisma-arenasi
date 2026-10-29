@@ -1,0 +1,10 @@
+/* Local to Survivor. Keep the canvas and controls together while racing. */
+#app:has(#canvas) .survivor-platform-v67{display:none!important}
+#app:has(#canvas){max-width:1100px}
+#app:has(#canvas) .raceframe{box-shadow:0 16px 45px #0005;border:2px solid #789b90;border-radius:14px}
+#app:has(#canvas) .controls{position:sticky;bottom:0;z-index:20;background:#0b242cef;padding:10px 0;margin-top:0;backdrop-filter:blur(12px)}
+#app:has(#canvas) .controls small{display:block;font-size:10px;opacity:.8;margin-top:5px}
+#app:has(#canvas) .racehud{border-radius:12px;border:1px solid #52736f}
+#app:has(#canvas) .racemsg{font-weight:650;min-height:62px}
+#app:has(#canvas) .controls button{min-height:76px;font-size:14px}
+@media(max-width:580px){#app:has(#canvas){padding:8px}#app:has(#canvas) .controls{gap:5px;padding-bottom:max(8px,env(safe-area-inset-bottom))}#app:has(#canvas) .controls button{font-size:11px;padding:10px 3px}#app:has(#canvas) .raceframe{margin:10px -4px}#app:has(#canvas) .racemsg{font-size:12px}#app:has(#canvas) .tip{font-size:10px}}

@@ -6,5 +6,7 @@ assert(M.posture({...base,slide:true},1).head[1]>M.posture(base,1).head[1]+25,'c
 let r=E.create([0,1],0,'normal',85,{speed:112,aim:.7},()=>.5);r.countdown=0;E.action(r,'action');assert.equal(r.racers[0].motion521.takeAt,0);for(let i=0;i<50;i++)E.tick(r,.025,{});assert(r.racers[0].motion521.landAt>0,'landing detected');assert(r.racers[0].motion521.impact>0,'impact measured');
 console.log('PASS: eight motion states, finite joints, crouch clearance, takeoff and landing events');
 
-for(let i=0;i<2;i++){let start=i?36:5,a=M.posture({...base,x:start},1),b=M.posture({...base,x:start+3},1);assert(Math.abs((start+a.feet[i][0])-(start+3+b.feet[i][0]))<.01,"planted foot stays at same world coordinate")}
+for(let i=0;i<2;i++){let start=i?43:5,a=M.posture({...base,x:start},1),b=M.posture({...base,x:start+3},1);assert(Math.abs((start+a.feet[i][0])-(start+3+b.feet[i][0]))<.01,"planted foot stays at same world coordinate")}
 console.log("PASS: stance feet remain planted instead of sliding");
+
+let crawl=M.posture({...base,slide:true},1);assert(Math.abs(crawl.hip[1]-crawl.shoulder[1])<6,"crawl body horizontal");assert(crawl.hands.every(v=>v[1]>-5),"crawl hands reach ground");let aim=M.posture({...base,stage:"aim",motion521:{throwAt:.8}},1);assert(aim.shoulder[0]!==5,"throw transfers weight");console.log("PASS: video-reference crawling and throwing weight transfer");

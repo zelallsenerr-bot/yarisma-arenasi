@@ -1,0 +1,18 @@
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-floor{background:radial-gradient(ellipse,#52637b,#27374f 75%)!important;border-color:#8299b8!important;box-shadow:inset 0 0 28px #9bb2c466!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-ring{background:radial-gradient(ellipse,#de2448,#af1232)!important;border-color:#ff3f58!important}
+.cr-body519{position:absolute;inset:0;transform-origin:50% 90%}
+html[data-arena-game="cember"] body #app .cember-platform-v67 :is(.cr-body519,.cr-feet519) svg{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;animation:none!important;transform:none!important}
+.cr-speaking519:not(.cr-out) .cr-body519{animation:cr-talk519 2.5s ease-in-out infinite;filter:drop-shadow(0 0 4px #ffed9b88)}
+.cr-social519{margin:-12px 0 24px;padding:16px 20px;border:1px solid #6c8aaa;border-radius:12px;background:#101e34;color:#e7eff9}.cr-social519 h3{margin:0 0 12px;color:#ffd883;font-size:15px}.cr-social519 p{margin:7px 0;padding:6px 9px;border-left:3px solid transparent;font-size:14px;line-height:1.5}.cr-social519 b{color:#fff}.cr-social519 .cr-current519{background:#314866;border-left-color:#ffcc6a}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person.cr-exiting519{opacity:1!important;filter:none!important;z-index:12!important;animation:cr-exit519 4.8s linear both!important;transform-origin:50% 100%}.cr-exiting519 .cr-body519{animation:cr-step519 .5s ease-in-out infinite!important}.cr-gone519 .cr-body519{visibility:hidden}.cr-gone519>strong{color:#ffc2c7!important}
+.cr-exit-review519{position:absolute;left:2%;top:10%;width:clamp(180px,28%,290px);z-index:25;padding:11px;background:#0d1a2fee;border:2px solid #ffc2c7;border-radius:12px;box-shadow:0 10px 24px #0008;text-align:center;color:white;animation:cr-review519 4.8s linear both}.cr-exit-review519>b{font:700 13px system-ui}.cr-exit-review519 p{font:600 12px/1.4 system-ui;margin:7px 0}
+.cr-foot-review519{height:110px;position:relative;overflow:hidden;margin-top:9px;border:1px solid #aab9cd;border-radius:7px;background:linear-gradient(90deg,#c8183d 0 59%,#ff6574 59% 61%,#354a65 61%)}.cr-feet519{position:absolute;left:18%;bottom:4%;width:34%;height:94%;animation:cr-foot519 4.8s linear both}.cr-cross519{position:absolute;right:5%;top:5%;font:bold 46px system-ui;color:#ff3e55;text-shadow:0 2px #fff;animation:cr-cross519 4.8s linear both}.cr-eliminated519{display:block;font:900 18px system-ui;letter-spacing:.1em;color:#ff8495;animation:cr-cross519 4.8s linear both}.cr-paused *{animation-play-state:paused!important}
+@keyframes cr-talk519{0%,100%{transform:rotate(-.8deg)}50%{transform:rotate(.8deg) translateY(-1px)}}
+@keyframes cr-step519{0%,100%{transform:rotate(-2deg) translateY(0)}50%{transform:rotate(2deg) translateY(-3px)}}
+@keyframes cr-exit519{0%,10%{transform:translate(0,0)}65%,100%{transform:translate(var(--exit-x519),var(--exit-y519))}90%{opacity:1}100%{opacity:.15}}
+@keyframes cr-foot519{0%,10%{left:18%;rotate:-5deg}65%,100%{left:62%;rotate:9deg}}
+@keyframes cr-cross519{0%,60%{opacity:0;scale:.7}67%,100%{opacity:1;scale:1}}
+@keyframes cr-review519{0%{opacity:0}6%,94%{opacity:1}100%{opacity:0}}
+@media(max-width:600px){.cr-exit-review519{left:2%;top:10%;width:170px;padding:7px}.cr-foot-review519{height:85px}.cr-social519{padding:12px}.cr-social519 p{font-size:12px}.cr-exit-review519 p{font-size:10px}}
+@media(prefers-reduced-motion:reduce){.cr-speaking519 .cr-body519,.cr-exiting519 .cr-body519{animation:none!important}.cr-feet519{animation-timing-function:steps(1,end)}}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person-6>strong{top:-15%!important}

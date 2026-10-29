@@ -21,3 +21,5 @@ const E={games,rank,settle,botScore,finalWinner};if(typeof module!=='undefined')
 
 // Preserve IDs/order so existing saved rounds remain attached to the same game.
 for(const g of globalThis.CoupleEngine.games){if(g.tv==='plates'||g.tv==='heels'){g.unit='metre';g.max=(g.tv==='plates'?350:450)+g.variant*40;g.desc=g.tv==='plates'?'İki eldeki tabakları dengede tutarak üç şeritli parkurda engellerden kaç. Üç canın var. Mesafe puan kazandırır.':'Topuklu ayakkabıyla ilerle. Alçak engellerde zıpla, yüksek engellerde eğil. Dengeyi koru. Üç canın var.';}}
+
+globalThis.CoupleEngine.games.push({id:'touch518',name:'Dokunarak Tanı',icon:'✋',unit:'nesne',max:12,duration:240,touch518:true,desc:'Görüşün kapalıyken 12 kutudaki nesneleri doku ve biçim ipuçlarıyla tanı. Nesneyi incele, adını yaz. Kutuları atlayıp geri dönebilirsin. Süren 4 dakika.'});

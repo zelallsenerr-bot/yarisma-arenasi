@@ -1,0 +1,1799 @@
+{
+  "son-karar": {
+    "id": "son-karar",
+    "programme": "Kim Milyoner Olmak İster?",
+    "name": "Cem Öğretir",
+    "mode": "seated",
+    "asset": "studios211/poses13.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "crop": [
+      512.0,
+      0.0,
+      512.0,
+      768.0
+    ],
+    "source": "https://www.atv.com.tr/kim-milyoner-olmak-ister/1252-bolum-1-fragman/izle",
+    "reviewed": "2026-10-24",
+    "note": "Gerçek yüz fotoğrafı referansıyla yarışma koltuğunda tam boy düzenlenmiş poz. Orijinal yayın karesi değildir; haber bülteni dekoru kullanılmaz.",
+    "verified": true,
+    "photoSource": "https://www.atv.com.tr/haberler/2023/07/11/cem-ogretir-hayati-ve-biyografisi"
+  },
+  "kutu-karari": {
+    "id": "kutu-karari",
+    "programme": "Var Mısın Yok Musun?",
+    "name": "Esra Erol",
+    "mode": "standing",
+    "asset": "assets/programmes331/kutu-karari.webp",
+    "size": [
+      820,
+      547
+    ],
+    "crop": [
+      303.4,
+      5.47,
+      500.2,
+      536.06
+    ],
+    "source": "https://www.atv.com.tr/var-misin-yok-musun/41-bolum-1-fragman/izle",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "para-kapani": {
+    "id": "para-kapani",
+    "programme": "1 Milyon Canlı Para",
+    "name": "Mesut Yar",
+    "mode": "standing",
+    "asset": "assets/programmes331/para-kapani.webp",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      420.0,
+      63.0,
+      360.0,
+      554.4
+    ],
+    "source": "https://www.kanald.com.tr/canli-para/ozetler/canli-para-basliyor",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "sepetini-koru": {
+    "id": "sepetini-koru",
+    "programme": "Şansa Davet",
+    "name": "Yiğit Alıcı",
+    "mode": "standing",
+    "asset": "assets/programmes331/sepetini-koru.webp",
+    "size": [
+      840,
+      421
+    ],
+    "crop": [
+      554.4,
+      4.21,
+      285.6,
+      412.58
+    ],
+    "source": "https://www.kargafilm.com.tr/sansadavet/sansadavet.html",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "alan-hakimi": {
+    "id": "alan-hakimi",
+    "programme": "Alan",
+    "name": "Oktay Kaynarca",
+    "mode": "standing",
+    "asset": "assets/programmes331/alan-hakimi.webp",
+    "size": [
+      500,
+      268
+    ],
+    "crop": [
+      185.0,
+      69.68,
+      140.0,
+      195.64
+    ],
+    "source": "https://www.atv.com.tr/alan/fragman",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "guven-cizgisi": {
+    "id": "guven-cizgisi",
+    "programme": "Güven Bana",
+    "name": "Müge Anlı",
+    "mode": "standing",
+    "asset": "assets/programmes331/guven-cizgisi.webp",
+    "size": [
+      500,
+      268
+    ],
+    "crop": [
+      0,
+      26.8,
+      155.0,
+      238.52
+    ],
+    "source": "https://www.atv.com.tr/guven-bana/ozelvideo",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "esim-yapar": {
+    "id": "esim-yapar",
+    "programme": "Ben Bilmem Eşim Bilir",
+    "name": "İlker Ayrık",
+    "mode": "standing",
+    "asset": "assets/new395/yaparsin-askim.jpg",
+    "size": [
+      572,
+      322
+    ],
+    "crop": [
+      286.0,
+      3.22,
+      188.76,
+      318.78
+    ],
+    "source": "https://www.kanald.com.tr/ben-bilmem-esim-bilir",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "aile-meydani": {
+    "id": "aile-meydani",
+    "programme": "Aileler Yarışıyor",
+    "name": "Asuman Krause",
+    "mode": "standing",
+    "asset": "assets/programmes331/aile-meydani.webp",
+    "size": [
+      311,
+      174
+    ],
+    "crop": [
+      152.39,
+      1.74,
+      152.39,
+      170.52
+    ],
+    "source": "https://www.tv360.com.tr/yasam/aileler-yarisiyor--802",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "ada-mucadelesi": {
+    "id": "ada-mucadelesi",
+    "programme": "Survivor",
+    "name": "Murat Ceylan",
+    "mode": "field",
+    "asset": "assets/programmes402/para-bende.jpg",
+    "size": [
+      987,
+      757
+    ],
+    "crop": [
+      473.76,
+      22.71,
+      296.1,
+      514.76
+    ],
+    "source": "https://www.tv8.com.tr/survivor",
+    "reviewed": "2026-10-24",
+    "note": "Murat Ceylan oyun alanında; Acun Ilıcalı konsey sunucusudur. Görsel Para Bende tanıtım fotoğrafından alınmıştır.",
+    "verified": true
+  },
+  "risk-meydani": {
+    "id": "risk-meydani",
+    "programme": "Büyük Risk",
+    "name": "Selçuk Yöntem",
+    "mode": "standing",
+    "asset": "assets/programmes402/milyonluk-resim.jpg",
+    "size": [
+      1920,
+      600
+    ],
+    "crop": [
+      19.2,
+      12.0,
+      883.2,
+      588.0
+    ],
+    "source": "https://www.jokeryapim.com/buyuk-risk/",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "halka-mucadelesi": {
+    "id": "halka-mucadelesi",
+    "programme": "En Zayıf Halka",
+    "name": "Baybars Altuntaş",
+    "mode": "seated",
+    "asset": "assets/programmes331/halka-mucadelesi.webp",
+    "size": [
+      1280,
+      465
+    ],
+    "crop": [
+      742.4,
+      9.3,
+      499.2,
+      446.4
+    ],
+    "source": "https://www.tv8.com.tr/baybars-altuntas-ile-en-zayif-halka",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "kelime-carki": {
+    "id": "kelime-carki",
+    "programme": "Çarkıfelek",
+    "name": "Cem Davran",
+    "mode": "standing",
+    "asset": "studios211/cem-davran211.jpg",
+    "size": [
+      1200,
+      865
+    ],
+    "crop": [
+      0,
+      0,
+      1200,
+      865
+    ],
+    "source": "https://www.tv8.com.tr/carkifelek/carkifelek-2-temmuz-2024-151208-video.htm",
+    "reviewed": "2026-10-24",
+    "note": "Gerçek sunucunun ilgili kanalın program karesinden fotoğrafı referans alındı.",
+    "verified": true
+  },
+  "kelime-islem": {
+    "id": "kelime-islem",
+    "programme": "Bir Kelime Bir İşlem",
+    "name": "Levent Ülgen",
+    "mode": "seated",
+    "asset": "assets/programmes331/kelime-islem.webp",
+    "size": [
+      720,
+      526
+    ],
+    "crop": [
+      187.2,
+      31.56,
+      338.4,
+      447.1
+    ],
+    "source": "https://www.facebook.com/trtarsiv/videos/1309876574623668/",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "harf-cemberi": {
+    "id": "harf-cemberi",
+    "programme": "Passaparola",
+    "name": "Metin Uca",
+    "mode": "standing",
+    "asset": "assets/programmes331/harf-cemberi.webp",
+    "size": [
+      459,
+      280
+    ],
+    "crop": [
+      114.75,
+      78.4,
+      197.37,
+      201.6
+    ],
+    "source": "https://tr.wikipedia.org/wiki/Passaparola",
+    "reviewed": "2026-10-24",
+    "note": "Passaparola / Metin Uca dönemi. Kaan Sekban’ın Parola Parola uyarlamasıyla karıştırılmaz.",
+    "verified": true
+  },
+  "sofra-rekabeti": {
+    "id": "sofra-rekabeti",
+    "programme": "Yemekteyiz",
+    "name": "Zuhal Topal",
+    "mode": "table",
+    "asset": "assets/programmes331/sofra-rekabeti.webp",
+    "size": [
+      1280,
+      720
+    ],
+    "crop": [
+      627.2,
+      7.2,
+      640.0,
+      705.6
+    ],
+    "source": "https://www.tv8.com.tr/yemekteyiz",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "sefler-arenasi": {
+    "id": "sefler-arenasi",
+    "programme": "MasterChef Türkiye",
+    "name": "Mehmet Yalçınkaya · Somer Sivrioğlu · Danilo Zanna",
+    "mode": "jury",
+    "asset": "assets/programmes331/sefler-arenasi.webp",
+    "size": [
+      620,
+      340
+    ],
+    "crop": [
+      111.6,
+      37.4,
+      365.8,
+      302.6
+    ],
+    "source": "https://www.tv8.com.tr/masterchef-turkiye",
+    "reviewed": "2026-10-24",
+    "note": "TV8 şef jürisi: tek bir geleneksel sunucu yerine üç şef birlikte değerlendirme yapar.",
+    "verified": true
+  },
+  "altin-sofra": {
+    "id": "altin-sofra",
+    "programme": "Gelinim Mutfakta",
+    "name": "Aslı Hünel",
+    "mode": "table",
+    "asset": "studios211/asli211.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      0,
+      0,
+      1200,
+      630
+    ],
+    "source": "https://www.kanald.com.tr/gelinim-mutfakta",
+    "reviewed": "2026-10-24",
+    "note": "Gerçek sunucunun ilgili kanalın program karesinden fotoğrafı referans alındı.",
+    "verified": true
+  },
+  "kelime-meydani": {
+    "id": "kelime-meydani",
+    "programme": "Kelime Oyunu",
+    "name": "İbrahim Selim",
+    "mode": "standing",
+    "asset": "studios211/ibrahim211.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      0,
+      0,
+      1200,
+      630
+    ],
+    "source": "https://www.tv2.com.tr/programlar/guncel/kelime-oyunu/fragmanlar/kelime-oyunu-yeni-sezon-fragmani-1",
+    "reviewed": "2026-10-24",
+    "note": "Gerçek sunucunun ilgili kanalın program karesinden fotoğrafı referans alındı.",
+    "verified": true
+  },
+  "altmis-saniye": {
+    "id": "altmis-saniye",
+    "programme": "Kazanmak İçin 1 Dakika",
+    "name": "Zuhal Topal",
+    "mode": "field",
+    "asset": "assets/programmes331/kismet-locasi.webp",
+    "size": [
+      1100,
+      1569
+    ],
+    "crop": [
+      11.0,
+      15.69,
+      1089.0,
+      1537.62
+    ],
+    "source": "https://zuhaltopal.com/tvprogrami",
+    "reviewed": "2026-10-24",
+    "note": "İkinci sezon Zuhal Topal. Fotoğraf başka bir programının tanıtımından; yarışmadan alınmış kare değildir.",
+    "verified": true
+  },
+  "yetenek-sahnesi": {
+    "id": "yetenek-sahnesi",
+    "programme": "Yetenek Sizsiniz Türkiye",
+    "name": "Alp Kırşan",
+    "mode": "standing",
+    "asset": "presenters210/alp.jpg",
+    "size": [
+      700,
+      932
+    ],
+    "crop": [
+      35.0,
+      9.32,
+      630.0,
+      922.68
+    ],
+    "source": "https://www.nowtv.com.tr/Yetenek-Sizsiniz/haber/4093/Alp-Kirsan-in-Yetenek-Sizsiniz-Heyecani-Bu-Yaz-Cok-Eglenecegiz",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true,
+    "photoSource": "https://www.nowtv.com.tr/Yetenek-Sizsiniz/juri/1468/alp-kirsan"
+  },
+  "donen-koltuklar": {
+    "id": "donen-koltuklar",
+    "programme": "O Ses Türkiye",
+    "name": "Saadet Özsırkıntı",
+    "mode": "backstage",
+    "asset": "presenters210/saadet.jpg",
+    "size": [
+      1200,
+      675
+    ],
+    "crop": [
+      396.0,
+      20.25,
+      444.0,
+      648.0
+    ],
+    "source": "https://www.tv8.com.tr/o-ses-turkiye/yarismacinin-performansi-sonrasi-saadet-ozsirkinti-gozyaslarina-boguldu-114695-video.htm",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true,
+    "photoSource": "https://www.mynet.com/magazin/o-ses-turkiye-sunucusu-saadet-ozsirkinti-kot-kombiniyle-poz-verdi-cok-zarifsiniz-130100401852"
+  },
+  "ortak-kasa": {
+    "id": "ortak-kasa",
+    "programme": "Kim Gitsin?",
+    "name": "Ufuk Özkan",
+    "mode": "standing",
+    "asset": "assets/programmes331/ortak-kasa.webp",
+    "size": [
+      1332,
+      1000
+    ],
+    "crop": [
+      333.0,
+      70.0,
+      705.96,
+      930.0
+    ],
+    "source": "https://www.trt1.com.tr/haber/programlar/yeni-yarisma-programi-kim-gitsin-cok-yakinda-26632864",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "lingo-meydani": {
+    "id": "lingo-meydani",
+    "programme": "Lingo Türkiye",
+    "name": "Kemal Uçar",
+    "mode": "standing",
+    "asset": "assets/programmes331/lingo-meydani.webp",
+    "size": [
+      1332,
+      1000
+    ],
+    "crop": [
+      293.04,
+      30.0,
+      799.2,
+      970.0
+    ],
+    "source": "https://www.lingoturkiye.com.tr/",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "kapi-kapanmadan": {
+    "id": "kapi-kapanmadan",
+    "programme": "Kapanmadan Kazan",
+    "name": "Murat Serezli",
+    "mode": "standing",
+    "asset": "assets/programmes331/kapi-kapanmadan.webp",
+    "size": [
+      450,
+      450
+    ],
+    "crop": [
+      81.0,
+      9.0,
+      297.0,
+      229.5
+    ],
+    "source": "https://www.atv.com.tr/kapanmadan-kazan/hakkinda",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "sansli-masa": {
+    "id": "sansli-masa",
+    "programme": "Şanslı Masa",
+    "name": "Sinan Çalışkanoğlu · Orçun Kaptan",
+    "mode": "control",
+    "asset": "assets/programmes331/sansli-masa.webp",
+    "size": [
+      762,
+      428
+    ],
+    "crop": [
+      30.48,
+      4.28,
+      716.28,
+      419.44
+    ],
+    "source": "https://eurod.kanald.com.tr/sanslimasa/haber/sansli-masa-basliyor",
+    "reviewed": "2026-10-24",
+    "note": "Sinan Çalışkanoğlu ile Orçun Kaptan kontrol odasından kulaklıkla görev verir; müşteri masasına eklenmez.",
+    "verified": true
+  },
+  "password": {
+    "id": "password",
+    "programme": "Password",
+    "name": "Şebnem Bozoklu",
+    "mode": "standing",
+    "asset": "assets/programmes331/password.webp",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      528.0,
+      56.7,
+      636.0,
+      415.8
+    ],
+    "source": "https://www.kanald.com.tr/password/bolumler/password-son-bolum",
+    "reviewed": "2026-10-24",
+    "note": "Şebnem Bozoklu sunucu; Enis Arıkan daimi ünlü yarışmacı. Enis sunucu olarak gösterilmez.",
+    "verified": true
+  },
+  "kismet-locasi": {
+    "id": "kismet-locasi",
+    "programme": "Zuhal Topal’la İzdivaç",
+    "name": "Zuhal Topal",
+    "mode": "seated",
+    "asset": "assets/programmes331/kismet-locasi.webp",
+    "size": [
+      1100,
+      1569
+    ],
+    "crop": [
+      110.0,
+      15.69,
+      913.0,
+      1537.62
+    ],
+    "source": "https://zuhaltopal.com/tvprogrami",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "beyazla-joker": {
+    "id": "beyazla-joker",
+    "programme": "Beyaz’la Joker",
+    "name": "Beyazıt Öztürk",
+    "mode": "standing",
+    "asset": "assets/programmes331/beyazla-joker.webp",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      48.0,
+      75.6,
+      348.0,
+      541.8
+    ],
+    "source": "https://www.kanald.com.tr/beyazla-joker/haber/beyazit-ozturk-beyazla-joker-ile-kanal-d-ekranlarinda",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "iste-benim-stilim": {
+    "id": "iste-benim-stilim",
+    "programme": "İşte Benim Stilim",
+    "name": "Öykü Serter",
+    "mode": "standing",
+    "asset": "assets/programmes402/goz6.jpg",
+    "size": [
+      620,
+      340
+    ],
+    "crop": [
+      347.2,
+      30.6,
+      210.8,
+      309.4
+    ],
+    "source": "https://www.tv8.com.tr/iste-benim-stilim",
+    "reviewed": "2026-10-24",
+    "note": "Öykü Serter sunucu; jüri üyeleri sunucu yerine geçmez. Kimlik fotoğrafı Göz6 tanıtımındandır.",
+    "verified": true
+  },
+  "cevap-soruda": {
+    "id": "cevap-soruda",
+    "programme": "Cevap Soruda",
+    "name": "Ersin Düzen",
+    "mode": "standing",
+    "asset": "presenters210/ersin.webp",
+    "size": [
+      1184,
+      1179
+    ],
+    "crop": [
+      0,
+      0,
+      1184,
+      1179
+    ],
+    "source": "https://www.tv360.com.tr/yasam/cevap-soruda--826",
+    "reviewed": "2026-10-24",
+    "note": "360 / Ersin Düzen dönemi. TRT dönemindeki Şoray Uzun stüdyo karesi Ersin diye etiketlenmez. Portre Dialog sunucu profilinden.",
+    "verified": true,
+    "photoSource": "https://dialog.com.tr/egitmen/Ersin-Duzen"
+  },
+  "milyoner-aile": {
+    "id": "milyoner-aile",
+    "programme": "Milyoner Aile",
+    "name": "Engin Altan Düzyatan",
+    "mode": "standing",
+    "asset": "assets/programmes331/milyoner-aile.webp",
+    "size": [
+      500,
+      268
+    ],
+    "crop": [
+      265.0,
+      2.68,
+      235.0,
+      262.64
+    ],
+    "source": "https://www.atv.com.tr/milyoner-aile/galeriler",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "utopya": {
+    "id": "utopya",
+    "programme": "Ütopya",
+    "name": "",
+    "mode": "none",
+    "asset": null,
+    "size": [
+      1,
+      1
+    ],
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "source": "https://www.tv8.com.tr/utopya",
+    "reviewed": "2026-10-24",
+    "note": "Geleneksel stüdyo sunucusu yok. Yapımcı Acun Ilıcalı oyuncular arasına sunucu diye yerleştirilmez.",
+    "verified": false
+  },
+  "saba-ile-oyuna-geldik": {
+    "id": "saba-ile-oyuna-geldik",
+    "programme": "Saba ile Oyuna Geldik",
+    "name": "Saba Tümer",
+    "mode": "standing",
+    "asset": "assets/programmes331/saba-ile-oyuna-geldik.webp",
+    "size": [
+      620,
+      340
+    ],
+    "crop": [
+      6.2,
+      6.8,
+      297.6,
+      333.2
+    ],
+    "source": "https://www.tv8.com.tr/saba-ile-oyuna-geldik",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "altin-petek": {
+    "id": "altin-petek",
+    "programme": "Altın Petek",
+    "name": "Engin Hepileri",
+    "mode": "standing",
+    "asset": "assets/programmes331/altin-petek.webp",
+    "size": [
+      597,
+      335
+    ],
+    "crop": [
+      346.26,
+      3.35,
+      250.74,
+      331.65
+    ],
+    "source": "https://www.trthaber.com/haber/kultur-sanat/trt-1-yeni-yayin-donemine-iddiali-giriyor-274059.html",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "eyvah-dusuyorum": {
+    "id": "eyvah-dusuyorum",
+    "programme": "Mehmet Ali Erbil ile Eyvah Düşüyorum",
+    "name": "Mehmet Ali Erbil",
+    "mode": "standing",
+    "asset": "assets/programmes331/eyvah-dusuyorum.webp",
+    "size": [
+      634,
+      394
+    ],
+    "crop": [
+      329.68,
+      15.76,
+      304.32,
+      378.24
+    ],
+    "source": "https://www.startv.com.tr/program/eyvah-dusuyorum",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "super-bulmaca": {
+    "id": "super-bulmaca",
+    "programme": "Süper Bulmaca",
+    "name": "Alper Ateş",
+    "mode": "seated",
+    "asset": "assets/programmes331/super-bulmaca.webp",
+    "size": [
+      900,
+      506
+    ],
+    "crop": [
+      576.0,
+      116.38,
+      297.0,
+      389.62
+    ],
+    "source": "https://www.alperates.com/super-bulmaca/",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "takip": {
+    "id": "takip",
+    "programme": "Takip",
+    "name": "Uraz Kaygılaroğlu",
+    "mode": "standing",
+    "asset": "assets/programmes331/takip.webp",
+    "size": [
+      640,
+      708
+    ],
+    "crop": [
+      25.6,
+      56.64,
+      371.2,
+      630.12
+    ],
+    "source": "https://www.kanald.com.tr/takip/ozetler/takip-14-bolum-ozeti",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "sebeke": {
+    "id": "sebeke",
+    "programme": "Şebeke",
+    "name": "",
+    "mode": "none",
+    "asset": null,
+    "size": [
+      1,
+      1
+    ],
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "source": "https://www.kanald.com.tr/sebeke/haber/sebekenin-kurbani-bir-kadin",
+    "reviewed": "2026-10-24",
+    "note": "Kurgusal aileyi profesyonel oyuncular canlandırır; doğrulanmış sabit stüdyo sunucusu yok.",
+    "verified": false
+  },
+  "tuhaf-taksi": {
+    "id": "tuhaf-taksi",
+    "programme": "Tuhaf Taksi",
+    "name": "Abdurrahman Yunusoğlu",
+    "mode": "driver",
+    "asset": "assets/programmes331/tuhaf-taksi.webp",
+    "size": [
+      900,
+      473
+    ],
+    "crop": [
+      324.0,
+      4.73,
+      378.0,
+      468.27
+    ],
+    "source": "https://eurod.kanald.com.tr/tuhaftaksi/haber/tuhaf-taksi-basliyor",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu sürücü koltuğunda. Var olan gerçek sürücü fotoğraflı taksi içi sahne korunur.",
+    "verified": true,
+    "native": true
+  },
+  "turnike": {
+    "id": "turnike",
+    "programme": "Turnike",
+    "name": "Mehmet Ali Erbil",
+    "mode": "standing",
+    "asset": "assets/programmes331/turnike.webp",
+    "size": [
+      1100,
+      578
+    ],
+    "crop": [
+      605.0,
+      17.34,
+      495.0,
+      560.66
+    ],
+    "source": "https://www.kanald.com.tr/turnike/bolumler/turnike-son-bolum",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "ben-bilirim": {
+    "id": "ben-bilirim",
+    "programme": "Ben Bilirim",
+    "name": "Alper Ateş",
+    "mode": "standing",
+    "asset": "assets/programmes331/super-bulmaca.webp",
+    "size": [
+      900,
+      506
+    ],
+    "crop": [
+      576.0,
+      116.38,
+      297.0,
+      389.62
+    ],
+    "source": "https://www.tv360.com.tr/ben-bilirim",
+    "reviewed": "2026-10-24",
+    "note": "Alper Ateş ayakta soru yönetir. Kimlik fotoğrafı Süper Bulmaca programından; Ben Bilirim yayın karesi diye sunulmaz.",
+    "verified": true
+  },
+  "piramit": {
+    "id": "piramit",
+    "programme": "Piramit",
+    "name": "Yusuf Çim",
+    "mode": "standing",
+    "asset": "assets/programmes331/piramit.webp",
+    "size": [
+      400,
+      400
+    ],
+    "crop": [
+      4.0,
+      4.0,
+      144.0,
+      260.0
+    ],
+    "source": "https://www.showtv.com.tr/programlar/tanitim/piramit/1579",
+    "reviewed": "2026-10-24",
+    "note": "Yusuf Çim sunucu. Evrim Akın ve Sertan Erkaçan bu Show TV tanıtımında yarışmacı koçlarıdır; ayrı rol.",
+    "verified": true
+  },
+  "ucte-uc": {
+    "id": "ucte-uc",
+    "programme": "3’te 3",
+    "name": "Pelin Çift",
+    "mode": "seated",
+    "asset": "assets/programmes331/ucte-uc.webp",
+    "size": [
+      1088,
+      616
+    ],
+    "crop": [
+      576.64,
+      55.44,
+      500.48,
+      554.4
+    ],
+    "source": "https://www.trt1.com.tr/programlar/3te-3/bolum/16",
+    "reviewed": "2026-10-24",
+    "note": "Pelin Çift sunucu, Tufan Gündüz yorumcu ve danışılan uzman; sunucu yerine geçmez.",
+    "verified": true
+  },
+  "kumbara": {
+    "id": "kumbara",
+    "programme": "Ali İhsan Varol ile Kumbara",
+    "name": "Ali İhsan Varol",
+    "mode": "seated",
+    "asset": "assets/programmes342/kumbara.jpg",
+    "size": [
+      1080,
+      594
+    ],
+    "crop": [
+      604.8,
+      71.28,
+      313.2,
+      516.78
+    ],
+    "source": "https://www.nowtv.com.tr/Ali-Ihsan-Varol-ile-Kumbara/bilgi",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "kizlar-ve-anneleri": {
+    "id": "kizlar-ve-anneleri",
+    "programme": "Kızlar ve Anneleri",
+    "name": "Ümit İbrahim Kantarcılar",
+    "mode": "standing",
+    "asset": "assets/programmes342/kizlar-ve-anneleri.jpg",
+    "size": [
+      1080,
+      660
+    ],
+    "crop": [
+      507.6,
+      6.6,
+      561.6,
+      653.4
+    ],
+    "source": "https://www.atv.com.tr/haberler/2013/07/31/kizlar-ve-anneleri",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "ilk-bulusma": {
+    "id": "ilk-bulusma",
+    "programme": "İlk Buluşma",
+    "name": "Şinasi Yurtsever · Sinan Çalışkanoğlu",
+    "mode": "control",
+    "asset": "assets/ilk391/programme.jpg",
+    "size": [
+      572,
+      322
+    ],
+    "crop": [
+      137.28,
+      22.54,
+      228.8,
+      296.24
+    ],
+    "source": "https://www.nowtv.com.tr/Ilk-Bulusma/haber/902/ilk-bulusmanin-adresi-now",
+    "reviewed": "2026-10-24",
+    "note": "Şinasi Yurtsever ile Sinan Çalışkanoğlu kozmik odadan kulaklıkla yönlendirir; şaka kurbanının yanına oturtulmaz.",
+    "verified": true
+  },
+  "telefon-kulubesi": {
+    "id": "telefon-kulubesi",
+    "programme": "Telefon Kulübesi",
+    "name": "",
+    "mode": "voice",
+    "asset": null,
+    "size": [
+      1,
+      1
+    ],
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "source": "https://t24.com.tr/magazin/bu-telefona-bakan-kazanir,47358",
+    "reviewed": "2026-10-24",
+    "note": "Kimliği doğrulanamayan telefondaki ses. Fotoğraf uydurulmaz, görünür insan eklenmez.",
+    "verified": false
+  },
+  "cifte-milyon": {
+    "id": "cifte-milyon",
+    "programme": "Çifte Milyon",
+    "name": "İlker Ayrık",
+    "mode": "standing",
+    "asset": "assets/new395/yaparsin-askim.jpg",
+    "size": [
+      572,
+      322
+    ],
+    "crop": [
+      286.0,
+      3.22,
+      188.76,
+      318.78
+    ],
+    "source": "https://www.nowtv.com.tr/Cifte-Milyon/haber/4243/NOW-in-Yeni-Yarismasi-Cifte-Milyon-Bugun-Basliyor",
+    "reviewed": "2026-10-24",
+    "note": "İlker Ayrık; kullanılan kimlik fotoğrafı Yaparsın Aşkım tanıtımından. Başka bir yarışmacı sunucu diye gösterilmez.",
+    "verified": true
+  },
+  "yaparsin-askim": {
+    "id": "yaparsin-askim",
+    "programme": "Yaparsın Aşkım",
+    "name": "İlker Ayrık",
+    "mode": "standing",
+    "asset": "assets/new395/yaparsin-askim.jpg",
+    "size": [
+      572,
+      322
+    ],
+    "crop": [
+      286.0,
+      3.22,
+      188.76,
+      318.78
+    ],
+    "source": "https://www.nowtv.com.tr/Yaparsin-Askim",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "hepsi-benim": {
+    "id": "hepsi-benim",
+    "programme": "Hepsi Benim",
+    "name": "Çağla Şıkel",
+    "mode": "standing",
+    "asset": "games/hepsi-benim/assets/poster.jpg",
+    "size": [
+      572,
+      322
+    ],
+    "crop": [
+      217.36,
+      38.64,
+      188.76,
+      283.36
+    ],
+    "source": "https://www.nowtv.com.tr/Hepsi-Benim/haber/2766/Hepsi-Benim-in-afisi-yayinlandi",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "on-dokuz": {
+    "id": "on-dokuz",
+    "programme": "19",
+    "name": "Barış Kılıç",
+    "mode": "standing",
+    "asset": "assets/programmes403/on-dokuz.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      444.0,
+      157.5,
+      276.0,
+      308.7
+    ],
+    "source": "https://www.kanald.com.tr/kanal-d-bayramda-dopdolu",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "sahane-pazar": {
+    "id": "sahane-pazar",
+    "programme": "Şahane Pazar",
+    "name": "Süheyl Uygur · Behzat Uygur",
+    "mode": "duo",
+    "asset": "assets/programmes403/sahane-pazar.jpg",
+    "size": [
+      1280,
+      720
+    ],
+    "crop": [
+      12.8,
+      7.2,
+      1254.4,
+      705.6
+    ],
+    "source": "https://www.haberturk.com/behzat-suheyl-uygur-veipek-tanriyar-dan-22-yil-sonra-ayni-poz-magazin-haberleri-3577407-magazin",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "bak-su-duvara": {
+    "id": "bak-su-duvara",
+    "programme": "Bak Şu Duvara",
+    "name": "Behzat Uygur",
+    "mode": "field",
+    "asset": "assets/programmes402/bak-su-duvara.jpg",
+    "size": [
+      635,
+      320
+    ],
+    "crop": [
+      323.85,
+      3.2,
+      95.25,
+      300.8
+    ],
+    "source": "https://baksuduvara.blogspot.com/2009/",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "cember": {
+    "id": "cember",
+    "programme": "Çember",
+    "name": "",
+    "mode": "unverified",
+    "asset": null,
+    "size": [
+      1,
+      1
+    ],
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "source": "https://www.haberturk.com/medya/haber/599117-yeni-yarisma-programi-basliyor",
+    "reviewed": "2026-10-24",
+    "note": "Show TV dayanıklılık formatı. Sunucu kimliği yeterli kaynakla doğrulanamadı; rastgele yüz kullanılmaz.",
+    "verified": false
+  },
+  "gonder-gitsin": {
+    "id": "gonder-gitsin",
+    "programme": "Gönder Gitsin",
+    "name": "Timur Acar",
+    "mode": "standing",
+    "asset": "assets/programmes402/gonder-gitsin.jpg",
+    "size": [
+      1920,
+      600
+    ],
+    "crop": [
+      345.6,
+      6.0,
+      633.6,
+      594.0
+    ],
+    "source": "https://www.nowtv.com.tr/Gonder-Gitsin",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "temizlik-benim-isim": {
+    "id": "temizlik-benim-isim",
+    "programme": "Temizlik Benim İşim",
+    "name": "Kadir Ezildi",
+    "mode": "field",
+    "asset": "assets/programmes402/temizlik-benim-isim.jpg",
+    "size": [
+      1920,
+      600
+    ],
+    "crop": [
+      806.4,
+      96.0,
+      422.4,
+      432.0
+    ],
+    "source": "https://www.nowtv.com.tr/Temizlik-Benim-Isim/sunucular/759/temizlik-benim-isim",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "goz6": {
+    "id": "goz6",
+    "programme": "Göz6",
+    "name": "Jess Molho",
+    "mode": "moderator",
+    "asset": "presenters210/jess.jpg",
+    "size": [
+      1200,
+      799
+    ],
+    "crop": [
+      504.0,
+      23.97,
+      480.0,
+      775.03
+    ],
+    "source": "https://www.facebook.com/acndigital/videos/1269414759788407/",
+    "reviewed": "2026-10-24",
+    "note": "Öykü Serter eleme/moderasyon, Jess Molho günlük oyun sunumu. Günlük görevlerde Jess, eleme bağlamında Öykü.",
+    "verified": true,
+    "secondary": {
+      "name": "Öykü Serter",
+      "asset": "assets/programmes402/goz6.jpg",
+      "size": [
+        620,
+        340
+      ],
+      "crop": [
+        341.0,
+        13.6,
+        266.6,
+        326.4
+      ]
+    },
+    "photoSource": "https://www.imdb.com/title/tt8027032/mediaviewer/rm2251380480/"
+  },
+  "evim-sahane": {
+    "id": "evim-sahane",
+    "programme": "Evim Şahane",
+    "name": "Selim Yuhay",
+    "mode": "field",
+    "asset": "assets/programmes402/evim-sahane.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      552.0,
+      113.4,
+      288.0,
+      504.0
+    ],
+    "source": "https://www.kanald.com.tr/evim-sahane/bolumler/evim-sahane-23-07-2016",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "elli-sarisin": {
+    "id": "elli-sarisin",
+    "programme": "50 Sarışın",
+    "name": "Mehmet Ali Erbil",
+    "mode": "standing",
+    "asset": "assets/programmes403/elli-sarisin.jpg",
+    "size": [
+      1672,
+      941
+    ],
+    "crop": [
+      16.72,
+      94.1,
+      668.8,
+      846.9
+    ],
+    "source": "https://tr.wikipedia.org/wiki/50_Sarışın",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "milyonluk-resim": {
+    "id": "milyonluk-resim",
+    "programme": "Milyonluk Resim",
+    "name": "Selçuk Yöntem",
+    "mode": "standing",
+    "asset": "assets/programmes402/milyonluk-resim.jpg",
+    "size": [
+      1920,
+      600
+    ],
+    "crop": [
+      19.2,
+      12.0,
+      883.2,
+      588.0
+    ],
+    "source": "https://www.nowtv.com.tr/Milyonluk-Resim/bolumler",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "bir-iceri-bir-disari": {
+    "id": "bir-iceri-bir-disari",
+    "programme": "Bir İçeri Bir Dışarı",
+    "name": "Derda Yasir Yenal",
+    "mode": "standing",
+    "asset": "assets/programmes402/bir-iceri-bir-disari.jpg",
+    "size": [
+      1920,
+      600
+    ],
+    "crop": [
+      729.6,
+      54.0,
+      576.0,
+      540.0
+    ],
+    "source": "https://www.nowtv.com.tr/Bir-Iceri-Bir-Disari/haber/1100/Bir-Iceri-Bir-Disari-yakinda-FOX-ta",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "cevap-sende": {
+    "id": "cevap-sende",
+    "programme": "Cevap Sende",
+    "name": "Anıl İlter",
+    "mode": "standing",
+    "asset": "assets/programmes403/cevap-sende.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      917.76,
+      210.6,
+      159.36,
+      496.8
+    ],
+    "source": "https://www.atv.com.tr/cevap-sende/hakkinda",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true,
+    "outline": [
+      [
+        985,
+        217
+      ],
+      [
+        1028,
+        213
+      ],
+      [
+        1048,
+        228
+      ],
+      [
+        1044,
+        268
+      ],
+      [
+        1030,
+        289
+      ],
+      [
+        1054,
+        310
+      ],
+      [
+        1069,
+        343
+      ],
+      [
+        1069,
+        413
+      ],
+      [
+        1064,
+        489
+      ],
+      [
+        1050,
+        500
+      ],
+      [
+        1044,
+        542
+      ],
+      [
+        1039,
+        594
+      ],
+      [
+        1039,
+        641
+      ],
+      [
+        1046,
+        666
+      ],
+      [
+        1047,
+        685
+      ],
+      [
+        1021,
+        694
+      ],
+      [
+        993,
+        694
+      ],
+      [
+        982,
+        682
+      ],
+      [
+        993,
+        666
+      ],
+      [
+        986,
+        627
+      ],
+      [
+        983,
+        576
+      ],
+      [
+        973,
+        608
+      ],
+      [
+        967,
+        649
+      ],
+      [
+        967,
+        676
+      ],
+      [
+        975,
+        692
+      ],
+      [
+        957,
+        701
+      ],
+      [
+        922,
+        701
+      ],
+      [
+        923,
+        689
+      ],
+      [
+        938,
+        675
+      ],
+      [
+        941,
+        642
+      ],
+      [
+        940,
+        598
+      ],
+      [
+        943,
+        541
+      ],
+      [
+        947,
+        495
+      ],
+      [
+        964,
+        474
+      ],
+      [
+        959,
+        444
+      ],
+      [
+        947,
+        426
+      ],
+      [
+        933,
+        417
+      ],
+      [
+        926,
+        404
+      ],
+      [
+        923,
+        385
+      ],
+      [
+        933,
+        376
+      ],
+      [
+        953,
+        379
+      ],
+      [
+        960,
+        385
+      ],
+      [
+        969,
+        367
+      ],
+      [
+        977,
+        348
+      ],
+      [
+        978,
+        325
+      ],
+      [
+        992,
+        296
+      ],
+      [
+        1000,
+        280
+      ],
+      [
+        984,
+        269
+      ],
+      [
+        980,
+        246
+      ]
+    ],
+    "native": true
+  },
+  "the-taste-turkiye": {
+    "id": "the-taste-turkiye",
+    "programme": "The Taste Türkiye",
+    "name": "Hazer Amani · Ali Ronay · Rafet İnce · Esen Hünal",
+    "mode": "jury",
+    "asset": "assets/programmes402/the-taste-turkiye.jpg",
+    "size": [
+      1920,
+      600
+    ],
+    "crop": [
+      844.8,
+      12.0,
+      864.0,
+      576.0
+    ],
+    "source": "https://www.nowtv.com.tr/index.php/The-Taste-Turkiye/sunucular/771/the-taste-turkiye",
+    "reviewed": "2026-10-24",
+    "note": "İkinci sezon Hazer Amani moderatör; Ali Ronay, Rafet İnce, Esen Hünal mentor/jüri.",
+    "verified": true
+  },
+  "kendi-dusen-aglamaz": {
+    "id": "kendi-dusen-aglamaz",
+    "programme": "Kendi Düşen Ağlamaz",
+    "name": "Ertem Şener",
+    "mode": "native",
+    "asset": "games/kendi-dusen-aglamaz/assets/ertem-standing207.webp",
+    "size": [
+      481,
+      612
+    ],
+    "crop": [
+      129.87,
+      91.8,
+      235.69,
+      520.2
+    ],
+    "source": "https://x.com/trt1/status/801750519299633153",
+    "reviewed": "2026-10-24",
+    "note": "Ertem Şener dönemine göre mevcut gerçek ayakta fotoğraf korunur; Bay J’nin adı Jerfi Benveniste olarak düzeltilmiştir.",
+    "verified": true,
+    "native": true
+  },
+  "siradaki-gelsin": {
+    "id": "siradaki-gelsin",
+    "programme": "Sıradaki Gelsin",
+    "name": "Emre Karayel",
+    "mode": "native",
+    "asset": "games/siradaki-gelsin/assets/emre-seated208.webp",
+    "size": [
+      1024,
+      1536
+    ],
+    "crop": [
+      0,
+      0,
+      1024,
+      1536
+    ],
+    "source": "https://www.youtube.com/@sradakigelsin4710",
+    "reviewed": "2026-10-24",
+    "note": "Emre Karayel sunucu koltuğunda. Gerçek program fotoğrafından düzenlenmiş oturma pozu; özgün yayın karesi değildir.",
+    "verified": true,
+    "native": true
+  },
+  "herkes-kazanir": {
+    "id": "herkes-kazanir",
+    "programme": "Herkes Kazanır",
+    "name": "Hakan Bilgin",
+    "mode": "standing",
+    "asset": "assets/programmes402/herkes-kazanir.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "crop": [
+      499.2,
+      97.2,
+      614.4,
+      972.0
+    ],
+    "source": "https://www.youtube.com/@herkeskazanr325",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "arkandayiz": {
+    "id": "arkandayiz",
+    "programme": "Arkandayız",
+    "name": "Ünal Yeter",
+    "mode": "standing",
+    "asset": "assets/programmes402/arkandayiz.jpg",
+    "size": [
+      1200,
+      800
+    ],
+    "crop": [
+      384.0,
+      280.0,
+      564.0,
+      512.0
+    ],
+    "source": "https://www.redroom.com.tr/projeler",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "anlasma": {
+    "id": "anlasma",
+    "programme": "Anlaşma",
+    "name": "",
+    "mode": "unverified",
+    "asset": null,
+    "size": [
+      1,
+      1
+    ],
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "source": "https://www.redroom.com.tr/projeler/anlasma-yarisma-yazilimi",
+    "reviewed": "2026-10-24",
+    "note": "Turkmax / Endemol / 2009 yayını yapım yazılımı kaynağıyla doğrulandı; sunucu kimliği doğrulanamadı.",
+    "verified": false
+  },
+  "yasim-kac": {
+    "id": "yasim-kac",
+    "programme": "Yaşım Kaç?",
+    "name": "Behzat Uygur",
+    "mode": "standing",
+    "asset": "assets/programmes402/yasim-kac.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      12.0,
+      25.2,
+      624.0,
+      598.5
+    ],
+    "source": "https://www.kanald.com.tr/yasim-kac/bolumler/yasim-kac-07-10-2018",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "para-odasi": {
+    "id": "para-odasi",
+    "programme": "Para Odası",
+    "name": "Ahmet Çakar",
+    "mode": "seated",
+    "asset": "assets/programmes402/para-odasi.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      180.0,
+      12.6,
+      768.0,
+      617.4
+    ],
+    "source": "https://www.kanald.com.tr/para-odasi/haber/para-odasi-kanal-dde-basliyor",
+    "reviewed": "2026-10-24",
+    "note": "15 Ağustos 2016 sonrası Ahmet Çakar. Para odasındaki Nilgün Esin ayrı roldedir.",
+    "verified": true
+  },
+  "kizma-kazan": {
+    "id": "kizma-kazan",
+    "programme": "Kızma Kazan",
+    "name": "Öner Erkan",
+    "mode": "control",
+    "asset": "presenters210/oner.jpg",
+    "size": [
+      600,
+      480
+    ],
+    "crop": [
+      16,
+      136,
+      364,
+      333
+    ],
+    "source": "https://www.kanald.com.tr/kizmakazan",
+    "reviewed": "2026-10-24",
+    "note": "Öner Erkan kontrol odasında oturarak sunar; Caner Özyurtlu, Ozan Özcan ve Ayşe Melike Çerçi sahadaki şaka ekibidir. Kanal D yayın karesi.",
+    "verified": true,
+    "photoSource": "https://image.kanald.com.tr/i/kanald/100/0x0/54662c54cf45af157c9f7ddf.jpg"
+  },
+  "sans-kapida": {
+    "id": "sans-kapida",
+    "programme": "Şans Kapıda",
+    "name": "Yiğit Alıcı",
+    "mode": "field",
+    "asset": "assets/programmes402/sans-kapida.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      660.0,
+      6.3,
+      528.0,
+      623.7
+    ],
+    "source": "https://www.kanald.com.tr/sanskapida/haber/sans-kapida-ne-zaman-basliyor",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "kapis-kapis": {
+    "id": "kapis-kapis",
+    "programme": "Kapış Kapış",
+    "name": "Sinan Çalışkanoğlu",
+    "mode": "field",
+    "asset": "assets/programmes402/kapis-kapis.jpg",
+    "size": [
+      1200,
+      630
+    ],
+    "crop": [
+      480.0,
+      151.2,
+      480.0,
+      472.5
+    ],
+    "source": "https://www.kargafilm.com.tr/kapiskapis/kapiskapis.html",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "gel-hemserim": {
+    "id": "gel-hemserim",
+    "programme": "Gel Hemşerim",
+    "name": "Rüştü Onur Atilla",
+    "mode": "field",
+    "asset": "assets/programmes402/gel-hemserim.jpg",
+    "size": [
+      400,
+      400
+    ],
+    "crop": [
+      80.0,
+      4.0,
+      236.0,
+      376.0
+    ],
+    "source": "https://www.youtube.com/@gelhemserim",
+    "reviewed": "2026-10-24",
+    "note": "Sunucu kimliği ve program bağlamı kontrol edildi. Fotoğraf tanıtım/arşiv kaynağından; gerçek zamanlı video değildir.",
+    "verified": true
+  },
+  "para-bende": {
+    "id": "para-bende",
+    "programme": "Para Bende",
+    "name": "Almeda Abazi · Murat Ceylan",
+    "mode": "duo",
+    "asset": "assets/programmes402/para-bende.jpg",
+    "size": [
+      987,
+      757
+    ],
+    "crop": [
+      197.4,
+      15.14,
+      582.33,
+      469.34
+    ],
+    "source": "https://www.tv8.com.tr/para-bende/para-bende-8bolum-tanitimi-1609-video.htm",
+    "reviewed": "2026-10-24",
+    "note": "Almeda Abazi ve Murat Ceylan dönemine göre açık alan sunumu.",
+    "verified": true
+  }
+}

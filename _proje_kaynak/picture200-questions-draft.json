@@ -1,0 +1,7502 @@
+[
+  {
+    "id": "mr200-0-0",
+    "subject": 0,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Kuş",
+      "Sürüngen",
+      "Kıkırdaklı balık",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Devekuşu: Kuş."
+  },
+  {
+    "id": "mr200-0-1",
+    "subject": 0,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Devekuşu: Hem bitkisel hem hayvansal besinler tüketir."
+  },
+  {
+    "id": "mr200-0-2",
+    "subject": 0,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Vücudunda tüy örtüsü bulunması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Yakıcı hücrelere sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması"
+    ],
+    "answer": 0,
+    "explanation": "Devekuşu: Vücudunda tüy örtüsü bulunması."
+  },
+  {
+    "id": "mr200-0-3",
+    "subject": 0,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "ostrich",
+      "jellyfish",
+      "starfish",
+      "horse"
+    ],
+    "answer": 0,
+    "explanation": "Devekuşu: ostrich."
+  },
+  {
+    "id": "mr200-0-4",
+    "subject": 0,
+    "level": 3,
+    "family": "animal-feature-0",
+    "question": "Fotoğraftaki kuşun diğer yaşayan kuşlardan ayrılan rekoru hangisidir?",
+    "options": [
+      "En büyük yaşayan kuş olması",
+      "En uzun süre havada kalması",
+      "En küçük yumurtayı bırakması",
+      "Kış uykusuna yatması"
+    ],
+    "answer": 0,
+    "explanation": "Devekuşu: En büyük yaşayan kuş olması."
+  },
+  {
+    "id": "mr200-1-0",
+    "subject": 1,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kıkırdaklı balık",
+      "Derisidikenli",
+      "Kuş"
+    ],
+    "answer": 0,
+    "explanation": "Zebra: Memeli."
+  },
+  {
+    "id": "mr200-1-1",
+    "subject": 1,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Zebra: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-1-2",
+    "subject": 1,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Erişkininde üç çift bacak bulunması",
+      "Yumuşak gövdeli omurgasızlardan olması"
+    ],
+    "answer": 0,
+    "explanation": "Zebra: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-1-3",
+    "subject": 1,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "zebra",
+      "leopard",
+      "rhinoceros",
+      "chimpanzee"
+    ],
+    "answer": 0,
+    "explanation": "Zebra: zebra."
+  },
+  {
+    "id": "mr200-1-4",
+    "subject": 1,
+    "level": 3,
+    "family": "animal-feature-1",
+    "question": "Fotoğraftaki hayvan hangi evcil hayvanla aynı familyadadır?",
+    "options": [
+      "At",
+      "Köpek",
+      "Koyun",
+      "İnek"
+    ],
+    "answer": 0,
+    "explanation": "Zebra: At."
+  },
+  {
+    "id": "mr200-2-0",
+    "subject": 2,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Böcek",
+      "Kuş",
+      "Amfibi"
+    ],
+    "answer": 0,
+    "explanation": "Zürafa: Memeli."
+  },
+  {
+    "id": "mr200-2-1",
+    "subject": 2,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Zürafa: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-2-2",
+    "subject": 2,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Su-damar sistemine sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Vücudunda tüy örtüsü bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Zürafa: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-2-3",
+    "subject": 2,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "giraffe",
+      "hippopotamus",
+      "squirrel",
+      "starfish"
+    ],
+    "answer": 0,
+    "explanation": "Zürafa: giraffe."
+  },
+  {
+    "id": "mr200-2-4",
+    "subject": 2,
+    "level": 3,
+    "family": "animal-feature-2",
+    "question": "Fotoğraftaki hayvanın başındaki boynuz benzeri kemikli çıkıntılara ne denir?",
+    "options": [
+      "Ossikon",
+      "Karunkul",
+      "Balen",
+      "Antler"
+    ],
+    "answer": 0,
+    "explanation": "Zürafa: Ossikon."
+  },
+  {
+    "id": "mr200-3-0",
+    "subject": 3,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Kuş",
+      "Amfibi",
+      "Derisidikenli",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "Kel kartal: Kuş."
+  },
+  {
+    "id": "mr200-3-1",
+    "subject": 3,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Kel kartal: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-3-2",
+    "subject": 3,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Vücudunda tüy örtüsü bulunması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yakıcı hücrelere sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Kel kartal: Vücudunda tüy örtüsü bulunması."
+  },
+  {
+    "id": "mr200-3-3",
+    "subject": 3,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "bald eagle",
+      "whale",
+      "koala",
+      "camel"
+    ],
+    "answer": 0,
+    "explanation": "Kel kartal: bald eagle."
+  },
+  {
+    "id": "mr200-3-4",
+    "subject": 3,
+    "level": 3,
+    "family": "animal-feature-3",
+    "question": "Fotoğraftaki beyaz başlı yırtıcı kuş hangi ülkenin ulusal simgesiyle özdeşleşmiştir?",
+    "options": [
+      "Amerika Birleşik Devletleri",
+      "Japonya",
+      "Avustralya",
+      "Brezilya"
+    ],
+    "answer": 0,
+    "explanation": "Kel kartal: Amerika Birleşik Devletleri."
+  },
+  {
+    "id": "mr200-4-0",
+    "subject": 4,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kıkırdaklı balık",
+      "Böcek",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Yunus: Memeli."
+  },
+  {
+    "id": "mr200-4-1",
+    "subject": 4,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Yunus: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-4-2",
+    "subject": 4,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Erişkininde üç çift bacak bulunması",
+      "Derinin keratinli pullarla örtülü olması"
+    ],
+    "answer": 0,
+    "explanation": "Yunus: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-4-3",
+    "subject": 4,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "dolphin",
+      "whale",
+      "crocodile",
+      "seahorse"
+    ],
+    "answer": 0,
+    "explanation": "Yunus: dolphin."
+  },
+  {
+    "id": "mr200-4-4",
+    "subject": 4,
+    "level": 3,
+    "family": "animal-feature-4",
+    "question": "Fotoğraftaki hayvanın ses yankılarıyla çevresini algılamasına ne denir?",
+    "options": [
+      "Ekolokasyon",
+      "Ozmoz",
+      "Fotosentez",
+      "Fermantasyon"
+    ],
+    "answer": 0,
+    "explanation": "Yunus: Ekolokasyon."
+  },
+  {
+    "id": "mr200-5-0",
+    "subject": 5,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Kuş",
+      "Memeli",
+      "Sürüngen",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Penguen: Kuş."
+  },
+  {
+    "id": "mr200-5-1",
+    "subject": 5,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Penguen: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-5-2",
+    "subject": 5,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Vücudunda tüy örtüsü bulunması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Derinin keratinli pullarla örtülü olması",
+      "Yavrularını sütle besleme"
+    ],
+    "answer": 0,
+    "explanation": "Penguen: Vücudunda tüy örtüsü bulunması."
+  },
+  {
+    "id": "mr200-5-3",
+    "subject": 5,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "penguin",
+      "giant panda",
+      "starfish",
+      "tiger"
+    ],
+    "answer": 0,
+    "explanation": "Penguen: penguin."
+  },
+  {
+    "id": "mr200-5-4",
+    "subject": 5,
+    "level": 3,
+    "family": "animal-feature-5",
+    "question": "Fotoğraftaki kuşun kanatları başlıca hangi hareket için uyumlaşmıştır?",
+    "options": [
+      "Su altında yüzmek",
+      "Toprak kazmak",
+      "Uzak mesafe süzülmek",
+      "Dalda asılmak"
+    ],
+    "answer": 0,
+    "explanation": "Penguen: Su altında yüzmek."
+  },
+  {
+    "id": "mr200-6-0",
+    "subject": 6,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Yumuşakça",
+      "Kuş",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Balina: Memeli."
+  },
+  {
+    "id": "mr200-6-1",
+    "subject": 6,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Balina: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-6-2",
+    "subject": 6,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yakıcı hücrelere sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Balina: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-6-3",
+    "subject": 6,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "whale",
+      "jellyfish",
+      "sea turtle",
+      "zebra"
+    ],
+    "answer": 0,
+    "explanation": "Balina: whale."
+  },
+  {
+    "id": "mr200-6-4",
+    "subject": 6,
+    "level": 3,
+    "family": "animal-feature-6",
+    "question": "Fotoğraftaki deniz memelisi solunumunu hangi organla yapar?",
+    "options": [
+      "Akciğer",
+      "Kitapsı akciğer",
+      "Solungaç",
+      "Trake boruları"
+    ],
+    "answer": 0,
+    "explanation": "Balina: Akciğer."
+  },
+  {
+    "id": "mr200-7-0",
+    "subject": 7,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kuş",
+      "Amfibi",
+      "Sürüngen"
+    ],
+    "answer": 0,
+    "explanation": "Kaplan: Memeli."
+  },
+  {
+    "id": "mr200-7-1",
+    "subject": 7,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Kaplan: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-7-2",
+    "subject": 7,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Yakıcı hücrelere sahip olması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme"
+    ],
+    "answer": 0,
+    "explanation": "Kaplan: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-7-3",
+    "subject": 7,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "tiger",
+      "giant panda",
+      "horse",
+      "seahorse"
+    ],
+    "answer": 0,
+    "explanation": "Kaplan: tiger."
+  },
+  {
+    "id": "mr200-7-4",
+    "subject": 7,
+    "level": 3,
+    "family": "animal-feature-7",
+    "question": "Fotoğraftaki büyük kedinin bilimsel adı hangisidir?",
+    "options": [
+      "Panthera tigris",
+      "Panthera leo",
+      "Acinonyx jubatus",
+      "Ursus arctos"
+    ],
+    "answer": 0,
+    "explanation": "Kaplan: Panthera tigris."
+  },
+  {
+    "id": "mr200-8-0",
+    "subject": 8,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kuş",
+      "Amfibi",
+      "Kemikli balık"
+    ],
+    "answer": 0,
+    "explanation": "Fil: Memeli."
+  },
+  {
+    "id": "mr200-8-1",
+    "subject": 8,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Fil: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-8-2",
+    "subject": 8,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Derinin keratinli pullarla örtülü olması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Fil: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-8-3",
+    "subject": 8,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "elephant",
+      "seahorse",
+      "sheep",
+      "gorilla"
+    ],
+    "answer": 0,
+    "explanation": "Fil: elephant."
+  },
+  {
+    "id": "mr200-8-4",
+    "subject": 8,
+    "level": 3,
+    "family": "animal-feature-8",
+    "question": "Fotoğraftaki hayvanın hortumu hangi iki bölümün birleşmesiyle oluşur?",
+    "options": [
+      "Burun ve üst dudak",
+      "Dil ve alt çene",
+      "Boyun ve gırtlak",
+      "Alın ve kulak"
+    ],
+    "answer": 0,
+    "explanation": "Fil: Burun ve üst dudak."
+  },
+  {
+    "id": "mr200-9-0",
+    "subject": 9,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Böcek",
+      "Kuş",
+      "Amfibi"
+    ],
+    "answer": 0,
+    "explanation": "Aslan: Memeli."
+  },
+  {
+    "id": "mr200-9-1",
+    "subject": 9,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Aslan: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-9-2",
+    "subject": 9,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Derinin keratinli pullarla örtülü olması",
+      "Su-damar sistemine sahip olması",
+      "Erişkininde üç çift bacak bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Aslan: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-9-3",
+    "subject": 9,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "lion",
+      "cheetah",
+      "rabbit",
+      "sea turtle"
+    ],
+    "answer": 0,
+    "explanation": "Aslan: lion."
+  },
+  {
+    "id": "mr200-9-4",
+    "subject": 9,
+    "level": 3,
+    "family": "animal-feature-9",
+    "question": "Fotoğraftaki kedigilde erkeklerin belirgin saç örtüsüne ne denir?",
+    "options": [
+      "Yele",
+      "Kavkı",
+      "Balen",
+      "Pul"
+    ],
+    "answer": 0,
+    "explanation": "Aslan: Yele."
+  },
+  {
+    "id": "mr200-10-0",
+    "subject": 10,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Kıkırdaklı balık",
+      "Sürüngen",
+      "Kuş",
+      "Memeli"
+    ],
+    "answer": 0,
+    "explanation": "Köpekbalığı: Kıkırdaklı balık."
+  },
+  {
+    "id": "mr200-10-1",
+    "subject": 10,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Köpekbalığı: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-10-2",
+    "subject": 10,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yakıcı hücrelere sahip olması",
+      "Yavrularını sütle besleme",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme"
+    ],
+    "answer": 0,
+    "explanation": "Köpekbalığı: İskeletinde kıkırdak dokunun baskın olması."
+  },
+  {
+    "id": "mr200-10-3",
+    "subject": 10,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "shark",
+      "bald eagle",
+      "horse",
+      "chimpanzee"
+    ],
+    "answer": 0,
+    "explanation": "Köpekbalığı: shark."
+  },
+  {
+    "id": "mr200-10-4",
+    "subject": 10,
+    "level": 3,
+    "family": "animal-feature-10",
+    "question": "Fotoğraftaki hayvan grubunun iskeletinde hangi doku baskındır?",
+    "options": [
+      "Kıkırdak",
+      "Camımsı silis",
+      "Kitin",
+      "Kireçtaşı"
+    ],
+    "answer": 0,
+    "explanation": "Köpekbalığı: Kıkırdak."
+  },
+  {
+    "id": "mr200-11-0",
+    "subject": 11,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Derisidikenli",
+      "Kemikli balık",
+      "Sürüngen"
+    ],
+    "answer": 0,
+    "explanation": "Goril: Memeli."
+  },
+  {
+    "id": "mr200-11-1",
+    "subject": 11,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Goril: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-11-2",
+    "subject": 11,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yakıcı hücrelere sahip olması",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Goril: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-11-3",
+    "subject": 11,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "gorilla",
+      "cat",
+      "lion",
+      "rabbit"
+    ],
+    "answer": 0,
+    "explanation": "Goril: gorilla."
+  },
+  {
+    "id": "mr200-11-4",
+    "subject": 11,
+    "level": 3,
+    "family": "animal-feature-11",
+    "question": "Fotoğraftaki erişkin erkek primatların sırtındaki açık renk nedeniyle kullanılan ad hangisidir?",
+    "options": [
+      "Gümüş sırt",
+      "Kızıl kanat",
+      "Mavi gaga",
+      "Altın yele"
+    ],
+    "answer": 0,
+    "explanation": "Goril: Gümüş sırt."
+  },
+  {
+    "id": "mr200-12-0",
+    "subject": 12,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Sürüngen",
+      "Amfibi",
+      "Knidliler",
+      "Derisidikenli"
+    ],
+    "answer": 0,
+    "explanation": "Deniz kaplumbağası: Sürüngen."
+  },
+  {
+    "id": "mr200-12-1",
+    "subject": 12,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Deniz kaplumbağası: Hem bitkisel hem hayvansal besinler tüketir."
+  },
+  {
+    "id": "mr200-12-2",
+    "subject": 12,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Derinin keratinli pullarla örtülü olması",
+      "Su-damar sistemine sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Erişkininde üç çift bacak bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Deniz kaplumbağası: Derinin keratinli pullarla örtülü olması."
+  },
+  {
+    "id": "mr200-12-3",
+    "subject": 12,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "sea turtle",
+      "horse",
+      "tiger",
+      "octopus"
+    ],
+    "answer": 0,
+    "explanation": "Deniz kaplumbağası: sea turtle."
+  },
+  {
+    "id": "mr200-12-4",
+    "subject": 12,
+    "level": 3,
+    "family": "animal-feature-12",
+    "question": "Fotoğraftaki deniz canlısı yumurtalarını nereye bırakır?",
+    "options": [
+      "Kumsaldaki yuvalara",
+      "Mercanların içine",
+      "Denizin en derin yerine",
+      "Ağaç dallarına"
+    ],
+    "answer": 0,
+    "explanation": "Deniz kaplumbağası: Kumsaldaki yuvalara."
+  },
+  {
+    "id": "mr200-13-0",
+    "subject": 13,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Sürüngen",
+      "Kemikli balık",
+      "Derisidikenli"
+    ],
+    "answer": 0,
+    "explanation": "Dev panda: Memeli."
+  },
+  {
+    "id": "mr200-13-1",
+    "subject": 13,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Dev panda: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-13-2",
+    "subject": 13,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Erişkininde üç çift bacak bulunması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme",
+      "Yakıcı hücrelere sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Dev panda: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-13-3",
+    "subject": 13,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "giant panda",
+      "bald eagle",
+      "horse",
+      "butterfly"
+    ],
+    "answer": 0,
+    "explanation": "Dev panda: giant panda."
+  },
+  {
+    "id": "mr200-13-4",
+    "subject": 13,
+    "level": 3,
+    "family": "animal-feature-13",
+    "question": "Fotoğraftaki canlı hangi hayvan familyasının üyesidir?",
+    "options": [
+      "Ayıgiller",
+      "Kedigiller",
+      "Atgiller",
+      "Köpekgiller"
+    ],
+    "answer": 0,
+    "explanation": "Dev panda: Ayıgiller."
+  },
+  {
+    "id": "mr200-14-0",
+    "subject": 14,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Knidliler",
+      "Sürüngen",
+      "Derisidikenli"
+    ],
+    "answer": 0,
+    "explanation": "Deve: Memeli."
+  },
+  {
+    "id": "mr200-14-1",
+    "subject": 14,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Deve: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-14-2",
+    "subject": 14,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Erişkininde üç çift bacak bulunması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Yakıcı hücrelere sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Deve: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-14-3",
+    "subject": 14,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "camel",
+      "dog",
+      "lion",
+      "squirrel"
+    ],
+    "answer": 0,
+    "explanation": "Deve: camel."
+  },
+  {
+    "id": "mr200-14-4",
+    "subject": 14,
+    "level": 3,
+    "family": "animal-feature-14",
+    "question": "Fotoğraftaki hayvan hörgücünde başlıca ne depolar?",
+    "options": [
+      "Yağ",
+      "Kum",
+      "Su",
+      "Tuz"
+    ],
+    "answer": 0,
+    "explanation": "Deve: Yağ."
+  },
+  {
+    "id": "mr200-15-0",
+    "subject": 15,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Kıkırdaklı balık",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Gergedan: Memeli."
+  },
+  {
+    "id": "mr200-15-1",
+    "subject": 15,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Gergedan: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-15-2",
+    "subject": 15,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Derinin keratinli pullarla örtülü olması",
+      "Su-damar sistemine sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması"
+    ],
+    "answer": 0,
+    "explanation": "Gergedan: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-15-3",
+    "subject": 15,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "rhinoceros",
+      "jellyfish",
+      "hippopotamus",
+      "giant panda"
+    ],
+    "answer": 0,
+    "explanation": "Gergedan: rhinoceros."
+  },
+  {
+    "id": "mr200-15-4",
+    "subject": 15,
+    "level": 3,
+    "family": "animal-feature-15",
+    "question": "Fotoğraftaki hayvanın burun boynuzunun temel maddesi nedir?",
+    "options": [
+      "Keratin",
+      "Fildişi",
+      "Kitin",
+      "Mine"
+    ],
+    "answer": 0,
+    "explanation": "Gergedan: Keratin."
+  },
+  {
+    "id": "mr200-16-0",
+    "subject": 16,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Derisidikenli",
+      "Sürüngen",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Koala: Memeli."
+  },
+  {
+    "id": "mr200-16-1",
+    "subject": 16,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Koala: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-16-2",
+    "subject": 16,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "İskeletinde kıkırdak dokunun baskın olması"
+    ],
+    "answer": 0,
+    "explanation": "Koala: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-16-3",
+    "subject": 16,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "koala",
+      "rhinoceros",
+      "horse",
+      "dolphin"
+    ],
+    "answer": 0,
+    "explanation": "Koala: koala."
+  },
+  {
+    "id": "mr200-16-4",
+    "subject": 16,
+    "level": 3,
+    "family": "animal-feature-16",
+    "question": "Fotoğraftaki canlı hangi memeli grubundadır?",
+    "options": [
+      "Keseliler",
+      "Primatlar",
+      "Tek delikliler",
+      "Kemirgenler"
+    ],
+    "answer": 0,
+    "explanation": "Koala: Keseliler."
+  },
+  {
+    "id": "mr200-17-0",
+    "subject": 17,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Amfibi",
+      "Memeli",
+      "Kıkırdaklı balık",
+      "Kemikli balık"
+    ],
+    "answer": 0,
+    "explanation": "Kurbağa: Amfibi."
+  },
+  {
+    "id": "mr200-17-1",
+    "subject": 17,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Kurbağa: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-17-2",
+    "subject": 17,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme",
+      "Vücudunda tüy örtüsü bulunması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "İskeletinde kıkırdak dokunun baskın olması"
+    ],
+    "answer": 0,
+    "explanation": "Kurbağa: Nemli ve geçirgen deriyle de gaz alışverişi yapabilme."
+  },
+  {
+    "id": "mr200-17-3",
+    "subject": 17,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "frog",
+      "crocodile",
+      "rabbit",
+      "gorilla"
+    ],
+    "answer": 0,
+    "explanation": "Kurbağa: frog."
+  },
+  {
+    "id": "mr200-17-4",
+    "subject": 17,
+    "level": 3,
+    "family": "animal-feature-17",
+    "question": "Fotoğraftaki hayvanın suda yaşayan larvasına ne denir?",
+    "options": [
+      "İribaş",
+      "Pupa",
+      "Nimf",
+      "Kurtçuk"
+    ],
+    "answer": 0,
+    "explanation": "Kurbağa: İribaş."
+  },
+  {
+    "id": "mr200-18-0",
+    "subject": 18,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Böcek",
+      "Amfibi"
+    ],
+    "answer": 0,
+    "explanation": "Çita: Memeli."
+  },
+  {
+    "id": "mr200-18-1",
+    "subject": 18,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Çita: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-18-2",
+    "subject": 18,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme"
+    ],
+    "answer": 0,
+    "explanation": "Çita: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-18-3",
+    "subject": 18,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "cheetah",
+      "frog",
+      "rhinoceros",
+      "goat"
+    ],
+    "answer": 0,
+    "explanation": "Çita: cheetah."
+  },
+  {
+    "id": "mr200-18-4",
+    "subject": 18,
+    "level": 3,
+    "family": "animal-feature-18",
+    "question": "Fotoğraftaki hayvan en çok hangi rekorla tanınır?",
+    "options": [
+      "En hızlı koşan kara hayvanı",
+      "En yüksekten uçan canlı",
+      "En uzun yaşayan memeli",
+      "En uzun boyunlu memeli"
+    ],
+    "answer": 0,
+    "explanation": "Çita: En hızlı koşan kara hayvanı."
+  },
+  {
+    "id": "mr200-19-0",
+    "subject": 19,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Sürüngen",
+      "Kuş",
+      "Böcek",
+      "Derisidikenli"
+    ],
+    "answer": 0,
+    "explanation": "Timsah: Sürüngen."
+  },
+  {
+    "id": "mr200-19-1",
+    "subject": 19,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Timsah: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-19-2",
+    "subject": 19,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Derinin keratinli pullarla örtülü olması",
+      "Vücudunda tüy örtüsü bulunması",
+      "Yakıcı hücrelere sahip olması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme"
+    ],
+    "answer": 0,
+    "explanation": "Timsah: Derinin keratinli pullarla örtülü olması."
+  },
+  {
+    "id": "mr200-19-3",
+    "subject": 19,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "crocodile",
+      "rabbit",
+      "jellyfish",
+      "whale"
+    ],
+    "answer": 0,
+    "explanation": "Timsah: crocodile."
+  },
+  {
+    "id": "mr200-19-4",
+    "subject": 19,
+    "level": 3,
+    "family": "animal-feature-19",
+    "question": "Fotoğraftaki hayvan hangi yolla çoğalır?",
+    "options": [
+      "Yumurtlayarak",
+      "Tomurcuklanarak",
+      "Bölünerek",
+      "Keseli doğumla"
+    ],
+    "answer": 0,
+    "explanation": "Timsah: Yumurtlayarak."
+  },
+  {
+    "id": "mr200-20-0",
+    "subject": 20,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Knidliler",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "Su aygırı: Memeli."
+  },
+  {
+    "id": "mr200-20-1",
+    "subject": 20,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Su aygırı: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-20-2",
+    "subject": 20,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Erişkininde üç çift bacak bulunması",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yakıcı hücrelere sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Su aygırı: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-20-3",
+    "subject": 20,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "hippopotamus",
+      "seahorse",
+      "shark",
+      "butterfly"
+    ],
+    "answer": 0,
+    "explanation": "Su aygırı: hippopotamus."
+  },
+  {
+    "id": "mr200-20-4",
+    "subject": 20,
+    "level": 3,
+    "family": "animal-feature-20",
+    "question": "Fotoğraftaki hayvanın Türkçe adında hangi başka hayvan geçer?",
+    "options": [
+      "At",
+      "Kuzu",
+      "İnek",
+      "Geyik"
+    ],
+    "answer": 0,
+    "explanation": "Su aygırı: At."
+  },
+  {
+    "id": "mr200-21-0",
+    "subject": 21,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Böcek",
+      "Amfibi"
+    ],
+    "answer": 0,
+    "explanation": "Şempanze: Memeli."
+  },
+  {
+    "id": "mr200-21-1",
+    "subject": 21,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Şempanze: Hem bitkisel hem hayvansal besinler tüketir."
+  },
+  {
+    "id": "mr200-21-2",
+    "subject": 21,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "İskeletinde kıkırdak dokunun baskın olması"
+    ],
+    "answer": 0,
+    "explanation": "Şempanze: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-21-3",
+    "subject": 21,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "chimpanzee",
+      "sea turtle",
+      "starfish",
+      "rabbit"
+    ],
+    "answer": 0,
+    "explanation": "Şempanze: chimpanzee."
+  },
+  {
+    "id": "mr200-21-4",
+    "subject": 21,
+    "level": 3,
+    "family": "animal-feature-21",
+    "question": "Fotoğraftaki canlı hangi takımın üyesidir?",
+    "options": [
+      "Primatlar",
+      "Etçiller",
+      "Kemirgenler",
+      "Yarasalar"
+    ],
+    "answer": 0,
+    "explanation": "Şempanze: Primatlar."
+  },
+  {
+    "id": "mr200-22-0",
+    "subject": 22,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Derisidikenli",
+      "Kuş",
+      "Amfibi",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "Denizyıldızı: Derisidikenli."
+  },
+  {
+    "id": "mr200-22-1",
+    "subject": 22,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Bitkisel besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Denizyıldızı: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-22-2",
+    "subject": 22,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Su-damar sistemine sahip olması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Yakıcı hücrelere sahip olması",
+      "İskeletinde kıkırdak dokunun baskın olması"
+    ],
+    "answer": 0,
+    "explanation": "Denizyıldızı: Su-damar sistemine sahip olması."
+  },
+  {
+    "id": "mr200-22-3",
+    "subject": 22,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "starfish",
+      "jellyfish",
+      "chimpanzee",
+      "cow"
+    ],
+    "answer": 0,
+    "explanation": "Denizyıldızı: starfish."
+  },
+  {
+    "id": "mr200-22-4",
+    "subject": 22,
+    "level": 3,
+    "family": "animal-feature-22",
+    "question": "Fotoğraftaki deniz canlısında kaybolan bazı uzuvların yeniden oluşmasına ne denir?",
+    "options": [
+      "Rejenerasyon",
+      "Yoğuşma",
+      "Fermantasyon",
+      "Fotosentez"
+    ],
+    "answer": 0,
+    "explanation": "Denizyıldızı: Rejenerasyon."
+  },
+  {
+    "id": "mr200-23-0",
+    "subject": 23,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Kemikli balık",
+      "Böcek",
+      "Sürüngen",
+      "Memeli"
+    ],
+    "answer": 0,
+    "explanation": "Denizatı: Kemikli balık."
+  },
+  {
+    "id": "mr200-23-1",
+    "subject": 23,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Denizatı: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-23-2",
+    "subject": 23,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Erişkininde üç çift bacak bulunması",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yumuşak gövdeli omurgasızlardan olması"
+    ],
+    "answer": 0,
+    "explanation": "Denizatı: Kemikleşmiş iç iskelete sahip olma."
+  },
+  {
+    "id": "mr200-23-3",
+    "subject": 23,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "seahorse",
+      "cat",
+      "jellyfish",
+      "dolphin"
+    ],
+    "answer": 0,
+    "explanation": "Denizatı: seahorse."
+  },
+  {
+    "id": "mr200-23-4",
+    "subject": 23,
+    "level": 3,
+    "family": "animal-feature-23",
+    "question": "Fotoğraftaki hayvanda yumurtaları kuluçka kesesinde taşıyan hangisidir?",
+    "options": [
+      "Erkek birey",
+      "Yumurtanın bağlandığı mercan",
+      "Dişi birey",
+      "Her iki bireyin kuyruğu"
+    ],
+    "answer": 0,
+    "explanation": "Denizatı: Erkek birey."
+  },
+  {
+    "id": "mr200-24-0",
+    "subject": 24,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Knidliler",
+      "Böcek",
+      "Kıkırdaklı balık",
+      "Derisidikenli"
+    ],
+    "answer": 0,
+    "explanation": "Denizanası: Knidliler."
+  },
+  {
+    "id": "mr200-24-1",
+    "subject": 24,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Denizanası: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-24-2",
+    "subject": 24,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yakıcı hücrelere sahip olması",
+      "Vücudunda tüy örtüsü bulunması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Denizanası: Yakıcı hücrelere sahip olması."
+  },
+  {
+    "id": "mr200-24-3",
+    "subject": 24,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "jellyfish",
+      "ostrich",
+      "leopard",
+      "horse"
+    ],
+    "answer": 0,
+    "explanation": "Denizanası: jellyfish."
+  },
+  {
+    "id": "mr200-24-4",
+    "subject": 24,
+    "level": 3,
+    "family": "animal-feature-24",
+    "question": "Fotoğraftaki canlının dokunaçlarındaki yakıcı hücrelere ne denir?",
+    "options": [
+      "Knidosit",
+      "Kondrosit",
+      "Osteosit",
+      "Eritrosit"
+    ],
+    "answer": 0,
+    "explanation": "Denizanası: Knidosit."
+  },
+  {
+    "id": "mr200-25-0",
+    "subject": 25,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Böcek",
+      "Derisidikenli",
+      "Memeli",
+      "Sürüngen"
+    ],
+    "answer": 0,
+    "explanation": "Kelebek: Böcek."
+  },
+  {
+    "id": "mr200-25-1",
+    "subject": 25,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Kelebek: Nektar ve/veya polen ağırlıklı beslenir."
+  },
+  {
+    "id": "mr200-25-2",
+    "subject": 25,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Erişkininde üç çift bacak bulunması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Su-damar sistemine sahip olması",
+      "Yakıcı hücrelere sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Kelebek: Erişkininde üç çift bacak bulunması."
+  },
+  {
+    "id": "mr200-25-3",
+    "subject": 25,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "butterfly",
+      "whale",
+      "leopard",
+      "cow"
+    ],
+    "answer": 0,
+    "explanation": "Kelebek: butterfly."
+  },
+  {
+    "id": "mr200-25-4",
+    "subject": 25,
+    "level": 3,
+    "family": "animal-feature-25",
+    "question": "Fotoğraftaki canlının larvası olan tırtıl hangi evreden sonra erişkine dönüşür?",
+    "options": [
+      "Pupa",
+      "Yavru balık",
+      "Nimf",
+      "İribaş"
+    ],
+    "answer": 0,
+    "explanation": "Kelebek: Pupa."
+  },
+  {
+    "id": "mr200-26-0",
+    "subject": 26,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Sürüngen",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "Leopar: Memeli."
+  },
+  {
+    "id": "mr200-26-1",
+    "subject": 26,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Leopar: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-26-2",
+    "subject": 26,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Yakıcı hücrelere sahip olması",
+      "İskeletinde kıkırdak dokunun baskın olması"
+    ],
+    "answer": 0,
+    "explanation": "Leopar: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-26-3",
+    "subject": 26,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "leopard",
+      "cow",
+      "dolphin",
+      "butterfly"
+    ],
+    "answer": 0,
+    "explanation": "Leopar: leopard."
+  },
+  {
+    "id": "mr200-26-4",
+    "subject": 26,
+    "level": 3,
+    "family": "animal-feature-26",
+    "question": "Fotoğraftaki kedigilde görülen halka biçimli beneklerin adı hangisidir?",
+    "options": [
+      "Rozet",
+      "Kavkı",
+      "Spiral",
+      "Pul"
+    ],
+    "answer": 0,
+    "explanation": "Leopar: Rozet."
+  },
+  {
+    "id": "mr200-27-0",
+    "subject": 27,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Böcek",
+      "Derisidikenli",
+      "Yumuşakça",
+      "Sürüngen"
+    ],
+    "answer": 0,
+    "explanation": "Bal arısı: Böcek."
+  },
+  {
+    "id": "mr200-27-1",
+    "subject": 27,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Bal arısı: Nektar ve/veya polen ağırlıklı beslenir."
+  },
+  {
+    "id": "mr200-27-2",
+    "subject": 27,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Erişkininde üç çift bacak bulunması",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Bal arısı: Erişkininde üç çift bacak bulunması."
+  },
+  {
+    "id": "mr200-27-3",
+    "subject": 27,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "honey bee",
+      "starfish",
+      "rhinoceros",
+      "butterfly"
+    ],
+    "answer": 0,
+    "explanation": "Bal arısı: honey bee."
+  },
+  {
+    "id": "mr200-27-4",
+    "subject": 27,
+    "level": 3,
+    "family": "animal-feature-27",
+    "question": "Fotoğraftaki canlının çiçekler arasında polen taşımasına verilen ad nedir?",
+    "options": [
+      "Tozlaşma",
+      "Odunlaşma",
+      "Çimlenme",
+      "Terleme"
+    ],
+    "answer": 0,
+    "explanation": "Bal arısı: Tozlaşma."
+  },
+  {
+    "id": "mr200-28-0",
+    "subject": 28,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Yumuşakça",
+      "Knidliler",
+      "Memeli",
+      "Kıkırdaklı balık"
+    ],
+    "answer": 0,
+    "explanation": "Ahtapot: Yumuşakça."
+  },
+  {
+    "id": "mr200-28-1",
+    "subject": 28,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Ahtapot: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-28-2",
+    "subject": 28,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme",
+      "Derinin keratinli pullarla örtülü olması",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Ahtapot: Yumuşak gövdeli omurgasızlardan olması."
+  },
+  {
+    "id": "mr200-28-3",
+    "subject": 28,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "octopus",
+      "rabbit",
+      "penguin",
+      "camel"
+    ],
+    "answer": 0,
+    "explanation": "Ahtapot: octopus."
+  },
+  {
+    "id": "mr200-28-4",
+    "subject": 28,
+    "level": 3,
+    "family": "animal-feature-28",
+    "question": "Fotoğraftaki canlının kaç kolu vardır?",
+    "options": [
+      "8",
+      "6",
+      "12",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Ahtapot: 8."
+  },
+  {
+    "id": "mr200-99-0",
+    "subject": 99,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Böcek",
+      "Sürüngen",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "Koyun: Memeli."
+  },
+  {
+    "id": "mr200-99-1",
+    "subject": 99,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Hayvansal besinler ağırlıktadır"
+    ],
+    "answer": 0,
+    "explanation": "Koyun: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-99-2",
+    "subject": 99,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Nemli ve geçirgen deriyle de gaz alışverişi yapabilme",
+      "Vücudunda tüy örtüsü bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Koyun: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-99-3",
+    "subject": 99,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "sheep",
+      "crocodile",
+      "starfish",
+      "jellyfish"
+    ],
+    "answer": 0,
+    "explanation": "Koyun: sheep."
+  },
+  {
+    "id": "mr200-99-4",
+    "subject": 99,
+    "level": 3,
+    "family": "animal-feature-99",
+    "question": "Fotoğraftaki hayvandan elde edilen temel tekstil lifi hangisidir?",
+    "options": [
+      "Yün",
+      "Keten",
+      "İpek",
+      "Pamuk"
+    ],
+    "answer": 0,
+    "explanation": "Koyun: Yün."
+  },
+  {
+    "id": "mr200-100-0",
+    "subject": 100,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Knidliler",
+      "Yumuşakça",
+      "Böcek"
+    ],
+    "answer": 0,
+    "explanation": "İnek: Memeli."
+  },
+  {
+    "id": "mr200-100-1",
+    "subject": 100,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "İnek: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-100-2",
+    "subject": 100,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Yakıcı hücrelere sahip olması",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "İnek: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-100-3",
+    "subject": 100,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "cow",
+      "tiger",
+      "hippopotamus",
+      "seahorse"
+    ],
+    "answer": 0,
+    "explanation": "İnek: cow."
+  },
+  {
+    "id": "mr200-100-4",
+    "subject": 100,
+    "level": 3,
+    "family": "animal-feature-100",
+    "question": "Fotoğraftaki hayvanın dört bölümlü midesinin ilk ve en büyük bölümü hangisidir?",
+    "options": [
+      "İşkembe",
+      "Kursak",
+      "Şirden",
+      "Taşlık"
+    ],
+    "answer": 0,
+    "explanation": "İnek: İşkembe."
+  },
+  {
+    "id": "mr200-101-0",
+    "subject": 101,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Knidliler",
+      "Sürüngen"
+    ],
+    "answer": 0,
+    "explanation": "Sincap: Memeli."
+  },
+  {
+    "id": "mr200-101-1",
+    "subject": 101,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Sincap: Hem bitkisel hem hayvansal besinler tüketir."
+  },
+  {
+    "id": "mr200-101-2",
+    "subject": 101,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Su-damar sistemine sahip olması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Erişkininde üç çift bacak bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Sincap: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-101-3",
+    "subject": 101,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "squirrel",
+      "leopard",
+      "ostrich",
+      "shark"
+    ],
+    "answer": 0,
+    "explanation": "Sincap: squirrel."
+  },
+  {
+    "id": "mr200-101-4",
+    "subject": 101,
+    "level": 3,
+    "family": "animal-feature-101",
+    "question": "Fotoğraftaki hayvanın sürekli uzayan ön dişleri hangi takımla ilişkilidir?",
+    "options": [
+      "Kemirgenler",
+      "Tek toynaklılar",
+      "Primatlar",
+      "Yarasalar"
+    ],
+    "answer": 0,
+    "explanation": "Sincap: Kemirgenler."
+  },
+  {
+    "id": "mr200-102-0",
+    "subject": 102,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kuş",
+      "Kıkırdaklı balık",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "At: Memeli."
+  },
+  {
+    "id": "mr200-102-1",
+    "subject": 102,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "At: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-102-2",
+    "subject": 102,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Derinin keratinli pullarla örtülü olması",
+      "Vücudunda tüy örtüsü bulunması"
+    ],
+    "answer": 0,
+    "explanation": "At: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-102-3",
+    "subject": 102,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "horse",
+      "octopus",
+      "sea turtle",
+      "camel"
+    ],
+    "answer": 0,
+    "explanation": "At: horse."
+  },
+  {
+    "id": "mr200-102-4",
+    "subject": 102,
+    "level": 3,
+    "family": "animal-feature-102",
+    "question": "Fotoğraftaki hayvanın yavrusuna ne denir?",
+    "options": [
+      "Tay",
+      "Buzağı",
+      "Kuzu",
+      "Oğlak"
+    ],
+    "answer": 0,
+    "explanation": "At: Tay."
+  },
+  {
+    "id": "mr200-103-0",
+    "subject": 103,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Kemikli balık",
+      "Sürüngen",
+      "Knidliler"
+    ],
+    "answer": 0,
+    "explanation": "Keçi: Memeli."
+  },
+  {
+    "id": "mr200-103-1",
+    "subject": 103,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Keçi: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-103-2",
+    "subject": 103,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Erişkininde üç çift bacak bulunması",
+      "İskeletinde kıkırdak dokunun baskın olması",
+      "Su-damar sistemine sahip olması"
+    ],
+    "answer": 0,
+    "explanation": "Keçi: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-103-3",
+    "subject": 103,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "goat",
+      "starfish",
+      "hippopotamus",
+      "horse"
+    ],
+    "answer": 0,
+    "explanation": "Keçi: goat."
+  },
+  {
+    "id": "mr200-103-4",
+    "subject": 103,
+    "level": 3,
+    "family": "animal-feature-103",
+    "question": "Fotoğraftaki hayvanın yavrusuna ne denir?",
+    "options": [
+      "Oğlak",
+      "Kuzu",
+      "Sıpa",
+      "Tay"
+    ],
+    "answer": 0,
+    "explanation": "Keçi: Oğlak."
+  },
+  {
+    "id": "mr200-104-0",
+    "subject": 104,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Yumuşakça",
+      "Kemikli balık",
+      "Kıkırdaklı balık"
+    ],
+    "answer": 0,
+    "explanation": "Tavşan: Memeli."
+  },
+  {
+    "id": "mr200-104-1",
+    "subject": 104,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hayvansal besinler ağırlıktadır",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Tavşan: Bitkisel besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-104-2",
+    "subject": 104,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yumuşak gövdeli omurgasızlardan olması",
+      "Kemikleşmiş iç iskelete sahip olma",
+      "Vücudunda tüy örtüsü bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Tavşan: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-104-3",
+    "subject": 104,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "rabbit",
+      "cow",
+      "giant panda",
+      "crocodile"
+    ],
+    "answer": 0,
+    "explanation": "Tavşan: rabbit."
+  },
+  {
+    "id": "mr200-104-4",
+    "subject": 104,
+    "level": 3,
+    "family": "animal-feature-104",
+    "question": "Fotoğraftaki hayvan hangi takıma girer?",
+    "options": [
+      "Tavşanımsılar",
+      "Primatlar",
+      "Etçiller",
+      "Kemirgenler"
+    ],
+    "answer": 0,
+    "explanation": "Tavşan: Tavşanımsılar."
+  },
+  {
+    "id": "mr200-105-0",
+    "subject": 105,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Böcek",
+      "Kemikli balık",
+      "Yumuşakça"
+    ],
+    "answer": 0,
+    "explanation": "Köpek: Memeli."
+  },
+  {
+    "id": "mr200-105-1",
+    "subject": 105,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hem bitkisel hem hayvansal besinler tüketir",
+      "Bitkisel besinler ağırlıktadır",
+      "Hayvansal besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir"
+    ],
+    "answer": 0,
+    "explanation": "Köpek: Hem bitkisel hem hayvansal besinler tüketir."
+  },
+  {
+    "id": "mr200-105-2",
+    "subject": 105,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Vücudunda tüy örtüsü bulunması",
+      "İskeletinde kıkırdak dokunun baskın olması"
+    ],
+    "answer": 0,
+    "explanation": "Köpek: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-105-3",
+    "subject": 105,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "dog",
+      "honey bee",
+      "lion",
+      "zebra"
+    ],
+    "answer": 0,
+    "explanation": "Köpek: dog."
+  },
+  {
+    "id": "mr200-105-4",
+    "subject": 105,
+    "level": 3,
+    "family": "animal-feature-105",
+    "question": "Fotoğraftaki hayvanın güçlü duyuları arasında hangisi özellikle öne çıkar?",
+    "options": [
+      "Koku alma",
+      "Dokunma",
+      "Tatma",
+      "Görme"
+    ],
+    "answer": 0,
+    "explanation": "Köpek: Koku alma."
+  },
+  {
+    "id": "mr200-106-0",
+    "subject": 106,
+    "level": 1,
+    "family": "animal-class",
+    "question": "Fotoğraftaki canlı hangi biyolojik gruptadır?",
+    "options": [
+      "Memeli",
+      "Amfibi",
+      "Kemikli balık",
+      "Kıkırdaklı balık"
+    ],
+    "answer": 0,
+    "explanation": "Kedi: Memeli."
+  },
+  {
+    "id": "mr200-106-1",
+    "subject": 106,
+    "level": 2,
+    "family": "animal-food",
+    "question": "Fotoğraftaki hayvanın beslenmesini hangi ifade en iyi özetler?",
+    "options": [
+      "Hayvansal besinler ağırlıktadır",
+      "Bitkisel besinler ağırlıktadır",
+      "Nektar ve/veya polen ağırlıklı beslenir",
+      "Hem bitkisel hem hayvansal besinler tüketir"
+    ],
+    "answer": 0,
+    "explanation": "Kedi: Hayvansal besinler ağırlıktadır."
+  },
+  {
+    "id": "mr200-106-2",
+    "subject": 106,
+    "level": 2,
+    "family": "animal-biology",
+    "question": "Fotoğraftaki canlının ait olduğu grubun ayırt edici özelliği hangisidir?",
+    "options": [
+      "Yavrularını sütle besleme",
+      "Yakıcı hücrelere sahip olması",
+      "Su-damar sistemine sahip olması",
+      "Vücudunda tüy örtüsü bulunması"
+    ],
+    "answer": 0,
+    "explanation": "Kedi: Yavrularını sütle besleme."
+  },
+  {
+    "id": "mr200-106-3",
+    "subject": 106,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki canlının İngilizcedeki adı hangisidir?",
+    "options": [
+      "cat",
+      "koala",
+      "elephant",
+      "dolphin"
+    ],
+    "answer": 0,
+    "explanation": "Kedi: cat."
+  },
+  {
+    "id": "mr200-106-4",
+    "subject": 106,
+    "level": 3,
+    "family": "animal-feature-106",
+    "question": "Fotoğraftaki hayvanın yüzündeki uzun duyusal kıllara ne denir?",
+    "options": [
+      "Vibrissa",
+      "Pupa",
+      "Balen",
+      "Yele"
+    ],
+    "answer": 0,
+    "explanation": "Kedi: Vibrissa."
+  },
+  {
+    "id": "mr200-40-0",
+    "subject": 40,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "banana",
+      "grape",
+      "apple",
+      "corn"
+    ],
+    "answer": 0,
+    "explanation": "Muz: banana."
+  },
+  {
+    "id": "mr200-40-1",
+    "subject": 40,
+    "level": 1,
+    "family": "food-40-0",
+    "question": "Bu meyvenin yetiştiği bitki botanik olarak hangisidir?",
+    "options": [
+      "Dev bir otsu bitki",
+      "Bir mantar",
+      "Odunsu bir palmiye",
+      "İğne yapraklı ağaç"
+    ],
+    "answer": 0,
+    "explanation": "Muz: Dev bir otsu bitki."
+  },
+  {
+    "id": "mr200-40-2",
+    "subject": 40,
+    "level": 2,
+    "family": "food-40-1",
+    "question": "Bu meyvenin İngilizce adı hangi sözcükte de geçer?",
+    "options": [
+      "Banana split",
+      "Apple pie",
+      "Cherry tart",
+      "Peach melba"
+    ],
+    "answer": 0,
+    "explanation": "Muz: Banana split."
+  },
+  {
+    "id": "mr200-40-3",
+    "subject": 40,
+    "level": 3,
+    "family": "food-40-2",
+    "question": "Muz yetiştiriciliği Türkiye'de özellikle hangi ilçeyle özdeşleşir?",
+    "options": [
+      "Anamur",
+      "Beypazarı",
+      "Gemlik",
+      "Safranbolu"
+    ],
+    "answer": 0,
+    "explanation": "Muz: Anamur."
+  },
+  {
+    "id": "mr200-40-4",
+    "subject": 40,
+    "level": 3,
+    "family": "food-40-3",
+    "question": "Bu meyvenin olgunlaşmasını hızlandıran bitki hormonu hangisidir?",
+    "options": [
+      "Etilen",
+      "Adrenalin",
+      "Melatonin",
+      "İnsülin"
+    ],
+    "answer": 0,
+    "explanation": "Muz: Etilen."
+  },
+  {
+    "id": "mr200-41-0",
+    "subject": 41,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "strawberry",
+      "coconut",
+      "cherry",
+      "pear"
+    ],
+    "answer": 0,
+    "explanation": "Çilek: strawberry."
+  },
+  {
+    "id": "mr200-41-1",
+    "subject": 41,
+    "level": 1,
+    "family": "food-41-0",
+    "question": "Bu meyvenin yüzeyindeki küçük tanecikler botanik olarak nedir?",
+    "options": [
+      "Aken denen küçük meyveler",
+      "Stoma",
+      "Kök tüyleri",
+      "Polen keseleri"
+    ],
+    "answer": 0,
+    "explanation": "Çilek: Aken denen küçük meyveler."
+  },
+  {
+    "id": "mr200-41-2",
+    "subject": 41,
+    "level": 2,
+    "family": "food-41-1",
+    "question": "Bu meyvenin yetiştiği bitki hangi familyadandır?",
+    "options": [
+      "Gülgiller",
+      "Kabakgiller",
+      "Buğdaygiller",
+      "Baklagiller"
+    ],
+    "answer": 0,
+    "explanation": "Çilek: Gülgiller."
+  },
+  {
+    "id": "mr200-41-3",
+    "subject": 41,
+    "level": 3,
+    "family": "food-41-2",
+    "question": "Fotoğraftaki meyveyle yapılan geleneksel bir saklama ürünü hangisidir?",
+    "options": [
+      "Çilek reçeli",
+      "Salça",
+      "Hardal",
+      "Tahin"
+    ],
+    "answer": 0,
+    "explanation": "Çilek: Çilek reçeli."
+  },
+  {
+    "id": "mr200-41-4",
+    "subject": 41,
+    "level": 3,
+    "family": "food-41-3",
+    "question": "Bu meyvenin bitkisinde toprak üstünde uzayıp yeni bitki oluşturan sürgünlere ne denir?",
+    "options": [
+      "Stolon",
+      "Balen",
+      "Kapsül",
+      "Spor"
+    ],
+    "answer": 0,
+    "explanation": "Çilek: Stolon."
+  },
+  {
+    "id": "mr200-42-0",
+    "subject": 42,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "apple",
+      "wheat",
+      "pear",
+      "corn"
+    ],
+    "answer": 0,
+    "explanation": "Elma: apple."
+  },
+  {
+    "id": "mr200-42-1",
+    "subject": 42,
+    "level": 1,
+    "family": "food-42-0",
+    "question": "Newton'un yerçekimi anlatısıyla özdeşleşen meyve hangisidir?",
+    "options": [
+      "Elma",
+      "Hindistan cevizi",
+      "Muz",
+      "Ananas"
+    ],
+    "answer": 0,
+    "explanation": "Elma: Elma."
+  },
+  {
+    "id": "mr200-42-2",
+    "subject": 42,
+    "level": 2,
+    "family": "food-42-1",
+    "question": "Kesilen bu meyvenin yüzeyinin kararmasında hangi süreç etkilidir?",
+    "options": [
+      "Enzimatik oksitlenme",
+      "Donma",
+      "Damıtma",
+      "Süblimleşme"
+    ],
+    "answer": 0,
+    "explanation": "Elma: Enzimatik oksitlenme."
+  },
+  {
+    "id": "mr200-42-3",
+    "subject": 42,
+    "level": 3,
+    "family": "food-42-2",
+    "question": "Bu meyveden elde edilen fermente mutfak ürünü hangisidir?",
+    "options": [
+      "Elma sirkesi",
+      "Pekmez toprağı",
+      "Peynir mayası",
+      "Tahin"
+    ],
+    "answer": 0,
+    "explanation": "Elma: Elma sirkesi."
+  },
+  {
+    "id": "mr200-42-4",
+    "subject": 42,
+    "level": 3,
+    "family": "food-42-3",
+    "question": "Bu meyvenin çekirdeklerini barındıran orta bölümü için yaygın ad hangisidir?",
+    "options": [
+      "Çekirdek evi",
+      "Kavuz",
+      "Koçan",
+      "Başak"
+    ],
+    "answer": 0,
+    "explanation": "Elma: Çekirdek evi."
+  },
+  {
+    "id": "mr200-43-0",
+    "subject": 43,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "cherry",
+      "watermelon",
+      "pear",
+      "banana"
+    ],
+    "answer": 0,
+    "explanation": "Kiraz: cherry."
+  },
+  {
+    "id": "mr200-43-1",
+    "subject": 43,
+    "level": 1,
+    "family": "food-43-0",
+    "question": "Bu meyvenin bitkisi hangi familyadandır?",
+    "options": [
+      "Gülgiller",
+      "Baklagiller",
+      "Turpgiller",
+      "Buğdaygiller"
+    ],
+    "answer": 0,
+    "explanation": "Kiraz: Gülgiller."
+  },
+  {
+    "id": "mr200-43-2",
+    "subject": 43,
+    "level": 2,
+    "family": "food-43-1",
+    "question": "Bu meyve botanik olarak hangi gruba örnektir?",
+    "options": [
+      "Sert çekirdekli meyveler",
+      "Kabuklu yemişler",
+      "Kuru baklalar",
+      "Kapsüller"
+    ],
+    "answer": 0,
+    "explanation": "Kiraz: Sert çekirdekli meyveler."
+  },
+  {
+    "id": "mr200-43-3",
+    "subject": 43,
+    "level": 3,
+    "family": "food-43-2",
+    "question": "Bu meyvenin çekirdek yapısı hangisine daha çok benzer?",
+    "options": [
+      "Şeftali",
+      "Portakal",
+      "İncir",
+      "Üzüm"
+    ],
+    "answer": 0,
+    "explanation": "Kiraz: Şeftali."
+  },
+  {
+    "id": "mr200-43-4",
+    "subject": 43,
+    "level": 3,
+    "family": "food-43-3",
+    "question": "Bu meyveye çok benzeyen, genellikle daha ekşi başka meyve hangisidir?",
+    "options": [
+      "Vişne",
+      "Kivi",
+      "Mango",
+      "Hurma"
+    ],
+    "answer": 0,
+    "explanation": "Kiraz: Vişne."
+  },
+  {
+    "id": "mr200-44-0",
+    "subject": 44,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "grape",
+      "olive oil",
+      "green tea",
+      "baklava"
+    ],
+    "answer": 0,
+    "explanation": "Üzüm: grape."
+  },
+  {
+    "id": "mr200-44-1",
+    "subject": 44,
+    "level": 1,
+    "family": "food-44-0",
+    "question": "Bu meyvenin sıkılmasıyla elde edilen taze meyve suyunun geleneksel adı nedir?",
+    "options": [
+      "Şıra",
+      "Ayran",
+      "Kefir",
+      "Boza"
+    ],
+    "answer": 0,
+    "explanation": "Üzüm: Şıra."
+  },
+  {
+    "id": "mr200-44-2",
+    "subject": 44,
+    "level": 2,
+    "family": "food-44-1",
+    "question": "Bu meyvenin yetiştirildiği bitkinin adı hangisidir?",
+    "options": [
+      "Asma",
+      "Zeytin ağacı",
+      "Palmiye",
+      "Kavak"
+    ],
+    "answer": 0,
+    "explanation": "Üzüm: Asma."
+  },
+  {
+    "id": "mr200-44-3",
+    "subject": 44,
+    "level": 3,
+    "family": "food-44-2",
+    "question": "Bu meyvenin suyunun yoğunlaştırılmasıyla hangi ürün elde edilir?",
+    "options": [
+      "Pekmez",
+      "Tereyağı",
+      "Tahin",
+      "Salça"
+    ],
+    "answer": 0,
+    "explanation": "Üzüm: Pekmez."
+  },
+  {
+    "id": "mr200-44-4",
+    "subject": 44,
+    "level": 3,
+    "family": "food-44-3",
+    "question": "Bu meyvenin yetiştirildiği tarım alanına ne denir?",
+    "options": [
+      "Bağ",
+      "Bostan",
+      "Çeltik tarlası",
+      "Fidanlık serası"
+    ],
+    "answer": 0,
+    "explanation": "Üzüm: Bağ."
+  },
+  {
+    "id": "mr200-45-0",
+    "subject": 45,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "peach",
+      "coconut",
+      "grape",
+      "kiwifruit"
+    ],
+    "answer": 0,
+    "explanation": "Şeftali: peach."
+  },
+  {
+    "id": "mr200-45-1",
+    "subject": 45,
+    "level": 1,
+    "family": "food-45-0",
+    "question": "Bu meyve hangi botanik gruptadır?",
+    "options": [
+      "Sert çekirdekli meyve",
+      "Bakla",
+      "Koçan",
+      "Kapsül"
+    ],
+    "answer": 0,
+    "explanation": "Şeftali: Sert çekirdekli meyve."
+  },
+  {
+    "id": "mr200-45-2",
+    "subject": 45,
+    "level": 2,
+    "family": "food-45-1",
+    "question": "Bu meyvenin kabuğu tüysüz olan çeşidine yaygın olarak ne denir?",
+    "options": [
+      "Nektarin",
+      "Lime",
+      "Kamkat",
+      "Pomelo"
+    ],
+    "answer": 0,
+    "explanation": "Şeftali: Nektarin."
+  },
+  {
+    "id": "mr200-45-3",
+    "subject": 45,
+    "level": 3,
+    "family": "food-45-2",
+    "question": "Bu meyvenin bitkisi hangi familyadandır?",
+    "options": [
+      "Gülgiller",
+      "Baklagiller",
+      "Turpgiller",
+      "Buğdaygiller"
+    ],
+    "answer": 0,
+    "explanation": "Şeftali: Gülgiller."
+  },
+  {
+    "id": "mr200-45-4",
+    "subject": 45,
+    "level": 3,
+    "family": "food-45-3",
+    "question": "Bu meyvenin ortasındaki sert yapı için doğru ad hangisidir?",
+    "options": [
+      "Çekirdek kabuğu",
+      "Başak",
+      "Kavuz",
+      "Koçan"
+    ],
+    "answer": 0,
+    "explanation": "Şeftali: Çekirdek kabuğu."
+  },
+  {
+    "id": "mr200-56-0",
+    "subject": 56,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "pomegranate",
+      "banana",
+      "rice",
+      "pineapple"
+    ],
+    "answer": 0,
+    "explanation": "Nar: pomegranate."
+  },
+  {
+    "id": "mr200-56-1",
+    "subject": 56,
+    "level": 1,
+    "family": "food-56-0",
+    "question": "Bu meyvenin çok sayıdaki tanelerini çevreleyen yenebilir kısım hangisidir?",
+    "options": [
+      "Etli tohum örtüsü",
+      "Polen",
+      "Kök kabuğu",
+      "Odun halkası"
+    ],
+    "answer": 0,
+    "explanation": "Nar: Etli tohum örtüsü."
+  },
+  {
+    "id": "mr200-56-2",
+    "subject": 56,
+    "level": 2,
+    "family": "food-56-1",
+    "question": "Bu meyveden yapılan koyu ve ekşi sos hangisidir?",
+    "options": [
+      "Nar ekşisi",
+      "Mayonez",
+      "Tahin",
+      "Hardal"
+    ],
+    "answer": 0,
+    "explanation": "Nar: Nar ekşisi."
+  },
+  {
+    "id": "mr200-56-3",
+    "subject": 56,
+    "level": 3,
+    "family": "food-56-2",
+    "question": "Bu meyve kültürel süslemelerde en çok hangi kavramla eşleştirilir?",
+    "options": [
+      "Bolluk ve bereket",
+      "Yalnızlık",
+      "Issızlık",
+      "Kuraklık"
+    ],
+    "answer": 0,
+    "explanation": "Nar: Bolluk ve bereket."
+  },
+  {
+    "id": "mr200-56-4",
+    "subject": 56,
+    "level": 3,
+    "family": "food-56-3",
+    "question": "Bu meyve ağacının botanik cins adı hangisidir?",
+    "options": [
+      "Punica",
+      "Vitis",
+      "Olea",
+      "Citrus"
+    ],
+    "answer": 0,
+    "explanation": "Nar: Punica."
+  },
+  {
+    "id": "mr200-57-0",
+    "subject": 57,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "pineapple",
+      "orange",
+      "cherry",
+      "pear"
+    ],
+    "answer": 0,
+    "explanation": "Ananas: pineapple."
+  },
+  {
+    "id": "mr200-57-1",
+    "subject": 57,
+    "level": 1,
+    "family": "food-57-0",
+    "question": "Bu meyvenin üstündeki yapraklı tepe için yaygın ad hangisidir?",
+    "options": [
+      "Taç",
+      "Başak",
+      "Koçan",
+      "Salkım"
+    ],
+    "answer": 0,
+    "explanation": "Ananas: Taç."
+  },
+  {
+    "id": "mr200-57-2",
+    "subject": 57,
+    "level": 2,
+    "family": "food-57-1",
+    "question": "Bu meyve tek çiçeğin yumurtalığından mı, çok sayıda çiçekten mi gelişir?",
+    "options": [
+      "Çok sayıda çiçekten",
+      "Bir kök yumrusundan",
+      "Tek polen tanesinden",
+      "Yalnız bir yapraktan"
+    ],
+    "answer": 0,
+    "explanation": "Ananas: Çok sayıda çiçekten."
+  },
+  {
+    "id": "mr200-57-3",
+    "subject": 57,
+    "level": 3,
+    "family": "food-57-2",
+    "question": "Bu meyvede bulunan ve proteinleri parçalayan enzim grubu hangisidir?",
+    "options": [
+      "Bromelain",
+      "Amilaz",
+      "Laktaz",
+      "Lipaz"
+    ],
+    "answer": 0,
+    "explanation": "Ananas: Bromelain."
+  },
+  {
+    "id": "mr200-57-4",
+    "subject": 57,
+    "level": 3,
+    "family": "food-57-3",
+    "question": "Bu meyvenin bitkisi hangi familyadandır?",
+    "options": [
+      "Bromeliaceae",
+      "Fabaceae",
+      "Rosaceae",
+      "Poaceae"
+    ],
+    "answer": 0,
+    "explanation": "Ananas: Bromeliaceae."
+  },
+  {
+    "id": "mr200-58-0",
+    "subject": 58,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "pear",
+      "green tea",
+      "chocolate",
+      "wheat"
+    ],
+    "answer": 0,
+    "explanation": "Armut: pear."
+  },
+  {
+    "id": "mr200-58-1",
+    "subject": 58,
+    "level": 1,
+    "family": "food-58-0",
+    "question": "Bu meyve ağacı hangi familyadandır?",
+    "options": [
+      "Gülgiller",
+      "Buğdaygiller",
+      "Baklagiller",
+      "Kabakgiller"
+    ],
+    "answer": 0,
+    "explanation": "Armut: Gülgiller."
+  },
+  {
+    "id": "mr200-58-2",
+    "subject": 58,
+    "level": 2,
+    "family": "food-58-1",
+    "question": "Bu meyvenin dokusunda hafif kumlu his veren hücrelere ne denir?",
+    "options": [
+      "Taş hücreleri",
+      "Maya hücreleri",
+      "Sinir hücreleri",
+      "Alyuvarlar"
+    ],
+    "answer": 0,
+    "explanation": "Armut: Taş hücreleri."
+  },
+  {
+    "id": "mr200-58-3",
+    "subject": 58,
+    "level": 3,
+    "family": "food-58-2",
+    "question": "Bu meyvenin ağaçtan düşmesiyle ilgili yaygın deyimde hangi sözcük tamamlar: dibine...?",
+    "options": [
+      "Düşer",
+      "Uçar",
+      "Yürür",
+      "Yüzer"
+    ],
+    "answer": 0,
+    "explanation": "Armut: Düşer."
+  },
+  {
+    "id": "mr200-58-4",
+    "subject": 58,
+    "level": 3,
+    "family": "food-58-3",
+    "question": "Bu meyve botanik yapısı bakımından hangisine daha yakındır?",
+    "options": [
+      "Elma",
+      "Fındık",
+      "Nohut",
+      "Mısır"
+    ],
+    "answer": 0,
+    "explanation": "Armut: Elma."
+  },
+  {
+    "id": "mr200-59-0",
+    "subject": 59,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "watermelon",
+      "grape",
+      "rice",
+      "coffee"
+    ],
+    "answer": 0,
+    "explanation": "Karpuz: watermelon."
+  },
+  {
+    "id": "mr200-59-1",
+    "subject": 59,
+    "level": 1,
+    "family": "food-59-0",
+    "question": "Bu meyvenin bitkisi hangi familyadandır?",
+    "options": [
+      "Kabakgiller",
+      "Gülgiller",
+      "Buğdaygiller",
+      "Baklagiller"
+    ],
+    "answer": 0,
+    "explanation": "Karpuz: Kabakgiller."
+  },
+  {
+    "id": "mr200-59-2",
+    "subject": 59,
+    "level": 2,
+    "family": "food-59-1",
+    "question": "Bu meyve hangi büyüme biçimine sahip bitkide yetişir?",
+    "options": [
+      "Yere yayılan otsu bitki",
+      "İğne yapraklı ağaç",
+      "Su yosunu",
+      "Uzun gövdeli palmiye"
+    ],
+    "answer": 0,
+    "explanation": "Karpuz: Yere yayılan otsu bitki."
+  },
+  {
+    "id": "mr200-59-3",
+    "subject": 59,
+    "level": 3,
+    "family": "food-59-2",
+    "question": "Bu meyvenin kırmızı etinde bulunan karotenoid hangisidir?",
+    "options": [
+      "Likopen",
+      "Klorofil",
+      "Melanin",
+      "Keratin"
+    ],
+    "answer": 0,
+    "explanation": "Karpuz: Likopen."
+  },
+  {
+    "id": "mr200-59-4",
+    "subject": 59,
+    "level": 3,
+    "family": "food-59-3",
+    "question": "İki işi aynı anda yapamamakla ilgili deyim: Bir koltuğa iki ... sığmaz. Boşluğa ne gelir?",
+    "options": [
+      "Karpuz",
+      "Kiraz",
+      "Üzüm",
+      "Armut"
+    ],
+    "answer": 0,
+    "explanation": "Karpuz: Karpuz."
+  },
+  {
+    "id": "mr200-60-0",
+    "subject": 60,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "coconut",
+      "baklava",
+      "wheat",
+      "strawberry"
+    ],
+    "answer": 0,
+    "explanation": "Hindistan cevizi: coconut."
+  },
+  {
+    "id": "mr200-60-1",
+    "subject": 60,
+    "level": 1,
+    "family": "food-60-0",
+    "question": "Fotoğraftaki ürünün bitkisi hangi gruptadır?",
+    "options": [
+      "Palmiyeler",
+      "Çamlar",
+      "Kaktüsler",
+      "Eğreltiler"
+    ],
+    "answer": 0,
+    "explanation": "Hindistan cevizi: Palmiyeler."
+  },
+  {
+    "id": "mr200-60-2",
+    "subject": 60,
+    "level": 2,
+    "family": "food-60-1",
+    "question": "Bu ürünün beyaz etli kısmından sıkılarak elde edilen mutfak ürünü hangisidir?",
+    "options": [
+      "Hindistan cevizi sütü",
+      "Pirinç sirkesi",
+      "Kakao tozu",
+      "Üzüm pekmezi"
+    ],
+    "answer": 0,
+    "explanation": "Hindistan cevizi: Hindistan cevizi sütü."
+  },
+  {
+    "id": "mr200-60-3",
+    "subject": 60,
+    "level": 3,
+    "family": "food-60-2",
+    "question": "Bu ürünün dışındaki liflerden yapılan malzemeye ne denir?",
+    "options": [
+      "Coir",
+      "Naylon",
+      "İpek",
+      "Keçe"
+    ],
+    "answer": 0,
+    "explanation": "Hindistan cevizi: Coir."
+  },
+  {
+    "id": "mr200-60-4",
+    "subject": 60,
+    "level": 3,
+    "family": "food-60-3",
+    "question": "Bu meyvenin sert kabuğunda görülen üç küçük iz hangi yapılarla ilişkilidir?",
+    "options": [
+      "Çimlenme gözenekleri",
+      "Polen kanatları",
+      "Çiçek yaprakları",
+      "Solungaçlar"
+    ],
+    "answer": 0,
+    "explanation": "Hindistan cevizi: Çimlenme gözenekleri."
+  },
+  {
+    "id": "mr200-61-0",
+    "subject": 61,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "kiwifruit",
+      "orange",
+      "wheat",
+      "banana"
+    ],
+    "answer": 0,
+    "explanation": "Kivi: kiwifruit."
+  },
+  {
+    "id": "mr200-61-1",
+    "subject": 61,
+    "level": 1,
+    "family": "food-61-0",
+    "question": "Bu meyve adını hangi ülkeyle özdeşleşen kuştan almıştır?",
+    "options": [
+      "Yeni Zelanda",
+      "Mısır",
+      "Kanada",
+      "İzlanda"
+    ],
+    "answer": 0,
+    "explanation": "Kivi: Yeni Zelanda."
+  },
+  {
+    "id": "mr200-61-2",
+    "subject": 61,
+    "level": 2,
+    "family": "food-61-1",
+    "question": "Bu meyvenin bitkisi nasıl büyür?",
+    "options": [
+      "Tırmanıcı sarılıcı bitki",
+      "Çöl kaktüsü",
+      "Uzun bir palmiye",
+      "Su yosunu"
+    ],
+    "answer": 0,
+    "explanation": "Kivi: Tırmanıcı sarılıcı bitki."
+  },
+  {
+    "id": "mr200-61-3",
+    "subject": 61,
+    "level": 3,
+    "family": "food-61-2",
+    "question": "Bu meyvenin tarihî yayılışı ve anavatanı hangi ülkeyle ilişkilidir?",
+    "options": [
+      "Çin",
+      "Brezilya",
+      "Meksika",
+      "Norveç"
+    ],
+    "answer": 0,
+    "explanation": "Kivi: Çin."
+  },
+  {
+    "id": "mr200-61-4",
+    "subject": 61,
+    "level": 3,
+    "family": "food-61-3",
+    "question": "Bu meyvenin bitkisinde meyve üretimi için çoğu ticari çeşitte ne gerekir?",
+    "options": [
+      "Erkek ve dişi bitkiler arasında tozlaşma",
+      "Tüm çiçeklerin koparılması",
+      "Bitkinin hiç ışık almaması",
+      "Yalnız köklerin kesilmesi"
+    ],
+    "answer": 0,
+    "explanation": "Kivi: Erkek ve dişi bitkiler arasında tozlaşma."
+  },
+  {
+    "id": "mr200-62-0",
+    "subject": 62,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "orange",
+      "pineapple",
+      "corn",
+      "baklava"
+    ],
+    "answer": 0,
+    "explanation": "Portakal: orange."
+  },
+  {
+    "id": "mr200-62-1",
+    "subject": 62,
+    "level": 1,
+    "family": "food-62-0",
+    "question": "Bu meyve hangi bitki cinsinin üyesidir?",
+    "options": [
+      "Citrus",
+      "Vitis",
+      "Rosa",
+      "Olea"
+    ],
+    "answer": 0,
+    "explanation": "Portakal: Citrus."
+  },
+  {
+    "id": "mr200-62-2",
+    "subject": 62,
+    "level": 2,
+    "family": "food-62-1",
+    "question": "Bu meyvenin kabuğunun rendelenen renkli dış tabakası için mutfak terimi hangisidir?",
+    "options": [
+      "Zest",
+      "Roux",
+      "Confit",
+      "Julienne"
+    ],
+    "answer": 0,
+    "explanation": "Portakal: Zest."
+  },
+  {
+    "id": "mr200-62-3",
+    "subject": 62,
+    "level": 3,
+    "family": "food-62-2",
+    "question": "Bu meyve hangi grubun üyesidir?",
+    "options": [
+      "Turunçgiller",
+      "Baklagiller",
+      "Sert kabuklu yemişler",
+      "Tahıllar"
+    ],
+    "answer": 0,
+    "explanation": "Portakal: Turunçgiller."
+  },
+  {
+    "id": "mr200-62-4",
+    "subject": 62,
+    "level": 3,
+    "family": "food-62-3",
+    "question": "Bu meyvenin tatlı çeşidi ile daha acı yakını hangisidir?",
+    "options": [
+      "Turunç",
+      "Kiraz",
+      "Armut",
+      "Şeftali"
+    ],
+    "answer": 0,
+    "explanation": "Portakal: Turunç."
+  },
+  {
+    "id": "mr200-69-0",
+    "subject": 69,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "baklava",
+      "strawberry",
+      "coffee",
+      "coconut"
+    ],
+    "answer": 0,
+    "explanation": "Baklava: baklava."
+  },
+  {
+    "id": "mr200-69-1",
+    "subject": 69,
+    "level": 1,
+    "family": "food-69-0",
+    "question": "Fotoğraftaki tatlının ince hamur katlarının adı nedir?",
+    "options": [
+      "Yufka",
+      "Milföy kreması",
+      "Krep",
+      "Beze"
+    ],
+    "answer": 0,
+    "explanation": "Baklava: Yufka."
+  },
+  {
+    "id": "mr200-69-2",
+    "subject": 69,
+    "level": 2,
+    "family": "food-69-1",
+    "question": "Bu tatlıya dökülen şekerli sıvıya ne denir?",
+    "options": [
+      "Şerbet",
+      "Salamura",
+      "Marine",
+      "Et suyu"
+    ],
+    "answer": 0,
+    "explanation": "Baklava: Şerbet."
+  },
+  {
+    "id": "mr200-69-3",
+    "subject": 69,
+    "level": 3,
+    "family": "food-69-2",
+    "question": "Bu tatlının Türkiye'de özellikle hangi şehirle özdeşleşen çeşidi vardır?",
+    "options": [
+      "Gaziantep",
+      "Rize",
+      "Kars",
+      "Sinop"
+    ],
+    "answer": 0,
+    "explanation": "Baklava: Gaziantep."
+  },
+  {
+    "id": "mr200-69-4",
+    "subject": 69,
+    "level": 3,
+    "family": "food-69-3",
+    "question": "Bu tatlının geleneksel çeşitlerinde hangi malzeme iç olarak sık kullanılır?",
+    "options": [
+      "Antep fıstığı veya ceviz",
+      "Mercimek",
+      "Siyah zeytin",
+      "Tuzlu balık"
+    ],
+    "answer": 0,
+    "explanation": "Baklava: Antep fıstığı veya ceviz."
+  },
+  {
+    "id": "mr200-84-0",
+    "subject": 84,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "coffee",
+      "coconut",
+      "watermelon",
+      "wheat"
+    ],
+    "answer": 0,
+    "explanation": "Kahve: coffee."
+  },
+  {
+    "id": "mr200-84-1",
+    "subject": 84,
+    "level": 1,
+    "family": "food-84-0",
+    "question": "Fotoğraftaki içeceğin kavrulan taneleri bitkinin hangi bölümüdür?",
+    "options": [
+      "Meyve çekirdeği",
+      "Kök",
+      "Yaprak",
+      "Çiçek sapı"
+    ],
+    "answer": 0,
+    "explanation": "Kahve: Meyve çekirdeği."
+  },
+  {
+    "id": "mr200-84-2",
+    "subject": 84,
+    "level": 2,
+    "family": "food-84-1",
+    "question": "Espresso yapımında sıcak su kahveden nasıl geçirilir?",
+    "options": [
+      "Basınçla",
+      "Buharı yoğunlaştırıp buzla",
+      "Dondurarak",
+      "Güneşte bekleterek"
+    ],
+    "answer": 0,
+    "explanation": "Kahve: Basınçla."
+  },
+  {
+    "id": "mr200-84-3",
+    "subject": 84,
+    "level": 3,
+    "family": "food-84-2",
+    "question": "Kahve üstüne buharla ısıtılmış süt ve süt köpüğü eklenen içecek hangisidir?",
+    "options": [
+      "Cappuccino",
+      "Şalgam",
+      "Ayran",
+      "Limonata"
+    ],
+    "answer": 0,
+    "explanation": "Kahve: Cappuccino."
+  },
+  {
+    "id": "mr200-84-4",
+    "subject": 84,
+    "level": 3,
+    "family": "food-84-3",
+    "question": "Türk kahvesini pişirmede kullanılan küçük kap hangisidir?",
+    "options": [
+      "Cezve",
+      "Süzgeç",
+      "Kevgir",
+      "Güveç"
+    ],
+    "answer": 0,
+    "explanation": "Kahve: Cezve."
+  },
+  {
+    "id": "mr200-85-0",
+    "subject": 85,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "corn",
+      "grape",
+      "apple",
+      "coffee"
+    ],
+    "answer": 0,
+    "explanation": "Mısır: corn."
+  },
+  {
+    "id": "mr200-85-1",
+    "subject": 85,
+    "level": 1,
+    "family": "food-85-0",
+    "question": "Fotoğraftaki bitki hangi familyaya aittir?",
+    "options": [
+      "Buğdaygiller",
+      "Turpgiller",
+      "Gülgiller",
+      "Baklagiller"
+    ],
+    "answer": 0,
+    "explanation": "Mısır: Buğdaygiller."
+  },
+  {
+    "id": "mr200-85-2",
+    "subject": 85,
+    "level": 2,
+    "family": "food-85-1",
+    "question": "Bu ürünün tanelerinin dizildiği kalın eksene ne denir?",
+    "options": [
+      "Koçan",
+      "Salkım",
+      "Kök yumrusu",
+      "Kapsül"
+    ],
+    "answer": 0,
+    "explanation": "Mısır: Koçan."
+  },
+  {
+    "id": "mr200-85-3",
+    "subject": 85,
+    "level": 3,
+    "family": "food-85-2",
+    "question": "Bu ürünle özdeşleşen Karadeniz yemeği hangisidir?",
+    "options": [
+      "Mıhlama veya kuymak",
+      "Mantı",
+      "Fava",
+      "İçli köfte"
+    ],
+    "answer": 0,
+    "explanation": "Mısır: Mıhlama veya kuymak."
+  },
+  {
+    "id": "mr200-85-4",
+    "subject": 85,
+    "level": 3,
+    "family": "food-85-3",
+    "question": "Bu ürünün bazı çeşitleri ısıtılınca neden patlar?",
+    "options": [
+      "İçindeki suyun buhar basıncı kabuğu açar",
+      "Yağ donar",
+      "Tuz kristalleri yanar",
+      "İçinde maya çoğalır"
+    ],
+    "answer": 0,
+    "explanation": "Mısır: İçindeki suyun buhar basıncı kabuğu açar."
+  },
+  {
+    "id": "mr200-86-0",
+    "subject": 86,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "green tea",
+      "olive oil",
+      "kiwifruit",
+      "apple"
+    ],
+    "answer": 0,
+    "explanation": "Yeşil çay: green tea."
+  },
+  {
+    "id": "mr200-86-1",
+    "subject": 86,
+    "level": 1,
+    "family": "food-86-0",
+    "question": "Fotoğraftaki yeşil çay ile siyah çay hakkında hangisi doğrudur?",
+    "options": [
+      "Aynı bitkiden farklı işlemlerle elde edilir",
+      "Biri yosundan üretilir",
+      "Birinin bitkisi kaktüstür",
+      "Biri meyve çekirdeğidir"
+    ],
+    "answer": 0,
+    "explanation": "Yeşil çay: Aynı bitkiden farklı işlemlerle elde edilir."
+  },
+  {
+    "id": "mr200-86-2",
+    "subject": 86,
+    "level": 2,
+    "family": "food-86-1",
+    "question": "Yeşil çay üretiminde yaprağa erken ısı uygulanmasının amacı nedir?",
+    "options": [
+      "Enzimatik oksitlenmeyi sınırlamak",
+      "Yaprağı dondurmak",
+      "Kök oluşturmak",
+      "Kafeini tuza çevirmek"
+    ],
+    "answer": 0,
+    "explanation": "Yeşil çay: Enzimatik oksitlenmeyi sınırlamak."
+  },
+  {
+    "id": "mr200-86-3",
+    "subject": 86,
+    "level": 3,
+    "family": "food-86-2",
+    "question": "Çayın bilimsel tür adı hangisidir?",
+    "options": [
+      "Camellia sinensis",
+      "Coffea arabica",
+      "Vitis vinifera",
+      "Olea europaea"
+    ],
+    "answer": 0,
+    "explanation": "Yeşil çay: Camellia sinensis."
+  },
+  {
+    "id": "mr200-86-4",
+    "subject": 86,
+    "level": 3,
+    "family": "food-86-3",
+    "question": "Bu içecek hazırlanırken yaprakların sıcak suda bekletilmesine ne denir?",
+    "options": [
+      "Demleme",
+      "Tuzlama",
+      "Mayalama",
+      "Kavurma"
+    ],
+    "answer": 0,
+    "explanation": "Yeşil çay: Demleme."
+  },
+  {
+    "id": "mr200-87-0",
+    "subject": 87,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "olive oil",
+      "kiwifruit",
+      "strawberry",
+      "baklava"
+    ],
+    "answer": 0,
+    "explanation": "Zeytinyağı: olive oil."
+  },
+  {
+    "id": "mr200-87-1",
+    "subject": 87,
+    "level": 1,
+    "family": "food-87-0",
+    "question": "Fotoğraftaki yağ bitkinin hangi kısmından elde edilir?",
+    "options": [
+      "Zeytin meyvesinden",
+      "Kuru yapraktan",
+      "Çiçek sapından",
+      "Ağaç kabuğundan"
+    ],
+    "answer": 0,
+    "explanation": "Zeytinyağı: Zeytin meyvesinden."
+  },
+  {
+    "id": "mr200-87-2",
+    "subject": 87,
+    "level": 2,
+    "family": "food-87-1",
+    "question": "Zeytin meyvesini işlemede yağı su ve posadan ayıran yöntemlerden biri hangisidir?",
+    "options": [
+      "Santrifüj",
+      "Elektroliz",
+      "Süblimleşme",
+      "Dondurarak tuzlama"
+    ],
+    "answer": 0,
+    "explanation": "Zeytinyağı: Santrifüj."
+  },
+  {
+    "id": "mr200-87-3",
+    "subject": 87,
+    "level": 3,
+    "family": "food-87-2",
+    "question": "Bu yağda baskın olan tekli doymamış yağ asidi hangisidir?",
+    "options": [
+      "Oleik asit",
+      "Stearik asit",
+      "Palmitik asit",
+      "Linoleik asit"
+    ],
+    "answer": 0,
+    "explanation": "Zeytinyağı: Oleik asit."
+  },
+  {
+    "id": "mr200-87-4",
+    "subject": 87,
+    "level": 3,
+    "family": "food-87-3",
+    "question": "Zeytin ağacının bilimsel tür adı hangisidir?",
+    "options": [
+      "Olea europaea",
+      "Coffea arabica",
+      "Vitis vinifera",
+      "Camellia sinensis"
+    ],
+    "answer": 0,
+    "explanation": "Zeytinyağı: Olea europaea."
+  },
+  {
+    "id": "mr200-88-0",
+    "subject": 88,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "chocolate",
+      "grape",
+      "pear",
+      "banana"
+    ],
+    "answer": 0,
+    "explanation": "Çikolata: chocolate."
+  },
+  {
+    "id": "mr200-88-1",
+    "subject": 88,
+    "level": 1,
+    "family": "food-88-0",
+    "question": "Fotoğraftaki ürünün temel ham maddesi hangi bitkinin çekirdeğidir?",
+    "options": [
+      "Kakao",
+      "Buğday",
+      "Çavdar",
+      "Kahve"
+    ],
+    "answer": 0,
+    "explanation": "Çikolata: Kakao."
+  },
+  {
+    "id": "mr200-88-2",
+    "subject": 88,
+    "level": 2,
+    "family": "food-88-1",
+    "question": "Çikolatayı eritip belirli sıcaklıklarla yeniden düzenleyerek parlaklaştırmaya ne denir?",
+    "options": [
+      "Temperleme",
+      "Salamura",
+      "Pastörizasyon",
+      "Mayalama"
+    ],
+    "answer": 0,
+    "explanation": "Çikolata: Temperleme."
+  },
+  {
+    "id": "mr200-88-3",
+    "subject": 88,
+    "level": 3,
+    "family": "food-88-2",
+    "question": "Kakaonun bilimsel cins adı hangisidir?",
+    "options": [
+      "Theobroma",
+      "Citrus",
+      "Olea",
+      "Rosa"
+    ],
+    "answer": 0,
+    "explanation": "Çikolata: Theobroma."
+  },
+  {
+    "id": "mr200-88-4",
+    "subject": 88,
+    "level": 3,
+    "family": "food-88-3",
+    "question": "Beyaz çikolatanın koyu çikolatadan temel farkı hangisidir?",
+    "options": [
+      "Kakao kuru maddesi yerine kakao yağı temel alınır",
+      "Yalnız tuzdan oluşur",
+      "Süt hiç kullanılamaz",
+      "İçinde hiç yağ bulunmaz"
+    ],
+    "answer": 0,
+    "explanation": "Çikolata: Kakao kuru maddesi yerine kakao yağı temel alınır."
+  },
+  {
+    "id": "mr200-89-0",
+    "subject": 89,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "wheat",
+      "watermelon",
+      "orange",
+      "green tea"
+    ],
+    "answer": 0,
+    "explanation": "Buğday: wheat."
+  },
+  {
+    "id": "mr200-89-1",
+    "subject": 89,
+    "level": 1,
+    "family": "food-89-0",
+    "question": "Fotoğraftaki tahıl taneleri öğütülünce temel olarak hangi ürün elde edilir?",
+    "options": [
+      "Un",
+      "Zeytinyağı",
+      "Tahin",
+      "Pekmez"
+    ],
+    "answer": 0,
+    "explanation": "Buğday: Un."
+  },
+  {
+    "id": "mr200-89-2",
+    "subject": 89,
+    "level": 2,
+    "family": "food-89-1",
+    "question": "Bu tahıldaki hamura esneklik kazandıran protein ağına ne denir?",
+    "options": [
+      "Gluten",
+      "Klorofil",
+      "Keratin",
+      "Pektin"
+    ],
+    "answer": 0,
+    "explanation": "Buğday: Gluten."
+  },
+  {
+    "id": "mr200-89-3",
+    "subject": 89,
+    "level": 3,
+    "family": "food-89-2",
+    "question": "Bu tahılın tanelerini taşıyan çiçek topluluğuna ne denir?",
+    "options": [
+      "Başak",
+      "Kök yumrusu",
+      "Koçan",
+      "Kapsül"
+    ],
+    "answer": 0,
+    "explanation": "Buğday: Başak."
+  },
+  {
+    "id": "mr200-89-4",
+    "subject": 89,
+    "level": 3,
+    "family": "food-89-3",
+    "question": "Bu tahıl hangi familyadandır?",
+    "options": [
+      "Buğdaygiller",
+      "Baklagiller",
+      "Gülgiller",
+      "Turpgiller"
+    ],
+    "answer": 0,
+    "explanation": "Buğday: Buğdaygiller."
+  },
+  {
+    "id": "mr200-90-0",
+    "subject": 90,
+    "level": 1,
+    "family": "english",
+    "question": "Fotoğraftaki yiyecek veya içeceğin İngilizce adı hangisidir?",
+    "options": [
+      "rice",
+      "pineapple",
+      "coconut",
+      "baklava"
+    ],
+    "answer": 0,
+    "explanation": "Pirinç: rice."
+  },
+  {
+    "id": "mr200-90-1",
+    "subject": 90,
+    "level": 1,
+    "family": "food-90-0",
+    "question": "Fotoğraftaki tanelerin kabuğu soyulmadan önceki tarımsal adı nedir?",
+    "options": [
+      "Çeltik",
+      "Bulgur",
+      "İrmik",
+      "Tarhana"
+    ],
+    "answer": 0,
+    "explanation": "Pirinç: Çeltik."
+  },
+  {
+    "id": "mr200-90-2",
+    "subject": 90,
+    "level": 2,
+    "family": "food-90-1",
+    "question": "Bu ürünle yapılan geleneksel sütlü tatlı hangisidir?",
+    "options": [
+      "Sütlaç",
+      "Helva",
+      "Kadayıf",
+      "Baklava"
+    ],
+    "answer": 0,
+    "explanation": "Pirinç: Sütlaç."
+  },
+  {
+    "id": "mr200-90-3",
+    "subject": 90,
+    "level": 3,
+    "family": "food-90-2",
+    "question": "Bu ürünün nişastasından yararlanılan İtalyan yemeği hangisidir?",
+    "options": [
+      "Risotto",
+      "Ratatouille",
+      "Humus",
+      "Guacamole"
+    ],
+    "answer": 0,
+    "explanation": "Pirinç: Risotto."
+  },
+  {
+    "id": "mr200-90-4",
+    "subject": 90,
+    "level": 3,
+    "family": "food-90-3",
+    "question": "Bu ürün hangi familyanın üyesidir?",
+    "options": [
+      "Buğdaygiller",
+      "Gülgiller",
+      "Baklagiller",
+      "Kabakgiller"
+    ],
+    "answer": 0,
+    "explanation": "Pirinç: Buğdaygiller."
+  },
+  {
+    "id": "mr200-48-0",
+    "subject": 48,
+    "level": 2,
+    "family": "flower-48-0",
+    "question": "Fotoğraftaki papatyanın çiçek tablası hangi familyayla ilişkilidir?",
+    "options": [
+      "Papatyagiller",
+      "Buğdaygiller",
+      "Baklagiller",
+      "Gülgiller"
+    ],
+    "answer": 0,
+    "explanation": "Papatya: Papatyagiller."
+  },
+  {
+    "id": "mr200-48-1",
+    "subject": 48,
+    "level": 3,
+    "family": "flower-48-1",
+    "question": "Papatya benzeri bitkilerde tek çiçek gibi görünen yapı aslında nedir?",
+    "options": [
+      "Birçok küçük çiçeğin oluşturduğu başçık",
+      "Bir kök",
+      "Tek büyük tohum",
+      "Bir yaprak"
+    ],
+    "answer": 0,
+    "explanation": "Papatya: Birçok küçük çiçeğin oluşturduğu başçık."
+  },
+  {
+    "id": "mr200-48-2",
+    "subject": 48,
+    "level": 2,
+    "family": "flower-48-2",
+    "question": "Bu çiçeğin İngilizce adı hangisidir?",
+    "options": [
+      "Daisy",
+      "Tulip",
+      "Orchid",
+      "Rose"
+    ],
+    "answer": 0,
+    "explanation": "Papatya: Daisy."
+  },
+  {
+    "id": "mr200-48-3",
+    "subject": 48,
+    "level": 1,
+    "family": "flower-48-3",
+    "question": "Bu bitkide fotosentezin yapıldığı temel organ hangisidir?",
+    "options": [
+      "Yeşil yapraklar",
+      "Polen taneleri",
+      "Kuru tohum kabuğu",
+      "Kök tüyleri"
+    ],
+    "answer": 0,
+    "explanation": "Papatya: Yeşil yapraklar."
+  },
+  {
+    "id": "mr200-48-4",
+    "subject": 48,
+    "level": 2,
+    "family": "flower-48-4",
+    "question": "Bu çiçekle oynanan geleneksel falda yapraklar koparılırken hangi sözler söylenir?",
+    "options": [
+      "Seviyor sevmiyor",
+      "Aç kapıyı bezirgânbaşı",
+      "Ebe ebe bize gel",
+      "Az gittik uz gittik"
+    ],
+    "answer": 0,
+    "explanation": "Papatya: Seviyor sevmiyor."
+  },
+  {
+    "id": "mr200-49-0",
+    "subject": 49,
+    "level": 2,
+    "family": "flower-49-0",
+    "question": "Fotoğraftaki lotus en çok hangi yaşam ortamıyla ilişkilidir?",
+    "options": [
+      "Sığ tatlı su ve çamurlu zemin",
+      "Buzul içleri",
+      "Tuz mağaraları",
+      "Kuru kum tepeleri"
+    ],
+    "answer": 0,
+    "explanation": "Lotus: Sığ tatlı su ve çamurlu zemin."
+  },
+  {
+    "id": "mr200-49-1",
+    "subject": 49,
+    "level": 3,
+    "family": "flower-49-1",
+    "question": "Lotus yaprağının suyu iterek temiz kalması hangi adla anılır?",
+    "options": [
+      "Lotus etkisi",
+      "Tyndall etkisi",
+      "Doppler etkisi",
+      "Sera etkisi"
+    ],
+    "answer": 0,
+    "explanation": "Lotus: Lotus etkisi."
+  },
+  {
+    "id": "mr200-49-2",
+    "subject": 49,
+    "level": 2,
+    "family": "flower-49-2",
+    "question": "Bu bitkinin çamur içindeki yatay yer altı gövdesi hangi tiptedir?",
+    "options": [
+      "Rizom",
+      "Koçan",
+      "Kapsül",
+      "Stolon meyvesi"
+    ],
+    "answer": 0,
+    "explanation": "Lotus: Rizom."
+  },
+  {
+    "id": "mr200-49-3",
+    "subject": 49,
+    "level": 1,
+    "family": "flower-49-3",
+    "question": "Lotus özellikle hangi dinin simgelerinde sık görülür?",
+    "options": [
+      "Budizm",
+      "Yahudilik",
+      "Hristiyanlık",
+      "İslamiyet"
+    ],
+    "answer": 0,
+    "explanation": "Lotus: Budizm."
+  },
+  {
+    "id": "mr200-49-4",
+    "subject": 49,
+    "level": 2,
+    "family": "flower-49-4",
+    "question": "Bu su bitkisinin İngilizce adı hangisidir?",
+    "options": [
+      "Lotus",
+      "Daisy",
+      "Lavender",
+      "Sunflower"
+    ],
+    "answer": 0,
+    "explanation": "Lotus: Lotus."
+  },
+  {
+    "id": "mr200-50-0",
+    "subject": 50,
+    "level": 2,
+    "family": "flower-50-0",
+    "question": "Fotoğraftaki orkideyle aynı familyadan olan baharat bitkisi hangisidir?",
+    "options": [
+      "Vanilya",
+      "Tarçın",
+      "Kimyon",
+      "Karabiber"
+    ],
+    "answer": 0,
+    "explanation": "Orkide: Vanilya."
+  },
+  {
+    "id": "mr200-50-1",
+    "subject": 50,
+    "level": 3,
+    "family": "flower-50-1",
+    "question": "Birçok tropik orkidenin başka ağaç üzerinde destek alarak yetişmesine ne denir?",
+    "options": [
+      "Epifit yaşam",
+      "Parazit omurgalılık",
+      "Kemosentez",
+      "Suda yumurtlama"
+    ],
+    "answer": 0,
+    "explanation": "Orkide: Epifit yaşam."
+  },
+  {
+    "id": "mr200-50-2",
+    "subject": 50,
+    "level": 2,
+    "family": "flower-50-2",
+    "question": "Orkidelerin çoğunda çiçeğin simetri tipi hangisidir?",
+    "options": [
+      "İki yanlı simetri",
+      "Simetrisiz kristal",
+      "Tam küresel simetri",
+      "Karesel simetri"
+    ],
+    "answer": 0,
+    "explanation": "Orkide: İki yanlı simetri."
+  },
+  {
+    "id": "mr200-50-3",
+    "subject": 50,
+    "level": 1,
+    "family": "flower-50-3",
+    "question": "Bu süs bitkisinin İngilizce adı hangisidir?",
+    "options": [
+      "Orchid",
+      "Tulip",
+      "Rose",
+      "Cactus"
+    ],
+    "answer": 0,
+    "explanation": "Orkide: Orchid."
+  },
+  {
+    "id": "mr200-50-4",
+    "subject": 50,
+    "level": 2,
+    "family": "flower-50-4",
+    "question": "Orkidelerde polenlerin toplu paketlerine verilen ad hangisidir?",
+    "options": [
+      "Pollinium",
+      "Koçan",
+      "Ossikon",
+      "Balen"
+    ],
+    "answer": 0,
+    "explanation": "Orkide: Pollinium."
+  },
+  {
+    "id": "mr200-51-0",
+    "subject": 51,
+    "level": 2,
+    "family": "flower-51-0",
+    "question": "Fotoğraftaki gülün bitki familyası hangisidir?",
+    "options": [
+      "Gülgiller",
+      "Buğdaygiller",
+      "Kabakgiller",
+      "Turpgiller"
+    ],
+    "answer": 0,
+    "explanation": "Gül: Gülgiller."
+  },
+  {
+    "id": "mr200-51-1",
+    "subject": 51,
+    "level": 3,
+    "family": "flower-51-1",
+    "question": "Türkiye'de yağ gülü üretimiyle özellikle hangi şehir tanınır?",
+    "options": [
+      "Isparta",
+      "Rize",
+      "Sinop",
+      "Kars"
+    ],
+    "answer": 0,
+    "explanation": "Gül: Isparta."
+  },
+  {
+    "id": "mr200-51-2",
+    "subject": 51,
+    "level": 2,
+    "family": "flower-51-2",
+    "question": "Gül yapraklarının damıtılmasıyla elde edilen kokulu ürün hangisidir?",
+    "options": [
+      "Gül suyu",
+      "Salamura",
+      "Pekmez",
+      "Tahin"
+    ],
+    "answer": 0,
+    "explanation": "Gül: Gül suyu."
+  },
+  {
+    "id": "mr200-51-3",
+    "subject": 51,
+    "level": 1,
+    "family": "flower-51-3",
+    "question": "Bu çiçeğin İngilizce adı hangisidir?",
+    "options": [
+      "Rose",
+      "Daisy",
+      "Tulip",
+      "Lotus"
+    ],
+    "answer": 0,
+    "explanation": "Gül: Rose."
+  },
+  {
+    "id": "mr200-51-4",
+    "subject": 51,
+    "level": 2,
+    "family": "flower-51-4",
+    "question": "Güllerin botanik cins adı hangisidir?",
+    "options": [
+      "Rosa",
+      "Vitis",
+      "Coffea",
+      "Olea"
+    ],
+    "answer": 0,
+    "explanation": "Gül: Rosa."
+  },
+  {
+    "id": "mr200-52-0",
+    "subject": 52,
+    "level": 2,
+    "family": "flower-52-0",
+    "question": "Fotoğraftaki lavanta hangi familyadadır?",
+    "options": [
+      "Ballıbabagiller",
+      "Kabakgiller",
+      "Gülgiller",
+      "Buğdaygiller"
+    ],
+    "answer": 0,
+    "explanation": "Lavanta: Ballıbabagiller."
+  },
+  {
+    "id": "mr200-52-1",
+    "subject": 52,
+    "level": 3,
+    "family": "flower-52-1",
+    "question": "Lavanta üretiminde hangi ürün önemli yer tutar?",
+    "options": [
+      "Uçucu yağ",
+      "Kakao yağı",
+      "Keten lifi",
+      "Pirinç nişastası"
+    ],
+    "answer": 0,
+    "explanation": "Lavanta: Uçucu yağ."
+  },
+  {
+    "id": "mr200-52-2",
+    "subject": 52,
+    "level": 2,
+    "family": "flower-52-2",
+    "question": "Fransa'da lavanta tarlalarıyla tanınan bölge hangisidir?",
+    "options": [
+      "Provence",
+      "Normandiya",
+      "Bretanya",
+      "Alsace"
+    ],
+    "answer": 0,
+    "explanation": "Lavanta: Provence."
+  },
+  {
+    "id": "mr200-52-3",
+    "subject": 52,
+    "level": 1,
+    "family": "flower-52-3",
+    "question": "Bu kokulu bitkinin İngilizce adı hangisidir?",
+    "options": [
+      "Lavender",
+      "Daisy",
+      "Lotus",
+      "Tulip"
+    ],
+    "answer": 0,
+    "explanation": "Lavanta: Lavender."
+  },
+  {
+    "id": "mr200-52-4",
+    "subject": 52,
+    "level": 2,
+    "family": "flower-52-4",
+    "question": "Lavanta çiçekleri çoğunlukla sap ucunda nasıl bir görünüm oluşturur?",
+    "options": [
+      "Başak benzeri çiçek topluluğu",
+      "Dev bir tek yaprak",
+      "Meyve koçanı",
+      "Sert kabuklu yemiş"
+    ],
+    "answer": 0,
+    "explanation": "Lavanta: Başak benzeri çiçek topluluğu."
+  },
+  {
+    "id": "mr200-53-0",
+    "subject": 53,
+    "level": 2,
+    "family": "flower-53-0",
+    "question": "Fotoğraftaki ayçiçeğinde yenebilir yağ hangi kısımdan elde edilir?",
+    "options": [
+      "Tohumlardan",
+      "Taç yapraklardan",
+      "Kök kabuğundan",
+      "Sap liflerinden"
+    ],
+    "answer": 0,
+    "explanation": "Ayçiçeği: Tohumlardan."
+  },
+  {
+    "id": "mr200-53-1",
+    "subject": 53,
+    "level": 3,
+    "family": "flower-53-1",
+    "question": "Genç ayçiçeğinin güneşi izlemesine verilen ad hangisidir?",
+    "options": [
+      "Heliotropizm",
+      "Jeotropizmin kaybolması",
+      "Süblimleşme",
+      "Fermantasyon"
+    ],
+    "answer": 0,
+    "explanation": "Ayçiçeği: Heliotropizm."
+  },
+  {
+    "id": "mr200-53-2",
+    "subject": 53,
+    "level": 2,
+    "family": "flower-53-2",
+    "question": "Bu bitki hangi familyadadır?",
+    "options": [
+      "Papatyagiller",
+      "Turpgiller",
+      "Baklagiller",
+      "Gülgiller"
+    ],
+    "answer": 0,
+    "explanation": "Ayçiçeği: Papatyagiller."
+  },
+  {
+    "id": "mr200-53-3",
+    "subject": 53,
+    "level": 1,
+    "family": "flower-53-3",
+    "question": "Bu bitkinin İngilizce adı hangisidir?",
+    "options": [
+      "Sunflower",
+      "Orchid",
+      "Tulip",
+      "Daisy"
+    ],
+    "answer": 0,
+    "explanation": "Ayçiçeği: Sunflower."
+  },
+  {
+    "id": "mr200-53-4",
+    "subject": 53,
+    "level": 2,
+    "family": "flower-53-4",
+    "question": "Ayçiçeğinin merkezindeki küçük yapıların çoğu gerçekte nedir?",
+    "options": [
+      "Küçük çiçekler",
+      "Polen bulutları",
+      "Kök tüyleri",
+      "Yaprak dikenleri"
+    ],
+    "answer": 0,
+    "explanation": "Ayçiçeği: Küçük çiçekler."
+  },
+  {
+    "id": "mr200-54-0",
+    "subject": 54,
+    "level": 2,
+    "family": "flower-54-0",
+    "question": "Fotoğraftaki lale hangi yer altı organıyla tanınır?",
+    "options": [
+      "Soğan",
+      "Meyve koçanı",
+      "Kavuk",
+      "Odunsu kazık kök"
+    ],
+    "answer": 0,
+    "explanation": "Lale: Soğan."
+  },
+  {
+    "id": "mr200-54-1",
+    "subject": 54,
+    "level": 3,
+    "family": "flower-54-1",
+    "question": "Osmanlı tarihinde Lale Devri hangi yüzyıldadır?",
+    "options": [
+      "18. yüzyıl",
+      "15. yüzyıl",
+      "16. yüzyıl",
+      "20. yüzyıl"
+    ],
+    "answer": 0,
+    "explanation": "Lale: 18. yüzyıl."
+  },
+  {
+    "id": "mr200-54-2",
+    "subject": 54,
+    "level": 2,
+    "family": "flower-54-2",
+    "question": "Lale tarlaları ve lale ticaretiyle özdeşleşen Avrupa ülkesi hangisidir?",
+    "options": [
+      "Hollanda",
+      "İrlanda",
+      "İzlanda",
+      "Norveç"
+    ],
+    "answer": 0,
+    "explanation": "Lale: Hollanda."
+  },
+  {
+    "id": "mr200-54-3",
+    "subject": 54,
+    "level": 1,
+    "family": "flower-54-3",
+    "question": "Bu bitkinin botanik cins adı hangisidir?",
+    "options": [
+      "Tulipa",
+      "Olea",
+      "Coffea",
+      "Rosa"
+    ],
+    "answer": 0,
+    "explanation": "Lale: Tulipa."
+  },
+  {
+    "id": "mr200-54-4",
+    "subject": 54,
+    "level": 2,
+    "family": "flower-54-4",
+    "question": "Bu çiçeğin İngilizce adı hangisidir?",
+    "options": [
+      "Tulip",
+      "Orchid",
+      "Rose",
+      "Daisy"
+    ],
+    "answer": 0,
+    "explanation": "Lale: Tulip."
+  },
+  {
+    "id": "mr200-55-0",
+    "subject": 55,
+    "level": 2,
+    "family": "flower-55-0",
+    "question": "Fotoğraftaki kaktüslerde su depolamada başlıca hangi organ görev yapar?",
+    "options": [
+      "Etli gövde",
+      "Kuru polen",
+      "Dökülmüş yaprak",
+      "Meyve çekirdeği"
+    ],
+    "answer": 0,
+    "explanation": "Kaktüs: Etli gövde."
+  },
+  {
+    "id": "mr200-55-1",
+    "subject": 55,
+    "level": 3,
+    "family": "flower-55-1",
+    "question": "Birçok kaktüsteki dikenler hangi organın değişmesiyle oluşmuştur?",
+    "options": [
+      "Yaprak",
+      "Tohum",
+      "Meyve",
+      "Kök tüyü"
+    ],
+    "answer": 0,
+    "explanation": "Kaktüs: Yaprak."
+  },
+  {
+    "id": "mr200-55-2",
+    "subject": 55,
+    "level": 2,
+    "family": "flower-55-2",
+    "question": "Kaktüslerin büyük çoğunluğunun doğal yayılışı hangi kıtalarla ilişkilidir?",
+    "options": [
+      "Amerika kıtaları",
+      "Yalnız Avrupa",
+      "Yalnız Avustralya",
+      "Yalnız Antarktika"
+    ],
+    "answer": 0,
+    "explanation": "Kaktüs: Amerika kıtaları."
+  },
+  {
+    "id": "mr200-55-3",
+    "subject": 55,
+    "level": 1,
+    "family": "flower-55-3",
+    "question": "Kaktüslerde gece gözenek açmayı sağlayan fotosentez uyumu hangisidir?",
+    "options": [
+      "CAM",
+      "Krebs'in durması",
+      "Cori döngüsü",
+      "Laktik mayalanma"
+    ],
+    "answer": 0,
+    "explanation": "Kaktüs: CAM."
+  },
+  {
+    "id": "mr200-55-4",
+    "subject": 55,
+    "level": 2,
+    "family": "flower-55-4",
+    "question": "Bu bitki grubunun İngilizce tekil adı hangisidir?",
+    "options": [
+      "Cactus",
+      "Rose",
+      "Lavender",
+      "Lotus"
+    ],
+    "answer": 0,
+    "explanation": "Kaktüs: Cactus."
+  },
+  {
+    "id": "mr200-32-0",
+    "subject": 32,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Avustralya",
+      "Mısır",
+      "Fransa",
+      "İspanya"
+    ],
+    "answer": 0,
+    "explanation": "Sidney Opera Binası: Avustralya."
+  },
+  {
+    "id": "mr200-32-1",
+    "subject": 32,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Sidney",
+      "New York",
+      "Gize",
+      "Cusco bölgesi"
+    ],
+    "answer": 0,
+    "explanation": "Sidney Opera Binası: Sidney."
+  },
+  {
+    "id": "mr200-32-2",
+    "subject": 32,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Canberra",
+      "Madrid",
+      "Pekin",
+      "Londra"
+    ],
+    "answer": 0,
+    "explanation": "Sidney Opera Binası: Canberra."
+  },
+  {
+    "id": "mr200-32-3",
+    "subject": 32,
+    "level": 3,
+    "family": "place-32-0",
+    "question": "Fotoğraftaki opera binasının mimarı kimdir?",
+    "options": [
+      "Jørn Utzon",
+      "Gustave Eiffel",
+      "Oscar Niemeyer",
+      "Antoni Gaudí"
+    ],
+    "answer": 0,
+    "explanation": "Sidney Opera Binası: Jørn Utzon."
+  },
+  {
+    "id": "mr200-32-4",
+    "subject": 32,
+    "level": 3,
+    "family": "place-32-1",
+    "question": "Fotoğraftaki yapı hangi yılda resmen açıldı?",
+    "options": [
+      "1973",
+      "1889",
+      "2007",
+      "1931"
+    ],
+    "answer": 0,
+    "explanation": "Sidney Opera Binası: 1973."
+  },
+  {
+    "id": "mr200-33-0",
+    "subject": 33,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Hindistan",
+      "Amerika Birleşik Devletleri",
+      "Avustralya",
+      "Peru"
+    ],
+    "answer": 0,
+    "explanation": "Tac Mahal: Hindistan."
+  },
+  {
+    "id": "mr200-33-1",
+    "subject": 33,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Agra",
+      "Vadi Musa çevresi",
+      "Pisa",
+      "Cusco bölgesi"
+    ],
+    "answer": 0,
+    "explanation": "Tac Mahal: Agra."
+  },
+  {
+    "id": "mr200-33-2",
+    "subject": 33,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Yeni Delhi",
+      "Pekin",
+      "Madrid",
+      "Canberra"
+    ],
+    "answer": 0,
+    "explanation": "Tac Mahal: Yeni Delhi."
+  },
+  {
+    "id": "mr200-33-3",
+    "subject": 33,
+    "level": 3,
+    "family": "place-33-0",
+    "question": "Fotoğraftaki anıtı yaptıran Babür hükümdarı kimdir?",
+    "options": [
+      "Şah Cihan",
+      "Ekber Şah",
+      "Babür Şah",
+      "Hümayun"
+    ],
+    "answer": 0,
+    "explanation": "Tac Mahal: Şah Cihan."
+  },
+  {
+    "id": "mr200-33-4",
+    "subject": 33,
+    "level": 3,
+    "family": "place-33-1",
+    "question": "Fotoğraftaki anıtın yapımında öne çıkan açık renkli malzeme hangisidir?",
+    "options": [
+      "Beyaz mermer",
+      "Bazalt",
+      "Bakır levha",
+      "Kırmızı tuğla"
+    ],
+    "answer": 0,
+    "explanation": "Tac Mahal: Beyaz mermer."
+  },
+  {
+    "id": "mr200-34-0",
+    "subject": 34,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Birleşik Krallık",
+      "Peru",
+      "Mısır",
+      "Fransa"
+    ],
+    "answer": 0,
+    "explanation": "Big Ben: Birleşik Krallık."
+  },
+  {
+    "id": "mr200-34-1",
+    "subject": 34,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Londra",
+      "Barselona",
+      "Rapa Nui (Paskalya Adası)",
+      "Sidney"
+    ],
+    "answer": 0,
+    "explanation": "Big Ben: Londra."
+  },
+  {
+    "id": "mr200-34-2",
+    "subject": 34,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Londra",
+      "Lima",
+      "Brasília",
+      "Santiago"
+    ],
+    "answer": 0,
+    "explanation": "Big Ben: Londra."
+  },
+  {
+    "id": "mr200-34-3",
+    "subject": 34,
+    "level": 3,
+    "family": "place-34-0",
+    "question": "Big Ben adı teknik olarak fotoğraftaki yapının hangi bölümüne aittir?",
+    "options": [
+      "Büyük çanına",
+      "Kulenin temel taşına",
+      "Saatin akrebine",
+      "Parlamento salonuna"
+    ],
+    "answer": 0,
+    "explanation": "Big Ben: Büyük çanına."
+  },
+  {
+    "id": "mr200-34-4",
+    "subject": 34,
+    "level": 3,
+    "family": "place-34-1",
+    "question": "Fotoğraftaki saat kulesinin resmî adı hangisidir?",
+    "options": [
+      "Elizabeth Tower",
+      "Millennium Tower",
+      "St George Tower",
+      "Victoria Tower"
+    ],
+    "answer": 0,
+    "explanation": "Big Ben: Elizabeth Tower."
+  },
+  {
+    "id": "mr200-35-0",
+    "subject": 35,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Fransa",
+      "Avustralya",
+      "İspanya",
+      "Peru"
+    ],
+    "answer": 0,
+    "explanation": "Eyfel Kulesi: Fransa."
+  },
+  {
+    "id": "mr200-35-1",
+    "subject": 35,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Paris",
+      "Vadi Musa çevresi",
+      "Pisa",
+      "Barselona"
+    ],
+    "answer": 0,
+    "explanation": "Eyfel Kulesi: Paris."
+  },
+  {
+    "id": "mr200-35-2",
+    "subject": 35,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Paris",
+      "Yeni Delhi",
+      "Kahire",
+      "Santiago"
+    ],
+    "answer": 0,
+    "explanation": "Eyfel Kulesi: Paris."
+  },
+  {
+    "id": "mr200-35-3",
+    "subject": 35,
+    "level": 3,
+    "family": "place-35-0",
+    "question": "Fotoğraftaki kule ilk olarak hangi etkinlik için yapıldı?",
+    "options": [
+      "1889 Dünya Sergisi",
+      "1998 Dünya Kupası",
+      "Birinci Dünya Savaşı anması",
+      "1900 Olimpiyatları"
+    ],
+    "answer": 0,
+    "explanation": "Eyfel Kulesi: 1889 Dünya Sergisi."
+  },
+  {
+    "id": "mr200-35-4",
+    "subject": 35,
+    "level": 3,
+    "family": "place-35-1",
+    "question": "Fotoğraftaki kulede temel taşıyıcı malzeme hangisidir?",
+    "options": [
+      "Demir",
+      "Ahşap",
+      "Alüminyum",
+      "Mermer"
+    ],
+    "answer": 0,
+    "explanation": "Eyfel Kulesi: Demir."
+  },
+  {
+    "id": "mr200-36-0",
+    "subject": 36,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Amerika Birleşik Devletleri",
+      "Çin",
+      "Şili",
+      "İspanya"
+    ],
+    "answer": 0,
+    "explanation": "Özgürlük Heykeli: Amerika Birleşik Devletleri."
+  },
+  {
+    "id": "mr200-36-1",
+    "subject": 36,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "New York",
+      "Gize",
+      "Sidney",
+      "Cusco bölgesi"
+    ],
+    "answer": 0,
+    "explanation": "Özgürlük Heykeli: New York."
+  },
+  {
+    "id": "mr200-36-2",
+    "subject": 36,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Washington DC",
+      "Londra",
+      "Yeni Delhi",
+      "Pekin"
+    ],
+    "answer": 0,
+    "explanation": "Özgürlük Heykeli: Washington DC."
+  },
+  {
+    "id": "mr200-36-3",
+    "subject": 36,
+    "level": 3,
+    "family": "place-36-0",
+    "question": "Fotoğraftaki heykel ABD'ye hangi ülke tarafından armağan edilmiştir?",
+    "options": [
+      "Fransa",
+      "İspanya",
+      "Portekiz",
+      "İtalya"
+    ],
+    "answer": 0,
+    "explanation": "Özgürlük Heykeli: Fransa."
+  },
+  {
+    "id": "mr200-36-4",
+    "subject": 36,
+    "level": 3,
+    "family": "place-36-1",
+    "question": "Fotoğraftaki heykelin yeşil dış görünümünün temel sebebi nedir?",
+    "options": [
+      "Bakır yüzeyde patina oluşması",
+      "Demirin kuruması",
+      "Yeşil mermerden oyulması",
+      "Her yıl çimle kaplanması"
+    ],
+    "answer": 0,
+    "explanation": "Özgürlük Heykeli: Bakır yüzeyde patina oluşması."
+  },
+  {
+    "id": "mr200-37-0",
+    "subject": 37,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "İtalya",
+      "Birleşik Krallık",
+      "Amerika Birleşik Devletleri",
+      "Mısır"
+    ],
+    "answer": 0,
+    "explanation": "Pisa Kulesi: İtalya."
+  },
+  {
+    "id": "mr200-37-1",
+    "subject": 37,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Pisa",
+      "Vadi Musa çevresi",
+      "Roma",
+      "Cusco bölgesi"
+    ],
+    "answer": 0,
+    "explanation": "Pisa Kulesi: Pisa."
+  },
+  {
+    "id": "mr200-37-2",
+    "subject": 37,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Roma",
+      "Washington DC",
+      "Canberra",
+      "Brasília"
+    ],
+    "answer": 0,
+    "explanation": "Pisa Kulesi: Roma."
+  },
+  {
+    "id": "mr200-37-3",
+    "subject": 37,
+    "level": 3,
+    "family": "place-37-0",
+    "question": "Fotoğraftaki yapı ilk işlevi bakımından nedir?",
+    "options": [
+      "Katedralin çan kulesi",
+      "Su kemeri",
+      "Deniz feneri",
+      "Savunma suru"
+    ],
+    "answer": 0,
+    "explanation": "Pisa Kulesi: Katedralin çan kulesi."
+  },
+  {
+    "id": "mr200-37-4",
+    "subject": 37,
+    "level": 3,
+    "family": "place-37-1",
+    "question": "Fotoğraftaki kulenin eğilmesinde temel etken hangisidir?",
+    "options": [
+      "Temel altındaki yumuşak zeminin farklı oturması",
+      "Rüzgârla yer değiştirmesi",
+      "Her gün dönmesi",
+      "Bilinçli olarak çelik halatla çekilmesi"
+    ],
+    "answer": 0,
+    "explanation": "Pisa Kulesi: Temel altındaki yumuşak zeminin farklı oturması."
+  },
+  {
+    "id": "mr200-38-0",
+    "subject": 38,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "İtalya",
+      "Şili",
+      "Peru",
+      "Brezilya"
+    ],
+    "answer": 0,
+    "explanation": "Kolezyum: İtalya."
+  },
+  {
+    "id": "mr200-38-1",
+    "subject": 38,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Roma",
+      "Sidney",
+      "Londra",
+      "New York"
+    ],
+    "answer": 0,
+    "explanation": "Kolezyum: Roma."
+  },
+  {
+    "id": "mr200-38-2",
+    "subject": 38,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Roma",
+      "Paris",
+      "Londra",
+      "Brasília"
+    ],
+    "answer": 0,
+    "explanation": "Kolezyum: Roma."
+  },
+  {
+    "id": "mr200-38-3",
+    "subject": 38,
+    "level": 3,
+    "family": "place-38-0",
+    "question": "Fotoğraftaki antik amfitiyatroda hangi etkinlikler düzenlenirdi?",
+    "options": [
+      "Gladyatör gösterileri",
+      "Buz hokeyi ligleri",
+      "Uçak yarışları",
+      "Modern tenis turnuvaları"
+    ],
+    "answer": 0,
+    "explanation": "Kolezyum: Gladyatör gösterileri."
+  },
+  {
+    "id": "mr200-38-4",
+    "subject": 38,
+    "level": 3,
+    "family": "place-38-1",
+    "question": "Fotoğraftaki yapının diğer adı hangisidir?",
+    "options": [
+      "Flavius Amfitiyatrosu",
+      "Circus Maximus",
+      "Parthenon",
+      "Pantheon"
+    ],
+    "answer": 0,
+    "explanation": "Kolezyum: Flavius Amfitiyatrosu."
+  },
+  {
+    "id": "mr200-39-0",
+    "subject": 39,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "İspanya",
+      "Amerika Birleşik Devletleri",
+      "Çin",
+      "Brezilya"
+    ],
+    "answer": 0,
+    "explanation": "Sagrada Familia: İspanya."
+  },
+  {
+    "id": "mr200-39-1",
+    "subject": 39,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Barselona",
+      "Paris",
+      "Cusco bölgesi",
+      "Vadi Musa çevresi"
+    ],
+    "answer": 0,
+    "explanation": "Sagrada Familia: Barselona."
+  },
+  {
+    "id": "mr200-39-2",
+    "subject": 39,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Madrid",
+      "Amman",
+      "Roma",
+      "Yeni Delhi"
+    ],
+    "answer": 0,
+    "explanation": "Sagrada Familia: Madrid."
+  },
+  {
+    "id": "mr200-39-3",
+    "subject": 39,
+    "level": 3,
+    "family": "place-39-0",
+    "question": "Fotoğraftaki bazilikayla en çok özdeşleşen mimar kimdir?",
+    "options": [
+      "Antoni Gaudí",
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Jørn Utzon"
+    ],
+    "answer": 0,
+    "explanation": "Sagrada Familia: Antoni Gaudí."
+  },
+  {
+    "id": "mr200-39-4",
+    "subject": 39,
+    "level": 3,
+    "family": "place-39-1",
+    "question": "Fotoğraftaki Sagrada Familia hangi tür dinî yapıdır?",
+    "options": [
+      "Bazilika",
+      "Cami",
+      "Sinagog",
+      "Budist pagodası"
+    ],
+    "answer": 0,
+    "explanation": "Sagrada Familia: Bazilika."
+  },
+  {
+    "id": "mr200-91-0",
+    "subject": 91,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Brezilya",
+      "Hindistan",
+      "Şili",
+      "Peru"
+    ],
+    "answer": 0,
+    "explanation": "Kurtarıcı İsa Heykeli: Brezilya."
+  },
+  {
+    "id": "mr200-91-1",
+    "subject": 91,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Rio de Janeiro",
+      "Rapa Nui (Paskalya Adası)",
+      "Londra",
+      "Cusco bölgesi"
+    ],
+    "answer": 0,
+    "explanation": "Kurtarıcı İsa Heykeli: Rio de Janeiro."
+  },
+  {
+    "id": "mr200-91-2",
+    "subject": 91,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Brasília",
+      "Pekin",
+      "Londra",
+      "Yeni Delhi"
+    ],
+    "answer": 0,
+    "explanation": "Kurtarıcı İsa Heykeli: Brasília."
+  },
+  {
+    "id": "mr200-91-3",
+    "subject": 91,
+    "level": 3,
+    "family": "place-91-0",
+    "question": "Fotoğraftaki Kurtarıcı İsa heykeli hangi tepenin üzerindedir?",
+    "options": [
+      "Corcovado",
+      "Montmartre",
+      "Capitolino",
+      "Akropolis"
+    ],
+    "answer": 0,
+    "explanation": "Kurtarıcı İsa Heykeli: Corcovado."
+  },
+  {
+    "id": "mr200-91-4",
+    "subject": 91,
+    "level": 3,
+    "family": "place-91-1",
+    "question": "Fotoğraftaki heykel hangi yılda açılmıştır?",
+    "options": [
+      "1931",
+      "1886",
+      "1973",
+      "2000"
+    ],
+    "answer": 0,
+    "explanation": "Kurtarıcı İsa Heykeli: 1931."
+  },
+  {
+    "id": "mr200-92-0",
+    "subject": 92,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Ürdün",
+      "Mısır",
+      "Amerika Birleşik Devletleri",
+      "Şili"
+    ],
+    "answer": 0,
+    "explanation": "Petra: Ürdün."
+  },
+  {
+    "id": "mr200-92-1",
+    "subject": 92,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Vadi Musa çevresi",
+      "Gize",
+      "Barselona",
+      "Roma"
+    ],
+    "answer": 0,
+    "explanation": "Petra: Vadi Musa çevresi."
+  },
+  {
+    "id": "mr200-92-2",
+    "subject": 92,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Amman",
+      "Washington DC",
+      "Paris",
+      "Londra"
+    ],
+    "answer": 0,
+    "explanation": "Petra: Amman."
+  },
+  {
+    "id": "mr200-92-3",
+    "subject": 92,
+    "level": 3,
+    "family": "place-92-0",
+    "question": "Fotoğraftaki Petra antik kenti hangi halkla özdeşleşir?",
+    "options": [
+      "Nebatiler",
+      "Hititler",
+      "İnkalar",
+      "Mayalar"
+    ],
+    "answer": 0,
+    "explanation": "Petra: Nebatiler."
+  },
+  {
+    "id": "mr200-92-4",
+    "subject": 92,
+    "level": 3,
+    "family": "place-92-1",
+    "question": "Fotoğraftaki Petra cephelerinin yapımında hangi teknik öne çıkar?",
+    "options": [
+      "Kayaya oyma",
+      "Buz kalıplama",
+      "Çelik kafes birleştirme",
+      "Cam üfleme"
+    ],
+    "answer": 0,
+    "explanation": "Petra: Kayaya oyma."
+  },
+  {
+    "id": "mr200-93-0",
+    "subject": 93,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Peru",
+      "Mısır",
+      "Fransa",
+      "Birleşik Krallık"
+    ],
+    "answer": 0,
+    "explanation": "Machu Picchu: Peru."
+  },
+  {
+    "id": "mr200-93-1",
+    "subject": 93,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Cusco bölgesi",
+      "Pisa",
+      "Rapa Nui (Paskalya Adası)",
+      "Agra"
+    ],
+    "answer": 0,
+    "explanation": "Machu Picchu: Cusco bölgesi."
+  },
+  {
+    "id": "mr200-93-2",
+    "subject": 93,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Lima",
+      "Kahire",
+      "Roma",
+      "Pekin"
+    ],
+    "answer": 0,
+    "explanation": "Machu Picchu: Lima."
+  },
+  {
+    "id": "mr200-93-3",
+    "subject": 93,
+    "level": 3,
+    "family": "place-93-0",
+    "question": "Fotoğraftaki Machu Picchu hangi uygarlığın eseridir?",
+    "options": [
+      "İnka",
+      "Nebati",
+      "Maya",
+      "Aztek"
+    ],
+    "answer": 0,
+    "explanation": "Machu Picchu: İnka."
+  },
+  {
+    "id": "mr200-93-4",
+    "subject": 93,
+    "level": 3,
+    "family": "place-93-1",
+    "question": "Fotoğraftaki antik yerleşim hangi dağ sistemi içindedir?",
+    "options": [
+      "And Dağları",
+      "Atlas Dağları",
+      "Alpler",
+      "Himalayalar"
+    ],
+    "answer": 0,
+    "explanation": "Machu Picchu: And Dağları."
+  },
+  {
+    "id": "mr200-94-0",
+    "subject": 94,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Çin",
+      "Fransa",
+      "Mısır",
+      "İspanya"
+    ],
+    "answer": 0,
+    "explanation": "Çin Seddi: Çin."
+  },
+  {
+    "id": "mr200-94-1",
+    "subject": 94,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Kuzey Çin",
+      "Londra",
+      "Rapa Nui (Paskalya Adası)",
+      "Cusco bölgesi"
+    ],
+    "answer": 0,
+    "explanation": "Çin Seddi: Kuzey Çin."
+  },
+  {
+    "id": "mr200-94-2",
+    "subject": 94,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Pekin",
+      "Brasília",
+      "Amman",
+      "Kahire"
+    ],
+    "answer": 0,
+    "explanation": "Çin Seddi: Pekin."
+  },
+  {
+    "id": "mr200-94-3",
+    "subject": 94,
+    "level": 3,
+    "family": "place-94-0",
+    "question": "Fotoğraftaki uzun savunma yapısının temel tarihî işlevi neydi?",
+    "options": [
+      "Sınır savunması ve denetimi",
+      "Okyanus suyunu aktarmak",
+      "Güneş gözlemevi işletmek",
+      "Demiryolu tüneli kurmak"
+    ],
+    "answer": 0,
+    "explanation": "Çin Seddi: Sınır savunması ve denetimi."
+  },
+  {
+    "id": "mr200-94-4",
+    "subject": 94,
+    "level": 3,
+    "family": "place-94-1",
+    "question": "Fotoğraftaki Çin Seddi hakkında hangisi doğrudur?",
+    "options": [
+      "Farklı dönemlerde yapılmış ve yenilenmiş bölümleri vardır",
+      "Tamamı ahşaptır",
+      "Okyanusun altından geçer",
+      "Tek gecede inşa edilmiştir"
+    ],
+    "answer": 0,
+    "explanation": "Çin Seddi: Farklı dönemlerde yapılmış ve yenilenmiş bölümleri vardır."
+  },
+  {
+    "id": "mr200-95-0",
+    "subject": 95,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Şili",
+      "Brezilya",
+      "Fransa",
+      "Amerika Birleşik Devletleri"
+    ],
+    "answer": 0,
+    "explanation": "Moai heykeli: Şili."
+  },
+  {
+    "id": "mr200-95-1",
+    "subject": 95,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Rapa Nui (Paskalya Adası)",
+      "Vadi Musa çevresi",
+      "Agra",
+      "Paris"
+    ],
+    "answer": 0,
+    "explanation": "Moai heykeli: Rapa Nui (Paskalya Adası)."
+  },
+  {
+    "id": "mr200-95-2",
+    "subject": 95,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Santiago",
+      "Amman",
+      "Brasília",
+      "Washington DC"
+    ],
+    "answer": 0,
+    "explanation": "Moai heykeli: Santiago."
+  },
+  {
+    "id": "mr200-95-3",
+    "subject": 95,
+    "level": 3,
+    "family": "place-95-0",
+    "question": "Fotoğraftaki büyük taş heykellerin genel adı nedir?",
+    "options": [
+      "Moai",
+      "Menhir çemberi",
+      "Totem direği",
+      "Obelisk"
+    ],
+    "answer": 0,
+    "explanation": "Moai heykeli: Moai."
+  },
+  {
+    "id": "mr200-95-4",
+    "subject": 95,
+    "level": 3,
+    "family": "place-95-1",
+    "question": "Bu heykeller hangi kültürün ürünüdür?",
+    "options": [
+      "Rapa Nui",
+      "İnka başkent mimarisi",
+      "Fenike",
+      "Miken"
+    ],
+    "answer": 0,
+    "explanation": "Moai heykeli: Rapa Nui."
+  },
+  {
+    "id": "mr200-97-0",
+    "subject": 97,
+    "level": 1,
+    "family": "place-country",
+    "question": "Fotoğraftaki anıt veya yapı hangi ülkededir?",
+    "options": [
+      "Mısır",
+      "Şili",
+      "İspanya",
+      "Ürdün"
+    ],
+    "answer": 0,
+    "explanation": "Gize Piramidi: Mısır."
+  },
+  {
+    "id": "mr200-97-1",
+    "subject": 97,
+    "level": 2,
+    "family": "place-city",
+    "question": "Fotoğraftaki yapı veya yerleşim hangi şehir/bölgededir?",
+    "options": [
+      "Gize",
+      "Agra",
+      "Rio de Janeiro",
+      "Vadi Musa çevresi"
+    ],
+    "answer": 0,
+    "explanation": "Gize Piramidi: Gize."
+  },
+  {
+    "id": "mr200-97-2",
+    "subject": 97,
+    "level": 2,
+    "family": "place-capital",
+    "question": "Fotoğraftaki yapının bulunduğu ülkenin başkenti hangisidir?",
+    "options": [
+      "Kahire",
+      "Roma",
+      "Madrid",
+      "Lima"
+    ],
+    "answer": 0,
+    "explanation": "Gize Piramidi: Kahire."
+  },
+  {
+    "id": "mr200-97-3",
+    "subject": 97,
+    "level": 3,
+    "family": "place-97-0",
+    "question": "Fotoğraftaki Büyük Piramit hangi firavun için yapılmıştır?",
+    "options": [
+      "Keops",
+      "Tutankamon",
+      "Akhenaton",
+      "II. Ramses"
+    ],
+    "answer": 0,
+    "explanation": "Gize Piramidi: Keops."
+  },
+  {
+    "id": "mr200-97-4",
+    "subject": 97,
+    "level": 3,
+    "family": "place-97-1",
+    "question": "Fotoğraftaki piramitlerin temel tarihî işlevi neydi?",
+    "options": [
+      "Firavun mezar kompleksi",
+      "Liman feneri",
+      "Roma tiyatrosu",
+      "Modern tahıl silosu"
+    ],
+    "answer": 0,
+    "explanation": "Gize Piramidi: Firavun mezar kompleksi."
+  },
+  {
+    "id": "mr200-96-0",
+    "subject": 96,
+    "level": 1,
+    "family": "object-96-0",
+    "question": "Fotoğraftaki yapının temel işlevi nedir?",
+    "options": [
+      "Denizcilere ışıkla yol göstermek",
+      "Gemi yüklemek",
+      "Yağmur ölçmek",
+      "Tahıl öğütmek"
+    ],
+    "answer": 0,
+    "explanation": "Deniz feneri: Denizcilere ışıkla yol göstermek."
+  },
+  {
+    "id": "mr200-96-1",
+    "subject": 96,
+    "level": 2,
+    "family": "object-96-1",
+    "question": "Bu yapının ışığı belirgin aralıklarla yanıp sönerse hangi amaçla kullanılır?",
+    "options": [
+      "Feneri diğerlerinden ayırt etmek",
+      "Denizi ısıtmak",
+      "Gelgiti durdurmak",
+      "Suyu tatlandırmak"
+    ],
+    "answer": 0,
+    "explanation": "Deniz feneri: Feneri diğerlerinden ayırt etmek."
+  },
+  {
+    "id": "mr200-96-2",
+    "subject": 96,
+    "level": 3,
+    "family": "object-96-2",
+    "question": "Deniz fenerlerinde ışığı verimli yönlendiren mercek türü hangisidir?",
+    "options": [
+      "Fresnel merceği",
+      "Büyüteçsiz ayna",
+      "Kontakt lens",
+      "Polar olmayan kristal"
+    ],
+    "answer": 0,
+    "explanation": "Deniz feneri: Fresnel merceği."
+  },
+  {
+    "id": "mr200-96-3",
+    "subject": 96,
+    "level": 2,
+    "family": "object-96-3",
+    "question": "Fotoğraftaki yapı hangi ulaşım alanıyla doğrudan ilişkilidir?",
+    "options": [
+      "Deniz ulaşımı",
+      "Karayolu",
+      "Raylı sistem",
+      "Uzay uçuşu"
+    ],
+    "answer": 0,
+    "explanation": "Deniz feneri: Deniz ulaşımı."
+  },
+  {
+    "id": "mr200-96-4",
+    "subject": 96,
+    "level": 1,
+    "family": "object-96-4",
+    "question": "Bu yapının İngilizce adı hangisidir?",
+    "options": [
+      "Lighthouse",
+      "Watchtower",
+      "Greenhouse",
+      "Windmill"
+    ],
+    "answer": 0,
+    "explanation": "Deniz feneri: Lighthouse."
+  },
+  {
+    "id": "mr200-98-0",
+    "subject": 98,
+    "level": 1,
+    "family": "object-98-0",
+    "question": "Fotoğraftaki geleneksel yapının kanatlarını hareket ettiren enerji kaynağı nedir?",
+    "options": [
+      "Rüzgâr",
+      "Nükleer yakıt",
+      "Gelgit dalışı",
+      "Jeotermal buhar"
+    ],
+    "answer": 0,
+    "explanation": "Yel değirmeni: Rüzgâr."
+  },
+  {
+    "id": "mr200-98-1",
+    "subject": 98,
+    "level": 2,
+    "family": "object-98-1",
+    "question": "Bu yapının tarihî kullanım alanlarından biri hangisidir?",
+    "options": [
+      "Tahıl öğütme",
+      "Metal dökümünü doğrudan eritme",
+      "Petrol damıtma",
+      "Kâğıdı elektrikle tarama"
+    ],
+    "answer": 0,
+    "explanation": "Yel değirmeni: Tahıl öğütme."
+  },
+  {
+    "id": "mr200-98-2",
+    "subject": 98,
+    "level": 3,
+    "family": "object-98-2",
+    "question": "Tahılın bu yapıda öğütülmesiyle hangi ürün elde edilir?",
+    "options": [
+      "Un",
+      "Şeker kamışı suyu",
+      "Zeytinyağı",
+      "Kaya tuzu"
+    ],
+    "answer": 0,
+    "explanation": "Yel değirmeni: Un."
+  },
+  {
+    "id": "mr200-98-3",
+    "subject": 98,
+    "level": 2,
+    "family": "object-98-3",
+    "question": "Rüzgârın hareket enerjisi bu yapıda ilk olarak hangi enerjiye dönüşür?",
+    "options": [
+      "Mekanik dönme enerjisi",
+      "Nükleer enerji",
+      "Sesin depolanması",
+      "Kimyasal bağ enerjisi"
+    ],
+    "answer": 0,
+    "explanation": "Yel değirmeni: Mekanik dönme enerjisi."
+  },
+  {
+    "id": "mr200-98-4",
+    "subject": 98,
+    "level": 1,
+    "family": "object-98-4",
+    "question": "Bu yapının İngilizce adı hangisidir?",
+    "options": [
+      "Windmill",
+      "Lighthouse",
+      "Greenhouse",
+      "Warehouse"
+    ],
+    "answer": 0,
+    "explanation": "Yel değirmeni: Windmill."
+  },
+  {
+    "id": "mr200-29-0",
+    "subject": 29,
+    "level": 1,
+    "family": "music-0",
+    "question": "Fotoğraftaki müzik aleti hangi aileye girer?",
+    "options": [
+      "Yaylı çalgılar",
+      "Vurmalılar",
+      "Bakır üflemeliler",
+      "Elektronik çalgılar"
+    ],
+    "answer": 0,
+    "explanation": "Keman: Yaylı çalgılar."
+  },
+  {
+    "id": "mr200-29-1",
+    "subject": 29,
+    "level": 2,
+    "family": "music-1",
+    "question": "Bu çalgının standart akustik biçiminde kaç tel vardır?",
+    "options": [
+      "4",
+      "8",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Keman: 4."
+  },
+  {
+    "id": "mr200-29-2",
+    "subject": 29,
+    "level": 3,
+    "family": "music-2",
+    "question": "Bu çalgının yayında geleneksel olarak hangi malzeme kullanılır?",
+    "options": [
+      "At kılı",
+      "Naylon iplik",
+      "İpek iplik",
+      "Pamuk ipliği"
+    ],
+    "answer": 0,
+    "explanation": "Keman: At kılı."
+  },
+  {
+    "id": "mr200-29-3",
+    "subject": 29,
+    "level": 3,
+    "family": "music-3",
+    "question": "Bu çalgının en kalından inceye standart tel akordu hangisidir?",
+    "options": [
+      "Sol-Re-La-Mi",
+      "La-Do-Mi-Sol",
+      "Mi-La-Re-Sol-Si-Mi",
+      "Do-Fa-Si-Mi"
+    ],
+    "answer": 0,
+    "explanation": "Keman: Sol-Re-La-Mi."
+  },
+  {
+    "id": "mr200-29-4",
+    "subject": 29,
+    "level": 1,
+    "family": "music-4",
+    "question": "Bu çalgının İngilizce adı hangisidir?",
+    "options": [
+      "Violin",
+      "Trumpet",
+      "Drums",
+      "Piano"
+    ],
+    "answer": 0,
+    "explanation": "Keman: Violin."
+  },
+  {
+    "id": "mr200-30-0",
+    "subject": 30,
+    "level": 1,
+    "family": "music-0",
+    "question": "Piyanonun akustik tipinde tuşa basınca telleri doğrudan ne titreştirir?",
+    "options": [
+      "Keçe kaplı çekiçler",
+      "Zil tokmağı",
+      "Üfleyen kamış",
+      "Yay kılları"
+    ],
+    "answer": 0,
+    "explanation": "Piyano: Keçe kaplı çekiçler."
+  },
+  {
+    "id": "mr200-30-1",
+    "subject": 30,
+    "level": 2,
+    "family": "music-1",
+    "question": "Standart modern piyanoda toplam kaç tuş vardır?",
+    "options": [
+      "88",
+      "96",
+      "76",
+      "61"
+    ],
+    "answer": 0,
+    "explanation": "Piyano: 88."
+  },
+  {
+    "id": "mr200-30-2",
+    "subject": 30,
+    "level": 3,
+    "family": "music-2",
+    "question": "Standart piyanoda beyaz tuş sayısı kaçtır?",
+    "options": [
+      "52",
+      "44",
+      "48",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Piyano: 52."
+  },
+  {
+    "id": "mr200-30-3",
+    "subject": 30,
+    "level": 3,
+    "family": "music-3",
+    "question": "Piyanodaki sağ pedalın temel etkisi nedir?",
+    "options": [
+      "Seslerin uzamasını sağlar",
+      "Tüm sesleri bir oktav yükseltir",
+      "Telleri çıkarır",
+      "Tuşları kilitler"
+    ],
+    "answer": 0,
+    "explanation": "Piyano: Seslerin uzamasını sağlar."
+  },
+  {
+    "id": "mr200-30-4",
+    "subject": 30,
+    "level": 1,
+    "family": "music-4",
+    "question": "Bu çalgının İngilizce adı hangisidir?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Trumpet",
+      "Drums"
+    ],
+    "answer": 0,
+    "explanation": "Piyano: Piano."
+  },
+  {
+    "id": "mr200-31-0",
+    "subject": 31,
+    "level": 1,
+    "family": "music-0",
+    "question": "Standart gitarın çoğunlukla kaç teli vardır?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Gitar: 6."
+  },
+  {
+    "id": "mr200-31-1",
+    "subject": 31,
+    "level": 2,
+    "family": "music-1",
+    "question": "Gitarın en kalından inceye standart akordu hangisidir?",
+    "options": [
+      "Mi-La-Re-Sol-Si-Mi",
+      "La-Do-Mi-Sol",
+      "Do-Re-Mi-Fa",
+      "Sol-Re-La-Mi"
+    ],
+    "answer": 0,
+    "explanation": "Gitar: Mi-La-Re-Sol-Si-Mi."
+  },
+  {
+    "id": "mr200-31-2",
+    "subject": 31,
+    "level": 3,
+    "family": "music-2",
+    "question": "Klasik gitarda tiz teller çoğunlukla hangi malzemedendir?",
+    "options": [
+      "Naylon",
+      "Cam",
+      "Bakır levha",
+      "Ahşap"
+    ],
+    "answer": 0,
+    "explanation": "Gitar: Naylon."
+  },
+  {
+    "id": "mr200-31-3",
+    "subject": 31,
+    "level": 3,
+    "family": "music-3",
+    "question": "Gitarın sapındaki parmakla basılan ses aralıklarını ayıran metal şeritlere ne denir?",
+    "options": [
+      "Perde",
+      "Kamış",
+      "Pedal",
+      "Eşik kanadı"
+    ],
+    "answer": 0,
+    "explanation": "Gitar: Perde."
+  },
+  {
+    "id": "mr200-31-4",
+    "subject": 31,
+    "level": 1,
+    "family": "music-4",
+    "question": "Bu çalgının İngilizce adı hangisidir?",
+    "options": [
+      "Guitar",
+      "Violin",
+      "Trumpet",
+      "Piano"
+    ],
+    "answer": 0,
+    "explanation": "Gitar: Guitar."
+  },
+  {
+    "id": "mr200-46-0",
+    "subject": 46,
+    "level": 1,
+    "family": "music-0",
+    "question": "Fotoğraftaki çalgı hangi aileye girer?",
+    "options": [
+      "Bakır üflemeliler",
+      "Tuşlular",
+      "Yaylılar",
+      "Vurmalılar"
+    ],
+    "answer": 0,
+    "explanation": "Trompet: Bakır üflemeliler."
+  },
+  {
+    "id": "mr200-46-1",
+    "subject": 46,
+    "level": 2,
+    "family": "music-1",
+    "question": "Bu çalgıda ilk titreşimi oluşturan nedir?",
+    "options": [
+      "Çalan kişinin dudakları",
+      "Bir yay teli",
+      "Vurulan deri",
+      "Dönen çark"
+    ],
+    "answer": 0,
+    "explanation": "Trompet: Çalan kişinin dudakları."
+  },
+  {
+    "id": "mr200-46-2",
+    "subject": 46,
+    "level": 3,
+    "family": "music-2",
+    "question": "Modern trompetlerin çoğunda kaç piston/valf bulunur?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Trompet: 3."
+  },
+  {
+    "id": "mr200-46-3",
+    "subject": 46,
+    "level": 3,
+    "family": "music-3",
+    "question": "Bu çalgının ağızla temas edilen bölümüne ne denir?",
+    "options": [
+      "Ağızlık",
+      "Köprü",
+      "Arşe",
+      "Baget"
+    ],
+    "answer": 0,
+    "explanation": "Trompet: Ağızlık."
+  },
+  {
+    "id": "mr200-46-4",
+    "subject": 46,
+    "level": 1,
+    "family": "music-4",
+    "question": "Bu çalgının İngilizce adı hangisidir?",
+    "options": [
+      "Trumpet",
+      "Violin",
+      "Piano",
+      "Guitar"
+    ],
+    "answer": 0,
+    "explanation": "Trompet: Trumpet."
+  },
+  {
+    "id": "mr200-47-0",
+    "subject": 47,
+    "level": 1,
+    "family": "music-0",
+    "question": "Fotoğraftaki davul seti hangi çalgı grubundadır?",
+    "options": [
+      "Vurmalı çalgılar",
+      "Üflemeli çalgılar",
+      "Telli çalgılar",
+      "Yaylı çalgılar"
+    ],
+    "answer": 0,
+    "explanation": "Bateri: Vurmalı çalgılar."
+  },
+  {
+    "id": "mr200-47-1",
+    "subject": 47,
+    "level": 2,
+    "family": "music-1",
+    "question": "Bu çalgı setinde elle tutulan vurma çubuklarına ne denir?",
+    "options": [
+      "Baget",
+      "Arşe",
+      "Mızrap",
+      "Kamış"
+    ],
+    "answer": 0,
+    "explanation": "Bateri: Baget."
+  },
+  {
+    "id": "mr200-47-2",
+    "subject": 47,
+    "level": 3,
+    "family": "music-2",
+    "question": "Davul setindeki hi-hat hangi parçalardan oluşur?",
+    "options": [
+      "Pedalla kumanda edilen iki zil",
+      "Tek bir gitar gövdesi",
+      "Üç bakır boru",
+      "İki keman teli"
+    ],
+    "answer": 0,
+    "explanation": "Bateri: Pedalla kumanda edilen iki zil."
+  },
+  {
+    "id": "mr200-47-3",
+    "subject": 47,
+    "level": 3,
+    "family": "music-3",
+    "question": "Setin en büyük, ayak pedalıyla vurulan davulu hangisidir?",
+    "options": [
+      "Bas davul",
+      "Bongo",
+      "Tamburin",
+      "Trampet"
+    ],
+    "answer": 0,
+    "explanation": "Bateri: Bas davul."
+  },
+  {
+    "id": "mr200-47-4",
+    "subject": 47,
+    "level": 1,
+    "family": "music-4",
+    "question": "Bu çalgı setinin İngilizce adı hangisidir?",
+    "options": [
+      "Drum kit",
+      "String quartet",
+      "Brass band",
+      "Pipe organ"
+    ],
+    "answer": 0,
+    "explanation": "Bateri: Drum kit."
+  },
+  {
+    "id": "mr200-77-0",
+    "subject": 77,
+    "level": 1,
+    "family": "sport-77-0",
+    "question": "Fotoğraftaki bilardo masasının topun girebildiği açıklıklarına ne denir?",
+    "options": [
+      "Cep",
+      "Pot",
+      "File gözü",
+      "Kale"
+    ],
+    "answer": 0,
+    "explanation": "Bilardo: Cep."
+  },
+  {
+    "id": "mr200-77-1",
+    "subject": 77,
+    "level": 2,
+    "family": "sport-77-1",
+    "question": "Standart sekiz top bilardosunda beyaz top dâhil kaç top vardır?",
+    "options": [
+      "16",
+      "22",
+      "12",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Bilardo: 16."
+  },
+  {
+    "id": "mr200-77-2",
+    "subject": 77,
+    "level": 2,
+    "family": "sport-77-2",
+    "question": "Bilardoda beyaz topa vurmak için kullanılan araç hangisidir?",
+    "options": [
+      "Istaka",
+      "Yay",
+      "Raket",
+      "Sopa kılıfı"
+    ],
+    "answer": 0,
+    "explanation": "Bilardo: Istaka."
+  },
+  {
+    "id": "mr200-77-3",
+    "subject": 77,
+    "level": 3,
+    "family": "sport-77-3",
+    "question": "Sekiz top bilardosunda en son hedeflenen siyah topun numarası kaçtır?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Bilardo: 8."
+  },
+  {
+    "id": "mr200-77-4",
+    "subject": 77,
+    "level": 3,
+    "family": "sport-77-4",
+    "question": "Bilardo vuruşundan önce ıstakanın ucuna sürülen madde nedir?",
+    "options": [
+      "Tebeşir",
+      "Kum",
+      "Tuz",
+      "Reçel"
+    ],
+    "answer": 0,
+    "explanation": "Bilardo: Tebeşir."
+  },
+  {
+    "id": "mr200-78-0",
+    "subject": 78,
+    "level": 1,
+    "family": "sport-78-0",
+    "question": "Fotoğraftaki oval top, ragbinin hangi özelliğiyle ilişkilidir?",
+    "options": [
+      "Elle taşıma ve pas verme",
+      "Yalnız file üstünden atma",
+      "Yalnız raketle vurma",
+      "Su altında oynama"
+    ],
+    "answer": 0,
+    "explanation": "Ragbi topu: Elle taşıma ve pas verme."
+  },
+  {
+    "id": "mr200-78-1",
+    "subject": 78,
+    "level": 2,
+    "family": "sport-78-1",
+    "question": "Rugby union'da bir takım sahaya kaç oyuncuyla çıkar?",
+    "options": [
+      "15",
+      "6",
+      "11",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Ragbi topu: 15."
+  },
+  {
+    "id": "mr200-78-2",
+    "subject": 78,
+    "level": 2,
+    "family": "sport-78-2",
+    "question": "Rugby union'da try kaç puandır?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Ragbi topu: 5."
+  },
+  {
+    "id": "mr200-78-3",
+    "subject": 78,
+    "level": 3,
+    "family": "sport-78-3",
+    "question": "Rugby union'da elle yapılan pasın yönüyle ilgili kural nedir?",
+    "options": [
+      "İleri pas verilemez",
+      "Sadece kaleci verir",
+      "Mutlaka yerden seker",
+      "Yalnız ileri verilir"
+    ],
+    "answer": 0,
+    "explanation": "Ragbi topu: İleri pas verilemez."
+  },
+  {
+    "id": "mr200-78-4",
+    "subject": 78,
+    "level": 3,
+    "family": "sport-78-4",
+    "question": "Rugby union'da try sonrasındaki başarılı dönüşüm vuruşu kaç puandır?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Ragbi topu: 2."
+  },
+  {
+    "id": "mr200-79-0",
+    "subject": 79,
+    "level": 1,
+    "family": "sport-79-0",
+    "question": "Fotoğraftaki topun salon voleybolunda kullanıldığı oyunda sahadaki bir takım kaç kişidir?",
+    "options": [
+      "6",
+      "11",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Voleybol topu: 6."
+  },
+  {
+    "id": "mr200-79-1",
+    "subject": 79,
+    "level": 2,
+    "family": "sport-79-1",
+    "question": "Salon voleybolunda bir takım blok teması hariç topa en çok kaç kez dokunarak karşıya yollar?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "Voleybol topu: 3."
+  },
+  {
+    "id": "mr200-79-2",
+    "subject": 79,
+    "level": 2,
+    "family": "sport-79-2",
+    "question": "Voleybolda normal bir set kazanmak için hedef sayı kaçtır?",
+    "options": [
+      "25",
+      "21",
+      "30",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Voleybol topu: 25."
+  },
+  {
+    "id": "mr200-79-3",
+    "subject": 79,
+    "level": 3,
+    "family": "sport-79-3",
+    "question": "Voleybolda maçı belirleyen beşinci setin hedefi kaç sayıdır?",
+    "options": [
+      "15",
+      "11",
+      "25",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "Voleybol topu: 15."
+  },
+  {
+    "id": "mr200-79-4",
+    "subject": 79,
+    "level": 3,
+    "family": "sport-79-4",
+    "question": "Salon voleybolu sahasının ölçüleri hangisidir?",
+    "options": [
+      "18 × 9 metre",
+      "28 × 15 metre",
+      "23,77 × 8,23 metre",
+      "40 × 20 metre"
+    ],
+    "answer": 0,
+    "explanation": "Voleybol topu: 18 × 9 metre."
+  },
+  {
+    "id": "mr200-80-0",
+    "subject": 80,
+    "level": 1,
+    "family": "sport-80-0",
+    "question": "Fotoğraftaki topun kullanıldığı futbolda bir takım sahaya normalde kaç oyuncuyla çıkar?",
+    "options": [
+      "11",
+      "15",
+      "5",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Futbol topu: 11."
+  },
+  {
+    "id": "mr200-80-1",
+    "subject": 80,
+    "level": 2,
+    "family": "sport-80-1",
+    "question": "Futbolda penaltı noktası kale çizgisinden kaç metre uzaktadır?",
+    "options": [
+      "11",
+      "7",
+      "12",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "Futbol topu: 11."
+  },
+  {
+    "id": "mr200-80-2",
+    "subject": 80,
+    "level": 2,
+    "family": "sport-80-2",
+    "question": "Futbolda normal maç süresi, uzatma eklenmeden kaç dakikadır?",
+    "options": [
+      "90",
+      "60",
+      "70",
+      "80"
+    ],
+    "answer": 0,
+    "explanation": "Futbol topu: 90."
+  },
+  {
+    "id": "mr200-80-3",
+    "subject": 80,
+    "level": 3,
+    "family": "sport-80-3",
+    "question": "Futbolda ceza alanında topu elle oynama ayrıcalığı, kendi alanında hangi oyuncudadır?",
+    "options": [
+      "Kaleci",
+      "Kaptan",
+      "Hakem yardımcısı",
+      "Santrfor"
+    ],
+    "answer": 0,
+    "explanation": "Futbol topu: Kaleci."
+  },
+  {
+    "id": "mr200-80-4",
+    "subject": 80,
+    "level": 3,
+    "family": "sport-80-4",
+    "question": "Futbolda topun tamamı kale direkleri arasından çizgiyi geçince ne olur?",
+    "options": [
+      "Gol",
+      "Ofsayt",
+      "Taç",
+      "Korner"
+    ],
+    "answer": 0,
+    "explanation": "Futbol topu: Gol."
+  },
+  {
+    "id": "mr200-81-0",
+    "subject": 81,
+    "level": 1,
+    "family": "sport-81-0",
+    "question": "Fotoğraftaki topun tenis servisinde çapraz hangi alana düşmesi gerekir?",
+    "options": [
+      "Servis karesi",
+      "Taç çizgisi dışı",
+      "Raket sapı",
+      "Tribün"
+    ],
+    "answer": 0,
+    "explanation": "Tenis topu: Servis karesi."
+  },
+  {
+    "id": "mr200-81-1",
+    "subject": 81,
+    "level": 2,
+    "family": "sport-81-1",
+    "question": "Teniste 40-40 eşitliği için kullanılan terim hangisidir?",
+    "options": [
+      "Deuce",
+      "Ace",
+      "Let",
+      "Love"
+    ],
+    "answer": 0,
+    "explanation": "Tenis topu: Deuce."
+  },
+  {
+    "id": "mr200-81-2",
+    "subject": 81,
+    "level": 2,
+    "family": "sport-81-2",
+    "question": "Teniste sıfır puan hangi sözcükle anılır?",
+    "options": [
+      "Love",
+      "Advantage",
+      "Break",
+      "Deuce"
+    ],
+    "answer": 0,
+    "explanation": "Tenis topu: Love."
+  },
+  {
+    "id": "mr200-81-3",
+    "subject": 81,
+    "level": 3,
+    "family": "sport-81-3",
+    "question": "Rakibin dokunamadığı geçerli servis için kullanılan terim hangisidir?",
+    "options": [
+      "Ace",
+      "Fault",
+      "Let",
+      "Deuce"
+    ],
+    "answer": 0,
+    "explanation": "Tenis topu: Ace."
+  },
+  {
+    "id": "mr200-81-4",
+    "subject": 81,
+    "level": 3,
+    "family": "sport-81-4",
+    "question": "Tenis tie-break'inde 7 puana ulaşınca kazanmak için en az kaç puan fark gerekir?",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Tenis topu: 2."
+  },
+  {
+    "id": "mr200-82-0",
+    "subject": 82,
+    "level": 1,
+    "family": "sport-82-0",
+    "question": "Fotoğraftaki topun basketbolda kullanıldığı oyunda sahada bir takım kaç oyuncudur?",
+    "options": [
+      "5",
+      "11",
+      "6",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Basketbol topu: 5."
+  },
+  {
+    "id": "mr200-82-1",
+    "subject": 82,
+    "level": 2,
+    "family": "sport-82-1",
+    "question": "Basketbolda başarılı serbest atış kaç sayıdır?",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "Basketbol topu: 1."
+  },
+  {
+    "id": "mr200-82-2",
+    "subject": 82,
+    "level": 2,
+    "family": "sport-82-2",
+    "question": "Üç sayı çizgisinin gerisinden atılan isabetli şut kaç sayıdır?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "Basketbol topu: 3."
+  },
+  {
+    "id": "mr200-82-3",
+    "subject": 82,
+    "level": 3,
+    "family": "sport-82-3",
+    "question": "FIBA basketbolunda standart hücum süresi kaç saniyedir?",
+    "options": [
+      "24",
+      "30",
+      "45",
+      "20"
+    ],
+    "answer": 0,
+    "explanation": "Basketbol topu: 24."
+  },
+  {
+    "id": "mr200-82-4",
+    "subject": 82,
+    "level": 3,
+    "family": "sport-82-4",
+    "question": "FIBA basketbolunda pota çemberinin yerden yüksekliği nedir?",
+    "options": [
+      "3,05 metre",
+      "2,75 metre",
+      "2,44 metre",
+      "3,50 metre"
+    ],
+    "answer": 0,
+    "explanation": "Basketbol topu: 3,05 metre."
+  },
+  {
+    "id": "mr200-83-0",
+    "subject": 83,
+    "level": 1,
+    "family": "sport-83-0",
+    "question": "Standart satranç tahtasında kaç kare vardır?",
+    "options": [
+      "64",
+      "100",
+      "49",
+      "81"
+    ],
+    "answer": 0,
+    "explanation": "Satranç: 64."
+  },
+  {
+    "id": "mr200-83-1",
+    "subject": 83,
+    "level": 2,
+    "family": "sport-83-1",
+    "question": "Satrançta oyuna başlarken her oyuncunun kaç taşı vardır?",
+    "options": [
+      "16",
+      "12",
+      "18",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Satranç: 16."
+  },
+  {
+    "id": "mr200-83-2",
+    "subject": 83,
+    "level": 2,
+    "family": "sport-83-2",
+    "question": "Satrançta at nasıl hareket eder?",
+    "options": [
+      "İki kare bir yönde, bir kare dik yönde",
+      "Yalnız çapraz",
+      "Yalnız bir kare ileri",
+      "Her zaman düz dört kare"
+    ],
+    "answer": 0,
+    "explanation": "Satranç: İki kare bir yönde, bir kare dik yönde."
+  },
+  {
+    "id": "mr200-83-3",
+    "subject": 83,
+    "level": 3,
+    "family": "sport-83-3",
+    "question": "Satrançta bir hamlede şah ile kalenin birlikte hareket etmesine ne denir?",
+    "options": [
+      "Rok",
+      "Terfi",
+      "Pat",
+      "Mat"
+    ],
+    "answer": 0,
+    "explanation": "Satranç: Rok."
+  },
+  {
+    "id": "mr200-83-4",
+    "subject": 83,
+    "level": 3,
+    "family": "sport-83-4",
+    "question": "Satrançta sıradaki oyuncunun şahı tehdit altında değilken yasal hamlesi kalmaması nedir?",
+    "options": [
+      "Pat",
+      "Gambit",
+      "Rok",
+      "Mat"
+    ],
+    "answer": 0,
+    "explanation": "Satranç: Pat."
+  },
+  {
+    "id": "mr200-63-0",
+    "subject": 63,
+    "level": 1,
+    "family": "tool-63-0",
+    "question": "Fotoğraftaki iğnenin ipliğin geçirildiği deliğine ne denir?",
+    "options": [
+      "İğne gözü",
+      "Koçan",
+      "Ağızlık",
+      "Perde"
+    ],
+    "answer": 0,
+    "explanation": "İğne ve iplik: İğne gözü."
+  },
+  {
+    "id": "mr200-63-1",
+    "subject": 63,
+    "level": 2,
+    "family": "tool-63-1",
+    "question": "İğne ve iplikle kumaş parçalarını birleştirme işi hangisidir?",
+    "options": [
+      "Dikiş",
+      "Döküm",
+      "Kumlama",
+      "Örme taş"
+    ],
+    "answer": 0,
+    "explanation": "İğne ve iplik: Dikiş."
+  },
+  {
+    "id": "mr200-63-2",
+    "subject": 63,
+    "level": 3,
+    "family": "tool-63-2",
+    "question": "İğneyle kumaş üzerine renkli iplikle desen işlemeye ne denir?",
+    "options": [
+      "Nakış",
+      "Torna",
+      "Marangozluk",
+      "Dövme metal"
+    ],
+    "answer": 0,
+    "explanation": "İğne ve iplik: Nakış."
+  },
+  {
+    "id": "mr200-63-3",
+    "subject": 63,
+    "level": 3,
+    "family": "tool-63-3",
+    "question": "Terzinin parmağını iğne batmasından koruyan küçük araç hangisidir?",
+    "options": [
+      "Yüksük",
+      "Mekik",
+      "Masura",
+      "Makas"
+    ],
+    "answer": 0,
+    "explanation": "İğne ve iplik: Yüksük."
+  },
+  {
+    "id": "mr200-63-4",
+    "subject": 63,
+    "level": 1,
+    "family": "tool-63-4",
+    "question": "Bir kumaş kenarının sökülmesini önlemek için kullanılan dikiş işlemi hangisidir?",
+    "options": [
+      "Sürfile",
+      "Fermente etme",
+      "Salamura",
+      "Temperleme"
+    ],
+    "answer": 0,
+    "explanation": "İğne ve iplik: Sürfile."
+  },
+  {
+    "id": "mr200-64-0",
+    "subject": 64,
+    "level": 1,
+    "family": "tool-64-0",
+    "question": "Fotoğraftaki araç hangi büyüklüğü izlemek için kullanılır?",
+    "options": [
+      "Zaman",
+      "Sıcaklık",
+      "Elektrik akımı",
+      "Basınç"
+    ],
+    "answer": 0,
+    "explanation": "Kum saati: Zaman."
+  },
+  {
+    "id": "mr200-64-1",
+    "subject": 64,
+    "level": 2,
+    "family": "tool-64-1",
+    "question": "Bu araçta üst hazneden alt hazneye dökülen madde çoğunlukla nedir?",
+    "options": [
+      "Kum",
+      "Yağ",
+      "Cıva",
+      "Mıknatıs tozu"
+    ],
+    "answer": 0,
+    "explanation": "Kum saati: Kum."
+  },
+  {
+    "id": "mr200-64-2",
+    "subject": 64,
+    "level": 3,
+    "family": "tool-64-2",
+    "question": "Bu araçta yer değiştirmeyi sağlayan temel fiziksel etki hangisidir?",
+    "options": [
+      "Yerçekimi",
+      "Elektrik akımı",
+      "Nükleer bölünme",
+      "Manyetik itme"
+    ],
+    "answer": 0,
+    "explanation": "Kum saati: Yerçekimi."
+  },
+  {
+    "id": "mr200-64-3",
+    "subject": 64,
+    "level": 3,
+    "family": "tool-64-3",
+    "question": "Kum saatinde akışı sınırlayan dar bölüm nerede bulunur?",
+    "options": [
+      "İki haznenin birleştiği boğazda",
+      "Camın boya katmanında",
+      "Alt tabanın dışında",
+      "Dış çerçevenin köşesinde"
+    ],
+    "answer": 0,
+    "explanation": "Kum saati: İki haznenin birleştiği boğazda."
+  },
+  {
+    "id": "mr200-64-4",
+    "subject": 64,
+    "level": 1,
+    "family": "tool-64-4",
+    "question": "Bu aracın İngilizce adı hangisidir?",
+    "options": [
+      "Hourglass",
+      "Barometer",
+      "Thermometer",
+      "Compass"
+    ],
+    "answer": 0,
+    "explanation": "Kum saati: Hourglass."
+  },
+  {
+    "id": "mr200-65-0",
+    "subject": 65,
+    "level": 1,
+    "family": "tool-65-0",
+    "question": "Fotoğraftaki aracın ibresi Dünya'nın hangi özelliğiyle yönlenir?",
+    "options": [
+      "Manyetik alanıyla",
+      "Yeraltı suyuyla",
+      "Sıcaklığıyla",
+      "Yağış miktarıyla"
+    ],
+    "answer": 0,
+    "explanation": "Pusula: Manyetik alanıyla."
+  },
+  {
+    "id": "mr200-65-1",
+    "subject": 65,
+    "level": 2,
+    "family": "tool-65-1",
+    "question": "Bu araçta N harfi çoğunlukla hangi yönü gösterir?",
+    "options": [
+      "Kuzey",
+      "Güney",
+      "Doğu",
+      "Batı"
+    ],
+    "answer": 0,
+    "explanation": "Pusula: Kuzey."
+  },
+  {
+    "id": "mr200-65-2",
+    "subject": 65,
+    "level": 3,
+    "family": "tool-65-2",
+    "question": "Haritalarda kullanılan temel dört ana yön hangileridir?",
+    "options": [
+      "Kuzey-güney-doğu-batı",
+      "Sağ-sol-üst-alt",
+      "Ön-arka-iç-dış",
+      "Yüksek-alçak-derin-sığ"
+    ],
+    "answer": 0,
+    "explanation": "Pusula: Kuzey-güney-doğu-batı."
+  },
+  {
+    "id": "mr200-65-3",
+    "subject": 65,
+    "level": 3,
+    "family": "tool-65-3",
+    "question": "Manyetik kuzey ile coğrafi kuzey arasındaki açıya ne denir?",
+    "options": [
+      "Manyetik sapma",
+      "Paralaks",
+      "Enlem",
+      "Ekinoks"
+    ],
+    "answer": 0,
+    "explanation": "Pusula: Manyetik sapma."
+  },
+  {
+    "id": "mr200-65-4",
+    "subject": 65,
+    "level": 1,
+    "family": "tool-65-4",
+    "question": "Bu aracın İngilizce adı hangisidir?",
+    "options": [
+      "Compass",
+      "Anchor",
+      "Hourglass",
+      "Hammer"
+    ],
+    "answer": 0,
+    "explanation": "Pusula: Compass."
+  },
+  {
+    "id": "mr200-66-0",
+    "subject": 66,
+    "level": 1,
+    "family": "tool-66-0",
+    "question": "Fotoğraftaki araç gemilerde temel olarak neye yarar?",
+    "options": [
+      "Gemiyi dibe tutunarak sabitlemeye",
+      "Yelkeni boyamaya",
+      "Radyo sinyali üretmeye",
+      "Yakıtı damıtmaya"
+    ],
+    "answer": 0,
+    "explanation": "Çapa: Gemiyi dibe tutunarak sabitlemeye."
+  },
+  {
+    "id": "mr200-66-1",
+    "subject": 66,
+    "level": 2,
+    "family": "tool-66-1",
+    "question": "Bir geminin çapasını denize bırakması hangi deyimle anlatılır?",
+    "options": [
+      "Demir atmak",
+      "Yelken açmak",
+      "Tam yol yapmak",
+      "Borda etmek"
+    ],
+    "answer": 0,
+    "explanation": "Çapa: Demir atmak."
+  },
+  {
+    "id": "mr200-66-2",
+    "subject": 66,
+    "level": 3,
+    "family": "tool-66-2",
+    "question": "Çapanın gemiye bağlandığı ağır bağlantı elemanı çoğunlukla hangisidir?",
+    "options": [
+      "Zincir",
+      "Keman teli",
+      "Kauçuk conta",
+      "Elektrik lambası"
+    ],
+    "answer": 0,
+    "explanation": "Çapa: Zincir."
+  },
+  {
+    "id": "mr200-66-3",
+    "subject": 66,
+    "level": 3,
+    "family": "tool-66-3",
+    "question": "Çapayı çekmekte kullanılan güverte makinesine ne denir?",
+    "options": [
+      "Irgat",
+      "Pusula",
+      "Pervane",
+      "Dümen"
+    ],
+    "answer": 0,
+    "explanation": "Çapa: Irgat."
+  },
+  {
+    "id": "mr200-66-4",
+    "subject": 66,
+    "level": 1,
+    "family": "tool-66-4",
+    "question": "Bu aracın İngilizce adı hangisidir?",
+    "options": [
+      "Anchor",
+      "Compass",
+      "Hammer",
+      "Hourglass"
+    ],
+    "answer": 0,
+    "explanation": "Çapa: Anchor."
+  },
+  {
+    "id": "mr200-67-0",
+    "subject": 67,
+    "level": 1,
+    "family": "tool-67-0",
+    "question": "Fotoğraftaki araç hangi basit makine ilkesinden çivi sökerken yararlanabilir?",
+    "options": [
+      "Kaldıraç",
+      "Eğik düzlemde yuvarlanma",
+      "Kılcallık",
+      "Yüzerlik"
+    ],
+    "answer": 0,
+    "explanation": "Çekiç: Kaldıraç."
+  },
+  {
+    "id": "mr200-67-1",
+    "subject": 67,
+    "level": 2,
+    "family": "tool-67-1",
+    "question": "Çekicin çiviye uyguladığı kısa süreli kuvvet hangi etkiyi sağlar?",
+    "options": [
+      "Darbe",
+      "Soğutma",
+      "Damıtma",
+      "Süzme"
+    ],
+    "answer": 0,
+    "explanation": "Çekiç: Darbe."
+  },
+  {
+    "id": "mr200-67-2",
+    "subject": 67,
+    "level": 3,
+    "family": "tool-67-2",
+    "question": "Bu el aletinin İngilizce adı hangisidir?",
+    "options": [
+      "Hammer",
+      "Needle",
+      "Compass",
+      "Anchor"
+    ],
+    "answer": 0,
+    "explanation": "Çekiç: Hammer."
+  },
+  {
+    "id": "mr200-67-3",
+    "subject": 67,
+    "level": 3,
+    "family": "tool-67-3",
+    "question": "Bir çekiç çivinin başına vurulduğunda çivinin sivri ucu basıncı nasıl etkiler?",
+    "options": [
+      "Küçük alana kuvvet vererek artırır",
+      "Kuvveti sıfırlar",
+      "Kütleyi yok eder",
+      "Alanı büyüterek artırır"
+    ],
+    "answer": 0,
+    "explanation": "Çekiç: Küçük alana kuvvet vererek artırır."
+  },
+  {
+    "id": "mr200-67-4",
+    "subject": 67,
+    "level": 1,
+    "family": "tool-67-4",
+    "question": "Çekiç ile çivi en çok hangi işle birlikte anılır?",
+    "options": [
+      "Marangozluk",
+      "Dokumacılık",
+      "Seramik sır pişirme",
+      "Cam üfleme"
+    ],
+    "answer": 0,
+    "explanation": "Çekiç: Marangozluk."
+  },
+  {
+    "id": "mr200-68-0",
+    "subject": 68,
+    "level": 1,
+    "family": "tool-68-0",
+    "question": "Fotoğraftaki mumda eriyik yakıtı alev bölgesine taşıyan parça hangisidir?",
+    "options": [
+      "Fitil",
+      "Menteşe",
+      "Baca",
+      "Filtre"
+    ],
+    "answer": 0,
+    "explanation": "Mum: Fitil."
+  },
+  {
+    "id": "mr200-68-1",
+    "subject": 68,
+    "level": 2,
+    "family": "tool-68-1",
+    "question": "Mumdaki eriyik yakıtın fitilde yukarı taşınmasında hangi olay etkilidir?",
+    "options": [
+      "Kılcallık",
+      "Kristallenme",
+      "Manyetik çekim",
+      "Süblimleşme"
+    ],
+    "answer": 0,
+    "explanation": "Mum: Kılcallık."
+  },
+  {
+    "id": "mr200-68-2",
+    "subject": 68,
+    "level": 3,
+    "family": "tool-68-2",
+    "question": "Mumun yanmasında havadaki hangi gaz kullanılır?",
+    "options": [
+      "Oksijen",
+      "Argon",
+      "Neon",
+      "Helyum"
+    ],
+    "answer": 0,
+    "explanation": "Mum: Oksijen."
+  },
+  {
+    "id": "mr200-68-3",
+    "subject": 68,
+    "level": 3,
+    "family": "tool-68-3",
+    "question": "Mum erirken hangi hâl değişimi gerçekleşir?",
+    "options": [
+      "Katıdan sıvıya",
+      "Sıvıdan katıya",
+      "Gazdan katıya",
+      "Gazdan plazmaya"
+    ],
+    "answer": 0,
+    "explanation": "Mum: Katıdan sıvıya."
+  },
+  {
+    "id": "mr200-68-4",
+    "subject": 68,
+    "level": 1,
+    "family": "tool-68-4",
+    "question": "Fotoğraftaki nesnenin İngilizce adı hangisidir?",
+    "options": [
+      "Candle",
+      "Anchor",
+      "Needle",
+      "Compass"
+    ],
+    "answer": 0,
+    "explanation": "Mum: Candle."
+  }
+]

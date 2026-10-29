@@ -1,0 +1,42 @@
+[
+  {
+    "run": 1,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "run": 2,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "run": 3,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "run": 4,
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n450000 !== 0\n\n    at Object.<anonymous> (/tmp/base84-water-9pv55eye/tests/water202.cjs:5:344)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 450000,\n  expected: 0,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "run": 5,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "run": 6,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "run": 7,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "run": 8,
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  }
+]

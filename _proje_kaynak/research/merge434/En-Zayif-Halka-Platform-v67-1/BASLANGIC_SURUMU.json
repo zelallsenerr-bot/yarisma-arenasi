@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/halka-mucadelesi/index.html",
+      "status": "modified",
+      "base_sha256": "229a7ec01ad1279d168757263df096d799d12f23418fc9e436f5d78a1f812960",
+      "new_sha256": "a6c76ed8cb792fc4139958f56c4d00462ca1ddcf3604b4a34c51fd8e8bb656ef"
+    },
+    {
+      "path": "dist/games/halka-mucadelesi/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "1e99b5bc0ddbf5d0bc805bf3dc3d1798d5a3a873dfbe0379c8de27d576c83904"
+    },
+    {
+      "path": "dist/games/halka-mucadelesi/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "20f9dd4daded8752122ed321cc703609bea5ffb60c53494d85fa76bc2a1be0c5"
+    }
+  ],
+  "shared_files_changed": []
+}

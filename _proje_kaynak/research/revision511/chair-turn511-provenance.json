@@ -1,0 +1,13 @@
+{
+  "generator": "built-in image_gen",
+  "initial": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-8dd6eb7b-0376-4fb4-a1a6-c9f66da608df.png",
+  "selected": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-f6458842-b7c6-4362-99e9-2ff9f5e6d9a4.png",
+  "output": "dist/games/donen-koltuklar/assets/chair-turn511.webp",
+  "bytes": 141398,
+  "size": [
+    1536,
+    1024
+  ],
+  "alpha_zero_fraction": 0.6393229166666666,
+  "prompt_file": "research/revision511/chair-turn511-prompt.txt"
+}

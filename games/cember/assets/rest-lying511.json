@@ -1,0 +1,56 @@
+{
+  "asset": "games/cember/assets/rest-lying511.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "entries": [
+    {
+      "id": "female-adult",
+      "asset": "games/cember/assets/rest-lying511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        81,
+        57,
+        1376,
+        391
+      ],
+      "pose": "lying",
+      "gender": "female",
+      "ageBand": "adult",
+      "facing": "left",
+      "sourceIdentity": "profile443 female-adult",
+      "floor_anchor_normalized": [
+        0.5,
+        1
+      ]
+    },
+    {
+      "id": "male-adult",
+      "asset": "games/cember/assets/rest-lying511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        69,
+        534,
+        1409,
+        406
+      ],
+      "pose": "lying",
+      "gender": "male",
+      "ageBand": "adult",
+      "facing": "left",
+      "sourceIdentity": "profile443 male-adult",
+      "floor_anchor_normalized": [
+        0.5,
+        1
+      ]
+    }
+  ],
+  "notes": "Two photographic default adult identities from profile443; navy blouse/trousers/heels woman, navy rolled sleeve shirt/trousers/shoes man. Natural side-rest with head on forearm. No furniture. Static fullbody poses, not articulated animation. Do not map to alternate looks or ages."
+}

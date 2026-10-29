@@ -1,0 +1,110 @@
+[
+  {
+    "game": "ada-mucadelesi",
+    "actors": 21,
+    "width": 360,
+    "zero": []
+  },
+  {
+    "game": "altin-sofra",
+    "actors": 6,
+    "width": 354,
+    "zero": []
+  },
+  {
+    "game": "altmis-saniye",
+    "actors": 50,
+    "width": 358,
+    "zero": []
+  },
+  {
+    "game": "anlasma",
+    "actors": 3,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "arkandayiz",
+    "actors": 5,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "bak-su-duvara",
+    "actors": 7,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "ben-bilirim",
+    "actors": 5,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "beyazla-joker",
+    "actors": 2,
+    "width": 358,
+    "zero": []
+  },
+  {
+    "game": "cember",
+    "actors": 5,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "cevap-sende",
+    "actors": 50,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "cevap-soruda",
+    "actors": 5,
+    "width": 366,
+    "zero": []
+  },
+  {
+    "game": "cifte-milyon",
+    "actors": 3,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "donen-koltuklar",
+    "actors": 5,
+    "width": 358,
+    "zero": []
+  },
+  {
+    "game": "elli-sarisin",
+    "actors": 52,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "esim-yapar",
+    "actors": 9,
+    "width": 360,
+    "zero": []
+  },
+  {
+    "game": "evim-sahane",
+    "actors": 19,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "eyvah-dusuyorum",
+    "actors": 11,
+    "width": 394,
+    "zero": []
+  },
+  {
+    "game": "gel-hemserim",
+    "actors": 2,
+    "width": 390,
+    "zero": []
+  }
+]

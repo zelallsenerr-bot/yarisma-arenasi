@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/goz6/index.html",
+      "status": "modified",
+      "base_sha256": "1ef8dacf606049d93a88eb63b19bbfa6df552cbde45b9585385ceb1b86d805d1",
+      "new_sha256": "7ede9773887305122b539c54b0c82a3b9d6b75d13ea2a1e89f7ae15fb22fcff1"
+    },
+    {
+      "path": "dist/games/goz6/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "ab88fd21b5adec09ecc2881eae49b71687d38d6d47da1436591ff448b8ea778c"
+    },
+    {
+      "path": "dist/games/goz6/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "1d1e0bb2a91dc64598bfd7a31c99b4298490117f7d8d6d7776bf5ba330a78a40"
+    }
+  ]
+}

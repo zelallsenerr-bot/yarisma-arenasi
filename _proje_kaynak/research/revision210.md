@@ -1,0 +1,15 @@
+# Presenter identity and gameplay integration review — 24 October 2026
+
+All 75 catalogue entries are inventoried in `presenters210.json`; each has an explicit role, source URL, source-image crop, verification status and period/provenance note. 70 have named photographic identity records. Five intentionally have no invented visible presenter: Ütopya and Şebeke (no conventional studio host), Telefon Kulübesi (unidentified telephone voice), Çember and Anlaşma (identity not established).
+
+Cevap Sende's previous Mehmet Ali Erbil/generic contestant descriptor is replaced by Anıl İlter. The 1920×1080 programme photograph is mapped as one hand-traced full standing silhouette into the actual 3D stage and its fallback. It has no contestant-atlas face and never falls with the contestant. The native Ertem Şener silhouette, separately disclosed edited seated Emre Karayel pose, and genuine-photo taxi driver implementation are retained.
+
+Other verified games get a photograph-based presenter area inside the scrolling game surface; existing host dialogue/portrait slots use the same identity. This is photographic staging, not a claim of motion-captured or fully animated 3D presenters. Source poses and photographs remain intact. Some identity photographs are from another programme or a presenter's profile; these are identified in the inventory and the review page, rather than described as original broadcast stills.
+
+Role distinctions include Şebnem Bozoklu versus permanent contestant Enis Arıkan, Uraz Kaygılaroğlu versus chaser Muhsin Divan, Pelin Çift versus expert Tufan Gündüz, chef jury formats, and the control-room presenters of Şanslı Masa/İlk Buluşma/Kızma Kazan. Göz6 includes Jess Molho for games and Öykü Serter for moderation. Passaparola uses Metin Uca's period, not Kaan Sekban's separately named Parola Parola. Cevap Soruda's in-game host is now Ersin Düzen; the historic TRT introduction remains an archival image, not relabelled as Ersin.
+
+Verified corrections: Bay J is Jerfi Benveniste; the Show TV Piramit source names Yusuf Çim as host and Evrim Akın/Sertan Erkaçan as coaches.
+
+Checks passed: presenter metadata/entrypoint/runtime tests for all 75, Cevap Sende engine and UI tests, shared native geometry/UV/camera/fall regressions, Sıradaki Gelsin UI/solo/native regressions, all 75 host-conversation and lifecycle checks, JavaScript syntax and diff checks. No browser, GPU or phone rendering was verified. An old `studios207.mjs` fixture expects the pre-209 lid delay and fails that obsolete timing assertion; the current `water209-scene.mjs` suite validates the intended 209 timing plus the new presenter geometry. No unrelated timing behaviour was changed.
+
+Privacy review: presenter assets are bundled local static files; no new tracking, identity upload, AI service, recording or network chat was introduced. Existing privacy text remains applicable. Source/provenance information is linked from credits, not reintroduced as a sources block in game descriptions. Photo credits do not imply a new licence grant.

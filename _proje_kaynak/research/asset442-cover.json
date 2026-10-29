@@ -1,0 +1,9 @@
+{
+  "method": "Built-in image_gen edit; WebP format conversion",
+  "asset": "dist/assets/covers400/sans-kapiyi-calinca442.webp",
+  "references": [
+    "dist/assets/covers400/kizma-kazan.webp",
+    "dist/assets/covers400/yasim-kac.webp"
+  ],
+  "prompt": "Edit the provided KIZMA KAZAN cover into a matching cover for ŞANS KAPIYI ÇALINCA. Keep the exact visual family: premium polished metallic gold three-dimensional Turkish title, purple plaque, symmetrical gold studio columns, electric blue and purple spotlights, glossy reflective floor, dramatic gold highlights, two small dark gold-edged podiums. Replace ALL existing words with exactly \"ŞANS\" on top, \"KAPIYI\" middle, \"ÇALINCA\" bottom, large centered bold gold lettering easily readable at a small thumbnail. Replace the gauge behind the title with a grand gold door portal slightly open with warm light spilling through, subtle four-leaf clover motif near the top of the door. Landscape16:9 edge-to-edge standalone app cover, same composition and polish as references. No people, no screenshot, no UI buttons, no extra words, no logos, no times, no watermark. Keep proper Turkish dotted/dotless letters: ŞANS KAPIYI ÇALINCA."
+}

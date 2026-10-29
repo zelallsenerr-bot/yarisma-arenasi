@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/anlasma/index.html",
+      "status": "modified",
+      "base_sha256": "cc140a15977ce05120ad88e1faf51773f6a1278afc5a3f4a1871a281c9062827",
+      "new_sha256": "9290aa559aea638f9d99bf62b35a10a62ca99235ba1cea531b57afb345abe6e4"
+    },
+    {
+      "path": "dist/games/anlasma/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "7541600e6ced1c8957a09d2e4302c08d46f9299345500c35a8cc00b4a92ff616"
+    },
+    {
+      "path": "dist/games/anlasma/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "b19c4a78d4d770bfecf1e9d5c08c6888a850246b5ddc62f9fccd61f05dfc2277"
+    }
+  ],
+  "shared_files_changed": []
+}

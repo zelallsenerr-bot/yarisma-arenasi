@@ -1,0 +1,27 @@
+from pathlib import Path
+import json,re
+r=Path(__file__).resolve().parents[1];d=r/'dist';a=d/'humans435';p=a/'actors.js';s=p.read_text()
+if 'ArenaOrient437' not in s:
+ s=s.replace("function person(p={},index=0,pose){return art(identity(p,index,pose),p.name||'Yarışmacı')}","function person(p={},index=0,pose){const mode=pose||(seatedGames.has(game)?'seated':'standing');return art(window.ArenaStageCast437?.resolve({...p,game},index,mode,p.facing||'front')||identity(p,index,pose),p.name||'Yarışmacı')}")
+ s=s.replace("const pose=seatedGames.has(game)?'seated':'standing';return person({name},0,pose)","const pose=['kelime-islem','kelime-meydani','kumbara','milyonluk-resim','sans-kapida','sofra-rekabeti','temizlik-benim-isim'].includes(game)?'seated':'standing';return person({name},0,pose)")
+ s=s.replace("if(box.matches('.eliminated366'))return;","if(box.matches('.eliminated366')||cfg.hostSelector&&box.matches(cfg.hostSelector))return;")
+ s=s.replace("if(old&&!old.classList.contains('human435'))old.outerHTML=person({name},i,seatedGames.has(game)?'seated':'standing')","if(old)old.outerHTML=person({name},i,['kelime-islem','kelime-meydani','kumbara','milyonluk-resim','sans-kapida','sofra-rekabeti','temizlik-benim-isim'].includes(game)?'seated':'standing')")
+ s=s.replace("if(/^(vs-chair|everyone-chair-v67|everyone-chairs-v67|door-armchair-v67)$/.test(cls))continue;","if(/chair|seat|sofa/.test(cls))continue;")
+ s=s.replace('data-person435="${esc(name)}"','data-person435="${esc(name)}" data-cast-id437="${esc(p.id||name)}" data-gender437="${esc(p.gender||\'\')}" data-age437="${esc(p.age||\'\')}"')
+ s=s.replace('<image clip-path="url(#${clip})" href="../../${p.asset}" width="${p.size[0]}" height="${p.size[1]}"/>','<g clip-path="url(#${clip})"><image ${p.flip?`transform="translate(${p.rect[0]*2+p.rect[2]},0) scale(-1,1)"`:""} href="../../${p.asset}" width="${p.size[0]}" height="${p.size[1]}"/></g>')
+ pos=s.index('function scan(){');s=s[:pos]+'''window.ArenaOrient437=stage=>{stage.querySelectorAll('.actor-slot435').forEach((box,i)=>{const old=box.querySelector(':scope > svg.human435');if(!old||box.matches('.vs-chair,.yt-judge,.ag-back,.ph-person')||old.getAttribute('aria-label')?.includes('arkadan'))return;let name=old.dataset.person435||'Yarışmacı',mode=box.dataset.pose437||(seatedGames.has(game)?'seated':'standing'),dir=box.dataset.facing437||'front',p;if(box.matches('.fifty-pod-v67')){const n=Array.from(stage.querySelectorAll('.fifty-pod-v67')).indexOf(box);p=window.ArenaBlockingData437?.blondes?.[n];if(!p)return;}else p=window.ArenaStageCast437?.resolve({name,id:old.dataset.castId437||name,gender:old.dataset.gender437,age:old.dataset.age437,player:/^yarışmacı$|^sen$/i.test(name),game},i,mode,dir);const key=name+'|'+mode+'|'+dir;if(!p||box.dataset.art437===key)return;box.dataset.art437=key;old.outerHTML=art(p,name);box.classList.toggle('body-only437',!!p.bodyOnly);if(mode==='seated'&&p.bodyOnly)box.classList.add('needs-seat437')});stage.querySelectorAll('.actor-slot435>svg.human435').forEach(svg=>{const box=svg.parentElement;if(box.matches('.vs-chair,.yt-judge,.ag-back')||!box.clientHeight)return;const rect=svg.getAttribute('viewBox')?.split(' ').map(Number);if(!rect||!rect[3])return;const h=box.clientHeight,w=h*rect[2]/rect[3];for(const [k,v]of Object.entries({width:w+'px',height:h+'px',left:(box.clientWidth-w)/2+'px',top:'0',position:'absolute'}))svg.style.setProperty(k,v,'important')});if(!stage.dataset.resize437){stage.dataset.resize437='1';new ResizeObserver(()=>window.ArenaOrient437(stage)).observe(stage)}};
+''' +s[pos:];p.write_text(s)
+p=a/'resolver437.js';s=p.read_text().replace("entry=direction==='front'?(original||angle):(angle||original)","entry=pose==='seated'&&angle?.bodyOnly?angle:direction==='front'?(original||angle):(angle||original)").replace("let gender=profile.gender||p.gender;","let gender=profile.gender||p.gender;if(['altin-sofra','kizlar-ve-anneleri','iste-benim-stilim'].includes(p.game))gender='female';");p.write_text(s)
+if not (a/'data437.js').exists():(a/'data437.js').write_text('window.ArenaBlockingData437={poses:{},generic:{},blondes:[]};')
+c=json.loads((d/'catalog.json').read_text());cfg=json.loads((a/'data.js').read_text().split('=',1)[1].rstrip(';\n'))
+for x in c:
+ f=d/x['path'];s=f.read_text()
+ if 'humans435/data437.js' not in s:
+  s=re.sub(r'<script src="../../humans435/data.js\?v=[^"]+"></script>','',s)
+  s=s.replace('</head>','<script src="../../humans435/data.js?v=437"></script><script src="../../humans435/data437.js?v=437"></script><script src="../../humans435/resolver437.js?v=437"></script><link rel="stylesheet" href="../../humans435/blocking437.css?v=437"><link rel="stylesheet" href="../../humans435/seats437.css?v=437"><script defer src="../../humans435/blocking437.js?v=437"></script></head>')
+ s=re.sub(r'(../../humans435/(?:actors.js|actors.css))\?v=[^"\']+',r'\1?v=437',s);s=re.sub(r'(../../studios211/integration.js)\?v=[^"\']+',r'\1?v=437',s)
+ if x['id']=='siradaki-gelsin':s=re.sub(r'(scene203.js)\?v=[^"\']+',r'\1?v=437',s)
+ if x['id']=='kendi-dusen-aglamaz':s=re.sub(r'(../../shared206/scene.js)\?v=[^"\']+',r'\1?v=437',s)
+ f.write_text(s)
+p=d/'studios211/integration.js';p.write_text(p.read_text().replace('./scene.js?v=433-final','./scene.js?v=437'))
+(r/'research/staging437-inventory.json').write_text(json.dumps([{'id':x['id'],'name':x['name'],'previouslyUpdated':x['id'] in cfg['dom'],'renderer':'dom' if x['id'] in cfg['dom'] else 'native','revision':437}for x in c],ensure_ascii=False,indent=2))

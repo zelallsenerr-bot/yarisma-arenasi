@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/sansli-masa/index.html",
+      "status": "modified",
+      "base_sha256": "2f03e2a10caf914b8c62af21965f7ec8b352def23b58a9a4e63a7c0d217c934d",
+      "new_sha256": "6c95450c310976d08463778a1e99199e2f01e2bdc72ed14fd9df6d021fcb6da9"
+    },
+    {
+      "path": "dist/games/sansli-masa/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "3ae78cd078d8f66b6ac56fe265712c05fe16c6259db1602af5fe02e1109b9550"
+    },
+    {
+      "path": "dist/games/sansli-masa/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "14b9d7969135b8d953ea387fced45779e208afbb0687b273bac0dd9cde87d005"
+    },
+    {
+      "path": "dist/games/sansli-masa/platform-hosts.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "f1f39efe3b4486bfa0fe3f5157bb2d22add6b675064d3cc4e411ef89050d0495"
+    }
+  ]
+}

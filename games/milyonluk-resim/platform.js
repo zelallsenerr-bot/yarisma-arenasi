@@ -1,0 +1,12 @@
+/* Local picture studio: image source comes only from the visible game image. */
+(()=>{'use strict';function install(){const app=document.getElementById('app');if(!app)return;let signature='';
+function update(){const s=window.Picture200Test?.state;let current=app.querySelector('.picture-platform-v67');if(!s||app.querySelector('.hero400')){if(current)current.remove();signature='';return}
+const photo=app.querySelector('#photo200');const sig=JSON.stringify([s.name,s.phase,photo?.getAttribute('src'),photo?.getAttribute('alt')]);if(current&&sig===signature)return;signature=sig;
+const stage=document.createElement('section');stage.className='picture-platform-v67';stage.setAttribute('aria-label','Milyonluk Resim stüdyosu: altın çerçeveli büyük resim ekranı ve önünde iki yüksek koltuk');
+const screen=document.createElement('div');screen.className='picture-frame-v67';const title=document.createElement('h2');title.textContent='MİLYONLUK RESİM';screen.append(title);const display=document.createElement('div');display.className='picture-display-v67';if(photo){const image=photo.cloneNode(true);image.removeAttribute('id');display.append(image)}else{const waiting=document.createElement('span');waiting.textContent='MİLYONLUK RESİM';display.append(waiting)}screen.append(display);stage.append(screen);
+for(const side of ['left','right']){const chair=document.createElement('div');chair.className='picture-chair-v67 '+side;chair.setAttribute('aria-hidden','true');stage.append(chair)}
+const player=document.createElement('div');player.className='picture-player-v67';const name=s.name||'Yarışmacı';player.innerHTML=window.ArenaHumans435?.person({id:'picture-platform-player',name,player:true},0)||'';const label=document.createElement('strong');label.textContent=name;player.append(label);stage.append(player);
+const host=document.createElement('div');host.className='picture-host-v67';host.innerHTML=window.ArenaHumans435?.host()||'';const hostName=document.createElement('strong');hostName.textContent='Selçuk Yöntem';host.append(hostName);stage.append(host);
+if(current)current.replaceWith(stage);else app.prepend(stage);
+}new MutationObserver(records=>{if(records.every(r=>r.target.nodeType===1&&r.target.closest?.('.picture-platform-v67')))return;update()}).observe(app,{childList:true,subtree:true});update();}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install();})();

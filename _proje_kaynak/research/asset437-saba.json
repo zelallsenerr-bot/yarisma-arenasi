@@ -1,0 +1,60 @@
+{
+  "key": "saba",
+  "cols": 3,
+  "rows": 2,
+  "pose": "seated",
+  "names": [
+    "Hande Ataizi",
+    "Alper Kul",
+    "Doğa Rutkay",
+    "Murat Başoğlu",
+    "Ozan Doğulu",
+    "Kerimcan Kamal"
+  ],
+  "prompt": "6specificTurkishTVcelebrities EXACT3columns2rows TOPHandeAtaizibrunettewomanblouse,AlperKulshorthairmanbeard,DoğaRutkayredhairedwomangreenoutfit; BOTTOMMuratBaşoğlugreyblondmanblueblazer,OzanDoğulumaledarkhairblackshirt,KerimcanKamalmoustachemannavyshirt. Recognizableauthenticfaces, candidconversationnotgenericmodels. AllSEATEDwithoutCHAIRSorfurniture turned65degreesRIGHT, notcamera, naturalvariedhands fullfeet.",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-c48e76be-1fa2-4223-866a-dac25e5d73e3.png",
+  "facing": "right",
+  "asset": "humans435/angle437-saba.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "rects": [
+    [
+      178,
+      8,
+      334,
+      504
+    ],
+    [
+      512,
+      12,
+      462,
+      500
+    ],
+    [
+      1114,
+      15,
+      341,
+      497
+    ],
+    [
+      141,
+      512,
+      371,
+      502
+    ],
+    [
+      512,
+      512,
+      500,
+      499
+    ],
+    [
+      1079,
+      512,
+      419,
+      505
+    ]
+  ]
+}

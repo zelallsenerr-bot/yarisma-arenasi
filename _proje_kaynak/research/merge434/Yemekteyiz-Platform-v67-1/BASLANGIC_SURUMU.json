@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/sofra-rekabeti/index.html",
+      "status": "modified",
+      "base_sha256": "d491482ad828a04fe08301da499302786c7fba7ef3e2fd800da4c0de3371b5af",
+      "new_sha256": "bad25c80fa825d7a818eba1422110b212e89127111f4bb3e043684f2baf0cef0"
+    },
+    {
+      "path": "dist/games/sofra-rekabeti/app.js",
+      "status": "modified",
+      "base_sha256": "dc331b08b26a36895b52fb6fb47c08f7f3d83c675571ec15644948fe9d16398c",
+      "new_sha256": "696dc1087e66e51b8497f084cb9b6327954b119187b285d6f40860f90df0dff8"
+    },
+    {
+      "path": "dist/games/sofra-rekabeti/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "42bff67edc5101575f372b36e8d63a63fa10c1643dacd4e6a78cf60cf16cb7f8"
+    },
+    {
+      "path": "dist/games/sofra-rekabeti/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "5b11e3aa40b25df58b580a60aac10698030ef8c587f596d9e2dd1ad982eda80a"
+    }
+  ]
+}

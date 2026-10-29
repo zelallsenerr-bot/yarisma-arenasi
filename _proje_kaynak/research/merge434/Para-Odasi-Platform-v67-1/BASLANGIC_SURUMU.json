@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/para-odasi/index.html",
+      "status": "modified",
+      "base_sha256": "9eb2ef60debaeef4e176109768a6fe94a33365fcaade1c5693026a311115451a",
+      "new_sha256": "4fa6add57202625c24201c2df394e4532618df379a564095f0ba2750dec3666e"
+    },
+    {
+      "path": "dist/games/para-odasi/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "d2d1a1ff9da18e73fa625ab301ff4fddb7426dc14030b0cd562eb04c6d33352c"
+    },
+    {
+      "path": "dist/games/para-odasi/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "6922ca14c3a9fd3822809f39d435e9ca05e2b251729ec1065d411ff4a074c79d"
+    }
+  ],
+  "shared_files_changed": []
+}

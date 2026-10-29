@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/sans-kapida/index.html",
+      "status": "modified",
+      "base_sha256": "016aed4f914e4dfa7c82d0d67ffd1138cf3f35cb2a39beadd9096e83d21f25c5",
+      "new_sha256": "3e08a2553edf237fd2c4d2d523bfd72e12a9733341686be4dc47ca3c63d14347"
+    },
+    {
+      "path": "dist/games/sans-kapida/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "14d958f8eaf387539fcb4bab3342ed8b9903cf43f5780a0b8895baaa6d98b62a"
+    },
+    {
+      "path": "dist/games/sans-kapida/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "f71603bfc4ba29061d70306a2fdd0326a96926ad77f8c0f9d06b7ae4c2613b91"
+    }
+  ],
+  "shared_files_changed": []
+}

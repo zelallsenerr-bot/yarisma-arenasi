@@ -1,0 +1,64 @@
+{
+  "key": "standing",
+  "cols": 4,
+  "rows": 2,
+  "pose": "standing",
+  "prompt": "8people exact4columns2rows preserve allfaces,clothes,genderorder. Allstanding fullbodyheadANDtorso turned65degreesRIGHT lookingoffscreenright notcamera, variednaturalhands listening.",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-d4db64c6-c203-47ee-92e7-f8ee7a254e12.png",
+  "facing": "right",
+  "asset": "humans435/angle437-standing.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "rects": [
+    [
+      139,
+      8,
+      202,
+      497
+    ],
+    [
+      481,
+      6,
+      240,
+      500
+    ],
+    [
+      873,
+      10,
+      185,
+      502
+    ],
+    [
+      1229,
+      4,
+      234,
+      500
+    ],
+    [
+      143,
+      515,
+      218,
+      487
+    ],
+    [
+      498,
+      512,
+      243,
+      496
+    ],
+    [
+      874,
+      512,
+      224,
+      490
+    ],
+    [
+      1258,
+      513,
+      240,
+      491
+    ]
+  ]
+}

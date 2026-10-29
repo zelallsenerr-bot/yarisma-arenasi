@@ -1,0 +1,48 @@
+{
+  "key": "hosts7",
+  "asset": "humans435/angle437-hosts7.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      141,
+      22,
+      351,
+      737
+    ],
+    [
+      640,
+      22,
+      269,
+      738
+    ],
+    [
+      148,
+      777,
+      316,
+      724
+    ],
+    [
+      620,
+      781,
+      342,
+      727
+    ]
+  ],
+  "names": [
+    "Ümit İbrahim Kantarcılar",
+    "Barış Kılıç",
+    "Timur Acar",
+    "Kadir Ezildi"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right",
+  "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-844efa9f-c574-42b9-85a9-87af58f4dbab.png"
+}

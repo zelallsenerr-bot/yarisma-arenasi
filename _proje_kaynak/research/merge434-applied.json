@@ -1,0 +1,1046 @@
+[
+  {
+    "path": "dist/games/on-dokuz/index.html",
+    "zip": "19-Platform-v67-1.zip",
+    "sha256": "beb658ab28cfbe5e0f845fb33190e0d3015e3e0e10b99bed367e54d66b5887d3",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/on-dokuz/platform.css",
+    "zip": "19-Platform-v67-1.zip",
+    "sha256": "602e90225abe183ccfc1305bdbc8e2b01bb870fc6d681b991ae0302900ff0165",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/on-dokuz/platform.js",
+    "zip": "19-Platform-v67-1.zip",
+    "sha256": "247cf61b0db608a6d4d33f84b13ddb52dc6a80c79a201924771559c38b0f5c40",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ucte-uc/index.html",
+    "zip": "3te-3-Platform-v67-1.zip",
+    "sha256": "744b0f2035364766716c863e1713f6cadf6e2e8996adf6bfd60e0621d1facd2c",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/ucte-uc/platform-reference.png",
+    "zip": "3te-3-Platform-v67-1.zip",
+    "sha256": "0e171970db00cbd42b986f328661f06f117f0d11553ab8682e27e8d9dc37231f",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ucte-uc/platform.css",
+    "zip": "3te-3-Platform-v67-1.zip",
+    "sha256": "3ddda3419a554264aba15a81638842ebac7a1c473553227eaa259690752dc4c8",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ucte-uc/platform.js",
+    "zip": "3te-3-Platform-v67-1.zip",
+    "sha256": "952d350d332b5c650ae0ffa71bb4909792bb98c288e6a89645421e023dd70292",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/elli-sarisin/index.html",
+    "zip": "50-Sarisin-Platform-v67-1.zip",
+    "sha256": "c354c404e730825a8b8da0edd5a7976365b69e70e0a1eedc12ee783fd5ef7d1b",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/elli-sarisin/platform.css",
+    "zip": "50-Sarisin-Platform-v67-1.zip",
+    "sha256": "7e254569991be9b65d0dcf211acdbfeddbc2b5aba610af7270a9cfff292e11a8",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/elli-sarisin/platform.js",
+    "zip": "50-Sarisin-Platform-v67-1.zip",
+    "sha256": "0a974d051835f90cc1eb7b0f4f49afe0a4b4fd3bc2ef69c05b6018e547ffcdbc",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/anlasma/index.html",
+    "zip": "Anlasma-Platform-v67-1.zip",
+    "sha256": "9290aa559aea638f9d99bf62b35a10a62ca99235ba1cea531b57afb345abe6e4",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/anlasma/platform.css",
+    "zip": "Anlasma-Platform-v67-1.zip",
+    "sha256": "b19c4a78d4d770bfecf1e9d5c08c6888a850246b5ddc62f9fccd61f05dfc2277",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/anlasma/platform.js",
+    "zip": "Anlasma-Platform-v67-1.zip",
+    "sha256": "7541600e6ced1c8957a09d2e4302c08d46f9299345500c35a8cc00b4a92ff616",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/arkandayiz/index.html",
+    "zip": "Arkandayiz-Platform-v67-1.zip",
+    "sha256": "c786d746cd396df1954b420a5ff0ba3041cc28c74dc6fe4e13948b5ba5929561",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/arkandayiz/platform.css",
+    "zip": "Arkandayiz-Platform-v67-1.zip",
+    "sha256": "3bf97d1c9d85890ee602e8027b1c385896b1483ccc6cb10522807bd0a6ac7596",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/arkandayiz/platform.js",
+    "zip": "Arkandayiz-Platform-v67-1.zip",
+    "sha256": "6ccac9275c3821e28a1d2f36ac217635bf2042719498adaf1eb91078625abf09",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/bak-su-duvara/index.html",
+    "zip": "Bak-Su-Duvara-Platform-v67-1.zip",
+    "sha256": "68243c7a0856b8b1857c468acb219cffa8df6f35e183d7271d520724aa96864c",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/bak-su-duvara/platform.css",
+    "zip": "Bak-Su-Duvara-Platform-v67-1.zip",
+    "sha256": "fb4211b95d062407203ed9ed194c5774b68e7b6f094882b7dc93cb825c27f426",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/bak-su-duvara/platform.js",
+    "zip": "Bak-Su-Duvara-Platform-v67-1.zip",
+    "sha256": "abe79005a995e3940d03120446f33b1ddb1738885b91662ac7ace518e620c9ce",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ben-bilirim/index.html",
+    "zip": "Ben-Bilirim-Platform-v67-1.zip",
+    "sha256": "a6bbb3ec9547dd3cef3285b6dcaac01b982ef1d3a34a99f47a49346e3c99aa5a",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/ben-bilirim/platform.css",
+    "zip": "Ben-Bilirim-Platform-v67-1.zip",
+    "sha256": "ac222997f5c24a606332346d077087e4449c482c7bc9f3e25bce1fabb03123c2",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ben-bilirim/platform.js",
+    "zip": "Ben-Bilirim-Platform-v67-1.zip",
+    "sha256": "d557518e1d0fd2ee23286811066a5be00ffc1abdaea28e128d2cf99e33f50534",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/esim-yapar/index.html",
+    "zip": "Ben-Bilmem-Esim-Bilir-Platform-v67-1.zip",
+    "sha256": "4920747bf81f55b2f54ef61fb2869906096a2dd1969d2666a86ea48aba1cfea8",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/esim-yapar/platform.css",
+    "zip": "Ben-Bilmem-Esim-Bilir-Platform-v67-1.zip",
+    "sha256": "5695d7d2fafd6add33a151dac6b95183940dea1a947e0c651d321365a7532de1",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/esim-yapar/platform.js",
+    "zip": "Ben-Bilmem-Esim-Bilir-Platform-v67-1.zip",
+    "sha256": "de8849e0ac5ebcae4e8bc15460c392e8cbdbb3eefbb88a3ba6277e3453795324",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/beyazla-joker/index.html",
+    "zip": "Beyazla-Joker-Platform-v67-1.zip",
+    "sha256": "09ce2c4dd563a8597b9e8c4afca95a748384c9bcb2794e51cde49a7afc0aa8aa",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/beyazla-joker/platform-reference.png",
+    "zip": "Beyazla-Joker-Platform-v67-1.zip",
+    "sha256": "2efb8b88dc7e9bcb19e88bfbce2e039bf41329c33e4030bc8651c45df57a9eab",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/beyazla-joker/platform.css",
+    "zip": "Beyazla-Joker-Platform-v67-1.zip",
+    "sha256": "108044ee01b98637cd5ff5f993c1a966969a164ac3b11509dd0134513a13e3c9",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/beyazla-joker/platform.js",
+    "zip": "Beyazla-Joker-Platform-v67-1.zip",
+    "sha256": "3b87656b957bf59eda64f51f2d505db259fc18c4583bbeb1a123df328f6b70e1",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kelime-islem/index.html",
+    "zip": "Bir-Kelime-Bir-Islem-Platform-v67-1.zip",
+    "sha256": "dfd85ccbd2dadb3a99061a11c1092d5d905051b55d5318bcdf7e8205f996eee5",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kelime-islem/platform.css",
+    "zip": "Bir-Kelime-Bir-Islem-Platform-v67-1.zip",
+    "sha256": "3cf39c97637420f49499e0e271804cae553c44e58f01d538a5166d3fa3646fd8",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kelime-islem/platform.js",
+    "zip": "Bir-Kelime-Bir-Islem-Platform-v67-1.zip",
+    "sha256": "908c5eb5214cc73e0f47f1c413b530483d8133142e6e6e979a45cf6f3db55d78",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cember/index.html",
+    "zip": "Cember-Platform-v67-1.zip",
+    "sha256": "f8cb03ac10df9c28997432847f1941ae26c416755ad3c5488d9e72cbf6f86bf7",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/cember/platform.css",
+    "zip": "Cember-Platform-v67-1.zip",
+    "sha256": "7aaed880da3e4844f52d6b986fcf34334ba68e263c5ba6b7702023940314f618",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cember/platform.js",
+    "zip": "Cember-Platform-v67-1.zip",
+    "sha256": "7554974026ea3cb33e23c95334a3200d8bc369af7077839c9ffa7d0d32bb5c37",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cevap-sende/index.html",
+    "zip": "Cevap-Sende-Platform-v67-1.zip",
+    "sha256": "5b80c14bc7f2f1df4b7bb73cde45bf7839a8677689037fead12266f858e07f9a",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/cevap-sende/platform.css",
+    "zip": "Cevap-Sende-Platform-v67-1.zip",
+    "sha256": "2c00c1defb2e5ed2f6dfded12008c2526414c829a11dbc2946f535d6dd5c718b",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cevap-sende/platform.js",
+    "zip": "Cevap-Sende-Platform-v67-1.zip",
+    "sha256": "88a4ea34c3ba0ae8ae45b3889ec59b05f6f239b2e747e55b88652e567f4d0edd",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cevap-soruda/index.html",
+    "zip": "Cevap-Soruda-Platform-v67-1.zip",
+    "sha256": "0fc2cdcfc9ec256303d44523a7ee2f1b915db113f8ad5a01bf75be3f2bbf9316",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/cevap-soruda/platform-reference.png",
+    "zip": "Cevap-Soruda-Platform-v67-1.zip",
+    "sha256": "999621a294ed240c45da258fa0fe44fbfe75062ef8d0a41317e46aed19b61861",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cevap-soruda/platform.css",
+    "zip": "Cevap-Soruda-Platform-v67-1.zip",
+    "sha256": "74e02faca5cb0f79b7a44f6d504fe405d7e52cd09adbfa841d6e69878ecbac10",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cevap-soruda/platform.js",
+    "zip": "Cevap-Soruda-Platform-v67-1.zip",
+    "sha256": "585358ad65680614d11d339d2d7ffea5d49138e63cb5c582c01adbc58e41cb6d",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cifte-milyon/index.html",
+    "zip": "Cifte-Milyon-Platform-v67-1.zip",
+    "sha256": "f34917edc729c3ef409d47730390f2bafd30ca154e9b5d795eba437db019bd82",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/cifte-milyon/platform.css",
+    "zip": "Cifte-Milyon-Platform-v67-1.zip",
+    "sha256": "4653eed8b4b15d17be52276cafaa1d86c5607b434cb5e6b3fe6db9a58acd5597",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/cifte-milyon/platform.js",
+    "zip": "Cifte-Milyon-Platform-v67-1.zip",
+    "sha256": "23bb44422c6fdedf1f974f2a1beccc3978e222a7e42e7c00f07c68e1c6956a1e",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/halka-mucadelesi/index.html",
+    "zip": "En-Zayif-Halka-Platform-v67-1.zip",
+    "sha256": "a6c76ed8cb792fc4139958f56c4d00462ca1ddcf3604b4a34c51fd8e8bb656ef",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/halka-mucadelesi/platform.css",
+    "zip": "En-Zayif-Halka-Platform-v67-1.zip",
+    "sha256": "20f9dd4daded8752122ed321cc703609bea5ffb60c53494d85fa76bc2a1be0c5",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/halka-mucadelesi/platform.js",
+    "zip": "En-Zayif-Halka-Platform-v67-1.zip",
+    "sha256": "1e99b5bc0ddbf5d0bc805bf3dc3d1798d5a3a873dfbe0379c8de27d576c83904",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/evim-sahane/index.html",
+    "zip": "Evim-Sahane-Platform-v67-1.zip",
+    "sha256": "00fdda8145007e8569faf65a7ceb4a6ce02e511611f2ae9529c9d7f158482eaa",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/evim-sahane/platform.css",
+    "zip": "Evim-Sahane-Platform-v67-1.zip",
+    "sha256": "42d802c08dadcc6f935e176d0d0995c628869bbde0cd6bda3ec6268befb0d586",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/evim-sahane/platform.js",
+    "zip": "Evim-Sahane-Platform-v67-1.zip",
+    "sha256": "b75095e053e86584eb9a12932554d2a9eca0b8310cceff0bfbbd5a9b31299962",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/eyvah-dusuyorum/index.html",
+    "zip": "Eyvah-Dusuyorum-Platform-v67-1.zip",
+    "sha256": "5f2379fb94281753fcefc7da5c35890214a340bbc27c7ee3f3c4a8ad708d89d2",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/eyvah-dusuyorum/platform.css",
+    "zip": "Eyvah-Dusuyorum-Platform-v67-1.zip",
+    "sha256": "4735630742451826044404949e0ea95cb95aea5c7316f178033cee7a70779cd3",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/eyvah-dusuyorum/platform.js",
+    "zip": "Eyvah-Dusuyorum-Platform-v67-1.zip",
+    "sha256": "a84e442252e4ba0f4566e29874ccc68e373fa9099da9a2d10a926d0dddcc0095",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/gel-hemserim/index.html",
+    "zip": "Gel-Hemserim-Platform-v67-1.zip",
+    "sha256": "3bbff9c3f0405def0ba9814887370bce5c75d2e02cea37504c1b0d308f18eba7",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/gel-hemserim/platform-village.png",
+    "zip": "Gel-Hemserim-Platform-v67-1.zip",
+    "sha256": "0e3db1dafd4bbe9bdc31a22d3c698a5d742a4a282a9ed45155061e6a5810b642",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/gel-hemserim/platform.css",
+    "zip": "Gel-Hemserim-Platform-v67-1.zip",
+    "sha256": "e45ebafd4b17353d86f14d01175ddc154caad1b71a4bae3df73e2470129f5ba8",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/gel-hemserim/platform.js",
+    "zip": "Gel-Hemserim-Platform-v67-1.zip",
+    "sha256": "9cd7d7c62f47bc996e31aaee5921d8fd075380a0d79ed98860c611ced2b14e65",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/altin-sofra/app.js",
+    "zip": "Gelinim-Mutfakta-Platform-v67-1.zip",
+    "sha256": "9caf65d6f6bcf5bd8f140491e4b97ae78facd2328038b1a8e4e50b20e75a20e0",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/altin-sofra/index.html",
+    "zip": "Gelinim-Mutfakta-Platform-v67-1.zip",
+    "sha256": "b7fcebc5d80bee29af6a3fbb17eac8fc68c2ad78e082e50659df4cf349f6df51",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/altin-sofra/platform.css",
+    "zip": "Gelinim-Mutfakta-Platform-v67-1.zip",
+    "sha256": "354b7f5e4a2efdc16ad17b36870c2813f535d7a918ad490c5ee2b854bcca8ddd",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/altin-sofra/platform.js",
+    "zip": "Gelinim-Mutfakta-Platform-v67-1.zip",
+    "sha256": "b3c2a67747e0fcd328420650981c2618a5bb57b63139fba0775f1f3e7ff5f614",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/gonder-gitsin/index.html",
+    "zip": "Gonder-Gitsin-Platform-v67-1.zip",
+    "sha256": "cef00d9be30a9bbf19e0d1694590861dbb7cbc23021749a3885e1940d6989a6e",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/gonder-gitsin/platform.css",
+    "zip": "Gonder-Gitsin-Platform-v67-1.zip",
+    "sha256": "5abafe4085f41ed73c64b2ed141fbf9913f93d125f1f6cfea4a7a32a98475b0a",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/gonder-gitsin/platform.js",
+    "zip": "Gonder-Gitsin-Platform-v67-1.zip",
+    "sha256": "fb49fac250d8c6d516676c63d37402b1949030f3dafb99620c4d7884d1652952",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/goz6/index.html",
+    "zip": "Goz6-Platform-v67-1.zip",
+    "sha256": "7ede9773887305122b539c54b0c82a3b9d6b75d13ea2a1e89f7ae15fb22fcff1",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/goz6/platform.css",
+    "zip": "Goz6-Platform-v67-1.zip",
+    "sha256": "1d1e0bb2a91dc64598bfd7a31c99b4298490117f7d8d6d7776bf5ba330a78a40",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/goz6/platform.js",
+    "zip": "Goz6-Platform-v67-1.zip",
+    "sha256": "ab88fd21b5adec09ecc2881eae49b71687d38d6d47da1436591ff448b8ea778c",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/hepsi-benim/index.html",
+    "zip": "Hepsi-Benim-Platform-v67-1.zip",
+    "sha256": "97d682df9a8d5b48744e50dc6e60cc7abd0518431cb73c1bde229c1d3ca22fa8",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/hepsi-benim/platform.css",
+    "zip": "Hepsi-Benim-Platform-v67-1.zip",
+    "sha256": "8bfdb2a16b63a482b477f22b5a50603413077b9c0f433708c27c5379f3557f57",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/hepsi-benim/platform.js",
+    "zip": "Hepsi-Benim-Platform-v67-1.zip",
+    "sha256": "f01d813a5818dfde9b3a0949ead5a98b5639e589573e54ac9c5935cc1e6133ad",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/herkes-kazanir/index.html",
+    "zip": "Herkes-Kazanir-Platform-v67-1.zip",
+    "sha256": "f842121fae39658f2ced0f8df261624034402620d2e2e96fad0a8b4026cfe61b",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/herkes-kazanir/platform.css",
+    "zip": "Herkes-Kazanir-Platform-v67-1.zip",
+    "sha256": "478758140133a8e05f78175dc49e1cdb87dce50a3f55169e2b234221ffd5376e",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/herkes-kazanir/platform.js",
+    "zip": "Herkes-Kazanir-Platform-v67-1.zip",
+    "sha256": "83e684c7fee85f96a2861cf1db6ca571f804e5f8ecf1f02ce4d1b38ca00feadd",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ilk-bulusma/index.html",
+    "zip": "Ilk-Bulusma-Platform-v67-1.zip",
+    "sha256": "ddd66d91c02fc18dc909f396bc2d112c5de95555ab3892ba8107a4d46387ab3c",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/ilk-bulusma/platform-hosts.png",
+    "zip": "Ilk-Bulusma-Platform-v67-1.zip",
+    "sha256": "189fd574dbae2c304e5e7535e4ff53616963b21627c3ccaac6b9daeba2d4698c",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ilk-bulusma/platform.css",
+    "zip": "Ilk-Bulusma-Platform-v67-1.zip",
+    "sha256": "68a20e91370d44b38364e22e742308c8a432d096a56ffb3a1b8f75ec4874d63a",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ilk-bulusma/platform.js",
+    "zip": "Ilk-Bulusma-Platform-v67-1.zip",
+    "sha256": "6a31789fec803e63b8a1df4941812d280ef0b858400e454d91ad0bb526e690f0",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kapis-kapis/index.html",
+    "zip": "Kapis-Kapis-Platform-v67-1.zip",
+    "sha256": "cf96ea8b4cbbda34439c0690795f24830d0eab21494b8013633eae0774212276",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kapis-kapis/platform.css",
+    "zip": "Kapis-Kapis-Platform-v67-1.zip",
+    "sha256": "774a27843b8d1e24c098f379c9cc2fc242125d5806232f1b9dc3c76cd88c8019",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kapis-kapis/platform.js",
+    "zip": "Kapis-Kapis-Platform-v67-1.zip",
+    "sha256": "352d6fada9e389b1e4210156f0631220c215046168ac673b3fd557ccbf51df72",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/altmis-saniye/index.html",
+    "zip": "Kazanmak-Icin-1-Dakika-Platform-v67-1.zip",
+    "sha256": "4ddb1cf0851ef7aff605d7942598e1dc3820c2fd8f02c24c4bc5881550b9b0f1",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/altmis-saniye/platform.css",
+    "zip": "Kazanmak-Icin-1-Dakika-Platform-v67-1.zip",
+    "sha256": "9d15d2e1ace438a1184de61edbd1a8737b64088f8f680d95f0e3864a587bd93f",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/altmis-saniye/platform.js",
+    "zip": "Kazanmak-Icin-1-Dakika-Platform-v67-1.zip",
+    "sha256": "1dac51007797eda8b176400ae59a11db594fa8094914bf93d8ce39a0d336c9d5",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kelime-meydani/app.js",
+    "zip": "Kelime-Oyunu-Platform-v67-1.zip",
+    "sha256": "815feb4c233714403d7e3a8d43caeaf84ccc1d0c00f8a5690e29ad797b4f2475",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kelime-meydani/index.html",
+    "zip": "Kelime-Oyunu-Platform-v67-1.zip",
+    "sha256": "f7c7c517a86c274579ab384a5a9329cb775d73b2fbe86d804bd8096a4375e390",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kelime-meydani/platform.css",
+    "zip": "Kelime-Oyunu-Platform-v67-1.zip",
+    "sha256": "cc07f95de01da6b2e4f78edfd2d845bcf5f47f7f5facff422cd7f6e31b0e6b1f",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kelime-meydani/platform.js",
+    "zip": "Kelime-Oyunu-Platform-v67-1.zip",
+    "sha256": "d5dd6f8159d5eb16d315eb46094caa2b587c31e7718a2aa195ef881f5247da6d",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kizlar-ve-anneleri/index.html",
+    "zip": "Kizlar-ve-Anneleri-Platform-v67-1.zip",
+    "sha256": "c7718cb50e53e0fdaf7dc4435e2922608f55a9690ab94a9a269f2240f4a1ad0f",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kizlar-ve-anneleri/platform.css",
+    "zip": "Kizlar-ve-Anneleri-Platform-v67-1.zip",
+    "sha256": "b658186ea1d517fda4767ca9841be03a8de556134a28fbd0a3d43e69a1c620c2",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kizlar-ve-anneleri/platform.js",
+    "zip": "Kizlar-ve-Anneleri-Platform-v67-1.zip",
+    "sha256": "32d91971626ac0d280541c84c0ff6308bf7a4b4d8c2ad07fc90c2cc381d729e9",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kizma-kazan/index.html",
+    "zip": "Kizma-Kazan-Platform-v67-1.zip",
+    "sha256": "935cfea7852b4b46b246fd99d4c29006d54db6d5fc347269fef7acd54b12555b",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kizma-kazan/platform-control-room.png",
+    "zip": "Kizma-Kazan-Platform-v67-1.zip",
+    "sha256": "09b856feeabf60882d6949dc3a847d74918fe84a00c9281440df8651bf732b96",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kizma-kazan/platform.css",
+    "zip": "Kizma-Kazan-Platform-v67-1.zip",
+    "sha256": "b6b12f77e484a9b93f80e1da0076f088a8322fc5e51639a6fa88220efce36001",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kizma-kazan/platform.js",
+    "zip": "Kizma-Kazan-Platform-v67-1.zip",
+    "sha256": "bdeefdd5772ecc05aedb01ac274443ca82ae6180c4b36d36f809478e91df320e",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kumbara/index.html",
+    "zip": "Kumbara-Platform-v67-1.zip",
+    "sha256": "0f7eba962754d4805c121ec73969af475b98de2ee554915dd5f204da27210f21",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/kumbara/platform.css",
+    "zip": "Kumbara-Platform-v67-1.zip",
+    "sha256": "08c04327c2212868b28634293da281d3d9f1f7720cd8e70f7ea9b6383a3c5079",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/kumbara/platform.js",
+    "zip": "Kumbara-Platform-v67-1.zip",
+    "sha256": "6fd243a5f651892b4c920487270f81a6d8bbc80f69fc630c58be5f422c5f5827",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sefler-arenasi/app.js",
+    "zip": "Masterchef-Turkiye-Platform-v67-1.zip",
+    "sha256": "4b720e8ab78855ae512cc9e4a77bdaecca59e5c95d34a385fd4a3cc3d982bd8b",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sefler-arenasi/index.html",
+    "zip": "Masterchef-Turkiye-Platform-v67-1.zip",
+    "sha256": "84dbe973b7de6f54fa28131ca94c42fa0bc53686bdff7fb7e6f5af0110b97380",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sefler-arenasi/platform-chefs.png",
+    "zip": "Masterchef-Turkiye-Platform-v67-1.zip",
+    "sha256": "88fd292649a4c56ebd9a6b8154341683239e4adfbbb3f886742d966428fef826",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sefler-arenasi/platform.css",
+    "zip": "Masterchef-Turkiye-Platform-v67-1.zip",
+    "sha256": "51029f2470bd5dd26523b2eee39f9945a82aacf6f173e92876d0567021916f85",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sefler-arenasi/platform.js",
+    "zip": "Masterchef-Turkiye-Platform-v67-1.zip",
+    "sha256": "cc82a877f56348602c2f089a03c3e50aa078bd0d9d5c4b76640cc8cc9159e4ef",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/milyonluk-resim/index.html",
+    "zip": "Milyonluk-Resim-Platform-v67-1.zip",
+    "sha256": "579f8b58df2db40075bb3669fccd17f72a43a62ca0cb0b8e7fc30fa734335efe",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/milyonluk-resim/platform.css",
+    "zip": "Milyonluk-Resim-Platform-v67-1.zip",
+    "sha256": "c903cb70f0cd5ff248e8b96dd39a6b3ba409ed7d8c05fba1f8393a623fbdfefb",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/milyonluk-resim/platform.js",
+    "zip": "Milyonluk-Resim-Platform-v67-1.zip",
+    "sha256": "e5b87f83f056412446295cb7959f9aea49c3886b4ae26cc4965d191822f57738",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/donen-koltuklar/index.html",
+    "zip": "O-Ses-Turkiye-Platform-v67-1.zip",
+    "sha256": "39eb89d7b66bd70e8a145538b0c1a9e0c333347e9b8e41c9553d868f7b3b83a7",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/donen-koltuklar/platform.css",
+    "zip": "O-Ses-Turkiye-Platform-v67-1.zip",
+    "sha256": "50b1d50c07f70aa89272e4f4224d07fcf11ed3945ec59c3b350e2d713d6e7ba8",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/donen-koltuklar/platform.js",
+    "zip": "O-Ses-Turkiye-Platform-v67-1.zip",
+    "sha256": "f18c8cf2cf7b826468297eb867746dcde268204c4e7bb1276c8b465cc10e9da9",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/para-bende/index.html",
+    "zip": "Para-Bende-Platform-v67-1.zip",
+    "sha256": "2a937917d14e619a89f7f6849cebd7723614894cf450609d19c775f30095f657",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/para-bende/platform-airport.png",
+    "zip": "Para-Bende-Platform-v67-1.zip",
+    "sha256": "956a5b632183e0f598067e39bd08eb25a87e1b72e0a95c991ca2b97d3d7abfc2",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/para-bende/platform.css",
+    "zip": "Para-Bende-Platform-v67-1.zip",
+    "sha256": "bbe48310f62c2bc653cb3fc9fdc2ef95294e7bd125dd6f4905ca49449c25ddd1",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/para-bende/platform.js",
+    "zip": "Para-Bende-Platform-v67-1.zip",
+    "sha256": "04b0a452728ec02979fdbc031810ff24189e339d1e8486c95360b148277d0902",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/para-odasi/index.html",
+    "zip": "Para-Odasi-Platform-v67-1.zip",
+    "sha256": "4fa6add57202625c24201c2df394e4532618df379a564095f0ba2750dec3666e",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/para-odasi/platform.css",
+    "zip": "Para-Odasi-Platform-v67-1.zip",
+    "sha256": "6922ca14c3a9fd3822809f39d435e9ca05e2b251729ec1065d411ff4a074c79d",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/para-odasi/platform.js",
+    "zip": "Para-Odasi-Platform-v67-1.zip",
+    "sha256": "d2d1a1ff9da18e73fa625ab301ff4fddb7426dc14030b0cd562eb04c6d33352c",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/password/index.html",
+    "zip": "Password-Platform-v67-1.zip",
+    "sha256": "ae4da35062992e8ce0ca2b8ad73931401094a5242d85450c63e4809da68e168e",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/password/platform.css",
+    "zip": "Password-Platform-v67-1.zip",
+    "sha256": "83df2d0e3a274b367a4b5a7cf254206965978c225c093bc95c073660484c077a",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/password/platform.js",
+    "zip": "Password-Platform-v67-1.zip",
+    "sha256": "ec9512476ff315ef029c313d9fef6125197e55c1be20f835f5b9bf1210a94d42",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/piramit/index.html",
+    "zip": "Piramit-Platform-v67-1.zip",
+    "sha256": "8cc20992f64294b7d45b048400bcd6a048668f7fdbe9661deffc38c49d27258e",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/piramit/platform.css",
+    "zip": "Piramit-Platform-v67-1.zip",
+    "sha256": "ee30f102e77c8f6617b36add6126a13f307fcc22d5872c101939820d2e2c4289",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/piramit/platform.js",
+    "zip": "Piramit-Platform-v67-1.zip",
+    "sha256": "82c471bdc2d3802fd47a4b4c83d856c0b4f14bd06c2d6fb79b207e68901240b9",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sahane-pazar/index.html",
+    "zip": "Sahane-Pazar-Platform-v67-1.zip",
+    "sha256": "04db780967634f15c817dae3d640be878e6f9848c7e1f4ae301a6355b5334d62",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sahane-pazar/platform.css",
+    "zip": "Sahane-Pazar-Platform-v67-1.zip",
+    "sha256": "779ac552656672599c3ffc6118a5a10d24a585a0ea9c747b531a6719fa4fdc25",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sahane-pazar/platform.js",
+    "zip": "Sahane-Pazar-Platform-v67-1.zip",
+    "sha256": "41c1ad35854f18981a6e8575e497d17d55873bcaa33c670d5d34a0c52fea23c6",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sans-kapida/index.html",
+    "zip": "Sans-Kapida-Ev-Platform-v67-1.zip",
+    "sha256": "3e08a2553edf237fd2c4d2d523bfd72e12a9733341686be4dc47ca3c63d14347",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sans-kapida/platform.css",
+    "zip": "Sans-Kapida-Ev-Platform-v67-1.zip",
+    "sha256": "f71603bfc4ba29061d70306a2fdd0326a96926ad77f8c0f9d06b7ae4c2613b91",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sans-kapida/platform.js",
+    "zip": "Sans-Kapida-Ev-Platform-v67-1.zip",
+    "sha256": "14d958f8eaf387539fcb4bab3342ed8b9903cf43f5780a0b8895baaa6d98b62a",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sansli-masa/index.html",
+    "zip": "Sansli-Masa-Platform-v67-1.zip",
+    "sha256": "6c95450c310976d08463778a1e99199e2f01e2bdc72ed14fd9df6d021fcb6da9",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sansli-masa/platform-hosts.png",
+    "zip": "Sansli-Masa-Platform-v67-1.zip",
+    "sha256": "f1f39efe3b4486bfa0fe3f5157bb2d22add6b675064d3cc4e411ef89050d0495",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sansli-masa/platform.css",
+    "zip": "Sansli-Masa-Platform-v67-1.zip",
+    "sha256": "14b9d7969135b8d953ea387fced45779e208afbb0687b273bac0dd9cde87d005",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sansli-masa/platform.js",
+    "zip": "Sansli-Masa-Platform-v67-1.zip",
+    "sha256": "3ae78cd078d8f66b6ac56fe265712c05fe16c6259db1602af5fe02e1109b9550",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sebeke/index.html",
+    "zip": "Sebeke-Platform-v67-1.zip",
+    "sha256": "519936657c28e4be1f5c72531f1718ef348f596b6849d46b69f77cfd37bb86a3",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sebeke/platform.css",
+    "zip": "Sebeke-Platform-v67-1.zip",
+    "sha256": "5ba3fce78b3c1ec20fe492c3e8d849934ed1d625cfb06ab996bde4ef0be95f8c",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sebeke/platform.js",
+    "zip": "Sebeke-Platform-v67-1.zip",
+    "sha256": "dc6dd2d2dcb2fc347e84d70e09a3d05b67d95c2307f72f172ecd94fb33c96359",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/super-bulmaca/index.html",
+    "zip": "Super-Bulmaca-Platform-v67-1.zip",
+    "sha256": "80088f38ad78e3c7934bafa8773a1c4231e59de809ddcd7ae50984af9de61b0f",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/super-bulmaca/platform.css",
+    "zip": "Super-Bulmaca-Platform-v67-1.zip",
+    "sha256": "7c1e81d2c3b602001c60129ba9ec0c9fc2889d941e4dddf80dca8ce34f2d9c3f",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/super-bulmaca/platform.js",
+    "zip": "Super-Bulmaca-Platform-v67-1.zip",
+    "sha256": "3f3dd03c7abca96f5c22c42fc6c0f626a981a0b68cc21d242ea980b668b4db50",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ada-mucadelesi/app.js",
+    "zip": "Survivor-Platform-v67-1.zip",
+    "sha256": "6b7d9c5ffd59f02b9f01f6b7ba87258def01e90aaef3cd036e09802ac2252a80",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/ada-mucadelesi/index.html",
+    "zip": "Survivor-Platform-v67-1.zip",
+    "sha256": "0e62b859d81c1e554c8c19c1daa18fc0c828d470a7e15afe23c0aaded13b0021",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/ada-mucadelesi/platform.css",
+    "zip": "Survivor-Platform-v67-1.zip",
+    "sha256": "92005bd5f6e07bf836c5a96a3d7a21a1feb5e3b0a5db0afb7e6d69d6b4449a37",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/ada-mucadelesi/platform.js",
+    "zip": "Survivor-Platform-v67-1.zip",
+    "sha256": "503f1eaecb3f992e8de712431a85baee8afcbc27a8843be568170d386dd8e46f",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/takip/index.html",
+    "zip": "Takip-Platform-v67-2.zip",
+    "sha256": "dd18d24961803cce64ad21e707b9959d694ac1a8cdd95e4dc1288d79bbca1bcc",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/takip/platform-reference.png",
+    "zip": "Takip-Platform-v67-2.zip",
+    "sha256": "6989b079a3c033cbc622ec12e6436bca11958af24ecccc743680b9eb3780bf22",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/takip/platform.css",
+    "zip": "Takip-Platform-v67-2.zip",
+    "sha256": "67440ec3fa724a378007e5d21179ac81c3f3805c45a2bc754f1ee7f3a9fac56e",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/takip/platform.js",
+    "zip": "Takip-Platform-v67-2.zip",
+    "sha256": "5f31222ff78b4ed3df6f3a50e396f55d4acce011c9540f58b6f467ceec527f6f",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/telefon-kulubesi/index.html",
+    "zip": "Telefon-Kulubesi-Platform-v67-1.zip",
+    "sha256": "f627a6510e95506e17cb2badc02da282b1f1fb4417b574f6a90f8833c41fa72a",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/telefon-kulubesi/platform.css",
+    "zip": "Telefon-Kulubesi-Platform-v67-1.zip",
+    "sha256": "f3bd81a7607cdd9ae8cd87d8c34981d80d8ae172f9a0b1313e7e740c8280fde2",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/telefon-kulubesi/platform.js",
+    "zip": "Telefon-Kulubesi-Platform-v67-1.zip",
+    "sha256": "62d754d4d2beae297f6a911d45d08b5761a5371fa4d0bea6c59f4803ac88b6d4",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/temizlik-benim-isim/index.html",
+    "zip": "Temizlik-Benim-Isim-Platform-v67-1.zip",
+    "sha256": "6967db124194c5a08c1fe0faf2f2471dfbf9c3b78f0286d68ed72aebb6533f92",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/temizlik-benim-isim/platform.css",
+    "zip": "Temizlik-Benim-Isim-Platform-v67-1.zip",
+    "sha256": "426a22fb9df96dc08341ac2e2e8aa4e5e54b7399eca5971de061a5dd93d74a7b",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/temizlik-benim-isim/platform.js",
+    "zip": "Temizlik-Benim-Isim-Platform-v67-1.zip",
+    "sha256": "2c9d8dd2492080f345083f1057c2ac7e7f83109cabb23f864bc5458ecdc25b33",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/the-taste-turkiye/index.html",
+    "zip": "The-Taste-Turkiye-Platform-v67-1.zip",
+    "sha256": "6e797c2d294549124419fa051b43d0151deda1bcdeb7d695d23a082b1f3ccb11",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/the-taste-turkiye/platform.css",
+    "zip": "The-Taste-Turkiye-Platform-v67-1.zip",
+    "sha256": "58c581a3fd11a851e78d61365f67d02deec5de8ad54d99e046c6390fbfb4ba72",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/the-taste-turkiye/platform.js",
+    "zip": "The-Taste-Turkiye-Platform-v67-1.zip",
+    "sha256": "e98593ee625bddd1aebce4a4ade61e50422e3870759a5d3d6bda45051bd28c12",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/turnike/index.html",
+    "zip": "Turnike-Platform-v67-1.zip",
+    "sha256": "b110750028dfa0c472203629afbb85a00e41503616297c4192acd9822fe71190",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/turnike/platform.css",
+    "zip": "Turnike-Platform-v67-1.zip",
+    "sha256": "1da713405cac2f6b0ae7ac1979ff702562aafc5d2f16786ca9495d59cfbc5503",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/turnike/platform.js",
+    "zip": "Turnike-Platform-v67-1.zip",
+    "sha256": "2a1c50a91942dc1acae517638d18a3dfe5daf6085267343d6d1c89b173cd797b",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/utopya/index.html",
+    "zip": "Utopya-Platform-v67-1.zip",
+    "sha256": "5a03bceaf2c2f517956b7dffbebe9a1394294367d40bae76c13d0444f3f93f88",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/utopya/platform.css",
+    "zip": "Utopya-Platform-v67-1.zip",
+    "sha256": "d33ad3c1a83b961072671fbabac5e746a56dfc9ddf1266b2f657e198aba2e23a",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/utopya/platform.js",
+    "zip": "Utopya-Platform-v67-1.zip",
+    "sha256": "9650dbdd6fe4c98e2caa23621c44887eb3fe744b349e5ef083183770c84d521e",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/yaparsin-askim/index.html",
+    "zip": "Yaparsin-Askim-Platform-v67-1.zip",
+    "sha256": "9f8397f3a1b4c6fa578eb39a5d88349032150e3bfb9e835db3f37cd7dad9cda5",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/yaparsin-askim/platform.css",
+    "zip": "Yaparsin-Askim-Platform-v67-1.zip",
+    "sha256": "7b4f90540cc1f3f93988d41c56d9f9e1f6cd82abb7e08aae763afdb0b5f42ecb",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/yaparsin-askim/platform.js",
+    "zip": "Yaparsin-Askim-Platform-v67-1.zip",
+    "sha256": "1e69d5194369d048e8f0fb9357ac4a985d0df1c017bfb7136a3e1becb8e3c7b7",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/yasim-kac/index.html",
+    "zip": "Yasim-Kac-Platform-v67-1.zip",
+    "sha256": "594e4df018344fe4e1eb1714d21dc3390997d78be200cb6c979142857ad51f21",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/yasim-kac/platform.css",
+    "zip": "Yasim-Kac-Platform-v67-1.zip",
+    "sha256": "be909049e1e78b926102e7efe46fe754b98ff45f27262836d771938a260bf9f5",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/yasim-kac/platform.js",
+    "zip": "Yasim-Kac-Platform-v67-1.zip",
+    "sha256": "48d563e785f1a9cabfa05bcc0dbf187113008fd8b290619a6a7f32ca7fe6d4d5",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sofra-rekabeti/app.js",
+    "zip": "Yemekteyiz-Platform-v67-1.zip",
+    "sha256": "696dc1087e66e51b8497f084cb9b6327954b119187b285d6f40860f90df0dff8",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sofra-rekabeti/index.html",
+    "zip": "Yemekteyiz-Platform-v67-1.zip",
+    "sha256": "bad25c80fa825d7a818eba1422110b212e89127111f4bb3e043684f2baf0cef0",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/sofra-rekabeti/platform.css",
+    "zip": "Yemekteyiz-Platform-v67-1.zip",
+    "sha256": "5b11e3aa40b25df58b580a60aac10698030ef8c587f596d9e2dd1ad982eda80a",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/sofra-rekabeti/platform.js",
+    "zip": "Yemekteyiz-Platform-v67-1.zip",
+    "sha256": "42bff67edc5101575f372b36e8d63a63fa10c1643dacd4e6a78cf60cf16cb7f8",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/yetenek-sahnesi/index.html",
+    "zip": "Yetenek-Sizsiniz-Turkiye-Platform-v67-1.zip",
+    "sha256": "475cde2dca2f1f637ca1ec2c6332a576d096a75b9518364050367d730b72e237",
+    "method": "base matches current"
+  },
+  {
+    "path": "dist/games/yetenek-sahnesi/platform.css",
+    "zip": "Yetenek-Sizsiniz-Turkiye-Platform-v67-1.zip",
+    "sha256": "5ce8944949c02baecc97fc5cb29628a6fd77cbe16adaf81d2a319fbce11fce6c",
+    "method": "new file"
+  },
+  {
+    "path": "dist/games/yetenek-sahnesi/platform.js",
+    "zip": "Yetenek-Sizsiniz-Turkiye-Platform-v67-1.zip",
+    "sha256": "dc2692b14202683a434c88a32a70108d7f1a609871100749b1871b8754a5451d",
+    "method": "new file"
+  }
+]

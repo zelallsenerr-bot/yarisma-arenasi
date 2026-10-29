@@ -1,0 +1,30 @@
+import * as T from '../vendor/three175/three.module.js';
+import {baseWorld,box,cyl,mat,plate} from './kit.js?v=420';
+export function sabaSet433(cfg){
+ const v=baseWorld({...cfg,layout:'risk',audience:false});v.cfg={...cfg,audience:false,players:8};const g=v.scene;g.background=new T.Color('#17222d');g.userData.solidSeams428=true;v.camera.set(.15,6.7,13.5);v.focus.set(0,1,-.7);
+ const glow=(x,y,z,w,h,d,c)=>box(g,x,y,z,w,h,d,c,{emissive:c,emissiveIntensity:.65});
+ // Timber studio floor and a patchwork rug between the facing teams.
+ box(g,0,-.14,0,20,.22,16,'#896246');for(let i=0;i<42;i++)box(g,-9.8+i*.47,-.023,0,.012,.006,16,i%3?'#a17b59':'#644935').renderOrder=-95;
+ const colors=['#c96780','#488f9c','#d5a43c','#9a3268','#e18a39','#35577e','#9e9f66','#a36fa5'];for(let row=0;row<8;row++)for(let col=0;col<8;col++){const x=(col-3.5)*.77,z=-1.6+row*.79;box(g,x,.005,z,.765,.025,.785,colors[(row*3+col*5)%8],{roughness:1}).renderOrder=-85;for(let j=0;j<6;j++)box(g,x-.32+j*.12,.021,z,.009,.004,.77,'#d8b29c',{transparent:true,opacity:.22}).renderOrder=-84;}
+ // A night skyline behind the tall window grid, made locally for this set.
+ const c=document.createElement('canvas');c.width=1200;c.height=500;const cx=c.getContext('2d');let bg=cx.createLinearGradient(0,0,0,500);bg.addColorStop(0,'#131c31');bg.addColorStop(1,'#4b5266');cx.fillStyle=bg;cx.fillRect(0,0,1200,500);for(let i=0;i<70;i++){const x=i*18,h=60+(i*73%240);cx.fillStyle=i%2?'#263040':'#192331';cx.fillRect(x,500-h,22,h);for(let y=510-h;y<490;y+=12)for(let xx=x+3;xx<x+20;xx+=7)if((xx+y+i)%5){cx.fillStyle=(i+y)%3?'#9fa4a0':'#e9ca8c';cx.fillRect(xx,y,3,2);}}const city=new T.CanvasTexture(c);city.colorSpace=T.SRGBColorSpace;const windowWall=new T.Mesh(new T.PlaneGeometry(17,5.7),new T.MeshBasicMaterial({map:city}));windowWall.position.set(0,2.8,-6.4);windowWall.renderOrder=-30;g.add(windowWall);
+ for(let i=0;i<12;i++)box(g,-8.5+i*1.55,2.8,-6.30,.065,5.6,.09,'#9c9693').renderOrder=-28;for(const y of[.3,1.7,3.1,4.5,5.6])box(g,0,y,-6.29,17,.055,.08,'#a9a7a3').renderOrder=-28;
+ for(const x of[-8.5,-3.5,3.5,8.5])box(g,x,2.85,-6.08,.62,5.8,.38,'#7d4830').renderOrder=-26;
+ // Central TV, low fireplace and warm light underneath.
+ box(g,0,1.0,-5.85,7.1,1.7,.7,'#272529').renderOrder=-20;box(g,0,.8,-5.46,3.6,.8,.025,'#151418').renderOrder=-19;
+ for(let i=0;i<13;i++){const flame=new T.Mesh(new T.ConeGeometry(.12,.27+(i%4)*.14,5),mat(i%2?'#ffa744':'#d66c24',{emissive:'#df7728',emissiveIntensity:.9}));flame.position.set(-1.5+i*.25,.68,-5.40);flame.renderOrder=-18;g.add(flame);}glow(0,.22,-5.37,6.6,.05,.08,'#eeb66b').renderOrder=-18;
+ box(g,0,3.32,-5.9,4.9,3.0,.24,'#101720').renderOrder=-16;const lc=document.createElement('canvas');lc.width=960;lc.height=540;const l=lc.getContext('2d'),grad=l.createRadialGradient(480,260,20,480,260,620);grad.addColorStop(0,'#153b93');grad.addColorStop(1,'#070e36');l.fillStyle=grad;l.fillRect(0,0,960,540);for(let i=0;i<38;i++){l.globalAlpha=.13;l.fillStyle=['#62d8ff','#f0c852','#b74bae'][i%3];l.beginPath();l.arc((i*173)%960,(i*131)%540,12+i%25,0,7);l.fill();}l.globalAlpha=1;l.textAlign='center';l.fillStyle='#f2ef8a';l.font='500 55px sans-serif';l.fillText('SABA ile',480,105);l.font='800 98px sans-serif';l.fillText('OYUNA',480,245);l.fillText('GELDİK',480,365);const lt=new T.CanvasTexture(lc);lt.colorSpace=T.SRGBColorSpace;const tv=new T.Mesh(new T.PlaneGeometry(4.6,2.62),new T.MeshBasicMaterial({map:lt}));tv.position.set(0,3.32,-5.75);tv.renderOrder=-15;g.add(tv);
+ // Dark sofas run toward the camera on either side of the rug.
+ const names=[['Sen','Hande Ataizi','Alper Kul','Doğa Rutkay'],['Eser Yenenler','Murat Başoğlu','Ozan Doğulu','Kerimcan Kamal']],portraits=[[2,3,6,9],[8,12,16,20]];
+ for(const side of[-1,1]){const x=side*3.85;box(g,x,.39,.8,1.45,.45,6.2,'#252832');box(g,x+side*.65,.85,.8,.18,.94,6.25,'#292c36');for(const z of[-2.33,3.94])box(g,x,.65,z,1.48,.70,.18,'#292c36');for(let i=0;i<4;i++){const z=-1.65+i*1.6;box(g,x,.65,z,1.27,.16,1.48,'#32343f');for(const dx of[-.52,.52])box(g,x+dx,.13,z,.065,.25,.065,'#17191d');v.playerSlots.push({x:x-side*.10,z:z+.12,y:.25,pose:'seated',role:'celebrity',gender:side<0&&[1,3].includes(i)?'female':'male',portrait415:portraits[side<0?0:1][i],name:names[side<0?0:1][i]});}
+ // Black side table and bowls at the near end of each sofa.
+ const tx=side*4.9,tz=3.85;box(g,tx,.91,tz,1.15,.07,.85,'#111b23');for(const dx of[-.48,.48])for(const dz of[-.33,.33])box(g,tx+dx,.45,tz+dz,.035,.9,.035,'#17191e');for(const dx of[-.25,.25]){cyl(g,tx+dx,1.01,tz,.22,.12,'#a68452');for(let i=0;i<12;i++){const p=new T.Mesh(new T.SphereGeometry(.035,4,3),mat('#e5d5a3'));p.position.set(tx+dx+Math.sin(i*2.4)*.16,1.10+i%3*.017,tz+Math.cos(i*2.4)*.16);g.add(p);}}}
+ v.hostSlots.push({x:0,z:-2.65,y:0,pose:'standing'});
+ // Bookshelves, plants, flowers and a spare red armchair finish the salon.
+ for(const side of[-1,1]){const x=side*9;box(g,x,2.4,-3.85,1.9,4.8,.6,'#6c7479');for(let row=0;row<5;row++){box(g,x,.48+row*.92,-3.48,1.8,.07,.55,'#b5b8b3');for(let i=0;i<4;i++)box(g,x-.6+i*.32,.78+row*.92,-3.45,.16,.49,.27,['#8b3f62','#b6a373','#496f91','#657e5e'][(i+row)%4]);}glow(x,4.5,-3.3,1.5,.1,.08,'#316fe2');}
+ function plant(x,z,small=false){const scale=small?.55:1;cyl(g,x,.29*scale,z,.28*scale,.58*scale,'#252b28');for(let i=0;i<13;i++){const angle=i*2.4,h=(1.0+i%4*.25)*scale,xx=x+Math.sin(angle)*.30*scale,zz=z+Math.cos(angle)*.30*scale;cyl(g,xx,h*.6,zz,.009,h,'#39543b');const leaf=new T.Mesh(new T.SphereGeometry(.20*scale,6,5),mat(i%2?'#526e42':'#3b6243'));leaf.scale.set(.6,2.1,.4);leaf.position.set(xx,h,zz);leaf.rotation.z=Math.sin(angle)*.6;g.add(leaf);}}
+ for(const x of[-7,-5.7,5.7,7])plant(x,-5.2);for(const x of[-2.9,2.9])plant(x,-5.1,true);
+ box(g,6.5,.38,-3.55,1.5,.54,1.45,'#bc262e');box(g,6.5,.95,-4.16,1.5,.85,.22,'#d52c36');for(const x of[5.83,7.17])box(g,x,.79,-3.55,.2,.66,1.45,'#ce2933');
+ const stand=new T.Group();box(stand,0,.65,1.5,.36,1.3,.36,'#858d9a');cyl(stand,0,1.36,1.5,.24,.09,'#db3551');stand.visible=false;g.add(stand);v.sabaBuzzer511=stand;
+ return v;
+}

@@ -1,0 +1,6 @@
+{
+  "method": "built-in image_gen; transparent_background=true",
+  "reference": "dist/assets/trust-seated168/contestant-a.webp",
+  "output": "dist/assets/trust-seated168/empty-chair445.webp",
+  "prompt": "Edit target: the attached transparent full-body man seated in a red leather TV game-show armchair with silver metal side arms and a red buzzer. Remove the man COMPLETELY: no head, face, hair, body, clothes, arms, hands, legs, feet or shadows of a person. Reconstruct the EMPTY red leather chair naturally in the same position and camera perspective. Keep its real photographic detailed leather upholstery, cushions, silver side panels, slim metal legs and red buzzer on viewer-left armrest. Keep the original 1024x1536 portrait canvas and the chair's position in its lower two thirds, with transparent empty space above. Do not move the chair, zoom, crop, add a floor, background, text or any person. Genuine alpha-transparent cutout. Asset for independently layering an already-created seated contestant, so the seat must be empty and unobstructed."
+}

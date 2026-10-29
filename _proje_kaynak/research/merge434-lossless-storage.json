@@ -1,0 +1,81 @@
+[
+  {
+    "from": "dist/games/on-dokuz/assets/cover.png",
+    "to": "dist/games/on-dokuz/assets/cover.webp",
+    "saved": 428780,
+    "refs": [
+      "dist/catalog.json",
+      "dist/catalog.js"
+    ]
+  },
+  {
+    "from": "dist/assets/box364/seal-hand.png",
+    "to": "dist/assets/box364/seal-hand.webp",
+    "saved": 472107,
+    "refs": [
+      "dist/games/kutu-karari/app.js"
+    ]
+  },
+  {
+    "from": "dist/assets/box369/side-grip.png",
+    "to": "dist/assets/box369/side-grip.webp",
+    "saved": 513561,
+    "refs": [
+      "dist/games/kutu-karari/app.js"
+    ]
+  },
+  {
+    "from": "dist/assets/runners-v34.png",
+    "to": "dist/assets/runners-v34.webp",
+    "saved": 410044,
+    "refs": [
+      "dist/people-v35.js",
+      "dist/stunts-v34.js",
+      "dist/game-theme.css",
+      "dist/course3d-v33.js",
+      "dist/games/kapi-kapanmadan/app.js"
+    ]
+  },
+  {
+    "from": "dist/assets/taxi177/cabin-reference.png",
+    "to": "dist/assets/taxi177/cabin-reference.webp",
+    "saved": 448734,
+    "refs": [
+      "dist/games/tuhaf-taksi/app378.js"
+    ]
+  },
+  {
+    "from": "dist/assets/minute-actors38.png",
+    "to": "dist/assets/minute-actors38.webp",
+    "saved": 285706,
+    "refs": [
+      "dist/minute-actors38.js"
+    ]
+  },
+  {
+    "from": "dist/games/kendi-dusen-aglamaz/assets/programme206.png",
+    "to": "dist/games/kendi-dusen-aglamaz/assets/programme206.webp",
+    "saved": 198371,
+    "refs": [
+      "dist/catalog.js",
+      "dist/games/kendi-dusen-aglamaz/app202.js"
+    ]
+  },
+  {
+    "from": "dist/assets/studio322/icon.png",
+    "to": "dist/assets/studio322/icon.webp",
+    "saved": 83115,
+    "refs": [
+      "dist/index.html"
+    ]
+  },
+  {
+    "from": "dist/assets/programmes416/cevap-soruda-ersin.png",
+    "to": "dist/assets/programmes416/cevap-soruda-ersin.webp",
+    "saved": 84085,
+    "refs": [
+      "dist/programme-data314.js",
+      "dist/games/cevap-soruda/app.js"
+    ]
+  }
+]

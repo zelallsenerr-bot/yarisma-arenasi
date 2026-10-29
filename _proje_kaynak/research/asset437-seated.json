@@ -1,0 +1,64 @@
+{
+  "key": "seated",
+  "cols": 4,
+  "rows": 2,
+  "pose": "seated",
+  "prompt": "8people exact4columns2rows preserveallfacesclothesgenderorder. ALLseated inmidairwithoutCHAIRSorFURNITURE, turned65degreesRIGHT fulltorsoandface lookingoffscreenright chatting. Fullbody, uncrossedlegs, naturalhands.",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-03ce1f1d-a21d-46ce-86c0-b74888d84def.png",
+  "facing": "right",
+  "asset": "humans435/angle437-seated.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "rects": [
+    [
+      114,
+      10,
+      270,
+      502
+    ],
+    [
+      384,
+      6,
+      384,
+      506
+    ],
+    [
+      856,
+      10,
+      262,
+      502
+    ],
+    [
+      1176,
+      7,
+      304,
+      505
+    ],
+    [
+      102,
+      512,
+      282,
+      501
+    ],
+    [
+      384,
+      512,
+      384,
+      504
+    ],
+    [
+      768,
+      512,
+      363,
+      499
+    ],
+    [
+      1198,
+      512,
+      286,
+      504
+    ]
+  ]
+}

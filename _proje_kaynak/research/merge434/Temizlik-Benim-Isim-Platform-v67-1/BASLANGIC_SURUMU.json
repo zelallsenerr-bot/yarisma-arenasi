@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/temizlik-benim-isim/index.html",
+      "status": "modified",
+      "base_sha256": "01c8251f2d36f907a87c4c78032c441a7dba9ecbd5ba89871d39a96cf7cfe424",
+      "new_sha256": "6967db124194c5a08c1fe0faf2f2471dfbf9c3b78f0286d68ed72aebb6533f92"
+    },
+    {
+      "path": "dist/games/temizlik-benim-isim/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "2c9d8dd2492080f345083f1057c2ac7e7f83109cabb23f864bc5458ecdc25b33"
+    },
+    {
+      "path": "dist/games/temizlik-benim-isim/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "426a22fb9df96dc08341ac2e2e8aa4e5e54b7399eca5971de061a5dd93d74a7b"
+    }
+  ]
+}

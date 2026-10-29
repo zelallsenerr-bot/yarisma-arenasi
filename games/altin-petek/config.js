@@ -1,0 +1,1 @@
+window.GAME318={"name": "Altın Petek", "rules": "Anahtar sözcüklerden yukarı uzanan petek yolunu seç. Dört bronz ve bir gümüş jokerle bir milyonluk hedefe ilerle. Önce petek seç. Cevabından önce bronz veya gümüş jokeri hazırla; sonra yanıtını kilitle."};

@@ -1,0 +1,38 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/sefler-arenasi/index.html",
+      "status": "modified",
+      "base_sha256": "4b1eb76a62096091c4c9d449599e383f0fec9d67368250dd3a2dd4e11b163d55",
+      "new_sha256": "84dbe973b7de6f54fa28131ca94c42fa0bc53686bdff7fb7e6f5af0110b97380"
+    },
+    {
+      "path": "dist/games/sefler-arenasi/app.js",
+      "status": "modified",
+      "base_sha256": "07731834a72c8771b9b015d4cde824d9845a46ab483abcbf3cceaec313d66c7c",
+      "new_sha256": "4b720e8ab78855ae512cc9e4a77bdaecca59e5c95d34a385fd4a3cc3d982bd8b"
+    },
+    {
+      "path": "dist/games/sefler-arenasi/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "cc82a877f56348602c2f089a03c3e50aa078bd0d9d5c4b76640cc8cc9159e4ef"
+    },
+    {
+      "path": "dist/games/sefler-arenasi/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "51029f2470bd5dd26523b2eee39f9945a82aacf6f173e92876d0567021916f85"
+    },
+    {
+      "path": "dist/games/sefler-arenasi/platform-chefs.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "88fd292649a4c56ebd9a6b8154341683239e4adfbbb3f886742d966428fef826"
+    }
+  ]
+}

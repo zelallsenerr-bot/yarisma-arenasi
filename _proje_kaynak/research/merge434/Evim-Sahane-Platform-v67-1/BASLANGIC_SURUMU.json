@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/evim-sahane/index.html",
+      "status": "modified",
+      "base_sha256": "401790148b8c6dfc77ab187e592773e1122eb3d4f7ac5cb640ae06a113e170f4",
+      "new_sha256": "00fdda8145007e8569faf65a7ceb4a6ce02e511611f2ae9529c9d7f158482eaa"
+    },
+    {
+      "path": "dist/games/evim-sahane/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "b75095e053e86584eb9a12932554d2a9eca0b8310cceff0bfbbd5a9b31299962"
+    },
+    {
+      "path": "dist/games/evim-sahane/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "42d802c08dadcc6f935e176d0d0995c628869bbde0cd6bda3ec6268befb0d586"
+    }
+  ]
+}

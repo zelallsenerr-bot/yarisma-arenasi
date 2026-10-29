@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/kelime-islem/index.html",
+      "status": "modified",
+      "base_sha256": "8a5b1f8a523dfbf77a9284740fb85f1d69638529177d4827b2fe8f84350df65e",
+      "new_sha256": "dfd85ccbd2dadb3a99061a11c1092d5d905051b55d5318bcdf7e8205f996eee5"
+    },
+    {
+      "path": "dist/games/kelime-islem/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "908c5eb5214cc73e0f47f1c413b530483d8133142e6e6e979a45cf6f3db55d78"
+    },
+    {
+      "path": "dist/games/kelime-islem/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "3cf39c97637420f49499e0e271804cae553c44e58f01d538a5166d3fa3646fd8"
+    }
+  ],
+  "shared_files_changed": []
+}

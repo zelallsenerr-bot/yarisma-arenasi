@@ -1,0 +1,20 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+function setup(name=''){
+ let time=0,pump;const listeners={},docListeners={};
+ const doc={hidden:false,addEventListener(k,f,c){(docListeners[k]??=[]).push({f,c})}};
+ const w={name,document:doc,performance:{now:()=>time},localStorage:{getItem:()=>null},setInterval:f=>(pump=f,1),clearInterval(){},requestAnimationFrame:()=>1,cancelAnimationFrame(){},addEventListener(k,f,c){(listeners[k]??=[]).push({f,c})},console};w.window=w;
+ vm.runInNewContext(fs.readFileSync('dist/online/game-clock.js','utf8'),w);
+ function emit(list,k,extra={}){let stopped=false;for(const {f} of [...(list[k]||[])].sort((a,b)=>!!b.c-!!a.c)){if(stopped)break;f({target:w,stopImmediatePropagation(){stopped=true},...extra})}}
+ return {w,doc,advance(ms){time+=ms;pump()},hidden(on){doc.hidden=on;emit(docListeners,'visibilitychange')},event(k,x){emit(listeners,k,x)},legacy(f){doc.addEventListener('visibilitychange',f)},blur(f){w.addEventListener('blur',f)}};
+}
+let x=setup(),calls=0,manual=false,legacy=0;
+x.legacy(()=>{legacy++;manual=true});x.blur(()=>manual=true);
+x.w.setTimeout(()=>calls++,1000);x.advance(400);x.hidden(true);x.w.ArenaBackground193.set('parent',true);x.advance(90000);assert.equal(calls,0);assert.equal(x.w.performance.now(),400);assert.equal(legacy,0);assert.equal(manual,false);
+x.hidden(false);x.advance(1000);assert.equal(calls,0,'parent pause still holds');x.w.ArenaBackground193.set('parent',false);x.advance(599);assert.equal(calls,0);x.advance(1);assert.equal(calls,1);
+manual=true;for(let i=0;i<5;i++){x.hidden(true);x.advance(5000);x.hidden(false)}assert.equal(manual,true,'manual pause untouched');assert.equal(calls,1,'no duplicate callbacks');
+x.event('blur');assert.equal(legacy,0);x.w.setTimeout(()=>calls++,100);x.event('pagehide',{persisted:true});x.advance(10000);assert.equal(calls,1);x.event('pageshow',{persisted:true});x.advance(100);assert.equal(calls,2,'BFCache retains scheduled work');
+let y=setup('arena-room-host-123');assert(!y.w.ArenaBackground193);y.w.ArenaRoomClock.pause(true);let n=0;y.w.setTimeout(()=>n++,10);y.advance(1000);assert.equal(n,0);y.w.ArenaRoomClock.pause(false);y.advance(10);assert.equal(n,1,'online host room controls preserved');
+let z=setup(),hits=0;z.w.setTimeout(()=>hits++,100);z.w.ArenaRoomClock.hold('chat',true);z.w.ArenaRoomClock.pause(true);z.advance(5000);z.w.ArenaRoomClock.hold('chat',false);z.advance(1000);assert.equal(hits,0,'room/parent pause survives chat close');z.w.ArenaRoomClock.pause(false);z.advance(100);assert.equal(hits,1);z.w.ArenaRoomClock.hold('chat',true);z.hidden(true);z.w.ArenaRoomClock.hold('chat',false);assert(z.w.ArenaRoomClock.paused,'hidden remains paused after chat closes');z.hidden(false);assert(!z.w.ArenaRoomClock.paused);z.w.ArenaRoomClock.hold('a',true);z.w.ArenaRoomClock.hold('b',true);z.w.ArenaRoomClock.hold('a',false);assert(z.w.ArenaRoomClock.paused);z.w.ArenaRoomClock.hold('b',false);assert(!z.w.ArenaRoomClock.paused);
+const dtCase=setup();let last=dtCase.w.performance.now(),elapsed=0;dtCase.w.setInterval(()=>{const now=dtCase.w.performance.now();elapsed+=now-last;last=now},20);dtCase.advance(20);dtCase.w.ArenaRoomClock.hold('host-chat199',true);dtCase.advance(60000);dtCase.w.ArenaRoomClock.hold('host-chat199',false);dtCase.advance(20);assert.equal(elapsed,40,'delta-based game timers exclude chat duration');for(const game of ['para-kapani','sepetini-koru','alan-hakimi'])assert(!fs.readFileSync('dist/games/'+game+'/app.js','utf8').includes('Date.now()'),'question/reveal timers use paused performance clock');
+const html=fs.readdirSync('dist/games').filter(p=>fs.existsSync('dist/games/'+p+'/index.html'));assert.equal(html.length,75);for(const p of html){const t=fs.readFileSync('dist/games/'+p+'/index.html','utf8');assert(t.includes('game-clock.js?v=lifecycle199'),p);assert(t.includes('bridge.js?v=lifecycle193'),p)}
+console.log('PASS: all 75 entry points; hidden/return, nested pause, manual pause, repeated switches, BFCache, online clock');

@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/ben-bilirim/index.html",
+      "status": "modified",
+      "base_sha256": "2b755ff0dbdfb841ecba5a0cf2d2e2d83d000acd90ef334a2c99ad5161913283",
+      "new_sha256": "a6bbb3ec9547dd3cef3285b6dcaac01b982ef1d3a34a99f47a49346e3c99aa5a"
+    },
+    {
+      "path": "dist/games/ben-bilirim/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "d557518e1d0fd2ee23286811066a5be00ffc1abdaea28e128d2cf99e33f50534"
+    },
+    {
+      "path": "dist/games/ben-bilirim/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "ac222997f5c24a606332346d077087e4449c482c7bc9f3e25bce1fabb03123c2"
+    }
+  ],
+  "shared_files_changed": []
+}

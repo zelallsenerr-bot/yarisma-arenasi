@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/altmis-saniye/index.html",
+      "status": "modified",
+      "base_sha256": "1355bed5bffeb24629387792e1daf8896ffcbe5011815efadd68dd4b7d969575",
+      "new_sha256": "4ddb1cf0851ef7aff605d7942598e1dc3820c2fd8f02c24c4bc5881550b9b0f1"
+    },
+    {
+      "path": "dist/games/altmis-saniye/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "1dac51007797eda8b176400ae59a11db594fa8094914bf93d8ce39a0d336c9d5"
+    },
+    {
+      "path": "dist/games/altmis-saniye/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "9d15d2e1ace438a1184de61edbd1a8737b64088f8f680d95f0e3864a587bd93f"
+    }
+  ]
+}

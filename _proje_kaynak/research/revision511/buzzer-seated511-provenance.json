@@ -1,0 +1,296 @@
+{
+  "asset": "humans435/buzzer-seated511.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "entries": [
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        31,
+        18,
+        327,
+        489
+      ],
+      "gender": "female",
+      "ageBand": "young",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        208,
+        322
+      ],
+      "palm_local": [
+        31,
+        227
+      ],
+      "hip_normalized": [
+        0.6361,
+        0.6585
+      ],
+      "palm_normalized": [
+        0.0948,
+        0.4642
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        413,
+        16,
+        313,
+        494
+      ],
+      "gender": "female",
+      "ageBand": "adult",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        208,
+        324
+      ],
+      "palm_local": [
+        33,
+        231
+      ],
+      "hip_normalized": [
+        0.6645,
+        0.6559
+      ],
+      "palm_normalized": [
+        0.1054,
+        0.4676
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        776,
+        17,
+        339,
+        491
+      ],
+      "gender": "female",
+      "ageBand": "mature",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        229,
+        324
+      ],
+      "palm_local": [
+        31,
+        230
+      ],
+      "hip_normalized": [
+        0.6755,
+        0.6599
+      ],
+      "palm_normalized": [
+        0.0914,
+        0.4684
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        1162,
+        24,
+        331,
+        483
+      ],
+      "gender": "female",
+      "ageBand": "senior",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        223,
+        316
+      ],
+      "palm_local": [
+        33,
+        224
+      ],
+      "hip_normalized": [
+        0.6737,
+        0.6542
+      ],
+      "palm_normalized": [
+        0.0997,
+        0.4638
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        31,
+        514,
+        344,
+        492
+      ],
+      "gender": "male",
+      "ageBand": "young",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        209,
+        327
+      ],
+      "palm_local": [
+        32,
+        223
+      ],
+      "hip_normalized": [
+        0.6076,
+        0.6646
+      ],
+      "palm_normalized": [
+        0.093,
+        0.4533
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        408,
+        516,
+        350,
+        486
+      ],
+      "gender": "male",
+      "ageBand": "adult",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        216,
+        327
+      ],
+      "palm_local": [
+        34,
+        220
+      ],
+      "hip_normalized": [
+        0.6171,
+        0.6728
+      ],
+      "palm_normalized": [
+        0.0971,
+        0.4527
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        789,
+        516,
+        353,
+        488
+      ],
+      "gender": "male",
+      "ageBand": "mature",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        220,
+        328
+      ],
+      "palm_local": [
+        33,
+        221
+      ],
+      "hip_normalized": [
+        0.6232,
+        0.6721
+      ],
+      "palm_normalized": [
+        0.0935,
+        0.4529
+      ]
+    },
+    {
+      "asset": "humans435/buzzer-seated511.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        1169,
+        521,
+        355,
+        484
+      ],
+      "gender": "male",
+      "ageBand": "senior",
+      "seated": true,
+      "bodyOnly": false,
+      "facing": "left",
+      "height": 1.65,
+      "hip_local": [
+        224,
+        324
+      ],
+      "palm_local": [
+        32,
+        216
+      ],
+      "hip_normalized": [
+        0.631,
+        0.6694
+      ],
+      "palm_normalized": [
+        0.0901,
+        0.4463
+      ]
+    }
+  ],
+  "anchor_note": "Hip/palm anchors manually estimated on photographic sprites in original atlas pixel coordinates; anchor by hip, not bounding-box center because forearm extends left.",
+  "source_file": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-6bbee46a-719e-41d1-9156-50145cb44c0d.png",
+  "generator": "built-in image_gen",
+  "reference": "humans435/profile443-seated.webp",
+  "limitations": "Only adult defaults; child/hijab/custom appearances not included. Static coherent photographed poses, not articulated physical models.",
+  "bytes": 226406,
+  "alpha_zero_fraction": 0.5915063222249349
+}

@@ -1,0 +1,30 @@
+body[data-game="kumbara"] #app>.kumbara-platform-v67{position:relative;isolation:isolate;height:450px;overflow:hidden;padding:0;margin:14px 0 25px;border:2px solid #63e7fa;border-radius:24px;background:linear-gradient(90deg,#ef903c 0 6%,#119ee9 7% 14%,#15d0ed 15% 62%,#1a74bc 63% 69%,#5bdaf1 70% 77%,#ffaf52 78% 85%,#008fcd 86%);box-shadow:inset 0 -70px 50px #0e5783,0 12px 32px #0006}
+.kumbara-platform-v67:before{content:'';position:absolute;z-index:-1;left:3%;right:3%;bottom:-11%;height:43%;border:6px solid #59f1ff;border-radius:50%;background:linear-gradient(130deg,#c4cbdc,#91a6cb 65%,#627dc7);box-shadow:0 0 20px #00dfff,0 0 0 14px #247fb9}
+.kumbara-letters-v67{position:absolute;left:9%;right:7%;top:5%;height:230px;overflow:hidden;font-size:70px;line-height:1.05;font-weight:950;color:#005f9d38;word-spacing:10px;pointer-events:none}
+.kumbara-sign-v67{position:absolute;left:29%;top:22px;width:42%;padding:8px 10px;background:linear-gradient(#174b9d,#08206d);border:4px solid #f3d88a;border-radius:24px 24px 16px 16px;box-shadow:0 0 0 3px #2888bc;text-align:center;color:#ffe58a}
+.kumbara-sign-v67 small{display:block;font-size:10px;letter-spacing:2px}.kumbara-sign-v67 h2{margin:0;font-size:30px;line-height:1.2;text-shadow:0 3px 1px #6a4b11}
+.kumbara-host-v67{position:absolute;left:22%;top:28%;width:115px;text-align:center;z-index:2}
+.kumbara-host-v67>svg{width:100px;height:170px;display:block;margin:auto;background:#122c46;border-radius:35px 35px 9px 9px}
+.kumbara-host-v67 strong,.kumbara-player-v67 strong{display:block;background:#0e4271;color:white;border-radius:9px;padding:3px;font-size:11px;line-height:1.4;overflow-wrap:anywhere}
+.kumbara-player-v67{position:absolute;right:21%;top:33%;width:115px;z-index:2;text-align:center}
+.kumbara-player-v67 .portrait35{display:block!important;width:94px!important;height:125px!important;min-width:0!important;margin:0 auto!important;border-radius:40% 40% 10px 10px!important;overflow:hidden;background:#d8e9f3}
+.kumbara-chair-v67{position:absolute;top:54%;width:75px;height:75px;background:linear-gradient(120deg,#fff,#c9d4e3);border:3px solid #f9ffff;border-radius:30px 30px 45% 45%;box-shadow:0 3px 10px #0004;z-index:1}
+.kumbara-chair-v67.left{left:16%}.kumbara-chair-v67.right{right:15%}.kumbara-chair-v67:before{content:'';position:absolute;top:68px;height:85px;width:8px;background:linear-gradient(90deg,#a9c7d8,#fff,#7d97ad);left:32px}.kumbara-chair-v67:after{content:'';position:absolute;top:144px;left:4px;width:62px;height:17px;border-radius:50%;background:linear-gradient(#e8f5ff,#6b8eae);border:2px solid #e3f7ff}
+.kumbara-table-v67{position:absolute;z-index:3;left:27%;right:24%;top:57%;height:160px;pointer-events:none}
+.kumbara-tabletop-v67{position:relative;height:58px;border-radius:50%;background:linear-gradient(#fff,#dfeaf2);border:4px solid #fff;box-shadow:0 6px 0 #c1c6d2,0 9px 0 #f5dc99}
+.kumbara-base-v67{position:relative;z-index:-1;width:40%;height:110px;margin:-1px auto;background:linear-gradient(110deg,#edf0f4,#fff,#b6c8d5);clip-path:polygon(30% 0,70% 0,100% 90%,90% 100%,10% 100%,0 90%);border-bottom:8px solid #ffe6a2}
+.kumbara-laptop-v67{position:absolute;left:19%;top:-22px;width:38px;height:29px;background:#283e54;border:3px solid #c4d2dc;transform:skewY(-9deg);border-radius:3px}
+.kumbara-cup-v67{position:absolute;right:21%;top:0;width:12px;height:15px;background:white;border:1px solid #b6c2ca;border-radius:2px 2px 5px 5px}
+@media(max-width:600px){body[data-game="kumbara"] #app>.kumbara-platform-v67{height:355px}.kumbara-sign-v67{left:22%;width:56%;top:18px;padding:7px}.kumbara-sign-v67 h2{font-size:23px}.kumbara-sign-v67 small{font-size:7px;letter-spacing:1px}.kumbara-host-v67{left:13%;top:31%;width:95px}.kumbara-host-v67>svg{width:70px;height:130px}.kumbara-player-v67{right:12%;top:35%;width:90px}.kumbara-player-v67 .portrait35{width:68px!important;height:95px!important}.kumbara-host-v67 strong,.kumbara-player-v67 strong{font-size:9px}.kumbara-table-v67{left:20%;right:17%;top:63%;height:110px}.kumbara-tabletop-v67{height:40px}.kumbara-base-v67{height:75px}.kumbara-chair-v67{top:56%;width:52px;height:52px}.kumbara-chair-v67.left{left:8%}.kumbara-chair-v67.right{right:7%}.kumbara-chair-v67:before{top:48px;left:22px;height:60px}.kumbara-chair-v67:after{top:103px;left:0;width:48px;height:13px}.kumbara-laptop-v67{width:27px;height:22px;top:-17px}}
+
+/* Masayı sahnenin ortasında daha dengeli bir ölçekte tut. */
+body[data-game="kumbara"] .kumbara-platform-v67 .kumbara-table-v67{left:35%;right:35%;top:61%;height:26%}
+body[data-game="kumbara"] .kumbara-platform-v67 .kumbara-tabletop-v67{height:28%;min-height:24px}
+body[data-game="kumbara"] .kumbara-platform-v67 .kumbara-base-v67{height:70%;width:38%}
+@media(max-width:600px){body[data-game="kumbara"] .kumbara-platform-v67 .kumbara-table-v67{left:30%;right:30%;top:63%;height:24%}body[data-game="kumbara"] .kumbara-platform-v67 .kumbara-tabletop-v67{min-height:18px}}
+
+.kumbara-platform-v67.stage435.blocking437 .kumbara-host-v67{left:24%;right:auto}.kumbara-platform-v67.stage435.blocking437 .kumbara-player-v67{left:54%;right:auto}.kumbara-platform-v67.stage435.blocking437 :is(.kumbara-host-v67,.kumbara-player-v67)>strong{position:absolute;top:100%;bottom:auto;left:0;right:0;width:100%;box-sizing:border-box;font-size:clamp(10px,1vw,14px);z-index:20;padding:4px 2px}
+.kumbara-platform-v67.stage435>.kumbara-chair-v67{display:none}
+
+/* 507: seated sprites already include chairs. */
+body[data-game="kumbara"] .kumbara-platform-v67.stage435>.kumbara-chair-v67{display:none!important}

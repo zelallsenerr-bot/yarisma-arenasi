@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/milyonluk-resim/index.html",
+      "status": "modified",
+      "base_sha256": "af681dd42661555aea3d94568e4dca75eb05a6fcf54029aff284973f01ffe7f2",
+      "new_sha256": "579f8b58df2db40075bb3669fccd17f72a43a62ca0cb0b8e7fc30fa734335efe"
+    },
+    {
+      "path": "dist/games/milyonluk-resim/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "e5b87f83f056412446295cb7959f9aea49c3886b4ae26cc4965d191822f57738"
+    },
+    {
+      "path": "dist/games/milyonluk-resim/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "c903cb70f0cd5ff248e8b96dd39a6b3ba409ed7d8c05fba1f8393a623fbdfefb"
+    }
+  ],
+  "shared_files_changed": []
+}

@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/hepsi-benim/index.html",
+      "status": "modified",
+      "base_sha256": "d37b8e414f7103d90e9ccfe2a25379d7b4f5da44b80393186fcde3451d0bc122",
+      "new_sha256": "97d682df9a8d5b48744e50dc6e60cc7abd0518431cb73c1bde229c1d3ca22fa8"
+    },
+    {
+      "path": "dist/games/hepsi-benim/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "f01d813a5818dfde9b3a0949ead5a98b5639e589573e54ac9c5935cc1e6133ad"
+    },
+    {
+      "path": "dist/games/hepsi-benim/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "8bfdb2a16b63a482b477f22b5a50603413077b9c0f433708c27c5379f3557f57"
+    }
+  ]
+}

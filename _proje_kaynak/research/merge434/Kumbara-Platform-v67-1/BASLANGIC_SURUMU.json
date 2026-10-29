@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/kumbara/index.html",
+      "status": "modified",
+      "base_sha256": "abf6831d775574a7f6cd1ed8aa73a56ad22f3d983e62cff1668092e1c0c2099b",
+      "new_sha256": "0f7eba962754d4805c121ec73969af475b98de2ee554915dd5f204da27210f21"
+    },
+    {
+      "path": "dist/games/kumbara/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "6fd243a5f651892b4c920487270f81a6d8bbc80f69fc630c58be5f422c5f5827"
+    },
+    {
+      "path": "dist/games/kumbara/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "08c04327c2212868b28634293da281d3d9f1f7720cd8e70f7ea9b6383a3c5079"
+    }
+  ],
+  "shared_files_changed": []
+}

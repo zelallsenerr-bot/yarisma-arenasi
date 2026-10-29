@@ -1,0 +1,47 @@
+{
+  "key": "hosts0",
+  "asset": "humans435/angle437-hosts0.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      171,
+      20,
+      341,
+      748
+    ],
+    [
+      512,
+      31,
+      459,
+      713
+    ],
+    [
+      172,
+      768,
+      340,
+      736
+    ],
+    [
+      512,
+      771,
+      485,
+      728
+    ]
+  ],
+  "names": [
+    "Mesut Yar",
+    "Yiğit Alıcı",
+    "Oktay Kaynarca",
+    "İlker Ayrık"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right"
+}

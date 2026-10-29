@@ -1,0 +1,195 @@
+/* v437: roles occupy their own furniture and floor anchors. Scope is decorative studio layers only. */
+.stage435.blocking437{isolation:isolate}
+.stage435.blocking437 .actor-slot435{box-sizing:border-box;min-width:0}
+.stage435.blocking437 .actor-slot435>strong{font-size:clamp(7px,.9vw,12px);line-height:1.2;overflow-wrap:anywhere}
+.stage435.blocking437 .furniture437{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;max-width:none!important;aspect-ratio:auto!important;object-fit:fill!important;border:0!important;border-radius:0!important;margin:0!important;padding:0!important;pointer-events:none!important;z-index:5;animation:none!important}
+.stage435.blocking437 :is(.ben-screen-v67,.ben-host-desk-v67,.halka-screen-v67,.nineteen-desk-v67,.nineteen-host-desk-v67,.room-desk-v67,.room-host-desk-v67,.mind-desk-v67,.mind-host-desk-v67,.sb-podium,.ka-podium,.hb-podium,.kp-desk,.tk-desk,.gm-counter,.mc-counter,.tt-counter){position:relative;z-index:5}
+/* Camera framing is wider: show the room and leave a conversation aisle. */
+.stage435.blocking437 :is(.mn-host,.mn-player){height:54%;bottom:9%;top:auto;width:19%}
+.stage435.blocking437 .mn-host{left:22%}.stage435.blocking437 .mn-player{left:61%;right:auto}.stage435.blocking437 .mn-table{left:46%;top:64%;width:15%;height:25%;z-index:6}
+.stage435.blocking437 .sv-host{height:48%;width:13%;left:43.5%;bottom:7%;top:auto}
+.stage435.blocking437 .sv-team{top:43%;height:48%;width:40%}.stage435.blocking437 .sv-lineup{inset:0;gap:3% 2%}.stage435.blocking437 .sv-person{height:100%;min-height:0}.stage435.blocking437 .sv-person strong{top:94%;font-size:clamp(5px,.7vw,9px)}
+.stage435.blocking437 .ev-host{height:46%;width:14%;bottom:7%;top:auto;left:43%}.stage435.blocking437 .ev-crew{top:42%;height:43%;left:2%;right:2%}.stage435.blocking437 .ev-worker{height:100%;min-height:0}
+/* Four separate contestant counters and a host's lectern. */
+.stage435.blocking437 .ben-podiums-v67{left:4%;top:32%;height:57%;width:65%;gap:3%}
+.stage435.blocking437 .ben-podium-v67{position:relative;height:100%;isolation:isolate}
+.stage435.blocking437 .ben-person-v67{position:absolute;inset:0;height:100%;width:100%;margin:0;z-index:2}
+.stage435.blocking437 .ben-screen-v67{position:absolute;left:0;right:0;bottom:0;min-height:0;height:44%;padding:12% 3% 4%;box-sizing:border-box;z-index:5}
+.stage435.blocking437 .ben-host-v67{top:31%;bottom:auto;right:4%;height:58%;width:19%}
+.stage435.blocking437 .ben-host-person-v67{position:absolute;inset:0;height:100%;margin:0;z-index:2}
+.stage435.blocking437 .ben-host-desk-v67{position:absolute;left:0;right:0;bottom:0;height:44%;min-height:0;padding:12% 4% 3%;box-sizing:border-box}
+/* Tall individual podiums: body feet remain behind each pedestal, never over its face. */
+.stage435.blocking437 :is(.halka-podium-v67,.nineteen-podium-v67){height:clamp(125px,16vw,190px);isolation:isolate}
+.stage435.blocking437 :is(.halka-podium-v67,.nineteen-podium-v67)>.human435{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;margin:0!important;z-index:1}
+.stage435.blocking437 :is(.halka-screen-v67,.nineteen-desk-v67){position:absolute;left:0;right:0;bottom:0;box-sizing:border-box;height:45%;min-height:0;padding:5% 2%;z-index:5}
+.stage435.blocking437 .halka-host-v67{height:44%;width:14%;left:50%;bottom:5%;top:auto}
+.stage435.blocking437 .nineteen-host-v67{height:40%;width:15%;left:50%;bottom:6%;top:auto}
+.stage435.blocking437 .nineteen-host-v67>.human435{height:100%!important}
+.stage435.blocking437 .nineteen-host-desk-v67{position:absolute;left:2%;right:2%;bottom:0;height:34%;min-height:0;padding:10% 2%;box-sizing:border-box}
+.stage435.blocking437 .room-podiums-v67{left:4%;width:45%;top:31%;height:58%;gap:5%}
+.stage435.blocking437 .room-podium-v67{position:relative;height:100%;isolation:isolate}
+.stage435.blocking437 .room-podium-v67>.human435{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;margin:0!important;z-index:1}
+.stage435.blocking437 .room-desk-v67{position:absolute;left:0;right:0;bottom:0;min-height:0;height:43%;padding:12% 3% 4%;box-sizing:border-box}
+.stage435.blocking437 .room-host-v67{height:58%;width:18%;right:7%;bottom:11%;top:auto}
+.stage435.blocking437 .room-host-desk-v67{width:92%;height:40%;min-height:0;bottom:0;left:4%;right:auto;padding:15% 3% 3%;box-sizing:border-box}
+/* Shared desks retain the original set, with bodies behind their front panels. */
+.stage435.blocking437 .deal-people-v67{inset:0;height:100%}
+.stage435.blocking437 .deal-person-v67{top:28%;bottom:auto;width:19%;height:59%}
+.stage435.blocking437 .deal-person-v67.person-0{left:17%}.stage435.blocking437 .deal-person-v67.person-1{left:40.5%}.stage435.blocking437 .deal-person-v67.person-2{left:64%}
+.stage435.blocking437 .deal-desk-v67{left:14%;right:14%;top:61%;height:26%;z-index:5}
+.stage435.blocking437 .gonder-host-v67{left:13%;width:19%;height:51%;bottom:9%;top:auto}
+.stage435.blocking437 .gonder-player-v67{left:43%;width:19%;height:51%;bottom:9%;top:auto}
+.stage435.blocking437 .gonder-rival435{left:70%;width:19%;height:51%;bottom:9%;top:auto}
+.stage435.blocking437 .gonder-desk-v67{left:38%;right:7%;top:65%;height:22%;z-index:5}
+.stage435.blocking437 .gonder-rival435>strong{position:absolute;top:100%;left:0;right:0}
+.stage435.blocking437 .double-person-v67{height:51%;width:17%;bottom:16%;top:auto}
+.stage435.blocking437 .double-person-v67.partner{left:10%;top:auto}.stage435.blocking437 .double-person-v67.player{left:30%;top:auto}
+.stage435.blocking437 .double-host-v67{height:52%;width:17%;bottom:16%;top:auto;right:22%}
+.stage435.blocking437 .double-money-v67{left:25%;top:55%;width:27%;z-index:5}.stage435.blocking437 .double-tubes-v67{z-index:6}
+.stage435.blocking437 .arka-friends-v67{top:20%;height:34%;left:32%;right:20%;gap:8%}
+.stage435.blocking437 .arka-desk-v67{left:27%;right:15%;top:43%;height:5%;z-index:5}
+.stage435.blocking437 .arka-player-v67{height:47%;width:18%;bottom:5%;top:auto;left:53%}
+.stage435.blocking437 .arka-host-v67{height:49%;width:18%;bottom:5%;top:auto;left:13%}
+.stage435.blocking437 .cs-host-v67{height:49%;width:18%;left:24%;bottom:9%;top:auto}
+.stage435.blocking437 .cs-player-v67{height:49%;width:18%;left:54%;right:auto;bottom:9%;top:auto}
+.stage435.blocking437 .cs-desk-v67{left:52%;top:63%;width:21%;height:23%;z-index:5}
+/* The chase team's shared lectern must not be erased by actor cleanup. */
+.stage435.blocking437 .platform-team-v67{left:4%;top:37%;width:34%;height:49%;padding:0;background:none;border:0;box-shadow:none;transform:none;gap:3%}
+.stage435.blocking437 .platform-pod-v67{position:relative;height:100%}
+.stage435.blocking437 .platform-pod-v67>.human435{height:100%!important;margin:0!important}
+.stage435.blocking437 .platform-pod-v67>strong{top:96%;font-size:clamp(6px,.8vw,11px)}
+.stage435.blocking437 .team-desk437{position:absolute;left:3%;width:36%;top:62%;height:21%;z-index:5;pointer-events:none;border:3px solid #79d5fa;border-top:7px solid #df6a98;border-radius:8px 8px 16px 16px;background:linear-gradient(100deg,#123c8a,#0c1d65 50%,#2148ad);box-shadow:0 9px 0 #050b2a,0 12px 10px #0008}
+.stage435.blocking437 .platform-host-v67{left:43%;width:18%;height:51%;bottom:9%;top:auto}
+.stage435.blocking437 .platform-hunter-v67{right:6%;width:22%;height:48%;bottom:23%;top:auto;background:transparent;border:0;box-shadow:none}
+/* Cooking stations occlude aprons/legs at their true counter edge. */
+.stage435.blocking437 .gm-station{height:42%;top:24%;overflow:visible}
+.stage435.blocking437 .gm-station>.human435{position:absolute!important;inset:0!important;height:100%!important;width:100%!important;margin:0!important;z-index:1}
+.stage435.blocking437 .gm-counter{position:absolute;left:0;right:0;top:61%;height:39%;z-index:5}
+.stage435.blocking437 .gm-host{height:45%;width:18%;left:28%;bottom:5%;top:auto}.stage435.blocking437 .gm-mother{height:43%;width:18%;left:52%;bottom:5%;top:auto}
+.stage435.blocking437 .mc-station>.human435,.stage435.blocking437 .tt-station>.human435{position:absolute!important;left:8%!important;top:0!important;width:84%!important;height:100%!important;margin:0!important;z-index:1}
+.stage435.blocking437 .mc-counter,.stage435.blocking437 .tt-counter{position:absolute;top:59%;height:39%;z-index:5}
+.stage435.blocking437 .tt-station>strong,.stage435.blocking437 .tt-station>small{z-index:6}
+.stage435.blocking437 .taste-judge435{height:26%;width:13%;top:24%}.stage435.blocking437 .taste-judge435-0{left:70%}.stage435.blocking437 .taste-judge435-1{left:84%}.stage435.blocking437 .taste-judge435-2{left:70%;top:55%}.stage435.blocking437 .taste-judge435-3{left:84%;top:55%}
+/* Couples, mothers/daughters, and television team desks. */
+.stage435.blocking437 .hb-person,.stage435.blocking437 .kp-person{width:46%;height:100%}.stage435.blocking437 .hb-person-0,.stage435.blocking437 .kp-person-0{left:2%}.stage435.blocking437 .hb-person-1,.stage435.blocking437 .kp-person-1{right:2%}
+.stage435.blocking437 .hb-podium{position:absolute;top:54%;height:43%;z-index:5}.stage435.blocking437 .kp-desk{position:absolute;top:60%;bottom:0;z-index:5}
+.stage435.blocking437 .hb-host{height:41%;width:14%;bottom:7%;top:auto}.stage435.blocking437 .hb-host-desk{z-index:5}
+.stage435.blocking437 .kp-host{height:31%;width:15%;left:3%;top:22%;bottom:auto}.stage435.blocking437 .kp-host-desk{position:absolute;top:63%;z-index:5}
+.stage435.blocking437 .ka-person{width:15%;height:42%}.stage435.blocking437 .ka-podium{position:absolute;top:56%;height:44%;z-index:5}
+.stage435.blocking437 .ka-presenter{height:48%;width:16%;right:2%;left:auto;bottom:6%;top:auto}
+.stage435.blocking437 .eb-man{height:100%}.stage435.blocking437 .eb-woman{height:100%}.stage435.blocking437 .eb-host{height:44%;width:17%;right:1%;bottom:8%;top:auto}
+.stage435.blocking437 .eb-red-desk{z-index:5}.stage435.blocking437 .eb-blue-desk{z-index:5;top:57%;height:39%}
+.stage435.blocking437 .tk-team{height:32%;top:54%;transform:none}
+.stage435.blocking437 .tk-person{height:100%;min-height:0}.stage435.blocking437 .tk-person>.human435{height:100%!important}
+.stage435.blocking437 .tk-desk{position:absolute;top:59%;height:43%;z-index:5}.stage435.blocking437 .tk-person>strong{top:94%;z-index:6;font-size:clamp(5px,.65vw,9px)}
+.stage435.blocking437 .tk-host{height:45%;width:16%;left:42%;bottom:7%;top:auto}
+.stage435.blocking437 .tk-panel>.human435{height:100%!important}.stage435.blocking437 .tk-panel>strong{top:62%;z-index:5}
+/* Seated conversation: each person owns one seat and looks to the other speaker. */
+.stage435.blocking437 .kumbara-host-v67{left:17%;right:auto;width:22%;height:55%;bottom:8%;top:auto}
+.stage435.blocking437 .kumbara-player-v67{right:15%;left:auto;width:22%;height:55%;bottom:8%;top:auto}
+.stage435.blocking437 .kumbara-table-v67{left:28%;right:24%;top:59%;height:30%;z-index:5}.stage435.blocking437 .kumbara-tabletop-v67{height:27%}
+.stage435.blocking437 .word-host-v67{left:4%;width:18%;height:49%;bottom:8%;top:auto}.stage435.blocking437 .word-player-v67{left:27%;width:18%;height:49%;bottom:8%;top:auto}
+.stage435.blocking437 .word-table-v67{left:3%;width:42%;top:64%;height:14%;z-index:5}.stage435.blocking437 .word-waiting-v67{top:32%;height:32%;padding:0}
+.stage435.blocking437 .picture-player-v67{left:22%;width:17%;height:42%;bottom:5%;top:auto}.stage435.blocking437 .picture-host-v67{left:54%;width:17%;height:42%;bottom:5%;top:auto}
+.stage435.blocking437 .mind-contestants-v67{left:3%;top:35%;width:35%;height:54%;align-items:stretch}
+.stage435.blocking437 .mind-pod-v67{position:relative;height:100%}.stage435.blocking437 .mind-pod-v67>.human435{height:100%!important;margin:0!important;z-index:1}
+.stage435.blocking437 .mind-desk-v67{position:absolute;left:0;right:0;bottom:0;height:42%;min-height:0;padding:10% 3%;box-sizing:border-box}
+.stage435.blocking437 .mind-host-v67{left:43%;width:19%;height:53%;bottom:11%;top:auto}.stage435.blocking437 .mind-host-desk-v67{position:absolute;left:0;right:0;bottom:0;height:38%;min-height:0;box-sizing:border-box;padding:10% 3%}
+.stage435.blocking437 .mind-experts-v67{right:3%;top:38%;width:27%;height:46%;padding:0;background:none;border:0;box-shadow:none}
+.stage435.blocking437 .mind-experts-v67>div{height:100%;position:relative}.stage435.blocking437 .mind-experts-v67>div>.human435{height:100%!important;margin:0!important}.stage435.blocking437 .mind-experts-v67>div>strong{position:absolute;top:100%;left:0;right:0;z-index:7}
+.stage435.blocking437 .mind-experts-v67:after{content:'';position:absolute;left:-2%;right:-2%;bottom:0;height:40%;z-index:5;background:linear-gradient(#d5e8e6 0 7%,#90b2aa 9%,#3f766e);border:3px solid #b7d8cf;border-radius:4px;pointer-events:none}
+.stage435.blocking437 .pw-person{height:58%;width:18%;bottom:8%}.stage435.blocking437 .pw-person-0{left:3%}.stage435.blocking437 .pw-person-1{left:22%}.stage435.blocking437 .pw-person-2{left:42%;height:53%;bottom:25%;width:16%}.stage435.blocking437 .pw-person-3{left:61%}.stage435.blocking437 .pw-person-4{left:80%}
+.stage435.blocking437 .pw-desk{top:61%;height:18%;z-index:5}.stage435.blocking437 .pw-label{top:83%;z-index:8}.stage435.blocking437 .pw-label-2{top:17%}
+.stage435.blocking437 .py-team{top:46%;height:42%;width:32%}.stage435.blocking437 .py-person{height:100%;width:44%}.stage435.blocking437 .py-person-0{left:0}.stage435.blocking437 .py-person-1{right:0}
+.stage435.blocking437 .py-table{position:absolute;left:24%;right:24%;top:58%;height:35%;z-index:5}
+.stage435.blocking437 .py-host{left:43%;width:14%;height:46%;bottom:8%;top:auto}
+.stage435.blocking437 .ucte-player-v67{left:7%;width:19%;height:49%;bottom:8%;top:auto}.stage435.blocking437 .ucte-host-v67{left:37%;width:19%;height:51%;bottom:8%;top:auto}.stage435.blocking437 .ucte-expert-v67{right:5%;width:23%;height:48%;bottom:12%;top:auto}
+/* Shared sofas and benches: align the hip/feet plane rather than adding another chair. */
+.stage435.blocking437 .door-host-v67{left:7%;width:23%;height:55%;bottom:8%;top:auto}.stage435.blocking437 .door-sofa-v67{left:39%;right:5%;height:54%;bottom:8%;top:auto;gap:2%}
+.stage435.blocking437 .door-family-v67{height:100%}.stage435.blocking437 .door-armchair-v67{opacity:.35}
+.stage435.blocking437 .sbk-person{height:42%;width:18%;top:auto;bottom:18%}.stage435.blocking437 .sbk-person-0{left:12%}.stage435.blocking437 .sbk-person-1{left:32%}.stage435.blocking437 .sbk-person-2{left:58%}.stage435.blocking437 .sbk-person-3{left:77%;top:auto;height:42%}
+.stage435.blocking437 .sbk-table{z-index:6}
+.stage435.blocking437 .gz-team{top:28%;height:34%;width:37%}.stage435.blocking437 .gz-person{height:100%;min-height:0}.stage435.blocking437 .gz-bench{top:51%;height:36%;z-index:0}.stage435.blocking437 .gz-table{z-index:6}
+.stage435.blocking437 .ut-person{width:11%;height:25%}.stage435.blocking437 .ut-person>strong{top:92%;font-size:clamp(5px,.7vw,9px)}.stage435.blocking437 .ut-person>small{top:105%;font-size:clamp(4px,.65vw,8px)}
+.stage435.blocking437 .everyone-chairs-v67{top:33%;height:45%;left:5%;right:5%;gap:5%}
+.stage435.blocking437 .everyone-chair-v67{height:100%;padding:0;background:linear-gradient(90deg,#373c4c,#111c31)!important;border-radius:16px!important;box-sizing:border-box;overflow:visible}
+.stage435.blocking437 .everyone-chair-v67>.human435{height:100%!important}.stage435.blocking437 .everyone-front-v67{position:absolute;left:-3%;right:-3%;top:63%;height:37%;min-height:0;padding:8% 2%;box-sizing:border-box;z-index:5}
+.stage435.blocking437 .everyone-host-v67{top:auto;bottom:2%;height:39%;width:15%}.stage435.blocking437 .everyone-host-v67>.human435{height:100%!important}
+.stage435.blocking437 .yd-seat{height:39%;width:17%}.stage435.blocking437 .yd-seat-0{left:33%;top:24%}.stage435.blocking437 .yd-seat-1{left:52%;top:24%}.stage435.blocking437 .yd-seat-2{left:13%;top:35%}.stage435.blocking437 .yd-seat-3{left:3%;top:52%}.stage435.blocking437 .yd-seat-4{right:13%;top:35%}.stage435.blocking437 .yd-seat-5{right:3%;top:52%}
+.stage435.blocking437 .yd-table{z-index:5}.clean-platform-v67.stage435.blocking437 .yd-seat-0,.clean-platform-v67.stage435.blocking437 .yd-seat-1{top:30%}.stage435.blocking437 .cl-table{z-index:6}
+/* Remote control desk: the two hosts occupy the real chairs behind the real tabletop. */
+:is(.lucky-platform-v67,.first-platform-v67).stage435.blocking437{grid-template-columns:1.15fr 1fr;align-items:start;gap:12px}
+.stage435.blocking437 .lm-restaurant{grid-column:1;grid-row:1/3}
+.stage435.blocking437 .lm-person{top:25%;height:61%;width:30%}.stage435.blocking437 .lm-player{left:9%}.stage435.blocking437 .lm-guest{right:9%}
+.stage435.blocking437 .lm-table{top:54%;left:29%;right:29%;height:38%;z-index:6}
+.stage435.blocking437 .lm-control.control435{grid-column:2;grid-row:1;position:relative;width:100%;height:auto;min-height:0;aspect-ratio:1734/921;box-sizing:border-box;padding:0;background-size:100% 100%;background-position:center;overflow:hidden}
+.stage435.blocking437 .control435 h3{top:3%;font-size:clamp(6px,.8vw,11px);padding:2px;z-index:10}
+.stage435.blocking437 .control435 .control-host435{position:absolute;top:16%;bottom:auto;height:69%;width:16%;z-index:auto}
+.stage435.blocking437 .control435 .control-host435-0{left:34%;right:auto}.stage435.blocking437 .control435 .control-host435-1{left:50%;right:auto}
+.stage435.blocking437 .control435 .control-host435>.human435{position:relative!important;height:100%!important;z-index:2}
+.stage435.blocking437 .control435 .control-host435>strong{top:100%;font-size:clamp(5px,.65vw,9px);z-index:8;background:#0c1523d9}
+.stage435.blocking437>.control-task437{grid-column:2;grid-row:2;margin:0;position:relative;inset:auto;z-index:auto;max-height:none;min-height:0;padding:12px;overflow:visible;box-sizing:border-box}
+/* Static set's original podiums occlude the lower half of their own actor. */
+.cevap-platform-v67.stage435.blocking437 .scene-person435{z-index:auto!important;top:22%;bottom:auto;height:52%;width:10%}
+.cevap-platform-v67.stage435.blocking437 .scene-person435>.human435{z-index:2}
+.cevap-platform-v67.stage435.blocking437 .scene-person435>strong{top:100%;z-index:9;background:#0a1736d9;font-size:clamp(5px,.7vw,10px)}
+.cevap-platform-v67.stage435.blocking437 .scene-person435-0{left:12%!important;top:23%;height:49%;width:11%}
+.cevap-platform-v67.stage435.blocking437 .scene-person435-1{left:56.5%!important;top:20%;height:44%;width:8%}
+.cevap-platform-v67.stage435.blocking437 .scene-person435-2{left:62.5%!important;top:20.5%;height:48%;width:8.5%}
+.cevap-platform-v67.stage435.blocking437 .scene-person435-3{left:68.5%!important;top:21%;height:53%;width:9.5%}
+.cevap-platform-v67.stage435.blocking437 .scene-person435-4{left:77.5%!important;top:22%;height:60%;width:11.5%}
+.joker-platform-v67.stage435.blocking437 .scene-person435{top:36%;height:54%;width:18%}.joker-platform-v67.stage435.blocking437 .scene-person435-0{left:30%!important}.joker-platform-v67.stage435.blocking437 .scene-person435-1{left:57%!important}
+.gel-platform-v67.stage435.blocking437 .scene-person435{top:43%;height:44%;width:13%}.gel-platform-v67.stage435.blocking437 .scene-person435-0{left:57%!important}.gel-platform-v67.stage435.blocking437 .scene-person435-1{left:35%!important}
+.para-platform-v67.stage435.blocking437 .scene-person435{top:23%;height:53%;width:17%}.para-platform-v67.stage435.blocking437 .scene-person435-0{left:30%!important}.para-platform-v67.stage435.blocking437 .scene-person435-1{left:53%!important}
+.kizma-platform-v67.stage435.blocking437 .scene-person435{left:40%!important;top:25%;height:58%;width:22%}
+/* Wide views preserve the original action-specific blocking. */
+.stage435.blocking437 .cr-person{width:16%;height:39%}.stage435.blocking437 .cr-person-0{left:18%;top:48%}.stage435.blocking437 .cr-person-1{left:35%;top:37%}.stage435.blocking437 .cr-person-2{left:53%;top:39%}.stage435.blocking437 .cr-person-3{left:38%;top:54%;height:40%}.stage435.blocking437 .cr-person-4{left:70%;top:39%;height:42%}
+.stage435.blocking437 .sp-host{height:44%;width:18%;bottom:8%;top:auto}.stage435.blocking437 .sp-host-0{left:55%}.stage435.blocking437 .sp-host-1{left:78%}
+.stage435.blocking437 .sb-host{height:51%;width:18%;left:8%;bottom:9%;top:auto}.stage435.blocking437 .sb-seat{height:45%}.stage435.blocking437 .sb-podium{position:absolute;top:46%;height:48%;z-index:5}
+.stage435.blocking437 .fifty-host-v67,.stage435.blocking437 .fifty-player-v67{height:62%;bottom:8%;top:auto}
+.stage435.blocking437 .ag-host{height:40%;width:17%;left:8%;top:36%}.stage435.blocking437 .ag-guest{top:24%;height:37%;bottom:auto}
+.stage435.blocking437 .yt-performer{height:35%;top:25%;width:18%;left:40%}.stage435.blocking437 .yt-jury{top:66%;height:31%}.stage435.blocking437 .yt-desk{z-index:5}
+.stage435.blocking437 .vs-actor{height:36%;top:28%}.stage435.blocking437 .vs-chair>.human435{height:100%!important}
+.stage435.blocking437 .passa-player-v67,.stage435.blocking437 .passa-host-v67{height:57%;width:20%;bottom:10%;top:auto}
+.stage435.blocking437 .passa-player-v67{left:17%}.stage435.blocking437 .passa-host-v67{right:17%}.stage435.blocking437 .passa-desk-v67{top:61%;height:22%;z-index:5}
+@media(max-width:650px){
+ .stage435.blocking437 :is(.halka-podium-v67,.nineteen-podium-v67){height:clamp(112px,30vw,150px)}
+ .stage435.blocking437 .ben-podiums-v67{left:3%;width:69%;top:35%;height:53%;gap:2%}.stage435.blocking437 .ben-host-v67{right:2%;width:21%;top:34%;height:54%}
+ .stage435.blocking437 :is(.ben-screen-v67,.ben-host-desk-v67){border-width:4px;padding:8% 2%}.stage435.blocking437 .ben-screen-v67 b{font-size:18px}
+ .stage435.blocking437 .room-podiums-v67{left:3%;width:48%;top:36%;height:53%;gap:3%}.stage435.blocking437 .room-host-v67{right:4%;width:19%;height:53%}
+ .stage435.blocking437 .mind-contestants-v67{left:2%;width:36%;top:38%;height:50%}.stage435.blocking437 .mind-host-v67{left:43%;width:18%;height:50%}.stage435.blocking437 .mind-experts-v67{right:2%;width:29%;height:43%;top:43%}
+ .stage435.blocking437 .mind-desk-v67,.stage435.blocking437 .mind-host-desk-v67{border-width:3px}.stage435.blocking437 .mind-desk-v67 span{font-size:9px;margin-top:3px}
+ .stage435.blocking437 .everyone-chairs-v67{left:4%;right:4%;gap:4%;height:43%;top:35%}.stage435.blocking437 .everyone-front-v67{padding:5% 1%}.stage435.blocking437 .everyone-front-v67 strong{font-size:7px}.stage435.blocking437 .everyone-front-v67 small{font-size:6px;margin-top:2px}
+ .stage435.blocking437 .sb-seat{width:14%}.stage435.blocking437 .sb-seat-0{left:40%}.stage435.blocking437 .sb-seat-1{left:54%}.stage435.blocking437 .sb-seat-2{left:68%}.stage435.blocking437 .sb-seat-3{left:82%}
+ .stage435.blocking437 .fifty-left-v67{width:31%;left:1%}.stage435.blocking437 .fifty-host-v67{width:100%;height:43%;top:0;bottom:auto;left:0}.stage435.blocking437 .fifty-player-v67{width:100%;height:43%;top:53%;bottom:auto;left:0;right:auto}
+ :is(.lucky-platform-v67,.first-platform-v67).stage435.blocking437{grid-template-columns:1fr;padding-inline:8px;gap:10px}
+ .stage435.blocking437 .lm-restaurant{grid-column:1;grid-row:auto;height:330px}
+ .stage435.blocking437 .lm-control.control435{grid-column:1;grid-row:auto;aspect-ratio:1734/921;min-height:0;height:auto;display:block}
+ .stage435.blocking437>.control-task437{grid-column:1;grid-row:auto;padding:10px}
+ .stage435.blocking437 .control435 h3{font-size:8px}.stage435.blocking437 .control435 .control-host435>strong{font-size:6px}
+ .stage435.blocking437 .sv-person strong{font-size:5px}.stage435.blocking437 .sv-host>strong{font-size:7px}
+ .stage435.blocking437 .ut-person{height:24%;width:12%}.stage435.blocking437 .ut-person>strong{font-size:5px}.stage435.blocking437 .ut-person>small{font-size:4px}
+}
+@media(prefers-reduced-motion:reduce){.stage435.blocking437 .human435{animation:none!important}}
+
+.stage435.blocking437 .control435 .control-host435{width:24%}
+.stage435.blocking437 .control435 .control-host435-0{left:30%}
+.stage435.blocking437 .control435 .control-host435-1{left:46%}
+.first-platform-v67.blocking437 .lm-control.control435{aspect-ratio:1792/878}
+.first-platform-v67.blocking437 .control435 .control-host435-0{left:22%;top:28%;height:72%;width:24%;z-index:2}
+.first-platform-v67.blocking437 .control435 .control-host435-1{left:29%;top:38%;height:80%;width:30%;z-index:3}
+.first-platform-v67.blocking437 .control435 .control-host435>strong{top:auto;bottom:3%;font-size:6px}
+.first-platform-v67.blocking437 .control-desk437{clip-path:polygon(0% 64%,28% 64%,30% 66%,19% 100%,0% 100%)!important;z-index:5}
+.first-platform-v67.blocking437 :is(.control-monitor437,.control-microphone437-a,.control-microphone437-b){display:none!important}
+/* A clear foreground aisle keeps the presenter below, rather than behind, the five seats. */
+#app>.everyone-platform-v67.stage435.blocking437{height:620px}
+.stage435.blocking437 .everyone-chairs-v67{top:25%;height:35%}
+.stage435.blocking437 .everyone-host-v67{bottom:3%;height:34%;z-index:6}
+.stage435.blocking437 .everyone-host-v67>strong{position:absolute;top:auto;bottom:-3%;left:-20%;right:-20%}
+@media(max-width:600px){#app>.everyone-platform-v67.stage435.blocking437{height:540px}.stage435.blocking437 .everyone-chairs-v67{gap:4%;left:4%;right:4%}}
+
+.stage435.blocking437 .room-host-desk-v67{position:absolute;top:auto;bottom:0;height:40%;margin:0}
+
+.kizma-platform-v67.stage435.blocking437 .scene-person435{left:34%!important;top:22%;height:62%;width:22%}
+.kizma-platform-v67.stage435.blocking437 .scene-person435::before,.kizma-platform-v67.stage435.blocking437 .scene-person435::after{content:none!important}
+.kizma-platform-v67.stage435.blocking437 .scene-person435>strong{display:none}

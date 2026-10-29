@@ -1,0 +1,37 @@
+{
+  "mode": "built-in image_gen",
+  "version": 511,
+  "assets": [
+    {
+      "color": "white",
+      "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-787a13f4-250f-4c4c-9460-01950ca6505a.png",
+      "prompt": "Use case: identity-preserve. Asset type: transparent photoreal full-body contestant sprite sheet for a cooking competition game. Input image1 and image2 are identity references ONLY. Create 8 separate adult contestants, a clean 4-column 2-row grid on actual transparent background, no scenery, no table, no text. Every person complete from crown to entire shoe soles, centered within a separate equal grid cell, ample empty margins, figures never overlap. Top row: adult woman navy shirt from image1 top middle; mature woman navy suit from image1 top fourth; woman navy hijab from image2 top middle; woman beige hijab from image2 top right. Bottom row: adult dark short-haired man navy rolled-sleeve shirt from image1 bottom middle; mature salt-pepper man blue shirt from image1 bottom fourth; bearded man charcoal shirt from image2 bottom middle; curly-haired man dark shirt from image2 bottom left. Each contestant must REALLY WEAR an authentic WHITE cotton chef bib apron over their normal clothing: visible narrow neck strap wrapping naturally around neck, cloth bib fitted to torso, tied waist, apron skirt to just above knees, fabric folds, stitching and slight natural creases. It is one photographed garment with correct occlusion, not a floating flat white triangle overlay. Arms relaxed naturally outside apron, hands empty visible, no hands in pockets. Front-facing with slight 10-degree turn toward camera-left, natural professional expressions. Realistic anatomy, detailed faces, realistic hands. Match identity age sex hair and hijab. No chef hats, no logos, no kitchen tools. All legs and shoes fully visible. Photographic, natural soft studio light, no cartoon, no plastic skin. Output landscape 1536x1024 composition. True transparent alpha background."
+    },
+    {
+      "color": "red",
+      "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-cf64de0b-bea5-4bbc-9c3a-65e7073f9c6a.png",
+      "prompt": "Use case: precise-object-edit. Edit target: image1 is the approved white-apron contestant atlas. Change ONLY the WHITE apron garment on all eight people to deep saturated chef-team RED cotton fabric. Preserve every face identity, hair, age, hijab, skin, underlying clothing, hands, pose, exact cell location and scale, exact full-body framing, legs and shoes. Retain narrow neck straps, fitted bib, tied waist and stitched cloth folds and natural material. Do not recolor white shirts or shoes, ONLY aprons. Preserve actual transparent background, add no props/text/logos. Do not crop any body. Output the same 1536x1024 atlas."
+    },
+    {
+      "color": "blue",
+      "prompt": "Use case: precise-object-edit. Edit target: image1 is the approved white-apron contestant atlas. Change ONLY the WHITE apron garment on all eight people to rich saturated chef-team COBALT BLUE cotton fabric. Preserve every face identity, hair, age, hijab, skin, underlying clothing, hands, pose, exact cell location and scale, exact full-body framing, legs and shoes. Retain narrow neck straps, fitted bib, tied waist and stitched cloth folds and natural material. Do not recolor white shirts or shoes, ONLY aprons. Preserve actual transparent background, add no props/text/logos. Do not crop any body. Output the same 1536x1024 atlas.",
+      "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-435303bc-4dd8-4a99-a43d-88380c7eba23.png"
+    }
+  ],
+  "references": [
+    "dist/humans435/profile443-standing.webp",
+    "dist/humans435/profile449-standing.webp"
+  ],
+  "constraints": [
+    "8 adult full-body photographs wearing genuine folded cotton aprons with visible neck straps and waist ties",
+    "All8 faces and poses preserved between colors",
+    "Actual RGBA transparency preserved in WebP",
+    "No application code modified"
+  ],
+  "limitations": [
+    "Eight adult variants, not all sixteen age/appearance profile identities",
+    "Male senior visual is grey-haired and grey-bearded; do not label it as30-year-old mature preset",
+    "Aprons are AI-generated likeness-preserving full-body visual assets, not animated video",
+    "Red/blue generation left low-opacity haze outside body silhouettes. Metadata requires rendering through the white atlas as SVG alpha mask. This is normal composition of approved source assets, no semantic raster editing was performed."
+  ]
+}

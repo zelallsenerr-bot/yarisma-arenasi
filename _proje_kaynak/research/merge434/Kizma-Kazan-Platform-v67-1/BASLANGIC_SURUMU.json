@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/kizma-kazan/index.html",
+      "status": "modified",
+      "base_sha256": "38ec52cf1c1b8128c654068b4a56e3c801d93228a1b2c12debc280d472cfee35",
+      "new_sha256": "935cfea7852b4b46b246fd99d4c29006d54db6d5fc347269fef7acd54b12555b"
+    },
+    {
+      "path": "dist/games/kizma-kazan/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "bdeefdd5772ecc05aedb01ac274443ca82ae6180c4b36d36f809478e91df320e"
+    },
+    {
+      "path": "dist/games/kizma-kazan/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "b6b12f77e484a9b93f80e1da0076f088a8322fc5e51639a6fa88220efce36001"
+    },
+    {
+      "path": "dist/games/kizma-kazan/platform-control-room.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "09b856feeabf60882d6949dc3a847d74918fe84a00c9281440df8651bf732b96"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/eyvah-dusuyorum/index.html",
+      "status": "modified",
+      "base_sha256": "2f190d7f87de1cc65bec85588eff6d02c8743cb202186a6827d507b7734063d0",
+      "new_sha256": "5f2379fb94281753fcefc7da5c35890214a340bbc27c7ee3f3c4a8ad708d89d2"
+    },
+    {
+      "path": "dist/games/eyvah-dusuyorum/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "a84e442252e4ba0f4566e29874ccc68e373fa9099da9a2d10a926d0dddcc0095"
+    },
+    {
+      "path": "dist/games/eyvah-dusuyorum/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "4735630742451826044404949e0ea95cb95aea5c7316f178033cee7a70779cd3"
+    }
+  ],
+  "shared_files_changed": []
+}

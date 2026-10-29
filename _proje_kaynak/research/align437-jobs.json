@@ -1,0 +1,197 @@
+[
+  {
+    "key": "host10",
+    "source": "dist/studios211/poses10.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "Derda Yasir Yenal",
+      "Rüştü Onur Atilla",
+      "Öner Erkan",
+      "Ahmet Çakar"
+    ],
+    "pose": "mixed",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied existing2x2 transparent full-body presenter sprite atlas. Produce one new atlas retaining EXACT SAME FOUR PEOPLE, recognizable faces, ages, hair, facial features, clothes, cuecard props, row-majororder and1024x1536 portrait2x2layout. People top-left, top-right, bottom-left, bottom-right respectively: Derda Yasir Yenal, Rüştü Onur Atilla, Öner Erkan, Ahmet Çakar. Only bottom-left is seated in a natural seated body posture with both feet present; other three standing. Change every person's WHOLE BODY AND HEAD orientation to approximately65degrees toward IMAGE RIGHT, candid TV-show conversation with somebody offscreen right. Faces and eyes must look RIGHT, never at camera. Natural three-quarter/side profiles with anatomical depth, realistic hands and posture. Preserve each identity from source, do not substitute genericmodels. Full humanbody from hair to feet in each quadrant, centred insideownquadrant with at least40px clear margins on all sides, no touching/crossing quadrantboundaries. True transparent alpha background. Remove ALL furniture, chairs, stools, stage, backdrop, floor shadows, text, logos, borders and glow. Only four isolated realistic full humanfigures. Professional studio photographic realism and neutral lighting. Invariants: same four identities/outfits/order/layout; change only orientation and remove chairs/furniture."
+  },
+  {
+    "key": "host11",
+    "source": "dist/studios211/poses11.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "Jess Molho",
+      "Ersin Düzen",
+      "Murat Ceylan",
+      "Metin Uca"
+    ],
+    "pose": "standing",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied existing2x2 transparent full-body presenter sprite atlas. Produce one new atlas retaining EXACT SAME FOUR PEOPLE, recognizable faces, ages, hair, facial features, clothes, cuecard props, row-majororder and1024x1536 portrait2x2layout. People top-left, top-right, bottom-left, bottom-right respectively: Jess Molho, Ersin Düzen, Murat Ceylan, Metin Uca. All four standing. Change every person's WHOLE BODY AND HEAD orientation to approximately65degrees toward IMAGE RIGHT, candid TV-show conversation with somebody offscreen right. Faces and eyes must look RIGHT, never at camera. Natural three-quarter/side profiles with anatomical depth, realistic hands and posture. Preserve each identity from source, do not substitute genericmodels. Full humanbody from hair to feet in each quadrant, centred insideownquadrant with at least40px clear margins on all sides, no touching/crossing quadrantboundaries. True transparent alpha background. Remove ALL furniture, chairs, stools, stage, backdrop, floor shadows, text, logos, borders and glow. Only four isolated realistic full humanfigures. Professional studio photographic realism and neutral lighting. Invariants: same four identities/outfits/order/layout; change only orientation and remove chairs/furniture."
+  },
+  {
+    "key": "host12",
+    "source": "dist/studios211/poses12.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "Çağla Şıkel",
+      "Pelin Çift",
+      "Saadet Özsırkıntı",
+      "Almeda Abazi"
+    ],
+    "pose": "standing",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied existing2x2 transparent full-body presenter sprite atlas. Produce one new atlas retaining EXACT SAME FOUR PEOPLE, recognizable faces, ages, hair, facial features, clothes, cuecard props, row-majororder and1024x1536 portrait2x2layout. People top-left, top-right, bottom-left, bottom-right respectively: Çağla Şıkel, Pelin Çift, Saadet Özsırkıntı, Almeda Abazi. All four standing. Change every person's WHOLE BODY AND HEAD orientation to approximately65degrees toward IMAGE RIGHT, candid TV-show conversation with somebody offscreen right. Faces and eyes must look RIGHT, never at camera. Natural three-quarter/side profiles with anatomical depth, realistic hands and posture. Preserve each identity from source, do not substitute genericmodels. Full humanbody from hair to feet in each quadrant, centred insideownquadrant with at least40px clear margins on all sides, no touching/crossing quadrantboundaries. True transparent alpha background. Remove ALL furniture, chairs, stools, stage, backdrop, floor shadows, text, logos, borders and glow. Only four isolated realistic full humanfigures. Professional studio photographic realism and neutral lighting. Invariants: same four identities/outfits/order/layout; change only orientation and remove chairs/furniture."
+  },
+  {
+    "key": "host13",
+    "source": "dist/studios211/poses13.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "Beyazıt Öztürk",
+      "Cem Öğretir",
+      "Tufan Gündüz",
+      "Enis Arıkan"
+    ],
+    "pose": "mixed",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied existing2x2 transparent full-body presenter sprite atlas. Produce one new atlas retaining EXACT SAME FOUR PEOPLE, recognizable faces, ages, hair, facial features, clothes, cuecard props, row-majororder and1024x1536 portrait2x2layout. People top-left, top-right, bottom-left, bottom-right respectively: Beyazıt Öztürk, Cem Öğretir, Tufan Gündüz, Enis Arıkan. Top-right and bottom-right seated naturally, preserve seated legs and feet but REMOVE their stools/chairs completely. Other two standing. Change every person's WHOLE BODY AND HEAD orientation to approximately65degrees toward IMAGE RIGHT, candid TV-show conversation with somebody offscreen right. Faces and eyes must look RIGHT, never at camera. Natural three-quarter/side profiles with anatomical depth, realistic hands and posture. Preserve each identity from source, do not substitute genericmodels. Full humanbody from hair to feet in each quadrant, centred insideownquadrant with at least40px clear margins on all sides, no touching/crossing quadrantboundaries. True transparent alpha background. Remove ALL furniture, chairs, stools, stage, backdrop, floor shadows, text, logos, borders and glow. Only four isolated realistic full humanfigures. Professional studio photographic realism and neutral lighting. Invariants: same four identities/outfits/order/layout; change only orientation and remove chairs/furniture."
+  },
+  {
+    "key": "guestA",
+    "source": "dist/humans435/guestA.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "Demet Evgar",
+      "Eser Yenenler",
+      "Büşra Pekin",
+      "İbrahim Büyükak"
+    ],
+    "pose": "seated",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied2x2 transparent full-body celebrityguest spriteatlas. Keep EXACT SAME FOUR recognizable people and outfits, ages,hair,faces and row-major quadrant order: Demet Evgar, Eser Yenenler, Büşra Pekin, İbrahim Büyükak. New1024x1536 portrait2x2atlas. All four seated in natural conversation poses, FULLBODY from hair to BOTHFEET inside each quadrant, minimum40pxclear margins fromeveryedge andcellboundary. Rotate wholebody AND head65degrees toward IMAGE RIGHT, eyes looking offscreenRIGHT at anotherperson, neveratcamera. Preserve individual identities fromreference. Vary naturalhands: relaxedlap, mildconversationgesture, listeninghandnearchin, forearmon thigh. Preserve outfitcolours/styles. Remove EVERY CHAIR/STOOL/SEAT and all furniture/supports. Only seatedhumanbodies remain forcompositing into existingchairs. No text,borders,logos,stage,backdrop,floorshadow orglow. Genuine transparentalpha background, cleanedges. Photorealistic skin,hands,fabric andneutralstudiolighting. Allshoes must befullyvisible, nopartclipped."
+  },
+  {
+    "key": "guestB",
+    "source": "dist/humans435/guestB.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "Gupse Özay",
+      "Oğuzhan Koç",
+      "Doğu Demirkol",
+      "Melis Sezen"
+    ],
+    "pose": "seated",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied2x2 transparent full-body celebrityguest spriteatlas. Keep EXACT SAME FOUR recognizable people and outfits, ages,hair,faces and row-major quadrant order: Gupse Özay, Oğuzhan Koç, Doğu Demirkol, Melis Sezen. New1024x1536 portrait2x2atlas. All four seated in natural conversation poses, FULLBODY from hair to BOTHFEET inside each quadrant, minimum40pxclear margins fromeveryedge andcellboundary. Rotate wholebody AND head65degrees toward IMAGE RIGHT, eyes looking offscreenRIGHT at anotherperson, neveratcamera. Preserve individual identities fromreference. Vary naturalhands: relaxedlap, mildconversationgesture, listeninghandnearchin, forearmon thigh. Preserve outfitcolours/styles. Remove EVERY CHAIR/STOOL/SEAT and all furniture/supports. Only seatedhumanbodies remain forcompositing into existingchairs. No text,borders,logos,stage,backdrop,floorshadow orglow. Genuine transparentalpha background, cleanedges. Photorealistic skin,hands,fabric andneutralstudiolighting. Allshoes must befullyvisible, nopartclipped."
+  },
+  {
+    "key": "guestC",
+    "source": "dist/humans435/guestC.webp",
+    "cols": 2,
+    "rows": 2,
+    "names": [
+      "İrem Sak",
+      "Evrim Akın",
+      "Sertan Erkaçan",
+      "Muhsin Divan"
+    ],
+    "pose": "seated",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied2x2 transparent full-body celebrityguest spriteatlas. Keep EXACT SAME FOUR recognizable people and outfits, ages,hair,faces and row-major quadrant order: İrem Sak, Evrim Akın, Sertan Erkaçan, Muhsin Divan. New1024x1536 portrait2x2atlas. All four seated in natural conversation poses, FULLBODY from hair to BOTHFEET inside each quadrant, minimum40pxclear margins fromeveryedge andcellboundary. Rotate wholebody AND head65degrees toward IMAGE RIGHT, eyes looking offscreenRIGHT at anotherperson, neveratcamera. Preserve individual identities fromreference. Vary naturalhands: relaxedlap, mildconversationgesture, listeninghandnearchin, forearmon thigh. Preserve outfitcolours/styles. Remove EVERY CHAIR/STOOL/SEAT and all furniture/supports. Only seatedhumanbodies remain forcompositing into existingchairs. No text,borders,logos,stage,backdrop,floorshadow orglow. Genuine transparentalpha background, cleanedges. Photorealistic skin,hands,fabric andneutralstudiolighting. Allshoes must befullyvisible, nopartclipped."
+  },
+  {
+    "key": "standing1",
+    "source": "dist/humans435/standing1.webp",
+    "cols": 4,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent atlas of EIGHT anonymous adultTV-show participants, fourcolumns andtworows. Keep EXACT SAME eightpeople, recognizablefaces, individualages,hair,bodyshapes,genders,clothes,colours and row-majororder. Exact1536x1024landscapeimage with4columns×2rows, each384x512cell. Rotate every person's WHOLE BODY AND HEAD65degrees toward IMAGE RIGHT, eyes naturallylooking offscreenRIGHT inconversationwithshowhost, neveratcamera. All8 standing. Full standing bodies with bothfeet, casual natural weight distribution. Varyhandsnaturally: severalrestingrelaxed, onehandinpocketwhereoutfitfits, listening, handsnear laporwaist; only1or2mildconversationgestures, notallgesturing. Preserve identities/outfits. Fullbodyfromhairtobothshoes insideowncell with40px transparentmargins onallsides. Nocrossingcellboundaries, noclippedhandsorfeet. Genuinely transparentalpha background, only8isolatedhumans. No backdrop,glow,shadows,text,borders. Photographic realistic skin,hands,fabric andneutralstudiolighting."
+  },
+  {
+    "key": "standing2",
+    "source": "dist/humans435/standing2.webp",
+    "cols": 4,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent atlas of EIGHT anonymous adultTV-show participants, fourcolumns andtworows. Keep EXACT SAME eightpeople, recognizablefaces, individualages,hair,bodyshapes,genders,clothes,colours and row-majororder. Exact1536x1024landscapeimage with4columns×2rows, each384x512cell. Rotate every person's WHOLE BODY AND HEAD65degrees toward IMAGE RIGHT, eyes naturallylooking offscreenRIGHT inconversationwithshowhost, neveratcamera. All8 standing. Full standing bodies with bothfeet, casual natural weight distribution. Varyhandsnaturally: severalrestingrelaxed, onehandinpocketwhereoutfitfits, listening, handsnear laporwaist; only1or2mildconversationgestures, notallgesturing. Preserve identities/outfits. Fullbodyfromhairtobothshoes insideowncell with40px transparentmargins onallsides. Nocrossingcellboundaries, noclippedhandsorfeet. Genuinely transparentalpha background, only8isolatedhumans. No backdrop,glow,shadows,text,borders. Photographic realistic skin,hands,fabric andneutralstudiolighting."
+  },
+  {
+    "key": "seated1",
+    "source": "dist/humans435/seated1.webp",
+    "cols": 4,
+    "rows": 2,
+    "names": [],
+    "pose": "seated",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent atlas of EIGHT anonymous adultTV-show participants, fourcolumns andtworows. Keep EXACT SAME eightpeople, recognizablefaces, individualages,hair,bodyshapes,genders,clothes,colours and row-majororder. Exact1536x1024landscapeimage with4columns×2rows, each384x512cell. Rotate every person's WHOLE BODY AND HEAD65degrees toward IMAGE RIGHT, eyes naturallylooking offscreenRIGHT inconversationwithshowhost, neveratcamera. All8 seated. Seated human BODIES ONLY: remove all chairs, stools, seatbacks, supports and furniture completely. Preserve natural bentknees and fullfeet forplacingintoexistingchairs. Varyhandsnaturally: severalrestingrelaxed, onehandinpocketwhereoutfitfits, listening, handsnear laporwaist; only1or2mildconversationgestures, notallgesturing. Preserve identities/outfits. Fullbodyfromhairtobothshoes insideowncell with40px transparentmargins onallsides. Nocrossingcellboundaries, noclippedhandsorfeet. Genuinely transparentalpha background, only8isolatedhumans. No backdrop,glow,shadows,text,borders. Photographic realistic skin,hands,fabric andneutralstudiolighting."
+  },
+  {
+    "key": "seated2",
+    "source": "dist/humans435/seated2.webp",
+    "cols": 4,
+    "rows": 2,
+    "names": [],
+    "pose": "seated",
+    "facing": "right",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent atlas of EIGHT anonymous adultTV-show participants, fourcolumns andtworows. Keep EXACT SAME eightpeople, recognizablefaces, individualages,hair,bodyshapes,genders,clothes,colours and row-majororder. Exact1536x1024landscapeimage with4columns×2rows, each384x512cell. Rotate every person's WHOLE BODY AND HEAD65degrees toward IMAGE RIGHT, eyes naturallylooking offscreenRIGHT inconversationwithshowhost, neveratcamera. All8 seated. Seated human BODIES ONLY: remove all chairs, stools, seatbacks, supports and furniture completely. Preserve natural bentknees and fullfeet forplacingintoexistingchairs. Varyhandsnaturally: severalrestingrelaxed, onehandinpocketwhereoutfitfits, listening, handsnear laporwaist; only1or2mildconversationgestures, notallgesturing. Preserve identities/outfits. Fullbodyfromhairtobothshoes insideowncell with40px transparentmargins onallsides. Nocrossingcellboundaries, noclippedhandsorfeet. Genuinely transparentalpha background, only8isolatedhumans. No backdrop,glow,shadows,text,borders. Photographic realistic skin,hands,fabric andneutralstudiolighting."
+  },
+  {
+    "key": "blonde0",
+    "source": "dist/humans435/blonde0.webp",
+    "cols": 5,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "left",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent spriteatlas of TEN DISTINCT BLONDEadultwomen, fivecolumns andtworows. Keep EXACT SAME10individualidentities/recognizablefaces,ages,variedhairstyles,bodyshapes,clothingcolours/outfits and row-majororder. AllremainBLONDE asreference. Produce1536x1024landscape strict5columns×2rows; eachfigure fullyinsideitsowncell, FULLBODYfromhairtoBOTHFEET,40pxcleartransparentmargins. Change WHOLEBODY ANDHEAD orientation60degrees toward IMAGE LEFT. All10womenlookoffscreenLEFT at showhost, neveratcamera: attentivecandidlistening naturalexpressions and relaxedvariedarms, notallgesturing. Somehandssoftlyclaspedatwaist, somerestingbesidebody, onehandinpocketifoutfitallows, mildnaturalstance. Preservefaces/outfits. No crossingcellboundaries orclippedhands/hair/shoes. Exactly10separatefullstandinghumanfigures, genuinelytransparentalphabackground. Nochairs,podiums,furniture,text,logos,borders,backdrop,floorshadowsorglow. Photorealisticstudiolighting,realskin,fabric,hands. Same10blondewomen/order/outfits,5x2grid,fullbodies,LEFTwardgaze."
+  },
+  {
+    "key": "blonde1",
+    "source": "dist/humans435/blonde1.webp",
+    "cols": 5,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "left",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent spriteatlas of TEN DISTINCT BLONDEadultwomen, fivecolumns andtworows. Keep EXACT SAME10individualidentities/recognizablefaces,ages,variedhairstyles,bodyshapes,clothingcolours/outfits and row-majororder. AllremainBLONDE asreference. Produce1536x1024landscape strict5columns×2rows; eachfigure fullyinsideitsowncell, FULLBODYfromhairtoBOTHFEET,40pxcleartransparentmargins. Change WHOLEBODY ANDHEAD orientation60degrees toward IMAGE LEFT. All10womenlookoffscreenLEFT at showhost, neveratcamera: attentivecandidlistening naturalexpressions and relaxedvariedarms, notallgesturing. Somehandssoftlyclaspedatwaist, somerestingbesidebody, onehandinpocketifoutfitallows, mildnaturalstance. Preservefaces/outfits. No crossingcellboundaries orclippedhands/hair/shoes. Exactly10separatefullstandinghumanfigures, genuinelytransparentalphabackground. Nochairs,podiums,furniture,text,logos,borders,backdrop,floorshadowsorglow. Photorealisticstudiolighting,realskin,fabric,hands. Same10blondewomen/order/outfits,5x2grid,fullbodies,LEFTwardgaze."
+  },
+  {
+    "key": "blonde2",
+    "source": "dist/humans435/blonde2.webp",
+    "cols": 5,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "left",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent spriteatlas of TEN DISTINCT BLONDEadultwomen, fivecolumns andtworows. Keep EXACT SAME10individualidentities/recognizablefaces,ages,variedhairstyles,bodyshapes,clothingcolours/outfits and row-majororder. AllremainBLONDE asreference. Produce1536x1024landscape strict5columns×2rows; eachfigure fullyinsideitsowncell, FULLBODYfromhairtoBOTHFEET,40pxcleartransparentmargins. Change WHOLEBODY ANDHEAD orientation60degrees toward IMAGE LEFT. All10womenlookoffscreenLEFT at showhost, neveratcamera: attentivecandidlistening naturalexpressions and relaxedvariedarms, notallgesturing. Somehandssoftlyclaspedatwaist, somerestingbesidebody, onehandinpocketifoutfitallows, mildnaturalstance. Preservefaces/outfits. No crossingcellboundaries orclippedhands/hair/shoes. Exactly10separatefullstandinghumanfigures, genuinelytransparentalphabackground. Nochairs,podiums,furniture,text,logos,borders,backdrop,floorshadowsorglow. Photorealisticstudiolighting,realskin,fabric,hands. Same10blondewomen/order/outfits,5x2grid,fullbodies,LEFTwardgaze."
+  },
+  {
+    "key": "blonde3",
+    "source": "dist/humans435/blonde3.webp",
+    "cols": 5,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "left",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent spriteatlas of TEN DISTINCT BLONDEadultwomen, fivecolumns andtworows. Keep EXACT SAME10individualidentities/recognizablefaces,ages,variedhairstyles,bodyshapes,clothingcolours/outfits and row-majororder. AllremainBLONDE asreference. Produce1536x1024landscape strict5columns×2rows; eachfigure fullyinsideitsowncell, FULLBODYfromhairtoBOTHFEET,40pxcleartransparentmargins. Change WHOLEBODY ANDHEAD orientation60degrees toward IMAGE LEFT. All10womenlookoffscreenLEFT at showhost, neveratcamera: attentivecandidlistening naturalexpressions and relaxedvariedarms, notallgesturing. Somehandssoftlyclaspedatwaist, somerestingbesidebody, onehandinpocketifoutfitallows, mildnaturalstance. Preservefaces/outfits. No crossingcellboundaries orclippedhands/hair/shoes. Exactly10separatefullstandinghumanfigures, genuinelytransparentalphabackground. Nochairs,podiums,furniture,text,logos,borders,backdrop,floorshadowsorglow. Photorealisticstudiolighting,realskin,fabric,hands. Same10blondewomen/order/outfits,5x2grid,fullbodies,LEFTwardgaze."
+  },
+  {
+    "key": "blonde4",
+    "source": "dist/humans435/blonde4.webp",
+    "cols": 5,
+    "rows": 2,
+    "names": [],
+    "pose": "standing",
+    "facing": "left",
+    "prompt": "Use case: identity-preserve. Edit target: supplied transparent spriteatlas of TEN DISTINCT BLONDEadultwomen, fivecolumns andtworows. Keep EXACT SAME10individualidentities/recognizablefaces,ages,variedhairstyles,bodyshapes,clothingcolours/outfits and row-majororder. AllremainBLONDE asreference. Produce1536x1024landscape strict5columns×2rows; eachfigure fullyinsideitsowncell, FULLBODYfromhairtoBOTHFEET,40pxcleartransparentmargins. Change WHOLEBODY ANDHEAD orientation60degrees toward IMAGE LEFT. All10womenlookoffscreenLEFT at showhost, neveratcamera: attentivecandidlistening naturalexpressions and relaxedvariedarms, notallgesturing. Somehandssoftlyclaspedatwaist, somerestingbesidebody, onehandinpocketifoutfitallows, mildnaturalstance. Preservefaces/outfits. No crossingcellboundaries orclippedhands/hair/shoes. Exactly10separatefullstandinghumanfigures, genuinelytransparentalphabackground. Nochairs,podiums,furniture,text,logos,borders,backdrop,floorshadowsorglow. Photorealisticstudiolighting,realskin,fabric,hands. Same10blondewomen/order/outfits,5x2grid,fullbodies,LEFTwardgaze."
+  }
+]

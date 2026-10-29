@@ -1,0 +1,377 @@
+[
+  {
+    "file": "staging437.cjs",
+    "code": 0,
+    "output": "PASS437:76 loaders;54+21 inventory; named identities, poses, aliases; profile age/gender; stable distinct cast; asset crops; body-only seated mode and native seat/walk/fall geometry.\n"
+  },
+  {
+    "file": "gonder194.cjs",
+    "code": 0,
+    "output": "PASS194: 520 main +520 final questions; 142 local photos; 500 varied decks; X2/50%; decisions at 6–9, automatic final at 10; all 160 final result combinations; 0 after continuation loss; six stable photos, correct-target elimination, shrink/reveal states, pause/reload/timeout\n"
+  },
+  {
+    "file": "water202.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n1000000 !== 0\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/water202.cjs:5:344)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 1000000,\n  expected: 0,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "revision176.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n-   15000,\n    50000,\n+   200000,\n+   600000,\n+   2000000,\n+   5000000\n-   150000,\n-   500000,\n-   1500000\n  ]\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/revision176.cjs:3:114)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: [ 50000, 200000, 600000, 2000000, 5000000 ],\n  expected: [ 15000, 50000, 150000, 500000, 1500000 ],\n  operator: 'deepStrictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "four175.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n25000 !== 5000\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/four175.cjs:5:213)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 25000,\n  expected: 5000,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "duel192.cjs",
+    "code": 0,
+    "output": "PASS192: alternating new questions, equal attempts before victory, no buzz/handoff, 3–3 numeric tiebreak, sealed independent AI estimate, closest/tie/timeout/paused/reload outcomes, Turkish numbers, correct key/wrong cross markup; 100 estimate +100 normal questions.\n"
+  },
+  {
+    "file": "people435.cjs",
+    "code": 0,
+    "output": "PASS435: all53 scoped loaders; named host/guest identities;50 distinct blondes; full-body crop bounds; player age/gender and fixed female roles; standing Anıl; isolated alpha clips.\n"
+  },
+  {
+    "file": "rewards194.cjs",
+    "code": 1,
+    "output": "evalmachine.<anonymous>:4\nfunction create(id,name='Yarışmacı',seen=[]){if(!meta[id])throw Error('Bilinmeyen oyun');const n=id==='sans-kapida'?5:id==='kapis-kapis'?8:12;let qs=[...window.ArenaDifficulty427.deck(bank(),n,{seen}),...(n<12?window.ArenaDifficulty427.deck(bank(),12-n,{seen}):[])].map(q=>q.id);return{v:400,id,name:String(name).trim().slice(0,24)||'Yarışmacı',phase:'intro',paused:false,round:0,left:60,t:0,cash:0,score:0,bonus:0,qs,seen:[...new Set([...seen,...qs])].slice(-1600),ns:sh(numbers).slice(0,8),ages:sh([23,29,34,41,48,56,64,71,38,52,67,26]).slice(0,7),hints:[],usedHint:'',tries:0,players:[{name:name||'Yarışmacı',cash:0,visits:0,gifts:[],alive:true},{name:'Deniz',cash:0,visits:0,gifts:[],alive:true},{name:'Ece',cash:0,visits:0,gifts:[],alive:true}],message:'',history:[],mode:'',stress:15,cool:0,target:.4,cursor:0,inventory:['Televizyon','Koltuk','Otomobil'],lost:[],trade:null,help:3,boxes:[],winner:0,botAt:0,holding:[],obstacle:0,wheels:[0,0,0,0],angle:0,wheel:0,spinning:false,joker:1,budget:0,experience:0,step:0,visited:[],city:Math.floor(Math.random()*cities.length)}}\n                                                                                                                                                                                   ^\n\nTypeError: Cannot read properties of undefined (reading 'deck')\n    at Object.create (evalmachine.<anonymous>:4:180)\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/rewards194.cjs:4:78)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "water207-ui.cjs",
+    "code": 0,
+    "output": "PASS207 water final: real Ertem descriptor; team on selected answer and presenter always on opposite answer; real programme photo retained.\n"
+  },
+  {
+    "file": "taxi182.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n6 !== 4\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/taxi182.cjs:1:481)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 6,\n  expected: 4,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "picture200-ui.cjs",
+    "code": 0,
+    "output": "PASS200 picture UI: image-first no options; load gating; four-answer confirmation/reveal; three lifeline bindings; preview withdraw conceals question; resume deck stable.\n"
+  },
+  {
+    "file": "gonder194-ui.cjs",
+    "code": 0,
+    "output": "PASS194 UI: start, 6 questions, decision, six-photo final, selection animation, correct marks, full payout, persisted history, X2 retry, manual pause\n"
+  },
+  {
+    "file": "taxi188.cjs",
+    "code": 0,
+    "output": "PASS188: 18 distributed people, 13 initially active, seated café patrons and capped labels; game-only long-press/selection prevention leaves outside content alone.\n"
+  },
+  {
+    "file": "cevap201.cjs",
+    "code": 0,
+    "output": "PASS201 Cevap Sende: 80 unique questions; fixed-before-answer poll distributions; two teams of four; individual elimination; cash/withdrawal; two sample supports; six rounds and ties; final take/risk/win/zero; pause/reload and duplicate-action safety.\n"
+  },
+  {
+    "file": "revision177.cjs",
+    "code": 0,
+    "output": "PASS177: builder always 3 choices; all five Kumbara targets, failure limits, hidden/revealed HUD and locked payout; walking recruitment and four distinct street mechanics; assets and portrait sizing.\n"
+  },
+  {
+    "file": "million444.cjs",
+    "code": 0,
+    "output": "PASS444:1467 questions (+114),8×3 nonrepeating tournaments,15 topics,2–3/4–5/5–6 second reveal; phone contact repair and transactional refund; same withdrawal question/prize and colour states.\n"
+  },
+  {
+    "file": "taxi180.cjs",
+    "code": 0,
+    "output": "PASS180: 300s only for street; four contextual exchanges for all 4 games × 6 people; premature join blocked, rushed answer requires persuasion; directions in left scene and conversation choices in right dock.\n"
+  },
+  {
+    "file": "profile443.cjs",
+    "code": 0,
+    "output": "PASS443:76 page integrations; 20 distinct gender/age/pose bodies; 20/30/40 age distinction; named player persistence; hosts and explicit NPCs preserved; valid crops.\n"
+  },
+  {
+    "file": "inout200.cjs",
+    "code": 0,
+    "output": "PASS200 in/out: starts10000; 14 boxes; blue +amounts/×2/×5; seven in/seven out; division and zero; bankruptcy resets but continues; discard has no effect; opening pause/reload cannot apply twice; 200 complete games.\nPASS200 target: exact subset DP agrees with independent brute force; initial max1000000; goal recomputed after every reveal; no hidden-box-number hints; animated progress pauses; final target equals final bank.\n"
+  },
+  {
+    "file": "water209-ui.cjs",
+    "code": 1,
+    "output": "node:internal/assert/utils:77\n    throw err;\n    ^\n\nAssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  a(el('app').innerHTML.includes('programme206.png'))\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/water209-ui.cjs:1:1052)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: false,\n  expected: true,\n  operator: '==',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "double191.cjs",
+    "code": 0,
+    "output": "PASS191: five rounds after elimination; all 20 funded-option outcomes reveal wrong choices one at a time with funded final pair; pause/reload continuity, cash preservation/loss, timeout/unplaced money, final two-choice allocation limit, six-stage ladder and four money cylinders.\n"
+  },
+  {
+    "file": "queue203-ui.cjs",
+    "code": 1,
+    "output": "evalmachine.<anonymous>:23\nfunction finalIntro(s){if(s.phase==='duelResult'&&s.duel?.winner==='current')s.chair={...s.current};if(s.mode!=='all'&&s.chair&&s.chair.id!=='you')return playerEnd207(s,'Emre Karayel: Final koltuğu '+s.chair.name+\"’a kaldı. Senin yarışman tamamlandı.\");if(!s.chair){s.phase='end';s.payout=0;s.message='70 dakika bitti. Koltuk boş kaldığı için finalist çıkmadı.';return}s.winner={...s.chair};s.phase='finalIntro';s.final={questions:Array.from({length:21},(_,i)=>pick(s,window.ArenaDifficulty427.level(i,21))),index:0,left:150,stage:1,colors:Array(21).fill('idle'),attempt:0,original:s.chair.cash,amount:s.chair.cash+BONUS,revealed:false,revealLeft:.8};s.elapsed=0;s.message='Emre Karayel: 70 dakika bitti. Finalist '+s.chair.name+'. Kasana 500.000 sanal TL daha ekliyorum. Şimdi bilerek yanlış cevap ver!'}\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ^\n\nTypeError: Cannot read properties of undefined (reading 'level')\n    at evalmachine.<anonymous>:23:495\n    at Array.from (<anonymous>)\n    at finalIntro (evalmachine.<anonymous>:23:438)\n    at Object.tick (evalmachine.<anonymous>:26:474)\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/queue203-ui.cjs:1:1496)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "renovation499.cjs",
+    "code": 0,
+    "output": "PASS499: unique work zones, ordered tools, pause, resumed work, placement collision and completed renovation\n"
+  },
+  {
+    "file": "taxi183.cjs",
+    "code": 0,
+    "output": "PASS183: six cabin variants rotate within selected gender; 14 pedestrians; moving-person interception across all 4 tasks, 3/4-person total teams, 8 distinct round dialogues, four-turn persuasion and UI/module integration.\n"
+  },
+  {
+    "file": "picture200.cjs",
+    "code": 0,
+    "output": "PASS200 picture: 500 authored visual questions /500 distinct real photo files; 200 varied 12-subject decks; photo-first gating; 60/120 timers; all three lifelines; withdraw/zero loss; pause/save/resume.\n"
+  },
+  {
+    "file": "fifty195-ui.cjs",
+    "code": 0,
+    "output": "PASS195 UI: ten categories without pagination / previews / choice lock / result / row continuation / save-resume / pause guard / classic form / rival picks / take bank.\n"
+  },
+  {
+    "file": "team186.cjs",
+    "code": 0,
+    "output": "PASS186: all three team members receive passes and take shots; six team baskets complete task.\n"
+  },
+  {
+    "file": "alpha437.cjs",
+    "code": 0,
+    "output": "PASS437 alpha: body/head retained; isolated foreign fragment removed.\n"
+  },
+  {
+    "file": "eyvah206.cjs",
+    "code": 0,
+    "output": "PASS206 Eyvah: one-position hint, last letter remains hidden; initialized fall timer/data before first mount; same displayed cast identity; center/numbered loss and restart callbacks.\n"
+  },
+  {
+    "file": "host-chat199.cjs",
+    "code": 0,
+    "output": "PASS444:76 entrypoints,456 topic visits, 24624 scripted response branches; same-page resume and fresh-entry rotation; close never changes score/question/manual pause; preserves media position and pre-paused videos.\n"
+  },
+  {
+    "file": "queue203.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n+ actual - expected\n\n+ 'duelIntro'\n- 'duel'\n       ^\n\n    at duel (/workspace/scratch/1cdac27dbcf0/stage507/tests/queue203.cjs:9:148)\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/queue203.cjs:9:181)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 'duelIntro',\n  expected: 'duel',\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "taxi187.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n125000 !== 5000\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/taxi187.cjs:1:881)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 125000,\n  expected: 5000,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "dating431.cjs",
+    "code": 0,
+    "output": "PASS431: resident choice; visitor needs resident approval; no premature opening; no partner/no blind phase cannot open; old saves preserved.\n"
+  },
+  {
+    "file": "presenters210.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: son-karar: presenters210/data.js?v=211\n\n0 !== 1\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/presenters210.cjs:7:309)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: false,\n  code: 'ERR_ASSERTION',\n  actual: 0,\n  expected: 1,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": ".tmp427.cjs",
+    "code": 0,
+    "output": "PASS204: 100 varied decks; seven rounds 4/3/2 choices; allocation conservation; suspense order; wet return; isolated direct buttons including correct answer; final win/zero; pause, reload and duplicate safety.\n"
+  },
+  {
+    "file": "runway432.cjs",
+    "code": 0,
+    "output": "PASS: own runway, all seven rivals, seat return before scoring, one score per day, next day and pause/resume\n"
+  },
+  {
+    "file": "profile503.cjs",
+    "code": 0,
+    "output": "PASS503: missing age uses profile or adult fallback; explicit age/gender preserved\n"
+  },
+  {
+    "file": "queue207.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n+ actual - expected\n\n+ 22.000000000007276\n- 10\n\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/queue207.cjs:3:59)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 22.000000000007276,\n  expected: 10,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "duel192-ui.cjs",
+    "code": 0,
+    "output": "PASS192 UI wiring: menu → own new question → key result → rival new question → tie form/result, without buzzer.\n"
+  },
+  {
+    "file": "taxi178.cjs",
+    "code": 0,
+    "output": "PASS178: street-only viewport, scene/control structure, compact portrait/landscape rules, pause/resume, cleanup on result, and all local references.\n"
+  },
+  {
+    "file": "family-migration174.cjs",
+    "code": 0,
+    "output": "PASS: five old-save phases migrated without changing open answers/results; native video audio still follows mute/effects; new local/online media URLs and cache flags.\n"
+  },
+  {
+    "file": "luck441.cjs",
+    "code": 0,
+    "output": "PASS441:100 tournaments; final wins/losses/ties/practice; all4 playable goals; cue lock; completed scores frozen;76-game catalogue.\n"
+  },
+  {
+    "file": "taxi184.cjs",
+    "code": 0,
+    "output": "PASS184: one-way exits and delayed re-entry, four stationary seats, expanded exploration, at most two labels, seated recruitment.\n"
+  },
+  {
+    "file": "lifecycle193.cjs",
+    "code": 1,
+    "output": "node:assert:152\n  throw new AssertionError(obj);\n  ^\n\nAssertionError [ERR_ASSERTION]: 76 == 75\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/lifecycle193.cjs:19:104)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: 76,\n  expected: 75,\n  operator: '==',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "taxi185.cjs",
+    "code": 0,
+    "output": "PASS185: three distinct hints on any question, running speed and long exploration, fixed gathering positions and wait-for-team automatic start, six street layouts.\n"
+  },
+  {
+    "file": "queue207-ui.cjs",
+    "code": 1,
+    "output": "evalmachine.<anonymous>:23\nfunction finalIntro(s){if(s.phase==='duelResult'&&s.duel?.winner==='current')s.chair={...s.current};if(s.mode!=='all'&&s.chair&&s.chair.id!=='you')return playerEnd207(s,'Emre Karayel: Final koltuğu '+s.chair.name+\"’a kaldı. Senin yarışman tamamlandı.\");if(!s.chair){s.phase='end';s.payout=0;s.message='70 dakika bitti. Koltuk boş kaldığı için finalist çıkmadı.';return}s.winner={...s.chair};s.phase='finalIntro';s.final={questions:Array.from({length:21},(_,i)=>pick(s,window.ArenaDifficulty427.level(i,21))),index:0,left:150,stage:1,colors:Array(21).fill('idle'),attempt:0,original:s.chair.cash,amount:s.chair.cash+BONUS,revealed:false,revealLeft:.8};s.elapsed=0;s.message='Emre Karayel: 70 dakika bitti. Finalist '+s.chair.name+'. Kasana 500.000 sanal TL daha ekliyorum. Şimdi bilerek yanlış cevap ver!'}\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ^\n\nTypeError: Cannot read properties of undefined (reading 'level')\n    at evalmachine.<anonymous>:23:495\n    at Array.from (<anonymous>)\n    at finalIntro (evalmachine.<anonymous>:23:438)\n    at Object.tick (evalmachine.<anonymous>:26:474)\n    at Object.<anonymous> (/workspace/scratch/1cdac27dbcf0/stage507/tests/queue207-ui.cjs:1:1496)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "cevap201-ui.cjs",
+    "code": 0,
+    "output": "PASS201 UI: real programme intro retained; eight members; left ladder/right supports; hidden poll until locked; wrong answer fall/water classes; next waits; resume preserves deck and turn.\n"
+  },
+  {
+    "file": "difficulty427.cjs",
+    "code": 0,
+    "output": "PASS427: hard bank bridges and 30 reverse-order 19-box difficulty progressions.\nPASS427: 7/10/15 exact plans; 100 unique strict decks; 50 Milyoner, 50 Canlı Para, 50 Kendi Düşen games; all 50 categories have all 3 tiers.\n"
+  },
+  {
+    "file": "sunday506.cjs",
+    "code": 0,
+    "output": "PASS506: five physical balloon targets, no premature tying, pause, burst and restored pressure\n"
+  },
+  {
+    "file": "taxi179.cjs",
+    "code": 0,
+    "output": "PASS179: 6 scattered pedestrians, proximity-gated invitation, delayed reply, explicit joining for all four tasks; full-screen/orientation and denied-API fallback; rotated touch mapping; leave cleanup.\n"
+  },
+  {
+    "file": "fifty195.cjs",
+    "code": 0,
+    "output": "PASS195: 50×500 bank; ten random categories per game, persisted on resume; seven-person rows; category return; locked AI; wrong-row continuation; 3 errors; unchanged question slots; ten-question limit; final win/take/loss.\n"
+  },
+  {
+    "file": "inout200-ui.cjs",
+    "code": 0,
+    "output": "PASS200 in/out UI: 14 assistants, two vertical trees, first in, selected box card reveal, result ledger, alternate out, stable save-resume.\n"
+  },
+  {
+    "file": "trust445.cjs",
+    "code": 0,
+    "output": "PASS445:60 sex/age pairs ×5 phases with reloads; portraits and face-off use matching gender/age; old female rival remains female; global profile cannot replace saved rival; no fixed male face-off images.\n"
+  },
+  {
+    "file": "family-video174.cjs",
+    "code": 0,
+    "output": "PASS: 100 unique sources, 351 valid detail questions, 30 themes; 35 decks, first 100 clips unrepeated, question rotation, answer shuffling, complete family week, delayed helpers, original 30-second gate, and synchronized two-person online round.\n"
+  },
+  {
+    "file": "family181.cjs",
+    "code": 0,
+    "output": "PASS181: 100 single-source 30s videos, 351 questions, 100 reviewed additions; 100 weeks with category variety, ≤1 clothing/≤2 color questions; unique clips and shuffled valid answers; local and online active banks.\n"
+  },
+  {
+    "file": "gait189.mjs",
+    "code": 0,
+    "output": "walk rig: sam foot height range 0.075 0.075\nwalk rig: maya foot height range 0.075 0.075\ngait189 sam 0.85 width 0.230 stance frames 116 max planted drift 0.0000 playback 1.04\ngait189 sam 1.8 width 0.230 stance frames 103 max planted drift 0.0000 playback 2.20\ngait189 sam 4.6 width 0.230 stance frames 6 max planted drift 0.0000 playback 4.16\ngait189 maya 0.85 width 0.230 stance frames 116 max planted drift 0.0000 playback 0.98\ngait189 maya 1.8 width 0.230 stance frames 103 max planted drift 0.0000 playback 2.07\ngait189 maya 4.6 width 0.230 stance frames 6 max planted drift 0.0000 playback 3.92\nPASS189 distance-paced walk/run, narrow stance, world foot plants, finite IK and stop blend.\nPASS186: ball attached to actual hands and pass catches; running skeleton finite.\nPASS184 native seated feet/pelvis, standing after recruitment and expanded camera.\nPASS183: 14 pedestrians plus player and anchored walking roots;  complete bodies fit close camera at 3 aspect ratios and 4 tasks; 7 clothing variants, contact shadows, articulated jumps, original rigs and walking remain valid.\n"
+  },
+  {
+    "file": "scene184.mjs",
+    "code": 0,
+    "output": "walk rig: sam foot height range 0.075 0.075\nwalk rig: maya foot height range 0.075 0.075\nPASS184 native seated feet/pelvis, standing after recruitment and expanded camera.\nPASS183: 14 pedestrians plus player and anchored walking roots;  complete bodies fit close camera at 3 aspect ratios and 4 tasks; 7 clothing variants, contact shadows, articulated jumps, original rigs and walking remain valid.\n"
+  },
+  {
+    "file": "water209-scene.mjs",
+    "code": 1,
+    "output": "file:///tmp/water202-8VQ0lV/scene.js:12\nlet note414;function noteTexture414(){if(note414)return note414;const c=document.createElement('canvas');c.width=256;c.height=128;const x=c.getContext('2d');x.fillStyle='#d5d3b8';x.fillRect(0,0,256,128);x.strokeStyle='#757e65';x.lineWidth=3;x.strokeRect(7,7,242,114);x.lineWidth=1;for(let j=0;j<9;j++){x.beginPath();x.ellipse(128,64,48+j*4,19+j*2,0,0,Math.PI*2);x.stroke()}x.fillStyle='#626e59';x.font='bold 25px serif';x.fillText('200',15,34);x.fillText('200',188,112);note414=new T.CanvasTexture(c);note414.colorSpace=T.SRGBColorSpace;return note414}\n                                                                                                                                                                                                                                                                                                                              ^\n\nTypeError: x.ellipse is not a function\n    at noteTexture414 (file:///tmp/water202-8VQ0lV/scene.js:12:319)\n    at cashPile (file:///tmp/water202-8VQ0lV/scene.js:13:322)\n    at updateCash (file:///tmp/water202-8VQ0lV/scene.js:16:112)\n    at Module.update (file:///tmp/water202-8VQ0lV/scene.js:27:126)\n    at file:///workspace/scratch/1cdac27dbcf0/stage507/tests/water209-scene.mjs:3:227\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "studios211.mjs",
+    "code": 1,
+    "output": "node:internal/modules/run_main:107\n    triggerUncaughtException(\n    ^\n\nAssertionError [ERR_ASSERTION]: esim-yaparintegration.js\n\n0 !== 1\n\n    at file:///workspace/scratch/1cdac27dbcf0/stage507/tests/studios211.mjs:2:450\n    at ModuleJob.run (node:internal/modules/esm/module_job:561:25)\n    at async node:internal/modules/esm/loader:647:26\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5) {\n  generatedMessage: false,\n  code: 'ERR_ASSERTION',\n  actual: 0,\n  expected: 1,\n  operator: 'strictEqual',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "scene178.mjs",
+    "code": 0,
+    "output": "PASS178: complete bodies fit close camera at 3 aspect ratios and 4 tasks; 7 clothing variants, contact shadows, articulated jumps, original rigs and walking remain valid.\n"
+  },
+  {
+    "file": "queue206-scene.mjs",
+    "code": 1,
+    "output": "node:internal/modules/esm/resolve:272\n    throw new ERR_MODULE_NOT_FOUND(\n          ^\n\nError [ERR_MODULE_NOT_FOUND]: Cannot find module '/tmp/water202-w5y0vD/host207.js' imported from /tmp/water202-w5y0vD/water.js\n    at finalizeResolution (node:internal/modules/esm/resolve:272:11)\n    at moduleResolve (node:internal/modules/esm/resolve:879:10)\n    at defaultResolve (node:internal/modules/esm/resolve:1006:11)\n    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)\n    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)\n    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)\n    at #resolve (node:internal/modules/esm/loader:687:17)\n    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)\n    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33)\n    at ModuleJob.link (node:internal/modules/esm/module_job:381:17) {\n  code: 'ERR_MODULE_NOT_FOUND',\n  url: 'file:///tmp/water202-w5y0vD/host207.js?v=208'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "queue208-scene.mjs",
+    "code": 1,
+    "output": "node:internal/modules/run_main:107\n    triggerUncaughtException(\n    ^\n\nAssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert(v.camera.position.length()<11)\n\n    at file:///workspace/scratch/1cdac27dbcf0/stage507/tests/queue208-scene.mjs:2:3543 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: false,\n  expected: true,\n  operator: '==',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "stages415.mjs",
+    "code": 1,
+    "output": "file:///tmp/stages415-ZUkPQ8/elimination428.js?v=446:14\n function logoCanvas(square=true){const c=document.createElement('canvas');c.width=square?768:1536;c.height=768;const x=c.getContext('2d'),cx=c.width/2,cy=384;x.fillStyle='#180e42';x.fillRect(0,0,c.width,c.height);const gradient=x.createRadialGradient(cx,cy,70,cx,cy,650);gradient.addColorStop(0,'#4632ae');gradient.addColorStop(1,'#100a36');x.fillStyle=gradient;x.fillRect(0,0,c.width,c.height);\n                                                                                                                                                                                                                                                                                         ^\n\nTypeError: Cannot read properties of undefined (reading 'addColorStop')\n    at logoCanvas (file:///tmp/stages415-ZUkPQ8/elimination428.js?v=446:14:282)\n    at eliminationSet428 (file:///tmp/stages415-ZUkPQ8/elimination428.js?v=446:17:36)\n    at buildSet (file:///tmp/stages415-ZUkPQ8/sets.js?v=479:24:397)\n    at createWorld (file:///tmp/stages415-ZUkPQ8/scene.js:13:42)\n    at file:///workspace/scratch/1cdac27dbcf0/stage507/tests/stages415.mjs:13:93\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "staging438.mjs",
+    "code": 0,
+    "output": "PASS438: 72 worlds; no policy=false crowds; families preserved;21 case anchors plus seated player; risk4 cast; varied attention/resting hands;76 loaders; relaxed chairless crops; physical center geometry;439 full-body wall screen and12 photo prizes.\n"
+  },
+  {
+    "file": "scene175.mjs",
+    "code": 0,
+    "output": "PASS: both GLBs parse; 28 skinned meshes,336 animation tracks; driver and 1/2 passengers in camera; all street task rigs finite; original walking loop runs.\n"
+  },
+  {
+    "file": "studios204.mjs",
+    "code": 0,
+    "output": "PASS204 native: distinct three sets; 11 numbered Eyvah locations; delay before opening; articulated descent; 1m/50k=20/1 bundles; table pickup and wet return; finite GLB matrices. No browser/GPU visual verification.\n"
+  },
+  {
+    "file": "queue207-scene.mjs",
+    "code": 1,
+    "output": "node:internal/modules/run_main:107\n    triggerUncaughtException(\n    ^\n\nAssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert(v.camera.position.length()<11)\n\n    at file:///workspace/scratch/1cdac27dbcf0/stage507/tests/queue207-scene.mjs:2:3303 {\n  generatedMessage: true,\n  code: 'ERR_ASSERTION',\n  actual: false,\n  expected: true,\n  operator: '==',\n  diff: 'simple'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "water-scene202.mjs",
+    "code": 0,
+    "output": "PASS202 native 3D: skinned GLBs; cash at hands; shoulders/knees articulate; gravity descent; finite matrices; wet return and isolated teammates hidden.\n"
+  },
+  {
+    "file": "pose190.mjs",
+    "code": 0,
+    "output": "walk rig: sam foot height range 0.075 0.075\nwalk rig: maya foot height range 0.075 0.075\nPOSE190 sam 0.85 leg error 0.0001 planted slide 0.0000\nPOSE190 sam 1.8 leg error 0.0001 planted slide 0.0000\nPOSE190 sam 4.6 leg error 0.0002 planted slide 0.0000\nPOSE190 maya 0.85 leg error 0.0001 planted slide 0.0000\nPOSE190 maya 1.8 leg error 0.0001 planted slide 0.0000\nPOSE190 maya 4.6 leg error 0.0167 planted slide 0.0000\nPASS190 neutral standing, coherent thigh/calf/ankle at three speeds, foot contact and full stop transition.\nPASS186: ball attached to actual hands and pass catches; running skeleton finite.\nPASS184 native seated feet/pelvis, standing after recruitment and expanded camera.\nPASS183: 14 pedestrians plus player and anchored walking roots;  complete bodies fit close camera at 3 aspect ratios and 4 tasks; 7 clothing variants, contact shadows, articulated jumps, original rigs and walking remain valid.\n"
+  },
+  {
+    "file": "studios207.mjs",
+    "code": 1,
+    "output": "node:internal/modules/esm/resolve:272\n    throw new ERR_MODULE_NOT_FOUND(\n          ^\n\nError [ERR_MODULE_NOT_FOUND]: Cannot find module '/tmp/studios211/native-pose.js' imported from /tmp/water202-eCFLLR/scene.js\n    at finalizeResolution (node:internal/modules/esm/resolve:272:11)\n    at moduleResolve (node:internal/modules/esm/resolve:879:10)\n    at defaultResolve (node:internal/modules/esm/resolve:1006:11)\n    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)\n    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)\n    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)\n    at #resolve (node:internal/modules/esm/loader:687:17)\n    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)\n    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33)\n    at ModuleJob.link (node:internal/modules/esm/module_job:381:17) {\n  code: 'ERR_MODULE_NOT_FOUND',\n  url: 'file:///tmp/studios211/native-pose.js?v=211'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "scene186.mjs",
+    "code": 0,
+    "output": "walk rig: sam foot height range 0.075 0.075\nwalk rig: maya foot height range 0.075 0.075\nPASS186: ball attached to actual hands and pass catches; running skeleton finite.\nPASS184 native seated feet/pelvis, standing after recruitment and expanded camera.\nPASS183: 14 pedestrians plus player and anchored walking roots;  complete bodies fit close camera at 3 aspect ratios and 4 tasks; 7 clothing variants, contact shadows, articulated jumps, original rigs and walking remain valid.\n"
+  },
+  {
+    "file": "studios206.mjs",
+    "code": 1,
+    "output": "node:internal/modules/esm/resolve:272\n    throw new ERR_MODULE_NOT_FOUND(\n          ^\n\nError [ERR_MODULE_NOT_FOUND]: Cannot find module '/tmp/studios211/native-pose.js' imported from /tmp/water202-3xC8H2/scene.js\n    at finalizeResolution (node:internal/modules/esm/resolve:272:11)\n    at moduleResolve (node:internal/modules/esm/resolve:879:10)\n    at defaultResolve (node:internal/modules/esm/resolve:1006:11)\n    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)\n    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)\n    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)\n    at #resolve (node:internal/modules/esm/loader:687:17)\n    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)\n    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33)\n    at ModuleJob.link (node:internal/modules/esm/module_job:381:17) {\n  code: 'ERR_MODULE_NOT_FOUND',\n  url: 'file:///tmp/studios211/native-pose.js?v=211'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "queue-scene203.mjs",
+    "code": 1,
+    "output": "node:internal/modules/esm/resolve:272\n    throw new ERR_MODULE_NOT_FOUND(\n          ^\n\nError [ERR_MODULE_NOT_FOUND]: Cannot find module '/shared206/photo-actor.js' imported from /tmp/water202-qb17vW/water.js\n    at finalizeResolution (node:internal/modules/esm/resolve:272:11)\n    at moduleResolve (node:internal/modules/esm/resolve:879:10)\n    at defaultResolve (node:internal/modules/esm/resolve:1006:11)\n    at #cachedDefaultResolve (node:internal/modules/esm/loader:705:20)\n    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:725:38)\n    at ModuleLoader.resolveSync (node:internal/modules/esm/loader:763:56)\n    at #resolve (node:internal/modules/esm/loader:687:17)\n    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:607:35)\n    at ModuleJob.syncLink (node:internal/modules/esm/module_job:276:33)\n    at ModuleJob.link (node:internal/modules/esm/module_job:381:17) {\n  code: 'ERR_MODULE_NOT_FOUND',\n  url: 'file:///shared206/photo-actor.js?v=437'\n}\n\nNode.js v24.22.1\n"
+  },
+  {
+    "file": "people435-native.mjs",
+    "code": 0,
+    "output": "PASS435 native: all24 standing actors keep bounded atlas UVs and finite articulated fall transforms; per-asset texture cache; legacy atlas stays supported. No GPU visual assertion.\n"
+  },
+  {
+    "file": "scene183.mjs",
+    "code": 0,
+    "output": "walk rig: sam foot height range 0.075 0.075\nwalk rig: maya foot height range 0.075 0.075\nPASS183: 14 pedestrians plus player and anchored walking roots;  complete bodies fit close camera at 3 aspect ratios and 4 tasks; 7 clothing variants, contact shadows, articulated jumps, original rigs and walking remain valid.\n"
+  }
+]

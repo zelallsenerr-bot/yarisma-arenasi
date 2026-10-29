@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-28",
+  "people": 20,
+  "assets": 4,
+  "served_bytes": 593034,
+  "checks": [
+    "20 distinct exact cast names",
+    "all WebP images RGBA with genuine transparent pixels",
+    "all measured crop rectangles within image bounds",
+    "all full-body rectangles height>400 and width>100",
+    "served assets under1.5MB total"
+  ],
+  "limits": [
+    "AI generated athletic bodies and clothing, not authentic full-body photographs.",
+    "Faces were visually compared with the supplied individual references; likeness is approximate and not biometric identity verification.",
+    "Each atlas contains five people. Actual measured crop rectangles are supplied because generated row heights differ from exact equal cells.",
+    "The bottom row in atlas1 is close to the image lower edge; metadata includes all available shoe pixels.",
+    "Only static standing sprites supplied here; articulation and animation are provided by the consuming game."
+  ]
+}

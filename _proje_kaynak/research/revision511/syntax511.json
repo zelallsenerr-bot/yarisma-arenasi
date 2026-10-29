@@ -1,0 +1,30 @@
+{
+  "checked": [
+    "dist/expansion318/saba.js",
+    "dist/games/ada-mucadelesi/app.js",
+    "dist/games/arkandayiz/platform.js",
+    "dist/games/beyazla-joker/app.js",
+    "dist/games/cember/motion504.js",
+    "dist/games/cember/platform.js",
+    "dist/games/donen-koltuklar/platform.js",
+    "dist/games/goz6/platform.js",
+    "dist/games/kelime-meydani/platform.js",
+    "dist/games/lingo-meydani/app.js",
+    "dist/games/password/platform.js",
+    "dist/games/sahane-pazar/app.js",
+    "dist/games/sahane-pazar/visuals.js",
+    "dist/games/sefler-arenasi/platform.js",
+    "dist/games/sofra-rekabeti/platform.js",
+    "dist/humans435/actors.js",
+    "dist/refinements508.js",
+    "dist/retro400-a/engine.js",
+    "dist/retro400-b/engine.js",
+    "dist/studios211/integration.js",
+    "dist/studios211/saba433.js",
+    "dist/studios211/scene.js",
+    "dist/studios211/sets.js",
+    "dist/studios211/staging437.js",
+    "dist/games/ada-mucadelesi/events511.js"
+  ],
+  "failures": []
+}

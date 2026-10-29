@@ -1,0 +1,37 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "previous_patch": "Takip-Platform-v67-1.zip",
+  "supersedes_previous_patch": true,
+  "files": [
+    {
+      "path": "dist/games/takip/index.html",
+      "status_from_v67": "modified",
+      "base_v67_sha256": "9478c7e5cbd5b448b60a2344fd081cc585dec697af66bf733c5339fd5659db8e",
+      "previous_patch_sha256": "587537580fdf6d10ef76df728478e8e364333429ad2ee5cb13f4bad04755915e",
+      "new_sha256": "dd18d24961803cce64ad21e707b9959d694ac1a8cdd95e4dc1288d79bbca1bcc"
+    },
+    {
+      "path": "dist/games/takip/platform.js",
+      "status_from_v67": "added",
+      "base_v67_sha256": null,
+      "previous_patch_sha256": "f8b26d8836c6fdcd2cee753973f38fa1dee6c6d205ee37a02e851d9cbc148965",
+      "new_sha256": "5f31222ff78b4ed3df6f3a50e396f55d4acce011c9540f58b6f467ceec527f6f"
+    },
+    {
+      "path": "dist/games/takip/platform.css",
+      "status_from_v67": "added",
+      "base_v67_sha256": null,
+      "previous_patch_sha256": "73503e19189bfaca74d561b3dee7e75296285326bd64cc6572cc54525c64f1ea",
+      "new_sha256": "67440ec3fa724a378007e5d21179ac81c3f3805c45a2bc754f1ee7f3a9fac56e"
+    },
+    {
+      "path": "dist/games/takip/platform-reference.png",
+      "status_from_v67": "added",
+      "base_v67_sha256": null,
+      "previous_patch_sha256": "6989b079a3c033cbc622ec12e6436bca11958af24ecccc743680b9eb3780bf22",
+      "new_sha256": "6989b079a3c033cbc622ec12e6436bca11958af24ecccc743680b9eb3780bf22"
+    }
+  ],
+  "shared_files_changed": []
+}

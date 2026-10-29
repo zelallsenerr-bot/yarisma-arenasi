@@ -1,0 +1,47 @@
+{
+  "key": "hosts5",
+  "asset": "humans435/angle437-hosts5.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      174,
+      13,
+      314,
+      755
+    ],
+    [
+      613,
+      19,
+      345,
+      749
+    ],
+    [
+      161,
+      768,
+      334,
+      737
+    ],
+    [
+      628,
+      768,
+      342,
+      741
+    ]
+  ],
+  "names": [
+    "Murat Serezli",
+    "Engin Altan Düzyatan",
+    "Engin Hepileri",
+    "Mehmet Ali Erbil"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right"
+}

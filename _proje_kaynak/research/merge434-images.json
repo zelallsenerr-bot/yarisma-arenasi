@@ -1,0 +1,62 @@
+[
+  {
+    "from": "dist/games/ucte-uc/platform-reference.png",
+    "to": "dist/games/ucte-uc/platform-reference.webp",
+    "before": 961260,
+    "after": 604348
+  },
+  {
+    "from": "dist/games/beyazla-joker/platform-reference.png",
+    "to": "dist/games/beyazla-joker/platform-reference.webp",
+    "before": 1300465,
+    "after": 630428
+  },
+  {
+    "from": "dist/games/cevap-soruda/platform-reference.png",
+    "to": "dist/games/cevap-soruda/platform-reference.webp",
+    "before": 1300357,
+    "after": 613504
+  },
+  {
+    "from": "dist/games/gel-hemserim/platform-village.png",
+    "to": "dist/games/gel-hemserim/platform-village.webp",
+    "before": 1920165,
+    "after": 915758
+  },
+  {
+    "from": "dist/games/ilk-bulusma/platform-hosts.png",
+    "to": "dist/games/ilk-bulusma/platform-hosts.webp",
+    "before": 710462,
+    "after": 391050
+  },
+  {
+    "from": "dist/games/kizma-kazan/platform-control-room.png",
+    "to": "dist/games/kizma-kazan/platform-control-room.webp",
+    "before": 674213,
+    "after": 360024
+  },
+  {
+    "from": "dist/games/sefler-arenasi/platform-chefs.png",
+    "to": "dist/games/sefler-arenasi/platform-chefs.webp",
+    "before": 530174,
+    "after": 332796
+  },
+  {
+    "from": "dist/games/para-bende/platform-airport.png",
+    "to": "dist/games/para-bende/platform-airport.webp",
+    "before": 1313960,
+    "after": 584788
+  },
+  {
+    "from": "dist/games/sansli-masa/platform-hosts.png",
+    "to": "dist/games/sansli-masa/platform-hosts.webp",
+    "before": 191550,
+    "after": 103886
+  },
+  {
+    "from": "dist/games/takip/platform-reference.png",
+    "to": "dist/games/takip/platform-reference.webp",
+    "before": 1379114,
+    "after": 688678
+  }
+]

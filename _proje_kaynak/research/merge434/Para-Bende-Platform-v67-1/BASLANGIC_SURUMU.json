@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/para-bende/index.html",
+      "status": "modified",
+      "base_sha256": "c7d260d1b6a1ad7288d9bb6c9ce9b8f20a1b492dfded28b5edc1fcbb30e3439b",
+      "new_sha256": "2a937917d14e619a89f7f6849cebd7723614894cf450609d19c775f30095f657"
+    },
+    {
+      "path": "dist/games/para-bende/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "04b0a452728ec02979fdbc031810ff24189e339d1e8486c95360b148277d0902"
+    },
+    {
+      "path": "dist/games/para-bende/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "bbe48310f62c2bc653cb3fc9fdc2ef95294e7bd125dd6f4905ca49449c25ddd1"
+    },
+    {
+      "path": "dist/games/para-bende/platform-airport.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "956a5b632183e0f598067e39bd08eb25a87e1b72e0a95c991ca2b97d3d7abfc2"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "hosts6",
+  "asset": "humans435/angle437-hosts6.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      140,
+      15,
+      349,
+      746
+    ],
+    [
+      633,
+      17,
+      352,
+      750
+    ],
+    [
+      131,
+      779,
+      348,
+      736
+    ],
+    [
+      598,
+      878,
+      395,
+      626
+    ]
+  ],
+  "names": [
+    "Alper Ateş",
+    "Uraz Kaygılaroğlu",
+    "Yusuf Çim",
+    "Ali İhsan Varol"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "seated"
+  ],
+  "facing": "right",
+  "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-a8f888fc-6010-4a64-87da-1fcd5287844d.png"
+}

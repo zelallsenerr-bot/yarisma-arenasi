@@ -1,0 +1,4 @@
+/* Scoped to the local platform; original image keeps its complete framing. */
+#app>.cevap-platform-v67{display:block;position:relative;grid-column:1/-1;grid-row:1;width:100%;min-width:0;margin:0 0 20px;padding:0;overflow:hidden;border:1px solid #d1ab57;border-radius:18px;background:#24140d;box-shadow:0 12px 36px #0006}
+#app>.cevap-platform-v67 img{display:block;width:100%;height:auto;aspect-ratio:1270/638;object-fit:contain;margin:0;border:0;border-radius:0}
+@media(max-width:600px){#app>.cevap-platform-v67{margin-bottom:12px;border-radius:10px}}

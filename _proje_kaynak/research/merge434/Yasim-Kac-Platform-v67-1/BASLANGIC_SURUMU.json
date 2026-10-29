@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/yasim-kac/index.html",
+      "status": "modified",
+      "base_sha256": "a80b33aa3f799c84bb27b227d72a9d71ea91cf0cd3a8f38487aafb026f19ba26",
+      "new_sha256": "594e4df018344fe4e1eb1714d21dc3390997d78be200cb6c979142857ad51f21"
+    },
+    {
+      "path": "dist/games/yasim-kac/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "48d563e785f1a9cabfa05bcc0dbf187113008fd8b290619a6a7f32ca7fe6d4d5"
+    },
+    {
+      "path": "dist/games/yasim-kac/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "be909049e1e78b926102e7efe46fe754b98ff45f27262836d771938a260bf9f5"
+    }
+  ]
+}

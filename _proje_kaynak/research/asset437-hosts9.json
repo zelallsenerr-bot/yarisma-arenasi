@@ -1,0 +1,48 @@
+{
+  "key": "hosts9",
+  "asset": "humans435/angle437-hosts9.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      176,
+      17,
+      263,
+      729
+    ],
+    [
+      628,
+      23,
+      253,
+      722
+    ],
+    [
+      153,
+      774,
+      267,
+      742
+    ],
+    [
+      638,
+      771,
+      268,
+      736
+    ]
+  ],
+  "names": [
+    "Behzat Uygur",
+    "Selim Yuhay",
+    "Hakan Bilgin",
+    "Ünal Yeter"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right",
+  "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-2535143d-2ecc-492c-9da8-88cb1c8b4fd2.png"
+}

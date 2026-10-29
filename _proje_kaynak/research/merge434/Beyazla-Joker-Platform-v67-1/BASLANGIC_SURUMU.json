@@ -1,0 +1,32 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/beyazla-joker/index.html",
+      "status": "modified",
+      "base_sha256": "ff5679fb9806edf2e724b481673d578410ccc06cf13540b397b6fb9f866d58c2",
+      "new_sha256": "09ce2c4dd563a8597b9e8c4afca95a748384c9bcb2794e51cde49a7afc0aa8aa"
+    },
+    {
+      "path": "dist/games/beyazla-joker/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "3b87656b957bf59eda64f51f2d505db259fc18c4583bbeb1a123df328f6b70e1"
+    },
+    {
+      "path": "dist/games/beyazla-joker/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "108044ee01b98637cd5ff5f993c1a966969a164ac3b11509dd0134513a13e3c9"
+    },
+    {
+      "path": "dist/games/beyazla-joker/platform-reference.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "2efb8b88dc7e9bcb19e88bfbce2e039bf41329c33e4030bc8651c45df57a9eab"
+    }
+  ],
+  "shared_files_changed": []
+}

@@ -1,0 +1,2289 @@
+[
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi, yaşamının önemli bölümünü suda geçiren bir memeli değildir?",
+    "yes": [
+      4,
+      6,
+      20
+    ],
+    "no": [
+      10,
+      12,
+      23,
+      28
+    ],
+    "why": "Yunus, balina ve su aygırı memelidir. Suda yaşamak tek başına memeli olmak anlamına gelmez."
+  },
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi memeliler sınıfına ait değildir?",
+    "yes": [
+      113,
+      4,
+      16,
+      6
+    ],
+    "no": [
+      5,
+      10,
+      12,
+      19
+    ],
+    "why": "Yarasa uçsa, yunus ve balina yüzse de memelidir; koala da bir memelidir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi gerçek geviş getiren çift toynaklılardan değildir?",
+    "yes": [
+      2,
+      99,
+      100,
+      103
+    ],
+    "no": [
+      102,
+      1,
+      15,
+      104
+    ],
+    "why": "Zürafa, koyun, inek ve keçi geviş getirenlerdendir; at, zebra, gergedan ve tavşan değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi doğal beslenmesinde etçil olan bu kedigillerden değildir?",
+    "yes": [
+      9,
+      7,
+      18,
+      26
+    ],
+    "no": [
+      2,
+      1,
+      15,
+      16
+    ],
+    "why": "Aslan, kaplan, çita ve leopar etçil kedigillerdir; diğerleri otçul memelilerdir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi Panthera cinsine girmez?",
+    "yes": [
+      9,
+      7,
+      26
+    ],
+    "no": [
+      18,
+      106,
+      105,
+      13
+    ],
+    "why": "Aslan, kaplan ve leopar Panthera cinsindedir. Çita ve evcil kedi başka cinslerdedir; köpek ve panda kedigil bile değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi yumurtlayarak üreyen canlılardan değildir?",
+    "yes": [
+      0,
+      5,
+      12,
+      19
+    ],
+    "no": [
+      113,
+      4,
+      6,
+      16
+    ],
+    "why": "Devekuşu ve penguen kuştur; kaplumbağa ve timsah sürüngendir. Bu örnekler yumurtlar; listedeki memeliler doğurur."
+  },
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi aktif uçuş yapabilen bu canlılardan değildir?",
+    "yes": [
+      3,
+      25,
+      27,
+      113
+    ],
+    "no": [
+      0,
+      5,
+      16,
+      101
+    ],
+    "why": "Kartal, kelebek, bal arısı ve yarasa aktif uçuş yapar. Devekuşu ve penguen uçamaz; koala ve bu sincap da uçmaz."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisinin yetişkin hâlinde solungaçla solunum beklenmez?",
+    "yes": [
+      10,
+      23,
+      28
+    ],
+    "no": [
+      4,
+      6,
+      12,
+      19
+    ],
+    "why": "Köpekbalığı, denizatı ve ahtapot solungaç kullanır. Yunus, balina, deniz kaplumbağası ve timsah akciğerle solur."
+  },
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi omurgasız canlı değildir?",
+    "yes": [
+      22,
+      24,
+      28,
+      25
+    ],
+    "no": [
+      23,
+      17,
+      113,
+      114
+    ],
+    "why": "Denizyıldızı, denizanası, ahtapot ve kelebekte omurga bulunmaz. Denizatı bir balıktır; diğer yanlış gruptakiler de omurgalıdır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi erişkin hâlinde sabit vücut sıcaklığını metabolizmasıyla koruyan gruplardan değildir?",
+    "yes": [
+      3,
+      5,
+      113,
+      4
+    ],
+    "no": [
+      17,
+      19,
+      114,
+      10
+    ],
+    "why": "Kuşlar ve memeliler endotermdir. Kurbağa, timsah, yılan ve köpekbalığı burada karşı gruptadır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi ayaklarında toynak bulunan bu memelilerden değildir?",
+    "yes": [
+      102,
+      1,
+      100,
+      103
+    ],
+    "no": [
+      8,
+      106,
+      104,
+      101
+    ],
+    "why": "At, zebra, inek ve keçinin ayaklarında toynak bulunur; fil, kedi, tavşan ve sincap bu grupta değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 1,
+    "question": "Hangisi gagası bulunan bu kuşlardan değildir?",
+    "yes": [
+      3,
+      5,
+      0,
+      110
+    ],
+    "no": [
+      113,
+      114,
+      17,
+      4
+    ],
+    "why": "Kartal, penguen, devekuşu ve papağan kuştur. Yarasa memeli, yılan sürüngen, kurbağa amfibi, yunus memelidir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi Afrika savanlarında doğal olarak görülebilen bu otçullardan değildir?",
+    "yes": [
+      2,
+      1,
+      8,
+      15
+    ],
+    "no": [
+      16,
+      13,
+      7,
+      5
+    ],
+    "why": "Zürafa, zebra, Afrika fili ve gergedan savan faunasındadır. Koala Avustralya, panda ve kaplan Asya kökenlidir; penguen savan hayvanı değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi memelilerin plasentalılar grubunda değildir?",
+    "yes": [
+      9,
+      8,
+      4,
+      113
+    ],
+    "no": [
+      16,
+      5,
+      19,
+      17
+    ],
+    "why": "Aslan, fil, yunus ve yarasa plasentalı memelilerdir. Koala keseli memelidir; diğerleri memeli değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi kılları bulunan memelilerden değildir?",
+    "yes": [
+      13,
+      16,
+      113,
+      101
+    ],
+    "no": [
+      0,
+      5,
+      12,
+      114
+    ],
+    "why": "Panda, koala, yarasa ve sincapta kıl bulunur. Kuşlarda tüy, sürüngenlerde pullu deri vardır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi yavrusunu sütle besleyen gruptan değildir?",
+    "yes": [
+      113,
+      4,
+      6,
+      8
+    ],
+    "no": [
+      3,
+      0,
+      19,
+      114
+    ],
+    "why": "Yavruyu sütle besleme memelilerin ortak özelliğidir; yarasa, yunus, balina ve fil bu gruptadır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi kulak kepçesi görülebilen bu kara memelilerinden değildir?",
+    "yes": [
+      104,
+      105,
+      106,
+      102
+    ],
+    "no": [
+      114,
+      17,
+      19,
+      12
+    ],
+    "why": "Tavşan, köpek, kedi ve atta dış kulak kepçesi vardır. Yılan, kurbağa, timsah ve kaplumbağada memelilerdeki biçimde bir kulak kepçesi yoktur."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi pençesi olan bu yırtıcı kuşlardan ya da kedigillerden değildir?",
+    "yes": [
+      3,
+      111,
+      9,
+      26
+    ],
+    "no": [
+      100,
+      103,
+      102,
+      1
+    ],
+    "why": "Kartal ve baykuş pençeli yırtıcı kuşlar, aslan ve leopar pençeli kedigillerdir. Diğer örnekler toynaklıdır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi akciğerle solunum yapan bu omurgalılardan değildir?",
+    "yes": [
+      113,
+      4,
+      12,
+      5
+    ],
+    "no": [
+      10,
+      23,
+      28,
+      24
+    ],
+    "why": "Yarasa, yunus, deniz kaplumbağası ve penguen akciğer kullanır. Ahtapot solungaç kullanır; denizanasında akciğer bulunmaz."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi larvadan erişkine belirgin başkalaşım geçiren bu canlılarla aynı grupta değildir?",
+    "yes": [
+      25,
+      27,
+      17
+    ],
+    "no": [
+      9,
+      8,
+      102,
+      16
+    ],
+    "why": "Kelebek ve bal arısı tam başkalaşım geçirir; kurbağada iribaş dönemi vardır. Bu memelilerde böyle bir larva evresi yoktur."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi ayakları yüzmeye uyumlu bu kuşlardan değildir?",
+    "yes": [
+      112,
+      109,
+      5
+    ],
+    "no": [
+      3,
+      111,
+      110,
+      107
+    ],
+    "why": "Ördek, kuğu ve penguen yüzmeye uyumlu ayaklara sahiptir. Kartal, baykuş, papağan ve tavus kuşu aynı su kuşu ayak yapısıyla tanınmaz."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi doğal beslenmesinde bitkilerin belirgin yer tuttuğu bu memelilerden değildir?",
+    "yes": [
+      16,
+      13,
+      2,
+      99
+    ],
+    "no": [
+      9,
+      7,
+      18,
+      26
+    ],
+    "why": "Koala, panda, zürafa ve koyun bitkisel beslenmeyle öne çıkar. Karşı seçenekler avcı kedigillerdir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi Felidae yani kedigiller ailesine ait değildir?",
+    "yes": [
+      106,
+      9,
+      7,
+      18
+    ],
+    "no": [
+      105,
+      13,
+      11,
+      102
+    ],
+    "why": "Evcil kedi, aslan, kaplan ve çita aynı ailededir. Köpek, panda, goril ve at başka ailelerdedir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi sürüngen veya amfibi değildir?",
+    "yes": [
+      114,
+      19,
+      12,
+      17
+    ],
+    "no": [
+      23,
+      113,
+      5,
+      28
+    ],
+    "why": "Yılan, timsah ve kaplumbağa sürüngen; kurbağa amfibidir. Denizatı balık, yarasa memeli, penguen kuş, ahtapot omurgasızdır."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 1,
+    "question": "Hangisi botanik açıdan bir meyve değildir?",
+    "yes": [
+      127,
+      125,
+      40,
+      42
+    ],
+    "no": [
+      123,
+      124,
+      126,
+      84
+    ],
+    "why": "Domates, biber, muz ve elma botanik meyvelerdir. Havuç kök, ıspanak yaprak, soğan bir soğandır; kahvenin fotoğraftaki kısmı kavrulmuş tohumdur."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi gülgiller ailesinin bu meyvelerinden değildir?",
+    "yes": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "no": [
+      40,
+      57,
+      62,
+      60
+    ],
+    "why": "Elma, armut, kiraz ve şeftali gülgiller ailesindedir. Muz, ananas, portakal ve Hindistan cevizi başka ailelerdedir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi buğday, pirinç ve mısır gibi bir tahıl değildir?",
+    "yes": [
+      89,
+      90,
+      85
+    ],
+    "no": [
+      123,
+      124,
+      126,
+      51
+    ],
+    "why": "Buğday, pirinç ve mısır buğdaygillerden tahıllardır. Havuç, ıspanak, soğan ve gül tahıl değildir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi botanik bakımdan buğdaygillerden değildir?",
+    "yes": [
+      89,
+      90,
+      85
+    ],
+    "no": [
+      84,
+      86,
+      53,
+      55
+    ],
+    "why": "Buğday, pirinç ve mısır Poaceae ailesindedir. Kahve, çay, ayçiçeği ve kaktüs başka ailelerdendir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi işlenmeden de sofrada çiğ tüketilebilen bu meyvelerden değildir?",
+    "yes": [
+      42,
+      58,
+      43,
+      41
+    ],
+    "no": [
+      89,
+      90,
+      84,
+      86
+    ],
+    "why": "Elma, armut, kiraz ve çilek çiğ meyve olarak tüketilir. Tahıl, kahve çekirdeği ve kurutulmuş çay bu meyve grubuna girmez."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi fotoğrafta yeşil yapraklı bir bitki olarak gösterilmez?",
+    "yes": [
+      124,
+      132,
+      52,
+      55
+    ],
+    "no": [
+      84,
+      89,
+      90,
+      85
+    ],
+    "why": "Ispanak, ağaç, lavanta ve kaktüs yeşil bitki görünümüyle gösterilmiştir. Kahve, buğday, pirinç ve mısır fotoğraflarında yaprak değil işlenmiş tohum veya taneler öne çıkar."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi yağ elde etmek için kullanılan bu bitkisel kaynaklarla ilgili değildir?",
+    "yes": [
+      87,
+      53,
+      60
+    ],
+    "no": [
+      123,
+      124,
+      126,
+      90
+    ],
+    "why": "Zeytin, ayçiçeği ve Hindistan cevizi yaygın yemeklik yağ kaynaklarıdır. Havuç, ıspanak, soğan ve pirinç bu örnek yağların kaynağı değildir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi gülgiller ailesine ait bu bitkilerden değildir?",
+    "yes": [
+      51,
+      42,
+      58,
+      41
+    ],
+    "no": [
+      54,
+      53,
+      52,
+      55
+    ],
+    "why": "Gül, elma, armut ve çilek Rosaceae ailesindedir. Lale, ayçiçeği, lavanta ve kaktüs başka ailelerdendir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi çiçeği için yetiştirilen bu süs bitkileriyle aynı kullanım grubunda değildir?",
+    "yes": [
+      51,
+      54,
+      50,
+      48
+    ],
+    "no": [
+      89,
+      90,
+      85,
+      124
+    ],
+    "why": "Gül, lale, orkide ve papatya süs çiçekleri olarak öne çıkar. Diğerleri temel gıda için yetiştirilen tarım bitkileridir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi çayı ya da demlemesi hazırlanan bu bitkilerle ilişkili değildir?",
+    "yes": [
+      86,
+      48,
+      52
+    ],
+    "no": [
+      85,
+      90,
+      89,
+      87
+    ],
+    "why": "Çay, papatya ve lavanta demlemeleri yaygındır. Mısır koçanı, pirinç, buğday tanesi ve zeytinyağı bu üç çiçek/yaprak demlemesinin malzemesi değildir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi doğrudan ağaçta yetişen bu meyvelerden değildir?",
+    "yes": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "no": [
+      41,
+      44,
+      59,
+      57
+    ],
+    "why": "Elma, armut, kiraz ve şeftali ağaçta yetişir. Çilek otsu bitkide, üzüm asmada, karpuz yerde yayılan bitkide, ananas otsu bitkide yetişir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi muz, ananas ve Hindistan cevizi gibi tropik meyvelerden değildir?",
+    "yes": [
+      40,
+      57,
+      60
+    ],
+    "no": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "why": "Muz, ananas ve Hindistan cevizi tropik meyvelerdir. Elma, armut, kiraz ve şeftali ılıman iklim meyveleri olarak sınıflandırılır."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi yediğimiz kısmı yaprak, kök veya soğan olan bu sebzelerden değildir?",
+    "yes": [
+      124,
+      123,
+      126
+    ],
+    "no": [
+      127,
+      125,
+      59,
+      56
+    ],
+    "why": "Ispanakta yaprak, havuçta kök, soğanda soğan tüketilir. Domates, biber, karpuz ve nar meyvedir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi mutfakta tatlı veya tatlı meyve olarak sınıflandırılmaz?",
+    "yes": [
+      88,
+      69,
+      42,
+      40
+    ],
+    "no": [
+      126,
+      87,
+      124,
+      125
+    ],
+    "why": "Çikolata ve baklava tatlıdır; elma ve muz tatlı meyvelerdir. Soğan, zeytinyağı, ıspanak ve biber bu mutfak grubunda değildir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi işlem sonucunda elde edilen bir gıda ürünü değildir?",
+    "yes": [
+      87,
+      88,
+      69,
+      135
+    ],
+    "no": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "why": "Zeytinyağı sıkma, çikolata işleme, baklava ve ekmek pişirme sonucu oluşur. Meyveler bitkiden toplandıkları hâliyle gösterilmiştir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi fotoğrafta çiçeği gösterilen bir süs bitkisi değildir?",
+    "yes": [
+      51,
+      54,
+      53,
+      50
+    ],
+    "no": [
+      85,
+      89,
+      90,
+      124
+    ],
+    "why": "Gül, lale, ayçiçeği ve orkide çiçekleriyle gösterilmiştir. Mısır, buğday, pirinç ve ıspanak fotoğraflarında çiçek değil gıda olarak tüketilen bölüm görülür."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 1,
+    "question": "Hangisi Avrupa kıtasında değildir?",
+    "yes": [
+      35,
+      37,
+      38,
+      39
+    ],
+    "no": [
+      33,
+      32,
+      92,
+      94
+    ],
+    "why": "Eyfel, Pisa, Kolezyum ve Sagrada Familia Avrupa’dadır. Tac Mahal Hindistan, Sidney Opera Binası Avustralya, Petra Ürdün ve Çin Seddi Çin’dedir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Asya kıtasında değildir?",
+    "yes": [
+      33,
+      92,
+      94
+    ],
+    "no": [
+      35,
+      37,
+      38,
+      39
+    ],
+    "why": "Tac Mahal, Petra ve Çin Seddi Asya’dadır. Diğer dört yapı Avrupa’dadır."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi bir ülkenin başkentinde bulunan bu yapılardan değildir?",
+    "yes": [
+      35,
+      34,
+      38
+    ],
+    "no": [
+      32,
+      33,
+      37,
+      39
+    ],
+    "why": "Paris, Londra ve Roma başkenttir. Sidney, Agra, Pisa ve Barselona kendi ülkelerinin başkenti değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi ülkesi günümüzde cumhuriyet olan bu yapılardan değildir?",
+    "yes": [
+      35,
+      38,
+      36,
+      33
+    ],
+    "no": [
+      34,
+      39,
+      32,
+      92
+    ],
+    "why": "Fransa, İtalya, ABD ve Hindistan cumhuriyettir. Birleşik Krallık, İspanya, Avustralya ve Ürdün monarşidir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Akdeniz’e kıyısı olan bir ülkede değildir?",
+    "yes": [
+      38,
+      37,
+      39,
+      97
+    ],
+    "no": [
+      33,
+      94,
+      32,
+      36
+    ],
+    "why": "İtalya, İspanya ve Mısır Akdeniz’e kıyılıdır. Hindistan, Çin, Avustralya ve ABD değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Güney Yarımküre’de değildir?",
+    "yes": [
+      32,
+      91,
+      93,
+      95
+    ],
+    "no": [
+      35,
+      33,
+      94,
+      97
+    ],
+    "why": "Sidney, Rio, Machu Picchu ve Paskalya Adası Ekvator’un güneyindedir. Diğer yapılar kuzeydedir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi insan yapımı bu anıtlardan değildir?",
+    "yes": [
+      35,
+      37,
+      36,
+      91
+    ],
+    "no": [
+      116,
+      120,
+      121,
+      119
+    ],
+    "why": "Eyfel, Pisa ve iki heykel insan yapımıdır. Dağ, buzul, şelale ve çöl doğal oluşumlardır."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi heykel veya insan figürü biçiminde yontulmuş bir anıt değildir?",
+    "yes": [
+      36,
+      91,
+      95
+    ],
+    "no": [
+      35,
+      37,
+      38,
+      34
+    ],
+    "why": "Özgürlük Heykeli, Kurtarıcı İsa ve Moai figürleri heykeldir. Kule, amfitiyatro ve saat kulesi bu grupta değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi esas işlevi ibadet veya mezar anıtı olan bu yapılardan değildir?",
+    "yes": [
+      39,
+      33,
+      97
+    ],
+    "no": [
+      35,
+      34,
+      38,
+      32
+    ],
+    "why": "Sagrada Familia kilise, Tac Mahal anıt mezar, Gize piramitleri kral mezarlarıdır. Diğerlerinin temel işlevi farklıdır."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Antik Çağ veya Orta Çağ kökenli bu yapılardan değildir?",
+    "yes": [
+      38,
+      92,
+      94,
+      97
+    ],
+    "no": [
+      35,
+      36,
+      32,
+      91
+    ],
+    "why": "Kolezyum, Petra, Çin Seddi’nin tarihî bölümleri ve piramitler modern çağdan öncedir. Diğer yapılar 19. veya 20. yüzyıldandır."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi 19. yüzyılda tamamlanan bir anıt değildir?",
+    "yes": [
+      35,
+      36,
+      34
+    ],
+    "no": [
+      32,
+      91,
+      33,
+      38
+    ],
+    "why": "Eyfel 1889, Özgürlük Heykeli 1886, Elizabeth Kulesi 1859 tarihlidir. Diğerleri başka yüzyıllardandır."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisinin bulunduğu ülkede İspanyolca veya Portekizce resmî dil değildir?",
+    "yes": [
+      91,
+      93,
+      95,
+      39
+    ],
+    "no": [
+      35,
+      38,
+      33,
+      94
+    ],
+    "why": "Brezilya’da Portekizce; Peru, Şili ve İspanya’da İspanyolca resmî dillerdendir. Fransa, İtalya, Hindistan ve Çin bu grupta değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Avrupa Birliği üyesi bir ülkede değildir?",
+    "yes": [
+      35,
+      37,
+      38,
+      39
+    ],
+    "no": [
+      34,
+      32,
+      33,
+      36
+    ],
+    "why": "Fransa, İtalya ve İspanya AB üyesidir. Birleşik Krallık, Avustralya, Hindistan ve ABD AB üyesi değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi Fransa, İtalya, ABD veya Avustralya’da bulunan yapılardan değildir?",
+    "yes": [
+      35,
+      38,
+      36,
+      32
+    ],
+    "no": [
+      94,
+      92,
+      33,
+      97
+    ],
+    "why": "Eyfel Fransa’da, Kolezyum İtalya’da, Özgürlük Heykeli ABD’de, Sidney Opera Binası Avustralya’dadır. Çin Seddi, Petra, Tac Mahal ve Gize Piramidi bu ülkelerde değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi Akdeniz havzasının antik uygarlıklarıyla bağlantılı değildir?",
+    "yes": [
+      38,
+      92,
+      97
+    ],
+    "no": [
+      94,
+      93,
+      95,
+      33
+    ],
+    "why": "Roma’daki Kolezyum, Nebati Petra ve Eski Mısır piramitleri Akdeniz havzası tarihine bağlanır. Diğerleri başka kültür coğrafyalarındandır."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisinin yapımında taş esas malzeme değildir?",
+    "yes": [
+      37,
+      38,
+      97,
+      92
+    ],
+    "no": [
+      35,
+      36,
+      137,
+      46
+    ],
+    "why": "Pisa, Kolezyum, piramit ve Petra taş yapılardır. Eyfel demir, Özgürlük Heykeli bakır kaplama, saat ve trompet metal nesnelerdir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 1,
+    "question": "Hangisi ışık yayarak görülen bir kaynak veya olay değildir?",
+    "yes": [
+      68,
+      130,
+      115,
+      141
+    ],
+    "no": [
+      72,
+      133,
+      64,
+      66
+    ],
+    "why": "Mum alevi, ateş, şimşek ve Güneş ışık yayar. Dünya, taş, kum saati ve çapa ağırlıkla gelen ışığı yansıtır."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi suyun doğadaki farklı hâlleri veya hareketleriyle ilgili değildir?",
+    "yes": [
+      70,
+      120,
+      121,
+      131
+    ],
+    "no": [
+      117,
+      133,
+      119,
+      130
+    ],
+    "why": "Dalga, buzul, şelale ve yağmur suyla ilişkilidir. Yanardağ, taş, kumlu çöl ve ateş aynı su grubu değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi gökyüzünde görülen bu ışık olaylarından değildir?",
+    "yes": [
+      115,
+      118,
+      122
+    ],
+    "no": [
+      121,
+      120,
+      119,
+      133
+    ],
+    "why": "Şimşek, kutup ışıkları ve gökkuşağı gökyüzündeki ışık olaylarıdır. Diğerleri yer şekilleri veya katı oluşumlardır."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi bir yön veya zaman bulma aracı değildir?",
+    "yes": [
+      65,
+      64,
+      137
+    ],
+    "no": [
+      66,
+      67,
+      63,
+      134
+    ],
+    "why": "Pusula yönü, kum saati ve kol saati zamanı gösterir. Çapa, çekiç, iğne ve kaşık ölçüm aracı değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi ağırlıklı olarak yerçekimi etkisiyle işleyen bu örneklerle ilişkili değildir?",
+    "yes": [
+      64,
+      121,
+      131
+    ],
+    "no": [
+      65,
+      118,
+      122,
+      115
+    ],
+    "why": "Kumun akması, suyun düşmesi ve yağmur damlalarının yere inmesi yerçekimiyle ilişkilidir. Pusulada manyetizma, diğer üç ışık olayında farklı fizik mekanizmaları öne çıkar."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi ses üretmek üzere tasarlanan bu aletlerden değildir?",
+    "yes": [
+      29,
+      30,
+      31,
+      46
+    ],
+    "no": [
+      65,
+      64,
+      137,
+      63
+    ],
+    "why": "Keman, piyano, gitar ve trompet müzik aletidir. Pusula, kum saati, kol saati ve dikiş iğnesinin temel amacı müzik üretmek değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi ses kaynağında titreşen tel bulunan aletlerden değildir?",
+    "yes": [
+      29,
+      30,
+      31
+    ],
+    "no": [
+      46,
+      47,
+      65,
+      64
+    ],
+    "why": "Keman, piyano ve gitarda teller titreşir. Trompet hava sütunuyla, bateri zar ve metal titreşimiyle ses verir; ölçüm araçları telli çalgı değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi ısı enerjisinin belirgin olduğu bu görüntülerle ilişkili değildir?",
+    "yes": [
+      68,
+      130,
+      117,
+      141
+    ],
+    "no": [
+      120,
+      64,
+      65,
+      133
+    ],
+    "why": "Mum, ateş, püsküren yanardağ ve Güneş yüksek sıcaklıkla ilişkilidir. Buzul, kum saati, pusula ve kaya bu ısı kaynağı grubunda değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi canlı hücrelerden oluşan biyolojik bir yapı değildir?",
+    "yes": [
+      74,
+      73,
+      75,
+      132
+    ],
+    "no": [
+      65,
+      64,
+      66,
+      137
+    ],
+    "why": "Göz, kalp ve beyin canlıda hücrelerden oluşur; modeller bu organları temsil eder. Ağaç da canlıdır. Araçlar hücresel canlı yapılar değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi hareket enerjisinin gözle görünür biçimde bulunduğu bir doğa olayı değildir?",
+    "yes": [
+      70,
+      121,
+      117
+    ],
+    "no": [
+      133,
+      119,
+      116,
+      128
+    ],
+    "why": "Dalga, şelale ve püskürme hareket gösterir. Durağan kaya, kumlu çöl, dağ ve takı fotoğraflarında böyle bir akış gösterilmez."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 2,
+    "question": "Hangisi üzerinde suyun donmuş hâli belirgin olarak bulunmaz?",
+    "yes": [
+      120,
+      116,
+      5
+    ],
+    "no": [
+      119,
+      117,
+      55,
+      130
+    ],
+    "why": "Buzul, karla kaplı dağ ve karlı penguen fotoğrafında donmuş su görülür. Çöl, püsküren yanardağ, kaktüs ve ateş görselleri bu grupta değildir."
+  },
+  {
+    "category": "Bilim ve gözlem",
+    "level": 3,
+    "question": "Hangisinin fotoğrafındaki ana konu canlıların değil, yer bilimlerinin inceleme alanındadır?",
+    "yes": [
+      9,
+      51,
+      25
+    ],
+    "no": [
+      117,
+      120,
+      133,
+      116
+    ],
+    "why": "Aslan, gül ve kelebek biyoloji örnekleridir. Yanardağ, buzul, kaya ve dağ yer bilimlerinin konularıdır."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi takım hâlinde oynanan bu top sporlarından değildir?",
+    "yes": [
+      80,
+      82,
+      79,
+      78
+    ],
+    "no": [
+      81,
+      77,
+      83,
+      64
+    ],
+    "why": "Futbol, basketbol, voleybol ve ragbi takım top sporlarıdır. Tenis tekler, bilardo ve satranç bireysel karşılaşmayla bilinir; kum saati ise spor topu değildir."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi küresel bir topla oynanan sporların ekipmanı değildir?",
+    "yes": [
+      80,
+      82,
+      79,
+      81
+    ],
+    "no": [
+      78,
+      83,
+      29,
+      31
+    ],
+    "why": "Futbol, basketbol, voleybol ve tenis topları küreseldir. Ragbi topu ovaldir; satranç ve çalgılarda böyle bir top yoktur."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi telin titreşmesiyle ses çıkaran bir çalgı değildir?",
+    "yes": [
+      29,
+      30,
+      31
+    ],
+    "no": [
+      46,
+      47,
+      137,
+      64
+    ],
+    "why": "Keman, piyano ve gitar tellidir. Trompet ve bateri başka ses üretme yöntemleri kullanır; saatler çalgı değildir."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi ahşap gövdesi veya ahşap ana parçaları bulunan bu nesnelerden değildir?",
+    "yes": [
+      29,
+      31,
+      83,
+      30
+    ],
+    "no": [
+      46,
+      128,
+      129,
+      134
+    ],
+    "why": "Keman, gitar, satranç takımı ve piyanoda ahşap önemli yer tutar. Trompet, takılar ve metal kaşık bu grupta değildir."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi müzikte solist veya eşlik çalgısı olarak kullanılmaz?",
+    "yes": [
+      29,
+      30,
+      31,
+      46
+    ],
+    "no": [
+      81,
+      82,
+      80,
+      78
+    ],
+    "why": "Keman, piyano, gitar ve trompet çalgıdır. Burada gösterilen farklı spor topları çalgı değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi başına “deniz” getirilerek görseldeki canlının Türkçe adına dönüşmez?",
+    "yes": [
+      22,
+      23,
+      24,
+      12
+    ],
+    "no": [
+      9,
+      2,
+      16,
+      13
+    ],
+    "why": "Denizyıldızı, denizatı, denizanası ve deniz kaplumbağası yerleşik adlardır. Aslan, zürafa, koala ve panda görselleri bu deniz canlılarını göstermez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi adı “deniz” kelimesi içeren bir nesne ya da canlı değildir?",
+    "yes": [
+      96,
+      22,
+      23,
+      24
+    ],
+    "no": [
+      65,
+      66,
+      64,
+      137
+    ],
+    "why": "Deniz feneri, denizyıldızı, denizatı ve denizanasının adında deniz vardır. Pusula, çapa, kum saati ve kol saati adlarında yoktur."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “saat” kelimesiyle doğrudan adlandırılmaz?",
+    "yes": [
+      64,
+      137,
+      34
+    ],
+    "no": [
+      65,
+      66,
+      67,
+      63
+    ],
+    "why": "Kum saati ve kol saati birer saattir; Big Ben adıyla bilinen kulede saat bulunur. Pusula, çapa, çekiç ve iğne saat değildir."
+  },
+  {
+    "category": "Dil ve dikkat",
+    "level": 2,
+    "question": "Hangisinin Türkçe adı birleşik yazılan bir canlı adı değildir?",
+    "yes": [
+      0,
+      22,
+      23,
+      24
+    ],
+    "no": [
+      3,
+      107,
+      27,
+      12
+    ],
+    "why": "Devekuşu, denizyıldızı, denizatı ve denizanası birleşik yazılır. Kel kartal, tavus kuşu, bal arısı ve deniz kaplumbağası ayrı yazılır."
+  },
+  {
+    "category": "Dil ve dikkat",
+    "level": 2,
+    "question": "Hangisinin Türkçe adı birden çok ayrı sözcükten oluşmaz?",
+    "yes": [
+      3,
+      27,
+      107,
+      12
+    ],
+    "no": [
+      0,
+      22,
+      23,
+      24
+    ],
+    "why": "Kel kartal, bal arısı, tavus kuşu ve deniz kaplumbağası ayrı yazılan sözcükler içerir. Devekuşu, denizyıldızı, denizatı ve denizanası bitişik yazılır."
+  },
+  {
+    "category": "Dil ve dikkat",
+    "level": 3,
+    "question": "Hangisinin Türkçe adında en az bir “ı” harfi bulunmaz?",
+    "yes": [
+      22,
+      23,
+      24
+    ],
+    "no": [
+      29,
+      30,
+      31,
+      46
+    ],
+    "why": "Denizyıldızı, denizatı ve denizanası adlarında noktasız ı vardır. Keman, piyano, gitar ve trompet adlarında yoktur."
+  },
+  {
+    "category": "Dil ve dikkat",
+    "level": 3,
+    "question": "Hangisinin adı Türkçeye özgü “ç” harfini içermez?",
+    "yes": [
+      18,
+      67,
+      53,
+      88
+    ],
+    "no": [
+      29,
+      30,
+      31,
+      46
+    ],
+    "why": "Çita, çekiç, ayçiçeği ve çikolata adlarında ç vardır. Keman, piyano, gitar ve trompette yoktur."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi hem memeli hem de dört ayaklı bir kara hayvanı değildir?",
+    "yes": [
+      106,
+      105,
+      100,
+      102
+    ],
+    "no": [
+      113,
+      4,
+      6,
+      5
+    ],
+    "why": "Kedi, köpek, inek ve at dört ayaklı kara memelileridir. Yarasa, yunus, balina ve penguen bu iki koşulu birlikte sağlamaz."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi hem uçabilen hem de kuşlar sınıfında olan bu canlılardan değildir?",
+    "yes": [
+      3,
+      111,
+      110,
+      107
+    ],
+    "no": [
+      113,
+      25,
+      27,
+      4
+    ],
+    "why": "Kartal, baykuş, papağan ve tavus kuşu uçabilen kuşlardır. Yarasa memeli, kelebek ve arı böcek, yunus memelidir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi suda yaşayan bir omurgalı değildir?",
+    "yes": [
+      4,
+      6,
+      10,
+      12
+    ],
+    "no": [
+      28,
+      24,
+      22,
+      25
+    ],
+    "why": "Yunus, balina, köpekbalığı ve deniz kaplumbağası omurgalıdır. Ahtapot, denizanası ve denizyıldızı omurgasızdır; kelebek de omurgasızdır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi hem yumurtlayan hem de omurgalı olan bu canlılardan değildir?",
+    "yes": [
+      0,
+      5,
+      12,
+      114
+    ],
+    "no": [
+      4,
+      6,
+      16,
+      113
+    ],
+    "why": "Devekuşu, penguen, deniz kaplumbağası ve bu yılan yumurtlayan omurgalılardır. Diğer örnekler memelidir."
+  },
+  {
+    "category": "Doğa",
+    "level": 3,
+    "question": "Hangisi Carnivora yani etçiller takımına ait değildir?",
+    "yes": [
+      13,
+      106,
+      105,
+      9
+    ],
+    "no": [
+      11,
+      21,
+      102,
+      1
+    ],
+    "why": "Panda bitkisel beslense de Carnivora takımındadır. Kedi, köpek ve aslan da bu takımdadır; goril, şempanze, at ve zebra değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi memeli olmasına rağmen avcı kedigiller grubunda değildir?",
+    "yes": [
+      9,
+      7,
+      26,
+      18
+    ],
+    "no": [
+      13,
+      16,
+      100,
+      103
+    ],
+    "why": "Aslan, kaplan, leopar ve çita avcı kedigillerdir. Panda, koala, inek ve keçi memeli olsa da bu grupta değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi yüzebilen ve yumurtlayan bu omurgalılardan değildir?",
+    "yes": [
+      5,
+      112,
+      109,
+      12
+    ],
+    "no": [
+      4,
+      6,
+      20,
+      8
+    ],
+    "why": "Penguen, ördek, kuğu ve deniz kaplumbağası yumurtlar. Yunus, balina, su aygırı ve fil yüzebilse de memelidir ve doğurur."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi derisinde tüy bulunan ama memeli olmayan gruba girmez?",
+    "yes": [
+      3,
+      5,
+      110,
+      112
+    ],
+    "no": [
+      113,
+      16,
+      13,
+      101
+    ],
+    "why": "Kuş tüyü kuşlara özgüdür. Yarasa, koala, panda ve sincapta görülen örtü kıldır."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi gövdesi pullarla korunan bu sürüngenlerden değildir?",
+    "yes": [
+      114,
+      19,
+      12
+    ],
+    "no": [
+      17,
+      4,
+      6,
+      113
+    ],
+    "why": "Yılan, timsah ve kaplumbağa sürüngendir; kaplumbağanın kabuğu üzerinde de pullu plaklar bulunur. Kurbağa, yunus, balina ve yarasa sürüngen değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi boynuzu veya boynuz benzeri baş çıkıntısı bulunan bu otçullardan değildir?",
+    "yes": [
+      2,
+      15,
+      103,
+      100
+    ],
+    "no": [
+      102,
+      1,
+      104,
+      8
+    ],
+    "why": "Zürafada ossikon, gergedanda keratin boynuz ve keçi ile sığırda boynuz görülebilir. At, zebra, tavşan ve fil baş boynuzuyla tanınmaz; fil dişi boynuz değildir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi yavrusunu doğuran ve yavrusunda kıl bulunan bu hayvanlardan değildir?",
+    "yes": [
+      104,
+      101,
+      105,
+      106
+    ],
+    "no": [
+      0,
+      5,
+      19,
+      12
+    ],
+    "why": "Bu dört memeli doğurur; yavrularında kıl bulunur. Karşı seçenekler yumurtlayan kuş veya sürüngenlerdir."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi Omurgalılar içinde balık, sürüngen veya amfibi gruplarından birine girmez?",
+    "yes": [
+      10,
+      23,
+      114,
+      17
+    ],
+    "no": [
+      4,
+      6,
+      113,
+      5
+    ],
+    "why": "Köpekbalığı ve denizatı balık; yılan sürüngen; kurbağa amfibidir. Yunus, balina, yarasa ve penguen bu üç gruba girmez."
+  },
+  {
+    "category": "Doğa",
+    "level": 2,
+    "question": "Hangisi uzun boynu veya hortumuyla bitkilere erişen bu otçul memelilerden değildir?",
+    "yes": [
+      2,
+      8,
+      14
+    ],
+    "no": [
+      9,
+      7,
+      18,
+      26
+    ],
+    "why": "Zürafa boynuyla, fil hortumuyla ve deve uzun boynuyla bitkilere erişir. Diğer görsellerde avcı kedigiller vardır."
+  },
+  {
+    "category": "Doğa",
+    "level": 3,
+    "question": "Hangisi dişileri yavrusunu sütle besleyen canlılar içinde yer almaz?",
+    "yes": [
+      13,
+      11,
+      21,
+      20
+    ],
+    "no": [
+      12,
+      19,
+      0,
+      5
+    ],
+    "why": "Panda, goril, şempanze ve su aygırı memelidir; kaplumbağa, timsah, devekuşu ve penguen kuş/sürüngendir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 3,
+    "question": "Hangisi tek çenekli bitkilerden değildir?",
+    "yes": [
+      40,
+      89,
+      90,
+      85
+    ],
+    "no": [
+      42,
+      58,
+      51,
+      123
+    ],
+    "why": "Muz ve tahıllar tek çeneklidir. Elma, armut, gül ve havuç çift çenekli gruplardandır."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 3,
+    "question": "Hangisi çift çenekli bitkilerden değildir?",
+    "yes": [
+      42,
+      58,
+      51,
+      123
+    ],
+    "no": [
+      40,
+      89,
+      90,
+      85
+    ],
+    "why": "Elma, armut, gül ve havuç çift çenekli gruplardandır. Muz ve tahıllar tek çeneklidir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 3,
+    "question": "Hangisi Amerika kıtasında evcilleştirilmiş veya kültüre alınmış bu ürünlerden değildir?",
+    "yes": [
+      85,
+      125,
+      127,
+      57
+    ],
+    "no": [
+      89,
+      90,
+      126,
+      42
+    ],
+    "why": "Mısır, biber, domates ve ananas Amerika kökenli kültür bitkileridir. Buğday, pirinç, soğan ve elmanın kökeni Eski Dünya’dadır."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi aynı zamanda ağaçta yetişen bir gülgil meyvesi değildir?",
+    "yes": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "no": [
+      41,
+      44,
+      40,
+      59
+    ],
+    "why": "Elma, armut, kiraz ve şeftali ağaçta yetişen gülgillerdendir. Çilek gülgil olsa da ağaçta yetişmez; diğerleri başka ailelerdendir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi çiçekli fakat odunsu gövdeli olmayan bu bitkilerden değildir?",
+    "yes": [
+      54,
+      49,
+      50,
+      53
+    ],
+    "no": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "why": "Lale, lotus, orkide ve ayçiçeği otsudur. Elma, armut, kiraz ve şeftali odunsu meyve ağaçlarıdır."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi fotoğrafta tohum yerine meyvesi gösterilen bu bitkilerden değildir?",
+    "yes": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "no": [
+      89,
+      90,
+      85,
+      84
+    ],
+    "why": "Fotoğraflarda elma, armut, kiraz ve şeftalinin meyveleri görülür. Buğday, pirinç ve mısırda taneler; kahvede kavrulmuş tohumlar gösterilir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi ısıl işlem görmüş bu yiyecek/içeceklerden değildir?",
+    "yes": [
+      69,
+      135,
+      88,
+      84
+    ],
+    "no": [
+      42,
+      58,
+      43,
+      41
+    ],
+    "why": "Baklava ve ekmek pişer; çikolata üretiminde işleme, kahvede kavurma vardır. Diğer meyveler fotoğrafta çiğdir."
+  },
+  {
+    "category": "Mutfak ve bitkiler",
+    "level": 2,
+    "question": "Hangisi aroma veya koku için de kullanılan bu çiçekli bitkilerden değildir?",
+    "yes": [
+      51,
+      52,
+      48
+    ],
+    "no": [
+      89,
+      90,
+      85,
+      123
+    ],
+    "why": "Gül, lavanta ve papatya koku/aroma amaçlarıyla da kullanılır. Tahıllar ve havuç bu üç kokulu çiçek grubuna girmez."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Pasifik Okyanusu’na kıyısı olan bir ülkede değildir?",
+    "yes": [
+      32,
+      93,
+      95,
+      94
+    ],
+    "no": [
+      37,
+      38,
+      97,
+      92
+    ],
+    "why": "Avustralya, Peru, Şili ve Çin Pasifik’e kıyılıdır. İtalya, Mısır ve Ürdün değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi Atlantik Okyanusu’na kıyısı olan bir ülkede değildir?",
+    "yes": [
+      35,
+      34,
+      36,
+      91
+    ],
+    "no": [
+      33,
+      94,
+      92,
+      97
+    ],
+    "why": "Fransa, Birleşik Krallık, ABD ve Brezilya Atlantik’e kıyılıdır. Hindistan, Çin, Ürdün ve Mısır değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi İngilizcenin yaygın ana dil olduğu bu ülkelerdeki yapılardan değildir?",
+    "yes": [
+      34,
+      36,
+      32
+    ],
+    "no": [
+      35,
+      38,
+      92,
+      94
+    ],
+    "why": "Birleşik Krallık, ABD ve Avustralya’da İngilizce yaygın ana dildir. Diğer yapılar Fransa, İtalya, Ürdün ve Çin’dedir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 2,
+    "question": "Hangisi Latin Amerika coğrafyasındaki bu anıtlardan değildir?",
+    "yes": [
+      91,
+      93,
+      95
+    ],
+    "no": [
+      36,
+      32,
+      33,
+      94
+    ],
+    "why": "Rio’daki Kurtarıcı İsa, Peru’daki Machu Picchu ve Şili’ye bağlı Paskalya Adası’nın Moai heykelleri Latin Amerika’dadır. Diğerleri değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi 2007’de açıklanan “Dünyanın Yeni Yedi Harikası” listesinde değildir?",
+    "yes": [
+      33,
+      38,
+      92,
+      94
+    ],
+    "no": [
+      35,
+      37,
+      34,
+      32
+    ],
+    "why": "Tac Mahal, Kolezyum, Petra ve Çin Seddi New7Wonders listesindedir. Eyfel, Pisa, Big Ben ve Sidney Opera Binası bu listede değildir."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi Yeni Yedi Harika listesindeki Avrupa dışı alanlardan değildir?",
+    "yes": [
+      33,
+      92,
+      93,
+      94
+    ],
+    "no": [
+      38,
+      35,
+      37,
+      34
+    ],
+    "why": "Tac Mahal, Petra, Machu Picchu ve Çin Seddi Avrupa dışındadır ve listededir. Kolezyum listededir ama Avrupa’dadır; diğer Avrupa yapıları da koşulu sağlamaz."
+  },
+  {
+    "category": "Dünya ve kültür",
+    "level": 3,
+    "question": "Hangisi bir anıt mezar veya mezarlık alanıyla ilgili olan bu eserlerden değildir?",
+    "yes": [
+      33,
+      97,
+      92
+    ],
+    "no": [
+      35,
+      34,
+      38,
+      32
+    ],
+    "why": "Tac Mahal ve piramitler mezar anıtlarıdır; Petra’nın El Hazne yapısı kral mezarı olarak yorumlanır. Diğerlerinin temel işlevi mezar değildir."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi rakip takımın savunduğu hedefe top gönderilen bu sporlarla ilişkili değildir?",
+    "yes": [
+      80,
+      82,
+      78
+    ],
+    "no": [
+      81,
+      77,
+      83,
+      79
+    ],
+    "why": "Futbolda kale, basketbolda pota, ragbide kale çizgisi hedeflenir. Tenis, bilardo, satranç ve voleybolda bu tür bir kale/pota hedefi yoktur."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisi karşılaşmalarında oyun süresi saatle ölçülen bu sporlarla ilişkili değildir?",
+    "yes": [
+      80,
+      82,
+      78
+    ],
+    "no": [
+      81,
+      79,
+      77,
+      83
+    ],
+    "why": "Futbol, basketbol ve ragbide normal maç süresi vardır. Tenis, voleybol ve bilardo set/sayı sistemiyle biter. Satrançta düşünme saati olsa da toplam maç sabit bir oyun süresi değildir."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 2,
+    "question": "Hangisinin oyun ekipmanı kullanıcı tarafından pompayla şişirilmez?",
+    "yes": [
+      80,
+      82,
+      79,
+      78
+    ],
+    "no": [
+      81,
+      77,
+      83,
+      29
+    ],
+    "why": "Futbol, basketbol, voleybol ve ragbi topları pompayla şişirilir. Tenis ve bilardo topları, satranç takımı ve keman bu işlemi gerektirmez."
+  },
+  {
+    "category": "Spor ve sanat",
+    "level": 3,
+    "question": "Hangisi orkestrada tel titreşimiyle ses üreten bu çalgılarla aynı fiziksel ilkeyi kullanmaz?",
+    "yes": [
+      29,
+      30,
+      31
+    ],
+    "no": [
+      46,
+      47,
+      64,
+      65
+    ],
+    "why": "Keman, piyano ve gitarın ses kaynağı teldir; trompet hava sütunu, bateri zar titreşimini kullanır. Saat ve pusula çalgı değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “Aslan Kral, Kung Fu Panda, Çizmeli Kedi” adlarındaki hayvanlardan biri değildir?",
+    "yes": [
+      9,
+      13,
+      106
+    ],
+    "no": [
+      7,
+      18,
+      26,
+      105
+    ],
+    "why": "Bu üç eser adındaki hayvanlar aslan, panda ve kedidir; kaplan, çita, leopar ve köpek bu adlarda geçmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “Çirkin Ördek Yavrusu, Kurbağa Prens, Çizmeli Kedi” masallarının adlarıyla eşleşmez?",
+    "yes": [
+      112,
+      17,
+      106
+    ],
+    "no": [
+      109,
+      111,
+      110,
+      107
+    ],
+    "why": "Masal adlarında ördek, kurbağa ve kedi geçer. Kuğu masalın sonunda görülse de adında geçen hayvan değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi Jules Verne’in “Seksen Günde Devrialem, Balonla Beş Hafta, Denizler Altında Yirmi Bin Fersah” başlıklarıyla eşleşmez?",
+    "yes": [
+      72,
+      136,
+      70
+    ],
+    "no": [
+      116,
+      119,
+      117,
+      120
+    ],
+    "why": "Dünya, balon ve deniz bu üç roman başlığının görsel karşılıklarıdır. Diğer doğa görüntüleri başlıklarda geçmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “gözden düşmek, kalp kırmak, ayak diremek” deyimlerindeki organlardan biri değildir?",
+    "yes": [
+      74,
+      73,
+      76
+    ],
+    "no": [
+      75,
+      63,
+      65,
+      137
+    ],
+    "why": "Deyimlerde göz, kalp ve ayak adları vardır. Beyin modeli, iğne, pusula ve saat bu adları karşılamaz."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “kapı kapı dolaşmak, köprüleri atmak, mumla aramak” sözlerinde geçen nesnelerden değildir?",
+    "yes": [
+      139,
+      138,
+      68
+    ],
+    "no": [
+      64,
+      65,
+      66,
+      67
+    ],
+    "why": "Bu sözlerde kapı, köprü ve mum geçer. Kum saati, pusula, çapa ve çekiç geçmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “gülü seven dikenine katlanır, ağaç yaşken eğilir, armut dibine düşer” sözlerinde adı geçen varlıklardan değildir?",
+    "yes": [
+      51,
+      132,
+      58
+    ],
+    "no": [
+      42,
+      43,
+      45,
+      56
+    ],
+    "why": "Sözlerde gül, ağaç ve armut adları vardır. Diğer dört meyvenin adı bu sözlerde geçmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “aslan payı, deveye hendek atlatmak, atı alan Üsküdar’ı geçti” sözlerindeki hayvanlardan değildir?",
+    "yes": [
+      9,
+      14,
+      102
+    ],
+    "no": [
+      7,
+      1,
+      2,
+      15
+    ],
+    "why": "Sözlerde aslan, deve ve at geçer. Kaplan, zebra, zürafa ve gergedan bu sözlerin hayvanları değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 2,
+    "question": "Hangisi “arının balı, kelebeğin kozası, ördeğin tüyü” bağlantılarındaki hayvanlardan değildir?",
+    "yes": [
+      27,
+      25,
+      112
+    ],
+    "no": [
+      111,
+      110,
+      107,
+      109
+    ],
+    "why": "Bağlantılar arı, kelebek ve ördekle kurulmuştur. Diğer kuşlar bu üç bağlantının hayvanları değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “Swan Lake / Kuğu Gölü, The Lion King / Aslan Kral, The Butterfly / Kelebek” adlarının hayvan karşılıklarından değildir?",
+    "yes": [
+      109,
+      9,
+      25
+    ],
+    "no": [
+      112,
+      7,
+      27,
+      110
+    ],
+    "why": "Başlıklardaki swan kuğu, lion aslan, butterfly kelebek demektir. Diğer hayvanlar bu üç sözcüğün karşılığı değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “tulip, rose, daisy” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      54,
+      51,
+      48
+    ],
+    "no": [
+      50,
+      52,
+      53,
+      49
+    ],
+    "why": "Tulip lale, rose gül, daisy papatya demektir. Orkide, lavanta, ayçiçeği ve lotus başka adlardır."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “pear, peach, cherry” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      58,
+      45,
+      43
+    ],
+    "no": [
+      42,
+      41,
+      44,
+      56
+    ],
+    "why": "Pear armut, peach şeftali, cherry kiraz demektir. Diğer meyveler bu sözcüklerle eşleşmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “needle, anchor, compass” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      63,
+      66,
+      65
+    ],
+    "no": [
+      64,
+      67,
+      134,
+      137
+    ],
+    "why": "Needle iğne, anchor çapa, compass pusula demektir. Kum saati, çekiç, kaşık ve kol saati bu üç sözcüğün karşılığı değildir."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “violin, trumpet, guitar” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      29,
+      46,
+      31
+    ],
+    "no": [
+      30,
+      47,
+      81,
+      83
+    ],
+    "why": "Violin keman, trumpet trompet, guitar gitar demektir. Diğer görseller bu üç sözcükle eşleşmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “owl, eagle, parrot” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      111,
+      3,
+      110
+    ],
+    "no": [
+      107,
+      108,
+      109,
+      112
+    ],
+    "why": "Owl baykuş, eagle kartal, parrot papağan demektir. Tavus kuşu, flamingo, kuğu ve ördek başka adlardır."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “candle, hourglass, wristwatch” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      68,
+      64,
+      137
+    ],
+    "no": [
+      65,
+      66,
+      67,
+      63
+    ],
+    "why": "Candle mum, hourglass kum saati, wristwatch kol saati demektir. Diğer araçlar bu adlarla eşleşmez."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “waterfall, glacier, volcano” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      121,
+      120,
+      117
+    ],
+    "no": [
+      116,
+      119,
+      118,
+      122
+    ],
+    "why": "Waterfall şelale, glacier buzul, volcano yanardağ demektir. Dağ, çöl, kutup ışıkları ve gökkuşağı başka adlardır."
+  },
+  {
+    "category": "Sözcük bağları",
+    "level": 3,
+    "question": "Hangisi “strawberry, watermelon, pineapple” sözcüklerinin Türkçe karşılıklarından değildir?",
+    "yes": [
+      41,
+      59,
+      57
+    ],
+    "no": [
+      42,
+      58,
+      43,
+      45
+    ],
+    "why": "Strawberry çilek, watermelon karpuz, pineapple ananas demektir. Elma, armut, kiraz ve şeftali bu üç adla eşleşmez."
+  }
+]

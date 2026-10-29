@@ -1,0 +1,240 @@
+[
+  {
+    "id": "kizlar-ve-anneleri",
+    "audience": null,
+    "contestants": "unknown; anne-kız ekipleri",
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Anne ve kızlar aynı ekip; mevcut8 sayısı bu metinle doğrulanmıyor. Genel stüdyo seyircisi unknown.",
+    "era": "2013 atv / Ümit İbrahim Kantarcılar",
+    "sources": [
+      "https://www.atv.com.tr/haberler/2013/07/31/kizlar-ve-anneleri"
+    ],
+    "evidence": "Resmi lansman anne-kız takımını ve sunucuyu doğruluyor; kişi sayısı ve tribün hakkında bilgi vermiyor.",
+    "confidence": "low"
+  },
+  {
+    "id": "ilk-bulusma",
+    "audience": false,
+    "contestants": 2,
+    "contestantPose": "seated / mekandaki göreve göre hareket",
+    "hostPose": "unknown; iki sunucu ayrı kontrol odasında",
+    "layoutNotes": "Restoran/gerçek mekan; şakacı ile habersiz arkadaşı birlikte, oyuncu garson/aşçı vb. seyirci değildir. İki sunucuyu yarışmacı masasının yanına koyma.",
+    "era": "FOX arşivi / Şinasi Yurtsever ve Sinan Çalışkanoğlu",
+    "sources": [
+      "https://www.nowtv.com.tr/Ilk-Bulusma/bilgi"
+    ],
+    "evidence": "Resmi format iki sunucuyu kozmik odada, şaka kurbanı ve onu mekana getiren kişiyi gizli kameralı mekanda tanımlıyor. Seyirci false gerçek mekan için format çıkarımıdır.",
+    "confidence": "high"
+  },
+  {
+    "id": "telefon-kulubesi",
+    "audience": false,
+    "contestants": 1,
+    "contestantPose": "standing / moving",
+    "hostPose": "voice-only",
+    "layoutNotes": "Kamusal telefon kulübesi ve verilen görevlerin mekanları; 4 sabit stüdyo yarışmacısı ve tribün yerine tek aktif kişi. Yoldan geçenler ayrı çevresel kişiler.",
+    "era": "2009 Kanal D / gizemli telefon sesi",
+    "sources": [
+      "https://artifilm.com.tr/tr/shows/telefon-kulubesi.html",
+      "https://eurod.kanald.com.tr/telefonkulubesi/telefon-kulubesi-basliyor/1250",
+      "https://www.yenisafak.com/televizyon/yaz-ekranina-iki-yeni-yarisma-193854"
+    ],
+    "evidence": "Yapımcı reality show ve Kanal D bilgisini; dönem haberi sesin görevlerini yerine getiren tek kişiyi doğrular. Stüdyo seyircisi yokluğu kamusal görev formatına dayalı çıkarımdır.",
+    "confidence": "medium"
+  },
+  {
+    "id": "cifte-milyon",
+    "audience": null,
+    "contestants": "phase-dependent: açılışta rakip çiftler; para koruma etabında1çift/2kişi",
+    "contestantPose": "standing for cash allocation (format inference)",
+    "hostPose": "unknown",
+    "layoutNotes": "Dev kasa ve cevaplara para dağıtılan platform. Kadın eleme/kapışma etabı ile kazanan çiftin para etabı ayrılmalı; açılış çift sayısı unknown.",
+    "era": "NOW / İlker Ayrık",
+    "sources": [
+      "https://www.nowtv.com.tr/Cifte-Milyon/bilgi"
+    ],
+    "evidence": "Resmi tanıtım kadınların kapışmasını, kaybedenin eşiyle ayrılmasını ve kazananın parayı kocasına vermesini açıklar. Seyirci ve kesin oturma pozu belirtilmiyor.",
+    "confidence": "high"
+  },
+  {
+    "id": "yaparsin-askim",
+    "audience": null,
+    "contestants": 8,
+    "contestantPose": "mixed; yarışma görevinde standing/moving, bekleme/bahis pozu unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "4 çift; fiziksel görev alanı ve çiftlerin bekleme alanı ayrı. Herkesi aynı yönde alkışlayan seyirci olarak modelleme.",
+    "era": "2018 FOX / İlker Ayrık",
+    "sources": [
+      "https://www.nowtv.com.tr/Yaparsin-Askim/bilgi",
+      "https://www.dizihaberci.com/haber/yaparsin-askim-1-ocak-pazartesi-arabayi-kim-kazandi"
+    ],
+    "evidence": "NOW eşlerin tahmin ve fiziksel oyun formatını; dönem bölüm haberi 4 çifti isimleriyle doğrular. Genel seyirci varlığı açık doğrulanmadı.",
+    "confidence": "medium"
+  },
+  {
+    "id": "hepsi-benim",
+    "audience": true,
+    "contestants": 8,
+    "contestantPose": "standing/task-dependent; exact waiting pose unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "4 ayrı çiftin ürün fiyatı tahmini ve beceri oyunu alanı, ürün sergisi/tablet ödül seçimi. Seyirci ayrı tribündür.",
+    "era": "2020 FOX / Çağla Şıkel",
+    "sources": [
+      "https://www.provizyonmedya.com.tr/"
+    ],
+    "evidence": "Resmi yapımcı açıkça izleyicilerin yer aldığı stüdyoda dört ayrı çiftin yarıştığını yazıyor.",
+    "confidence": "high"
+  },
+  {
+    "id": "on-dokuz",
+    "audience": null,
+    "contestants": 2,
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "2 aktif düellocu + Muhteşem5’li ayrı panel (toplam7 yarışmacı rolü); 19 kutu sahibi veya19 kişilik oyuncu dizisi hatalı. Panel seyirci değildir.",
+    "era": "Kanal D / Barış Kılıç",
+    "sources": [
+      "https://eurod.kanald.com.tr/19/bolumler/19-2-bolum"
+    ],
+    "evidence": "Kanal D resmi bölüm açıklaması iki güçlü yarışmacının düellosu ve Muhteşem5’liye yeni yarışmacıyı açıkça doğruluyor. Pozlar ve genel tribün unknown.",
+    "confidence": "high",
+    "panel": 5,
+    "totalParticipantRoles": 7
+  },
+  {
+    "id": "sahane-pazar",
+    "audience": true,
+    "contestants": "variable; mini oyuna göre seyirciden katılımcılar",
+    "contestantPose": "standing/moving for physical mini games",
+    "hostPose": "unknown; iki sunucu",
+    "layoutNotes": "Süheyl ve Behzat birlikte; tek4lü sabit bilgi yarışması değil, seyirci katılımlı mini oyunlar. Güncel sahne canlandırmasını eski TV dekoruyla karıştırma.",
+    "era": "Eski TV formatı / Süheyl ve Behzat Uygur; kaynak2026 sahne canlandırması",
+    "sources": [
+      "https://sahanepazarsahnede.com/hakkinda"
+    ],
+    "evidence": "Programın kendi devam projesinin açıklaması eski programın oyunlarını ve seyircinin dahil olduğu ruhunu, güncel gösteride seyircinin oyunlara katılımını açıklar. EskiTV kesin tribün planı/kişi sayısı unknown; audience orta güven.",
+    "confidence": "medium"
+  },
+  {
+    "id": "bak-su-duvara",
+    "audience": null,
+    "contestants": 6,
+    "contestantPose": "standing/moving",
+    "hostPose": "unknown",
+    "layoutNotes": "2takım x3kişi; aktif geçişler tekli, ikili ve üçlü; ileri gelen şekilli duvar ve havuz. Mevcut4 oyuncu hatalı.",
+    "era": "2009 Star / Behzat Uygur",
+    "sources": [
+      "https://baksuduvara.blogspot.com/2009/"
+    ],
+    "evidence": "Dönem tanıtımı aktaran arşiv blogu üçer kişilik iki takım ve havuzu açıkça tarifler; resmi yayıncı kaynağı erişilemedi. Tribün unknown.",
+    "confidence": "medium"
+  },
+  {
+    "id": "cember",
+    "audience": null,
+    "contestants": 5,
+    "contestantPose": "mixed; living/resting/standing in circle",
+    "hostPose": "unknown / visible host unconfirmed",
+    "layoutNotes": "5kişinin3.5mçaplı çember içinde3gün yaşadığı dayanıklılık alanı.4kişi hatalı; sıradan bilgi yarışması kürsüsü kurma.",
+    "era": "2011 Show TV / görünür sunucu unknown",
+    "sources": [
+      "https://www.haberturk.com/medya/haber/599117-yeni-yarisma-programi-basliyor"
+    ],
+    "evidence": "Dönem haberinde5kişi,3gün,3.5mçember açık. Seyirci yokluğu metindeki sessizlikten çıkarılmıyor, unknown.",
+    "confidence": "medium"
+  },
+  {
+    "id": "gonder-gitsin",
+    "audience": null,
+    "contestants": 2,
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Tek ekip olan çift aynı cevap alanında; dört fotoğraf seçeneği ve büyük resim ekranı. İki kişi birbirinin düello rakibi değildir.",
+    "era": "FOX / Timur Acar",
+    "sources": [
+      "https://www.nowtv.com.tr/Gonder-Gitsin/bilgi"
+    ],
+    "evidence": "Resmi NOW sayfası yalnız çift olarak yarışılabildiğini ve10soru/fotoğraf seçeneklerini doğrular. Tribün/poz unknown.",
+    "confidence": "high"
+  },
+  {
+    "id": "temizlik-benim-isim",
+    "audience": false,
+    "contestants": 5,
+    "contestantPose": "mixed; standing/moving for cleaning, judging seated possible but exact pose unknown",
+    "hostPose": "standing/moving in actual home (format inference)",
+    "layoutNotes": "Haftalık5yarışmacı,5ev; günlük temizlikte1aktif kişi ve diğer4rakip değerlendirme rolünde; stüdyo tribünü yok, gerçek ev.",
+    "era": "FOX / Kadir Ezildi",
+    "sources": [
+      "https://www.nowtv.com.tr/Temizlik-Benim-Isim/bilgi"
+    ],
+    "evidence": "Resmi format5titizin hafta boyunca5evi temizlediğini doğrular. audience false yalnız evdeki gündelik sahne içindir; ev formatından çıkarım.",
+    "confidence": "high",
+    "dailyActive": 1,
+    "rivalJudges": 4
+  },
+  {
+    "id": "goz6",
+    "audience": false,
+    "contestants": "variable; başlangıç16 (8kadın+8erkek) ikincil kaynak, exact episode count unknown",
+    "contestantPose": "mixed; ev yaşamı ve fiziksel oyun",
+    "hostPose": "unknown; Jess oyunları, Öykü canlı/eleme bağlamı",
+    "layoutNotes": "Kadın/erkek ayrı evleri ve görev alanı; 4kişilik sabit stüdyo yarışı değil. Ev sahnesine seyirci tribünü ekleme. Canlı final seyircisi unknown.",
+    "era": "2016–2017 TV8 / Jess Molho ve Öykü Serter",
+    "sources": [
+      "https://www.instagram.com/tv8goz6/",
+      "https://www.facebook.com/TV8/videos/pazartesi-g%C3%BCn%C3%BCnden-itibaren-tv8-ekranlar%C4%B1nda-g%C3%B6z6-oyunlar%C4%B1n%C4%B1-jess-molho-sunacak/1177152525641451/",
+      "https://tr.wikipedia.org/wiki/G%C3%B6z_6",
+      "https://www.facebook.com/DiziReytingleri/photos/g%C3%B6z6ya-sunucu-takviyesi-jess-molho-geliyoracunmedyan%C4%B1n-yap%C4%B1mc%C4%B1l%C4%B1%C4%9F%C4%B1nda-tv8-ekranl/1270019503087165/"
+    ],
+    "evidence": "Program resmi sosyal profili kadın/erkek kazananı ve Jess’i; TV8tanıtımı Jess’in oyun sunumunu; ikincil kaynak16kişiyi doğrular. false yalnız ev/görev sahnesi çıkarımı.",
+    "confidence": "medium"
+  },
+  {
+    "id": "evim-sahane",
+    "audience": false,
+    "contestants": "one household; family count variable, not4fixed contestants",
+    "contestantPose": "mixed; home interview/work/reveal",
+    "hostPose": "standing/moving in home (format inference)",
+    "layoutNotes": "Gerçek ev,1hane ve usta ekibi; Selim Yuhay mimar olarak ev sahibiyle görüşür, aile evden ayrılır ve dönüşte yenileme açıklanır. Tribün yok.",
+    "era": "2010lar Kanal D / Selim Yuhay",
+    "sources": [
+      "https://www.kanald.com.tr/evimsahane/ozetler/evim-sahane/3012.aspx"
+    ],
+    "evidence": "Resmi Kanal D ev, aile fertleri, mimar ve usta ekibini tanımlar;4yarışmacılı stüdyo oyunu değil. Seyirci false gerçek ev formatından çıkarım.",
+    "confidence": "high"
+  },
+  {
+    "id": "elli-sarisin",
+    "audience": null,
+    "contestants": 51,
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "1erkek ana yarışmacı +50kadın rakip; kadınlar seyirci değildir.10arlı soru grupları; tam oturma/ayakta ve tribün düzeni unknown.",
+    "era": "2008–2009 FOX / Mehmet Ali Erbil",
+    "sources": [
+      "https://medyapim.com/kisi/mehmet-ali-erbil/",
+      "https://www.main-board.com/169812/mehmet-ali-erbil-ile-50-sarisin"
+    ],
+    "evidence": "Resmi yapımcı sunucu/dönem programını doğrular. Dönem tanıtımı aktaran ikincil forum1erkeğe karşı50kadını/10lu grupları doğrular. Genel seyirci unknown.",
+    "confidence": "medium",
+    "mainContestants": 1,
+    "opponentPanel": 50
+  },
+  {
+    "id": "milyonluk-resim",
+    "audience": null,
+    "contestants": 1,
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Dev resim ekranı ve tek yarışmacı;12soruluk para ağacı. Kesin koltuk/hostyerleşimi ve genel seyirci unknown.",
+    "era": "FOX / Selçuk Yöntem",
+    "sources": [
+      "https://www.nowtv.com.tr/Milyonluk-Resim/bilgi",
+      "https://www.provizyonmedya.com.tr/"
+    ],
+    "evidence": "Resmi NOW resim ekranı,tekil yarışmacı,12soru ve sunucu künyesini verir; dekor ve seyirci hakkında kesin veri yok.",
+    "confidence": "high"
+  }
+]

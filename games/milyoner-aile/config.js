@@ -1,0 +1,1 @@
+window.GAME318={"name": "Milyoner Aile", "rules": "Dört kişilik dört aile ve 15 hareketli klip. Ayrıntıları hatırla; en çok doğruyu en kısa sürede veren aile kazansın. Klip bitince soruyu yanıtla. Ailenin ve rakiplerinin sıralamasını izle."};

@@ -1,0 +1,13 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),path=require('node:path');
+const slugs=JSON.parse(fs.readFileSync('research/people435-games.json')),source=fs.readFileSync('dist/humans435/actors.js','utf8');
+function context(game,gender='male',age=30){const c={console,location:{pathname:'/games/'+game+'/index.html'},document:{body:{dataset:{game}},readyState:'loading',addEventListener(){}},ArenaProfile338:{get:()=>({name:'Mustafa',gender,age})}};c.window=c;vm.createContext(c);vm.runInContext(fs.readFileSync('dist/humans435/data.js','utf8'),c);vm.runInContext(source,c);return c}
+const c=context('password'),d=c.ArenaHumansData435;
+assert.equal(slugs.length,53);for(const slug of slugs){const html=fs.readFileSync('dist/games/'+slug+'/index.html','utf8');assert.equal(html.split('humans435/actors.js').length-1,1,slug);assert.equal(html.split('humans435/actors.css').length-1,1,slug);assert(d.dom[slug]);for(const name of d.dom[slug].hostIdentity.split(' · ').filter(Boolean))assert(d.poses[name],slug+': '+name)}
+for(const [name,p] of Object.entries(d.poses)){if(!p.asset)continue;assert(fs.existsSync('dist/'+p.asset),name);const[x,y,w,h]=p.rect;assert(x>=0&&y>=0&&w>0&&h>0&&x+w<=p.size[0]+.01&&y+h<=p.size[1]+.01,name)}
+for(const name of ['Enis Arıkan','Şebnem Bozoklu','Demet Evgar','Eser Yenenler','Büşra Pekin','İbrahim Büyükak','Gupse Özay','Oğuzhan Koç','Ezgi Mola','Doğu Demirkol','Melis Sezen','İrem Sak']){const p=c.ArenaHumans435.identity({name});assert.equal(p.id,name);const svg=c.ArenaHumans435.person({name});assert(svg.includes('data-person435="'+name+'"'));assert(svg.includes('clip-path="url(#human-clip435-'));assert(!svg.includes('portrait35'))}
+assert.equal(Object.keys(d.bounds).filter(n=>/^blonde\d$/.test(n)).reduce((n,k)=>n+d.bounds[k].length,0),50);
+assert(c.ArenaHumans435.identity({id:'you',name:'Mustafa',player:true}).id.endsWith('-3')||c.ArenaHumans435.identity({id:'you',name:'Mustafa',player:true}).id.endsWith('-1'));
+for(const slug of ['kizlar-ve-anneleri','altin-sofra','esim-yapar','yaparsin-askim']){const a=context(slug).ArenaHumans435.identity({id:'role',name:'Ece',gender:'female',player:true});assert.equal(+a.id.split('-').at(-1)%2,0,slug)}
+const f=context('password','female',50).ArenaHumans435.identity({id:'you',name:'Oyuncu',player:true});assert.equal(+f.id.split('-').at(-1)%2,0);assert(+f.id.split('-').at(-1)>=4);
+const anil=context('cevap-sende').ArenaHumans435.identity({name:'Anıl İlter'});assert.equal(anil.seated,false);assert(anil.asset.includes('anil-standing'));
+console.log('PASS435: all53 scoped loaders; named host/guest identities;50 distinct blondes; full-body crop bounds; player age/gender and fixed female roles; standing Anıl; isolated alpha clips.');

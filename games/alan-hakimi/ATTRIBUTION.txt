@@ -1,0 +1,2 @@
+Twemoji graphics: Copyright Twitter, Inc and contributors. Licensed under CC-BY 4.0. https://github.com/twitter/twemoji ; https://creativecommons.org/licenses/by/4.0/ . Product illustrations are original vector drawings made for Yarışma Arenası. Independent game; no connection to ATV or The Floor.
+Maracas illustration, geometric shapes, color swatches and studio/player drawings are also original code-based artwork. Twemoji SVGs are bundled unmodified.

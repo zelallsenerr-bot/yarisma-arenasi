@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/gonder-gitsin/index.html",
+      "status": "modified",
+      "base_sha256": "ea22d15a8cd7c2e9308e5cfa5a073059302a0fa81b1e15ab5b8b8c877aea4b5c",
+      "new_sha256": "cef00d9be30a9bbf19e0d1694590861dbb7cbc23021749a3885e1940d6989a6e"
+    },
+    {
+      "path": "dist/games/gonder-gitsin/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "fb49fac250d8c6d516676c63d37402b1949030f3dafb99620c4d7884d1652952"
+    },
+    {
+      "path": "dist/games/gonder-gitsin/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "5abafe4085f41ed73c64b2ed141fbf9913f93d125f1f6cfea4a7a32a98475b0a"
+    }
+  ],
+  "shared_files_changed": []
+}

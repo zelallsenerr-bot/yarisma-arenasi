@@ -1,0 +1,32 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/cevap-soruda/index.html",
+      "status": "modified",
+      "base_sha256": "ec76752f9283a9b2a1ad0467646db515d7ef1235ea9848bcf4b2a026752dbc6d",
+      "new_sha256": "0fc2cdcfc9ec256303d44523a7ee2f1b915db113f8ad5a01bf75be3f2bbf9316"
+    },
+    {
+      "path": "dist/games/cevap-soruda/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "585358ad65680614d11d339d2d7ffea5d49138e63cb5c582c01adbc58e41cb6d"
+    },
+    {
+      "path": "dist/games/cevap-soruda/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "74e02faca5cb0f79b7a44f6d504fe405d7e52cd09adbfa841d6e69878ecbac10"
+    },
+    {
+      "path": "dist/games/cevap-soruda/platform-reference.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "999621a294ed240c45da258fa0fe44fbfe75062ef8d0a41317e46aed19b61861"
+    }
+  ],
+  "shared_files_changed": []
+}

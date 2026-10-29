@@ -1,0 +1,3 @@
+(()=>{const cfg={id:"sans-kapiyi-calinca",name:"Şans Kapıyı Çalınca",host:"Emre Altuğ",layout:"luck-family",hostPose:"standing",players:2,audience:true,native:false,accent:"#ed4773"};window.ArenaStudioData211[cfg.id]=cfg;
+window.ArenaBodyPoses211["Emre Altuğ"]=window.ArenaHumansData435.poses["Emre Altuğ"]={"asset": "games/sans-kapiyi-calinca/emre441.webp", "size": [1536, 1024], "height": 2.1, "seated": false, "facing": "front", "gender": "male", "rect": [298, 26, 355, 951]};
+window.ArenaBlockingData437.poses["Emre Altuğ|standing"]={"asset": "games/sans-kapiyi-calinca/emre441.webp", "size": [1536, 1024], "height": 2.1, "seated": false, "facing": "left", "gender": "male", "rect": [926, 33, 362, 944]};})();

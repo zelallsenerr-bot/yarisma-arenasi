@@ -1,0 +1,7 @@
+Mevcut proje: Yarışma Arenası — Önizleme
+Site kimliği: appgprj_6ada66b922988191b98d958b6b304a37
+Bu ZIP yalnız fark dosyaları değil, tüm güncel kaynak ve oyun varlıklarını içerir.
+Son düzenlemeler DEGISIKLIK_NOTLARI513.md ve DEGISIKLIK_NOTLARI514.md dosyalarında.
+Yayındaki sürüm 90; uzak kaynak kaydı HTTP 500 hatası nedeniyle başarısız. Yeni site oluşturulmadı.
+Siteyi geliştirmek için bu dosyaları mevcut projenin kaynakları olarak kullanın.
+Yerelde çalıştırma: bu klasörde python -m http.server 8000 --directory dist komutundan sonra http://localhost:8000 adresini açın. HTML dosyasını doğrudan çift tıklamak modülleri açmayabilir.

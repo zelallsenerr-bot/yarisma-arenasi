@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/gel-hemserim/index.html",
+      "status": "modified",
+      "base_sha256": "d1f0a81ba968d5352a63c7ef22f6945df7ee5bb621fa8e795addc18596acc50e",
+      "new_sha256": "3bbff9c3f0405def0ba9814887370bce5c75d2e02cea37504c1b0d308f18eba7"
+    },
+    {
+      "path": "dist/games/gel-hemserim/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "9cd7d7c62f47bc996e31aaee5921d8fd075380a0d79ed98860c611ced2b14e65"
+    },
+    {
+      "path": "dist/games/gel-hemserim/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "e45ebafd4b17353d86f14d01175ddc154caad1b71a4bae3df73e2470129f5ba8"
+    },
+    {
+      "path": "dist/games/gel-hemserim/platform-village.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "0e3db1dafd4bbe9bdc31a22d3c698a5d742a4a282a9ed45155061e6a5810b642"
+    }
+  ]
+}

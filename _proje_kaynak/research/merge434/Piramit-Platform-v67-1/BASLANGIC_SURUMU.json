@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/piramit/index.html",
+      "status": "modified",
+      "base_sha256": "8a1c86e1971bc5e9af8800a06bb582b70c8c86b815243aca9875beae3354b48c",
+      "new_sha256": "8cc20992f64294b7d45b048400bcd6a048668f7fdbe9661deffc38c49d27258e"
+    },
+    {
+      "path": "dist/games/piramit/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "82c471bdc2d3802fd47a4b4c83d856c0b4f14bd06c2d6fb79b207e68901240b9"
+    },
+    {
+      "path": "dist/games/piramit/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "ee30f102e77c8f6617b36add6126a13f307fcc22d5872c101939820d2e2c4289"
+    }
+  ]
+}

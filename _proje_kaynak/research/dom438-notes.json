@@ -1,0 +1,743 @@
+{
+  "revision": 438,
+  "scope": "54 DOM oyun",
+  "audited": 54,
+  "formatsWithVariedGroup": 32,
+  "unnecessaryAudienceRemoved": [
+    "altmis-saniye",
+    "arkandayiz",
+    "cevap-sende",
+    "kapis-kapis"
+  ],
+  "changedFormats": 34,
+  "validation": [
+    "actors.js ve blocking437.js node --check geçti.",
+    "VM sahne kontrolü: farklı yön/pozlar, sunucu hariç tutma ve tekrarlanan taramada sabit yerleşim geçti.",
+    "Tarayıcı görsel kontrolünü ana ajan tamamlayacak."
+  ],
+  "games": [
+    {
+      "id": "ada-mucadelesi",
+      "name": "Survivor",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "İki takımın bekleme sıralarındaki kişilerin bakış ve ellerine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "altin-sofra",
+      "name": "Gelinim Mutfakta",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Arkadaki dört mutfak tezgâhının başındaki gelinlere bak; öndeki sunucu–kayınvalide korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "altmis-saniye",
+      "name": "Kazanmak İçin 1 Dakika",
+      "changed": true,
+      "changes": [
+        "Dekoratif, oyuna katılmayan seyirci alanı kaldırıldı: .mn-audience."
+      ],
+      "lookAt": "Sunucu ve yarışmacı etrafındaki kaldırılmış arka seyirci sırasına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "anlasma",
+      "name": "Anlaşma",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Ortak masadaki üç kişinin aynı pozu tekrarlamamasına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "arkandayiz",
+      "name": "Arkandayız",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi.",
+        "Dekoratif, oyuna katılmayan seyirci alanı kaldırıldı: .arka-audience-v67."
+      ],
+      "lookAt": "Arka masada oturan üç destekçiye ve boşalan yan tribün alanlarına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "bak-su-duvara",
+      "name": "Bak Şu Duvara",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Sağda bekleyen takım arkadaşlarına bak; duvar görevindeki hareketli yarışmacı korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "ben-bilirim",
+      "name": "Ben Bilirim",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Dört yarışmacının kendi kürsüsü üzerindeki gövde hizasına ve farklı ellerine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "beyazla-joker",
+      "name": "Beyaz’la Joker",
+      "changed": false,
+      "changes": [
+        "İki kişilik beğenilen karşılıklı sohbet ve koltuk düzeni korundu."
+      ],
+      "lookAt": "İki kişilik beğenilen karşılıklı sohbet ve koltuk düzeni korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "cember",
+      "name": "Çember",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Çember çevresinde bekleyen kişilere bak; ortadaki etkin poz korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "cevap-sende",
+      "name": "Cevap Sende",
+      "changed": true,
+      "changes": [
+        "Dekoratif, oyuna katılmayan seyirci alanı kaldırıldı: .cs-audience-v67."
+      ],
+      "lookAt": "Üstte ve altta kaldırılmış seyirci kutularına bak; etkin ikili yerleşimi korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "cevap-soruda",
+      "name": "Cevap Soruda",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Dört kürsünün arkasındaki gövde merkezlerine ve birbirinden farklı bekleme/konuşma pozlarına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "cifte-milyon",
+      "name": "Çifte Milyon",
+      "changed": false,
+      "changes": [
+        "İki yarışmacı ile sunucunun para masası etrafındaki mevcut konumları korundu."
+      ],
+      "lookAt": "İki yarışmacı ile sunucunun para masası etrafındaki mevcut konumları korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "donen-koltuklar",
+      "name": "O Ses Türkiye",
+      "changed": false,
+      "changes": [
+        "Kör seçmede koltukların dönmesi ve arkadan görünen jüri pozları korundu; rastgele yön uygulanmadı."
+      ],
+      "lookAt": "Kör seçmede koltukların dönmesi ve arkadan görünen jüri pozları korundu; rastgele yön uygulanmadı.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "elli-sarisin",
+      "name": "50 Sarışın",
+      "changed": false,
+      "changes": [
+        "Elli ayrı sarışın kadın için mevcut farklı görseller korundu; genel insan havuzuyla değiştirilmedi."
+      ],
+      "lookAt": "Elli ayrı sarışın kadın için mevcut farklı görseller korundu; genel insan havuzuyla değiştirilmedi.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "esim-yapar",
+      "name": "Ben Bilmem Eşim Bilir",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Arkadaki erkek eşler ile öndeki kadınların sırayla farklı yönlere dikkat vermesine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "evim-sahane",
+      "name": "Evim Şahane",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Sunucunun arkasındaki kalabalık ekip sırasına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "eyvah-dusuyorum",
+      "name": "Mehmet Ali Erbil ile Eyvah Düşüyorum",
+      "changed": false,
+      "changes": [
+        "Hareketli düşme ve platform aktörlerine rastgele poz uygulanmadı."
+      ],
+      "lookAt": "Hareketli düşme ve platform aktörlerine rastgele poz uygulanmadı.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "gel-hemserim",
+      "name": "Gel Hemşerim",
+      "changed": false,
+      "changes": [
+        "İki kişilik mevcut karşılıklı yerleşim korundu."
+      ],
+      "lookAt": "İki kişilik mevcut karşılıklı yerleşim korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "gonder-gitsin",
+      "name": "Gönder Gitsin",
+      "changed": false,
+      "changes": [
+        "İki yarışmacı ve sunucunun ortak masa arkasındaki mevcut yerleşimi korundu."
+      ],
+      "lookAt": "İki yarışmacı ve sunucunun ortak masa arkasındaki mevcut yerleşimi korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "goz6",
+      "name": "Göz6",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Kızlar ve erkekler sıralarında oturan kişilerin aynı yönde ve aynı elle durmamasına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "halka-mucadelesi",
+      "name": "En Zayıf Halka",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Çevredeki dokuz kürsüye bak; gövdeler kürsü merkezinden yana kaçmamalı.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "hepsi-benim",
+      "name": "Hepsi Benim",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Dört çiftin kendi bankolarında farklı bekleme pozlarına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "herkes-kazanir",
+      "name": "Herkes Kazanır",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Beş koltukta oturanların farklı bekleme/konuşma ellerine bak; sunucunun ön alanı korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "ilk-bulusma",
+      "name": "İlk Buluşma",
+      "changed": false,
+      "changes": [
+        "İki sunucu mevcut kontrol masasındaki yerlerinde; yarışmacı ve yakını karşılıklı korunur."
+      ],
+      "lookAt": "İki sunucu mevcut kontrol masasındaki yerlerinde; yarışmacı ve yakını karşılıklı korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "kapis-kapis",
+      "name": "Kapış Kapış",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi.",
+        "Dekoratif, oyuna katılmayan seyirci alanı kaldırıldı: .kp-audience."
+      ],
+      "lookAt": "Üst katta dört çiftin masalarına ve kaldırılan arkadaki dekoratif seyircilere bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "kelime-islem",
+      "name": "Bir Kelime Bir İşlem",
+      "changed": false,
+      "changes": [
+        "İki yarışmacı, sunucu ve uzmanların ayrı masa ilişkileri korundu."
+      ],
+      "lookAt": "İki yarışmacı, sunucu ve uzmanların ayrı masa ilişkileri korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "kelime-meydani",
+      "name": "Kelime Oyunu",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Arka sırada bekleyen yarışmacıların koltuklarına bak; öndeki aktif sunucu–yarışmacı korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "kizlar-ve-anneleri",
+      "name": "Kızlar ve Anneleri",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Ön ve arka sıradaki kızlar ve annelerin kürsü merkezlerine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "kizma-kazan",
+      "name": "Kızma Kazan",
+      "changed": false,
+      "changes": [
+        "Öner Erkan’ın mevcut masa arkasındaki oturuşu korundu."
+      ],
+      "lookAt": "Öner Erkan’ın mevcut masa arkasındaki oturuşu korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "kumbara",
+      "name": "Ali İhsan Varol ile Kumbara",
+      "changed": false,
+      "changes": [
+        "Ali İhsan Varol ve yarışmacının mevcut masa/tabure yerleşimi korundu."
+      ],
+      "lookAt": "Ali İhsan Varol ve yarışmacının mevcut masa/tabure yerleşimi korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "milyonluk-resim",
+      "name": "Milyonluk Resim",
+      "changed": false,
+      "changes": [
+        "Selçuk Yöntem ile yarışmacının iki taburedeki yerleşimi korundu."
+      ],
+      "lookAt": "Selçuk Yöntem ile yarışmacının iki taburedeki yerleşimi korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "on-dokuz",
+      "name": "19",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Çevredeki beş adayın bekleme pozlarına bak; iki ana düello yarışmacısı korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "para-bende",
+      "name": "Para Bende",
+      "changed": false,
+      "changes": [
+        "İki sunucunun açık hava sahnesindeki karşılıklı yerleşimi korundu."
+      ],
+      "lookAt": "İki sunucunun açık hava sahnesindeki karşılıklı yerleşimi korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "para-odasi",
+      "name": "Para Odası",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Üç yarışmacının kendi dar kürsüsü arkasındaki gövde hizasına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "password",
+      "name": "Password",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Sunucu dışındaki dört oturan kişinin yön ve ellerine bak; sunucu pozuna dokunulmadı.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "piramit",
+      "name": "Piramit",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "İki masadaki dörder değil toplam dört oturan yarışmacı/ünlünün doğal bekleyişine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "sahane-pazar",
+      "name": "Şahane Pazar",
+      "changed": false,
+      "changes": [
+        "Etkin görev oyuncusuna ve iki sunucunun görev pozlarına rastgele grup pozu uygulanmadı."
+      ],
+      "lookAt": "Etkin görev oyuncusuna ve iki sunucunun görev pozlarına rastgele grup pozu uygulanmadı.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "sans-kapida",
+      "name": "Şans Kapıda",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Kanepedeki aile üyelerinin farklı dikkat ve el pozlarına bak; sunucu koltuğu korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "sansli-masa",
+      "name": "Şanslı Masa",
+      "changed": false,
+      "changes": [
+        "Beğenilen iki sunuculu kontrol masası ve karşılıklı sohbet eden restoran masası korundu."
+      ],
+      "lookAt": "Beğenilen iki sunuculu kontrol masası ve karşılıklı sohbet eden restoran masası korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "sebeke",
+      "name": "Şebeke",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Karşılıklı koltuklardaki aile/çift üyelerinin farklı bekleme ve konuşma pozlarına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "sefler-arenasi",
+      "name": "MasterChef Türkiye",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Mutfak tezgâhlarının başındaki yarışmacıların masa merkezleri ve farklı duruşlarına bak; üç şef jürisi korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "sofra-rekabeti",
+      "name": "Yemekteyiz",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Masa çevresindeki konukların farklı dinleme/konuşma pozlarına bak; Zuhal Topal’ın yeri korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "super-bulmaca",
+      "name": "Süper Bulmaca",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Dört eğimli kürsüdeki yarışmacıların kendi masa merkezlerinde kalmasına bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "takip",
+      "name": "Takip",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Üç kişilik takımın ortak masa arkasındaki oturuşlarına bak; sunucu ve takipçi korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "telefon-kulubesi",
+      "name": "Telefon Kulübesi",
+      "changed": false,
+      "changes": [
+        "Telefon tutan özel el/ahize pozu korundu."
+      ],
+      "lookAt": "Telefon tutan özel el/ahize pozu korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "temizlik-benim-isim",
+      "name": "Temizlik Benim İşim",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Oturan yarışmacıların farklı el ve dikkat yönlerine bak; Kadir Ezildi’nin yeri korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "the-taste-turkiye",
+      "name": "The Taste Türkiye",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "Yarışmacı mutfak sıralarındaki farklı bekleyişlere bak; dört şefin kimlik/pozları korunur.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "turnike",
+      "name": "Turnike",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı.",
+        "Ayakta duran grup üyelerinde geniş el hareketinin görsel merkezini değil alt gövde merkezini kendi kürsü/tezgâh noktasına hizalama eklendi."
+      ],
+      "lookAt": "İki takımın masa arkasındaki kişileri ile üstteki numaralı paneli kontrol et.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "ucte-uc",
+      "name": "3’te 3",
+      "changed": false,
+      "changes": [
+        "Yarışmacı, Pelin Çift ve Tufan Gündüz’ün ayrı eylem/masa yerleşimleri korundu."
+      ],
+      "lookAt": "Yarışmacı, Pelin Çift ve Tufan Gündüz’ün ayrı eylem/masa yerleşimleri korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "utopya",
+      "name": "Ütopya",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Evdeki oturma sıralarının hepsinin aynı yana dönmemesine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "yaparsin-askim",
+      "name": "Yaparsın Aşkım",
+      "changed": true,
+      "changes": [
+        "Üç veya daha fazla kişiden oluşan grupta kişiye sabit farklı bakış yönleri; sakin dinleme ve konuşma el pozları karıştırıldı."
+      ],
+      "lookAt": "Sessiz odadaki erkekler ile öndeki kadınların farklı bekleyişlerine bak.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "yasim-kac",
+      "name": "Yaşım Kaç?",
+      "changed": false,
+      "changes": [
+        "İki yarışmacının arkadan görünen dinleme pozu ve sunucu–konuk ilişkisi korundu."
+      ],
+      "lookAt": "İki yarışmacının arkadan görünen dinleme pozu ve sunucu–konuk ilişkisi korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "yetenek-sahnesi",
+      "name": "Yetenek Sizsiniz Türkiye",
+      "changed": false,
+      "changes": [
+        "Jürinin arkadan görünümü ve sahnedeki etkin performans pozu korundu."
+      ],
+      "lookAt": "Jürinin arkadan görünümü ve sahnedeki etkin performans pozu korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    },
+    {
+      "id": "harf-cemberi",
+      "name": "Passaparola",
+      "changed": false,
+      "changes": [
+        "İki kişilik sunucu–yarışmacı ve ortak masa ilişkisi korundu."
+      ],
+      "lookAt": "İki kişilik sunucu–yarışmacı ve ortak masa ilişkisi korundu.",
+      "checks": [
+        "Kaynak: platform.js ve DOM kişi/masa seçicileri incelendi.",
+        "Oyun durumu, cevaplar, puanlar ve tıklama işlemleri değiştirilmedi."
+      ]
+    }
+  ]
+}

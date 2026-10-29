@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/yetenek-sahnesi/index.html",
+      "status": "modified",
+      "base_sha256": "9e6f75fa0d0ed9c79f5be3a8bc12bb2ff98e8b0565022cc235160b9290a91083",
+      "new_sha256": "475cde2dca2f1f637ca1ec2c6332a576d096a75b9518364050367d730b72e237"
+    },
+    {
+      "path": "dist/games/yetenek-sahnesi/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "dc2692b14202683a434c88a32a70108d7f1a609871100749b1871b8754a5451d"
+    },
+    {
+      "path": "dist/games/yetenek-sahnesi/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "5ce8944949c02baecc97fc5cb29628a6fd77cbe16adaf81d2a319fbce11fce6c"
+    }
+  ]
+}

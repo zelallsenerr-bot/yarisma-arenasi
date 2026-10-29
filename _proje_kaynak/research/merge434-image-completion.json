@@ -1,0 +1,67 @@
+[
+  {
+    "from": "dist/assets/box364/seal-hand.png",
+    "to": "dist/assets/box364/seal-hand.webp",
+    "bytes_saved": 472107
+  },
+  {
+    "from": "dist/assets/box369/side-grip.png",
+    "to": "dist/assets/box369/side-grip.webp",
+    "bytes_saved": 513561
+  },
+  {
+    "from": "dist/assets/minute-actors38.png",
+    "to": "dist/assets/minute-actors38.webp",
+    "bytes_saved": 285706
+  },
+  {
+    "from": "dist/assets/people35/sibel-seated38.png",
+    "to": "dist/assets/people35/sibel-seated38.webp",
+    "bytes_saved": 595126
+  },
+  {
+    "from": "dist/assets/products-extra-v32.png",
+    "to": "dist/assets/products-extra-v32.webp",
+    "bytes_saved": 681046
+  },
+  {
+    "from": "dist/assets/products-v31.png",
+    "to": "dist/assets/products-v31.webp",
+    "bytes_saved": 582652
+  },
+  {
+    "from": "dist/assets/products-v32.png",
+    "to": "dist/assets/products-v32.webp",
+    "bytes_saved": 648976
+  },
+  {
+    "from": "dist/assets/products-v34.png",
+    "to": "dist/assets/products-v34.webp",
+    "bytes_saved": 584844
+  },
+  {
+    "from": "dist/assets/programmes416/cevap-soruda-ersin.png",
+    "to": "dist/assets/programmes416/cevap-soruda-ersin.webp",
+    "bytes_saved": 84085
+  },
+  {
+    "from": "dist/assets/studio322/icon.png",
+    "to": "dist/assets/studio322/icon.webp",
+    "bytes_saved": 83115
+  },
+  {
+    "from": "dist/assets/taxi177/cabin-reference.png",
+    "to": "dist/assets/taxi177/cabin-reference.webp",
+    "bytes_saved": 448734
+  },
+  {
+    "from": "dist/assets/vehicles-v33.png",
+    "to": "dist/assets/vehicles-v33.webp",
+    "bytes_saved": 653231
+  },
+  {
+    "from": "dist/games/kendi-dusen-aglamaz/assets/programme206.png",
+    "to": "dist/games/kendi-dusen-aglamaz/assets/programme206.webp",
+    "bytes_saved": 198371
+  }
+]

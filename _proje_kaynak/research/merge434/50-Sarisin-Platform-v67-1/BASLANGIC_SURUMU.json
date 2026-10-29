@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/elli-sarisin/index.html",
+      "status": "modified",
+      "base_sha256": "60b42ce38f03f030456a8259e274b3f79609ad5424b88021a902e1e9a9c23788",
+      "new_sha256": "c354c404e730825a8b8da0edd5a7976365b69e70e0a1eedc12ee783fd5ef7d1b"
+    },
+    {
+      "path": "dist/games/elli-sarisin/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "0a974d051835f90cc1eb7b0f4f49afe0a4b4fd3bc2ef69c05b6018e547ffcdbc"
+    },
+    {
+      "path": "dist/games/elli-sarisin/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "7e254569991be9b65d0dcf211acdbfeddbc2b5aba610af7270a9cfff292e11a8"
+    }
+  ],
+  "shared_files_changed": []
+}

@@ -1,0 +1,735 @@
+{
+  "ada-mucadelesi": {
+    "stage": ".survivor-platform-v67",
+    "hostSelector": ".sv-host",
+    "hostIdentity": "Murat Ceylan",
+    "peopleSelector": ".sv-person",
+    "pose": "standing",
+    "notes": "Teams 1 volunteers / 0 celebrities; preserve alive/out status and player index0",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "sv-body",
+      "sv-host-body",
+      "sv-host-legs",
+      "sv-legs"
+    ]
+  },
+  "altin-sofra": {
+    "stage": ".gelin-platform-v67",
+    "hostSelector": ".gm-host",
+    "hostIdentity": "Aslı Hünel",
+    "peopleSelector": ".gm-station, .gm-mother",
+    "pose": "standing",
+    "notes": "4 brides in aprons at counters; mother mature female; blind covered plates must remain unidentified",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "gm-apron",
+      "gm-dress"
+    ]
+  },
+  "altmis-saniye": {
+    "stage": ".minute-platform-v67",
+    "hostSelector": ".mn-host",
+    "hostIdentity": "Zuhal Topal",
+    "peopleSelector": ".mn-player",
+    "pose": "standing",
+    "notes": "Local host explicitly Ertem Şener, NOT metadata Zuhal Topal; preserve game table",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "mn-legs",
+      "mn-shirt",
+      "mn-suit"
+    ]
+  },
+  "anlasma": {
+    "stage": ".deal-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "",
+    "peopleSelector": ".deal-person-v67",
+    "pose": "standing",
+    "notes": "3 contestants behind shared green desk; no host",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "arkandayiz": {
+    "stage": ".arka-platform-v67",
+    "hostSelector": ".arka-host-v67",
+    "hostIdentity": "Ünal Yeter",
+    "peopleSelector": ".arka-player-v67, .arka-friend-v67",
+    "pose": "mixed",
+    "notes": "Main contestant standing foreground; 3 friends seated/behind raised desk",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "standing-body341"
+    ]
+  },
+  "bak-su-duvara": {
+    "stage": ".wall-platform-v67",
+    "hostSelector": ".bw-host",
+    "hostIdentity": "Behzat Uygur",
+    "peopleSelector": ".bw-person",
+    "pose": "standing",
+    "notes": "Waiting red/blue teams helmets; active player is SVG pose embedded in .bw-wall and must preserve selected arms/legs gameplay",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "bw-body",
+      "bw-legs"
+    ]
+  },
+  "ben-bilirim": {
+    "stage": ".ben-platform-v67",
+    "hostSelector": ".ben-host-person-v67",
+    "hostIdentity": "Alper Ateş",
+    "peopleSelector": ".ben-person-v67",
+    "pose": "standing",
+    "notes": "4 contestant podiums; preserve active/out/score",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "beyazla-joker": {
+    "stage": ".joker-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Beyazıt Öztürk",
+    "peopleSelector": null,
+    "pose": "seated",
+    "notes": "Entire static platform-reference.webp photo; replace photo with empty set + Beyaz and player full bodies, 2 high chairs",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [
+      "platform-reference.webp"
+    ],
+    "bodyPartClasses": []
+  },
+  "cember": {
+    "stage": ".cember-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "",
+    "peopleSelector": ".cr-person",
+    "pose": "standing",
+    "notes": "5 contestants in ring, no host",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "cr-body",
+      "cr-legs"
+    ]
+  },
+  "cevap-sende": {
+    "stage": ".cs-platform-v67",
+    "hostSelector": ".cs-host-v67",
+    "hostIdentity": "Anıl İlter",
+    "peopleSelector": ".cs-player-v67",
+    "pose": "standing",
+    "notes": "Anıl İlter; left/right audience simple repeated CSS shapes",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "cevap-soruda": {
+    "stage": ".cevap-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Ersin Düzen",
+    "peopleSelector": null,
+    "pose": "standing",
+    "notes": "Entire static platform-reference.webp; correct host Ersin Düzen, player at podium",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [
+      "platform-reference.webp"
+    ],
+    "bodyPartClasses": []
+  },
+  "cifte-milyon": {
+    "stage": ".double-platform-v67",
+    "hostSelector": ".double-host-v67",
+    "hostIdentity": "İlker Ayrık",
+    "peopleSelector": ".double-person-v67",
+    "pose": "standing",
+    "notes": "Two contestants + İlker Ayrık, preserve cash tubes",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "donen-koltuklar": {
+    "stage": ".voice-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Saadet Özsırkıntı",
+    "peopleSelector": ".vs-chair, .vs-actor",
+    "pose": "mixed",
+    "notes": "Coach order Sibel Can,Murat Boz,Hadise,Gökhan Özoğuz; source indices3,2,1,0. Seated backs until turned[index] or round>0; performer standing",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "vs-body",
+      "vs-chair",
+      "vs-head",
+      "vs-legs",
+      "vs-shirt"
+    ]
+  },
+  "elli-sarisin": {
+    "stage": ".fifty-platform-v67",
+    "hostSelector": ".fifty-host-v67",
+    "hostIdentity": "Mehmet Ali Erbil",
+    "peopleSelector": ".fifty-player-v67, .fifty-pod-v67",
+    "pose": "standing",
+    "notes": "50 blonde women; first top cell then7columns×7rows; preserve p.id,alive,status and correct/wrong/out classes. Currently portraits",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "esim-yapar": {
+    "stage": ".esim-platform-v67",
+    "hostSelector": ".eb-host",
+    "hostIdentity": "İlker Ayrık",
+    "peopleSelector": ".eb-person",
+    "pose": "seated",
+    "notes": "4women front,4men behind glass; preserve silent room",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "eb-body",
+      "eb-chair"
+    ]
+  },
+  "evim-sahane": {
+    "stage": ".evim-platform-v67",
+    "hostSelector": ".ev-host",
+    "hostIdentity": "Selim Yuhay",
+    "peopleSelector": ".ev-worker",
+    "pose": "standing",
+    "notes": "18 male workers in blue overalls, not6; Selim Yuhay foreground",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "ev-arms",
+      "ev-host-body",
+      "ev-host-legs",
+      "ev-legs",
+      "ev-overall",
+      "ev-shirt"
+    ]
+  },
+  "eyvah-dusuyorum": {
+    "stage": ".floor366",
+    "hostSelector": ".ring-host-v67",
+    "hostIdentity": "Mehmet Ali Erbil",
+    "peopleSelector": ".pod366",
+    "pose": "standing",
+    "notes": "Native floor not local section;10ring hatches arranged by --pod-x/y, preserve elimination and fall animation. Host face nested .ring-host-face-v67",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "standing-body341"
+    ]
+  },
+  "gel-hemserim": {
+    "stage": ".gel-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Rüştü Onur Atilla",
+    "peopleSelector": null,
+    "pose": "standing",
+    "notes": "Entire platform-village.webp photo; Rüştü Onur Atilla, contestant near village boxes; .gh-status retains cash/name",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [
+      "platform-village.webp"
+    ],
+    "bodyPartClasses": []
+  },
+  "gonder-gitsin": {
+    "stage": ".gonder-platform-v67",
+    "hostSelector": ".gonder-host-v67",
+    "hostIdentity": "Timur Acar",
+    "peopleSelector": ".gonder-player-v67",
+    "pose": "standing",
+    "notes": "Current imported platform has host+1contestant; prior user requested2contestants. Engine unchanged",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "goz6": {
+    "stage": ".goz-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Jess Molho",
+    "peopleSelector": ".gz-person",
+    "pose": "seated",
+    "notes": "Girls/boys teams on benches, Jess Molho metadata not currently in local platform",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "gz-legs",
+      "gz-shirt"
+    ]
+  },
+  "halka-mucadelesi": {
+    "stage": ".halka-platform-v67",
+    "hostSelector": ".halka-host-v67",
+    "hostIdentity": "Baybars Altuntaş",
+    "peopleSelector": ".halka-podium-v67",
+    "pose": "standing",
+    "notes": "9 semicircle podiums, contestant portraits directly inside podium",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "hepsi-benim": {
+    "stage": ".hepsi-platform-v67",
+    "hostSelector": ".hb-host",
+    "hostIdentity": "Çağla Şıkel",
+    "peopleSelector": ".hb-person",
+    "pose": "standing",
+    "notes": "4couples around open play area; preserve teamcash/currentactive",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "hb-body"
+    ]
+  },
+  "herkes-kazanir": {
+    "stage": ".everyone-platform-v67",
+    "hostSelector": ".everyone-host-v67",
+    "hostIdentity": "Hakan Bilgin",
+    "peopleSelector": ".everyone-chair-v67",
+    "pose": "seated",
+    "notes": "5orangegraychairs, host already uses fullbody atlas directly",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "everyone-chair-v67",
+      "everyone-chairs-v67"
+    ]
+  },
+  "ilk-bulusma": {
+    "stage": ".first-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Şinasi Yurtsever · Sinan Çalışkanoğlu",
+    "peopleSelector": ".lm-person",
+    "pose": "seated",
+    "notes": "Restaurant2diners; controlroom .lm-control>img is static hosts Sinan Çalışkanoğlu and Şinasi Yurtsever; diner relation from profile.role",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [
+      "platform-hosts.webp"
+    ],
+    "bodyPartClasses": [
+      "lm-body",
+      "lm-chair",
+      "lm-legs"
+    ]
+  },
+  "kapis-kapis": {
+    "stage": ".kapis-platform-v67",
+    "hostSelector": ".kp-host",
+    "hostIdentity": "Sinan Çalışkanoğlu",
+    "peopleSelector": ".kp-person",
+    "pose": "standing",
+    "notes": "4couples upperglass platform, gifts below; host Sinan Çalışkanoğlu",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "kp-shirt"
+    ]
+  },
+  "kelime-islem": {
+    "stage": ".mind-platform-v67",
+    "hostSelector": ".mind-host-v67",
+    "hostIdentity": "Levent Ülgen",
+    "peopleSelector": ".mind-pod-v67, .mind-experts-v67>div",
+    "pose": "seated",
+    "notes": "Host Levent Ülgen; contestant podiums left,2experts right (male word/female arithmetic)",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "kelime-meydani": {
+    "stage": ".word-platform-v67",
+    "hostSelector": ".word-host-v67",
+    "hostIdentity": "İbrahim Selim",
+    "peopleSelector": ".word-player-v67, .word-waiter-v67",
+    "pose": "seated",
+    "notes": "İbrahim Selim opposite mainplayer at desk,4waiters behind",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "word-chair-v67"
+    ]
+  },
+  "kizlar-ve-anneleri": {
+    "stage": ".kizlar-platform-v67",
+    "hostSelector": ".ka-presenter",
+    "hostIdentity": "Ümit İbrahim Kantarcılar",
+    "peopleSelector": ".ka-person",
+    "pose": "standing",
+    "notes": "3daughter/motherpairs; mature mothers back,young daughters front; preserve totals",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "ka-body",
+      "ka-presenter-body",
+      "ka-presenter-legs"
+    ]
+  },
+  "kizma-kazan": {
+    "stage": ".kizma-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Öner Erkan",
+    "peopleSelector": null,
+    "pose": "seated",
+    "notes": "Entire platform-control-room.webp staticphoto with Öner Erkan; replace people while preserving controlroom/monitor",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [
+      "platform-control-room.webp"
+    ],
+    "bodyPartClasses": []
+  },
+  "kumbara": {
+    "stage": ".kumbara-platform-v67",
+    "hostSelector": ".kumbara-host-v67",
+    "hostIdentity": "Ali İhsan Varol",
+    "peopleSelector": ".kumbara-player-v67",
+    "pose": "seated",
+    "notes": "Ali İhsan Varol left,player right,whiteovaldesk",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "kumbara-chair-v67"
+    ]
+  },
+  "milyonluk-resim": {
+    "stage": ".picture-platform-v67",
+    "hostSelector": ".picture-host-v67",
+    "hostIdentity": "Selçuk Yöntem",
+    "peopleSelector": ".picture-player-v67",
+    "pose": "seated",
+    "notes": "Selçuk Yöntem;2highstools under large framed picture",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "picture-chair-v67"
+    ]
+  },
+  "on-dokuz": {
+    "stage": ".nineteen-platform-v67",
+    "hostSelector": ".nineteen-host-v67",
+    "hostIdentity": "Barış Kılıç",
+    "peopleSelector": ".nineteen-podium-v67",
+    "pose": "standing",
+    "notes": "2mainplayers+5candidates, currently cloned .portrait35; preserve role labels",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "para-bende": {
+    "stage": ".para-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Almeda Abazi · Murat Ceylan",
+    "peopleSelector": null,
+    "pose": "standing",
+    "notes": "Entire platform-airport.webp photo; Almeda Abazi and Murat Ceylan outdoors; .pb-status retains gameplay",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [
+      "platform-airport.webp"
+    ],
+    "bodyPartClasses": []
+  },
+  "para-odasi": {
+    "stage": ".room-platform-v67",
+    "hostSelector": ".room-host-v67",
+    "hostIdentity": "Ahmet Çakar",
+    "peopleSelector": ".room-podium-v67",
+    "pose": "standing",
+    "notes": "3contestants left,large central screen,Ahmet Çakar right",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": []
+  },
+  "password": {
+    "stage": ".password-platform-v67",
+    "hostSelector": ".pw-person-2",
+    "hostIdentity": "Şebnem Bozoklu",
+    "peopleSelector": ".pw-person",
+    "pose": "mixed",
+    "notes": "0player seated,1Enis Arıkan seated,2Şebnem Bozoklu standing,3s.guest seated,4opponent seated. Dynamic guest identity must not genericfallback",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "pw-torso"
+    ]
+  },
+  "piramit": {
+    "stage": ".piramit-platform-v67",
+    "hostSelector": ".py-host",
+    "hostIdentity": "Yusuf Çim",
+    "peopleSelector": ".py-person",
+    "pose": "seated",
+    "notes": "Coach Evrim Akın left/Sertan Erkaçan right plus contestant eachteam; Yusuf Çim standingmiddle",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "py-body",
+      "py-chair",
+      "py-host-body",
+      "py-host-legs"
+    ]
+  },
+  "sahane-pazar": {
+    "stage": ".sunday-platform-v67",
+    "hostSelector": ".sp-host",
+    "hostIdentity": "Süheyl Uygur · Behzat Uygur",
+    "peopleSelector": ".sp-player",
+    "pose": "standing",
+    "notes": "2hosts Süheyl Uygur,Behzat Uygur; contestantsyellowoveralls at redhatches",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "sp-host-body",
+      "sp-host-legs",
+      "sp-legs",
+      "sp-overall",
+      "sp-shirt"
+    ]
+  },
+  "sans-kapida": {
+    "stage": ".door-home-v67",
+    "hostSelector": ".door-host-v67",
+    "hostIdentity": "Yiğit Alıcı",
+    "peopleSelector": ".door-family-v67",
+    "pose": "seated",
+    "notes": "Yiğit Alıcı leftarmchair,3family rightsofa; nested faces/body wrappers require replacing at wholeperson",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "door-armchair-v67",
+      "door-seated-body-v67"
+    ]
+  },
+  "sansli-masa": {
+    "stage": ".lucky-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Sinan Çalışkanoğlu · Orçun Kaptan",
+    "peopleSelector": ".lm-person",
+    "pose": "seated",
+    "notes": "Restaurant2diners; controlroom .lm-control>img static hosts Sinan Çalışkanoğlu and Orçun Kaptan",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [
+      "platform-hosts.webp"
+    ],
+    "bodyPartClasses": [
+      "lm-body",
+      "lm-chair",
+      "lm-legs"
+    ]
+  },
+  "sebeke": {
+    "stage": ".sebeke-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "",
+    "peopleSelector": ".sbk-person",
+    "pose": "seated",
+    "notes": "0father maturemale,1mother maturefemale,2player,3girlfriend;2sofas",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "sbk-body",
+      "sbk-legs"
+    ]
+  },
+  "sefler-arenasi": {
+    "stage": ".master-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Mehmet Yalçınkaya · Somer Sivrioğlu · Danilo Zanna",
+    "peopleSelector": ".mc-station",
+    "pose": "standing",
+    "notes": "20contestants4rows×5 red/blueaprons; .mc-judges photo-strip needs3fullbody Mehmet Yalçınkaya,Somer Sivrioğlu,Danilo Zanna",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [
+      "platform-chefs.webp"
+    ],
+    "bodyPartClasses": [
+      "mc-apron"
+    ]
+  },
+  "sofra-rekabeti": {
+    "stage": ".dining-platform-v67",
+    "hostSelector": ".yd-seat-0",
+    "hostIdentity": "Zuhal Topal",
+    "peopleSelector": ".yd-seat",
+    "pose": "seated",
+    "notes": "6people inclZuhalTopal host0,mainplayer1,4guests around diningtable",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "yd-body",
+      "yd-chair"
+    ]
+  },
+  "super-bulmaca": {
+    "stage": ".super-platform-v67",
+    "hostSelector": ".sb-host",
+    "hostIdentity": "Alper Ateş",
+    "peopleSelector": ".sb-seat",
+    "pose": "standing",
+    "notes": "Alper Ateş left,4podiums right",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "sb-body",
+      "sb-chair"
+    ]
+  },
+  "takip": {
+    "stage": ".takip-platform-v67",
+    "hostSelector": ".platform-host-v67",
+    "hostIdentity": "Uraz Kaygılaroğlu",
+    "peopleSelector": ".platform-pod-v67",
+    "pose": "standing",
+    "notes": "3contestants sharedleftdesk, Urazcenter, Muhsin Divan seatedright elevated .platform-hunter-v67 currentlyheadcroppedphoto",
+    "sourceUsesPeople37": false,
+    "staticPhotoAssets": [
+      "platform-reference.webp"
+    ],
+    "bodyPartClasses": []
+  },
+  "telefon-kulubesi": {
+    "stage": ".phone-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "",
+    "peopleSelector": ".ph-person",
+    "pose": "standing",
+    "notes": "Player holding handset to ear; actual hand pose should align .ph-handset; removeCSSarm/hand whenfullbody used",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "ph-body",
+      "ph-legs"
+    ]
+  },
+  "temizlik-benim-isim": {
+    "stage": ".clean-platform-v67",
+    "hostSelector": ".yd-seat-0",
+    "hostIdentity": "Kadir Ezildi",
+    "peopleSelector": ".yd-seat",
+    "pose": "seated",
+    "notes": "6people:Kadir Ezildi0,currentplayer1,4othercontestants; sofasleft/right; preserve scoreboards",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "yd-body",
+      "yd-chair"
+    ]
+  },
+  "the-taste-turkiye": {
+    "stage": ".taste-platform-v67",
+    "hostSelector": ".tt-host",
+    "hostIdentity": "Hazer Amani · Ali Ronay · Rafet İnce · Esen Hünal",
+    "peopleSelector": ".tt-station",
+    "pose": "standing",
+    "notes": "12kitchencontestants; localhost wronglygenericSunucu. Metadata4realchefs Hazer Amani,Ali Ronay,Rafet İnce,Esen Hünal. Must assignrealroles",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "tt-host-body",
+      "tt-jacket"
+    ]
+  },
+  "turnike": {
+    "stage": ".turnike-platform-v67",
+    "hostSelector": ".tk-host",
+    "hostIdentity": "Mehmet Ali Erbil",
+    "peopleSelector": ".tk-person, .tk-panel",
+    "pose": "standing",
+    "notes": "4blue+4orange contestants,8femaleassistants balcony; neverrenderclosedanswertext",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "tk-dress",
+      "tk-host-body",
+      "tk-host-legs",
+      "tk-shirt"
+    ]
+  },
+  "ucte-uc": {
+    "stage": ".ucte-platform-v67",
+    "hostSelector": ".ucte-host-v67",
+    "hostIdentity": "Pelin Çift",
+    "peopleSelector": ".ucte-player-v67",
+    "pose": "standing",
+    "notes": "PelinÇift andplayerleft; expertTufanGündüz seatedright .ucte-expert-v67 currentlyheadcrop",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [
+      "platform-reference.webp"
+    ],
+    "bodyPartClasses": [
+      "standing-body341"
+    ]
+  },
+  "utopya": {
+    "stage": ".utopya-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "",
+    "peopleSelector": ".ut-person",
+    "pose": "seated",
+    "notes": "15residents benchesaround stove; retain jobs/name, nohost",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "ut-body",
+      "ut-chair",
+      "ut-legs"
+    ]
+  },
+  "yaparsin-askim": {
+    "stage": ".askim-platform-v67",
+    "hostSelector": ".eb-host",
+    "hostIdentity": "İlker Ayrık",
+    "peopleSelector": ".eb-person",
+    "pose": "seated",
+    "notes": "4women front,4men silentglassback,İlkerAyrık right; sameCSSfamilyesimyapar",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "eb-body",
+      "eb-chair"
+    ]
+  },
+  "yasim-kac": {
+    "stage": ".age-platform-v67",
+    "hostSelector": ".ag-host",
+    "hostIdentity": "Behzat Uygur",
+    "peopleSelector": ".ag-guest, .ag-back",
+    "pose": "mixed",
+    "notes": "Featuredguest standingraised;2contestantsseatedbackviewfrontdesk. Preserve secretage:noactualage labels",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "ag-back-body",
+      "ag-back-legs",
+      "ag-body",
+      "ag-head",
+      "ag-legs"
+    ]
+  },
+  "yetenek-sahnesi": {
+    "stage": ".talent-platform-v67",
+    "hostSelector": null,
+    "hostIdentity": "Alp Kırşan",
+    "peopleSelector": ".yt-judge, .yt-performer",
+    "pose": "mixed",
+    "notes": "JuryAliTaran,HülyaAvşar,AcunIlıcalı seatedbacks,facingstandingperformer. Voteindexmap2,1,0; preserveXsigns",
+    "sourceUsesPeople37": true,
+    "staticPhotoAssets": [],
+    "bodyPartClasses": [
+      "yt-body",
+      "yt-chair",
+      "yt-hair-long",
+      "yt-hair-short",
+      "yt-head",
+      "yt-legs",
+      "yt-shirt"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/kelime-meydani/index.html",
+      "status": "modified",
+      "base_sha256": "5118b8418708191d41a5ef4db5eda98380be45b05be67747bad786a5b63598cf",
+      "new_sha256": "f7c7c517a86c274579ab384a5a9329cb775d73b2fbe86d804bd8096a4375e390"
+    },
+    {
+      "path": "dist/games/kelime-meydani/app.js",
+      "status": "modified",
+      "base_sha256": "288dc78ec32c6c85dc8cd39752c0091e952dc1e3c224406348e7d4a32e41ddcb",
+      "new_sha256": "815feb4c233714403d7e3a8d43caeaf84ccc1d0c00f8a5690e29ad797b4f2475"
+    },
+    {
+      "path": "dist/games/kelime-meydani/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "d5dd6f8159d5eb16d315eb46094caa2b587c31e7718a2aa195ef881f5247da6d"
+    },
+    {
+      "path": "dist/games/kelime-meydani/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "cc07f95de01da6b2e4f78edfd2d845bcf5f47f7f5facff422cd7f6e31b0e6b1f"
+    }
+  ],
+  "shared_files_changed": []
+}

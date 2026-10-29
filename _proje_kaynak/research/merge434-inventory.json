@@ -1,0 +1,1220 @@
+[
+  {
+    "patch": "19-Platform-v67-1",
+    "file": "dist/games/on-dokuz/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "19-Platform-v67-1",
+    "file": "dist/games/on-dokuz/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "19-Platform-v67-1",
+    "file": "dist/games/on-dokuz/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "3te-3-Platform-v67-1",
+    "file": "dist/games/ucte-uc/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "3te-3-Platform-v67-1",
+    "file": "dist/games/ucte-uc/platform-reference.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "3te-3-Platform-v67-1",
+    "file": "dist/games/ucte-uc/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "3te-3-Platform-v67-1",
+    "file": "dist/games/ucte-uc/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "50-Sarisin-Platform-v67-1",
+    "file": "dist/games/elli-sarisin/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "50-Sarisin-Platform-v67-1",
+    "file": "dist/games/elli-sarisin/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "50-Sarisin-Platform-v67-1",
+    "file": "dist/games/elli-sarisin/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Anlasma-Platform-v67-1",
+    "file": "dist/games/anlasma/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Anlasma-Platform-v67-1",
+    "file": "dist/games/anlasma/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Anlasma-Platform-v67-1",
+    "file": "dist/games/anlasma/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Arkandayiz-Platform-v67-1",
+    "file": "dist/games/arkandayiz/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Arkandayiz-Platform-v67-1",
+    "file": "dist/games/arkandayiz/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Arkandayiz-Platform-v67-1",
+    "file": "dist/games/arkandayiz/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Bak-Su-Duvara-Platform-v67-1",
+    "file": "dist/games/bak-su-duvara/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Bak-Su-Duvara-Platform-v67-1",
+    "file": "dist/games/bak-su-duvara/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Bak-Su-Duvara-Platform-v67-1",
+    "file": "dist/games/bak-su-duvara/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ben-Bilirim-Platform-v67-1",
+    "file": "dist/games/ben-bilirim/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Ben-Bilirim-Platform-v67-1",
+    "file": "dist/games/ben-bilirim/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ben-Bilirim-Platform-v67-1",
+    "file": "dist/games/ben-bilirim/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ben-Bilmem-Esim-Bilir-Platform-v67-1",
+    "file": "dist/games/esim-yapar/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Ben-Bilmem-Esim-Bilir-Platform-v67-1",
+    "file": "dist/games/esim-yapar/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ben-Bilmem-Esim-Bilir-Platform-v67-1",
+    "file": "dist/games/esim-yapar/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Beyazla-Joker-Platform-v67-1",
+    "file": "dist/games/beyazla-joker/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Beyazla-Joker-Platform-v67-1",
+    "file": "dist/games/beyazla-joker/platform-reference.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Beyazla-Joker-Platform-v67-1",
+    "file": "dist/games/beyazla-joker/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Beyazla-Joker-Platform-v67-1",
+    "file": "dist/games/beyazla-joker/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Bir-Kelime-Bir-Islem-Platform-v67-1",
+    "file": "dist/games/kelime-islem/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Bir-Kelime-Bir-Islem-Platform-v67-1",
+    "file": "dist/games/kelime-islem/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Bir-Kelime-Bir-Islem-Platform-v67-1",
+    "file": "dist/games/kelime-islem/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cember-Platform-v67-1",
+    "file": "dist/games/cember/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Cember-Platform-v67-1",
+    "file": "dist/games/cember/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cember-Platform-v67-1",
+    "file": "dist/games/cember/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cevap-Sende-Platform-v67-1",
+    "file": "dist/games/cevap-sende/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Cevap-Sende-Platform-v67-1",
+    "file": "dist/games/cevap-sende/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cevap-Sende-Platform-v67-1",
+    "file": "dist/games/cevap-sende/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cevap-Soruda-Platform-v67-1",
+    "file": "dist/games/cevap-soruda/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Cevap-Soruda-Platform-v67-1",
+    "file": "dist/games/cevap-soruda/platform-reference.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cevap-Soruda-Platform-v67-1",
+    "file": "dist/games/cevap-soruda/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cevap-Soruda-Platform-v67-1",
+    "file": "dist/games/cevap-soruda/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cifte-Milyon-Platform-v67-1",
+    "file": "dist/games/cifte-milyon/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Cifte-Milyon-Platform-v67-1",
+    "file": "dist/games/cifte-milyon/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Cifte-Milyon-Platform-v67-1",
+    "file": "dist/games/cifte-milyon/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "En-Zayif-Halka-Platform-v67-1",
+    "file": "dist/games/halka-mucadelesi/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "En-Zayif-Halka-Platform-v67-1",
+    "file": "dist/games/halka-mucadelesi/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "En-Zayif-Halka-Platform-v67-1",
+    "file": "dist/games/halka-mucadelesi/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Evim-Sahane-Platform-v67-1",
+    "file": "dist/games/evim-sahane/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Evim-Sahane-Platform-v67-1",
+    "file": "dist/games/evim-sahane/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Evim-Sahane-Platform-v67-1",
+    "file": "dist/games/evim-sahane/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Eyvah-Dusuyorum-Platform-v67-1",
+    "file": "dist/games/eyvah-dusuyorum/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Eyvah-Dusuyorum-Platform-v67-1",
+    "file": "dist/games/eyvah-dusuyorum/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Eyvah-Dusuyorum-Platform-v67-1",
+    "file": "dist/games/eyvah-dusuyorum/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gel-Hemserim-Platform-v67-1",
+    "file": "dist/games/gel-hemserim/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Gel-Hemserim-Platform-v67-1",
+    "file": "dist/games/gel-hemserim/platform-village.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gel-Hemserim-Platform-v67-1",
+    "file": "dist/games/gel-hemserim/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gel-Hemserim-Platform-v67-1",
+    "file": "dist/games/gel-hemserim/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gelinim-Mutfakta-Platform-v67-1",
+    "file": "dist/games/altin-sofra/app.js",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Gelinim-Mutfakta-Platform-v67-1",
+    "file": "dist/games/altin-sofra/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Gelinim-Mutfakta-Platform-v67-1",
+    "file": "dist/games/altin-sofra/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gelinim-Mutfakta-Platform-v67-1",
+    "file": "dist/games/altin-sofra/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gonder-Gitsin-Platform-v67-1",
+    "file": "dist/games/gonder-gitsin/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Gonder-Gitsin-Platform-v67-1",
+    "file": "dist/games/gonder-gitsin/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Gonder-Gitsin-Platform-v67-1",
+    "file": "dist/games/gonder-gitsin/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Goz6-Platform-v67-1",
+    "file": "dist/games/goz6/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Goz6-Platform-v67-1",
+    "file": "dist/games/goz6/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Goz6-Platform-v67-1",
+    "file": "dist/games/goz6/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Hepsi-Benim-Platform-v67-1",
+    "file": "dist/games/hepsi-benim/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Hepsi-Benim-Platform-v67-1",
+    "file": "dist/games/hepsi-benim/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Hepsi-Benim-Platform-v67-1",
+    "file": "dist/games/hepsi-benim/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Herkes-Kazanir-Platform-v67-1",
+    "file": "dist/games/herkes-kazanir/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Herkes-Kazanir-Platform-v67-1",
+    "file": "dist/games/herkes-kazanir/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Herkes-Kazanir-Platform-v67-1",
+    "file": "dist/games/herkes-kazanir/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ilk-Bulusma-Platform-v67-1",
+    "file": "dist/games/ilk-bulusma/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Ilk-Bulusma-Platform-v67-1",
+    "file": "dist/games/ilk-bulusma/platform-hosts.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ilk-Bulusma-Platform-v67-1",
+    "file": "dist/games/ilk-bulusma/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Ilk-Bulusma-Platform-v67-1",
+    "file": "dist/games/ilk-bulusma/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kapis-Kapis-Platform-v67-1",
+    "file": "dist/games/kapis-kapis/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kapis-Kapis-Platform-v67-1",
+    "file": "dist/games/kapis-kapis/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kapis-Kapis-Platform-v67-1",
+    "file": "dist/games/kapis-kapis/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kazanmak-Icin-1-Dakika-Platform-v67-1",
+    "file": "dist/games/altmis-saniye/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kazanmak-Icin-1-Dakika-Platform-v67-1",
+    "file": "dist/games/altmis-saniye/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kazanmak-Icin-1-Dakika-Platform-v67-1",
+    "file": "dist/games/altmis-saniye/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kelime-Oyunu-Platform-v67-1",
+    "file": "dist/games/kelime-meydani/app.js",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kelime-Oyunu-Platform-v67-1",
+    "file": "dist/games/kelime-meydani/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kelime-Oyunu-Platform-v67-1",
+    "file": "dist/games/kelime-meydani/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kelime-Oyunu-Platform-v67-1",
+    "file": "dist/games/kelime-meydani/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kizlar-ve-Anneleri-Platform-v67-1",
+    "file": "dist/games/kizlar-ve-anneleri/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kizlar-ve-Anneleri-Platform-v67-1",
+    "file": "dist/games/kizlar-ve-anneleri/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kizlar-ve-Anneleri-Platform-v67-1",
+    "file": "dist/games/kizlar-ve-anneleri/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kizma-Kazan-Platform-v67-1",
+    "file": "dist/games/kizma-kazan/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kizma-Kazan-Platform-v67-1",
+    "file": "dist/games/kizma-kazan/platform-control-room.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kizma-Kazan-Platform-v67-1",
+    "file": "dist/games/kizma-kazan/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kizma-Kazan-Platform-v67-1",
+    "file": "dist/games/kizma-kazan/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kumbara-Platform-v67-1",
+    "file": "dist/games/kumbara/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Kumbara-Platform-v67-1",
+    "file": "dist/games/kumbara/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Kumbara-Platform-v67-1",
+    "file": "dist/games/kumbara/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Masterchef-Turkiye-Platform-v67-1",
+    "file": "dist/games/sefler-arenasi/app.js",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Masterchef-Turkiye-Platform-v67-1",
+    "file": "dist/games/sefler-arenasi/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Masterchef-Turkiye-Platform-v67-1",
+    "file": "dist/games/sefler-arenasi/platform-chefs.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Masterchef-Turkiye-Platform-v67-1",
+    "file": "dist/games/sefler-arenasi/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Masterchef-Turkiye-Platform-v67-1",
+    "file": "dist/games/sefler-arenasi/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Milyonluk-Resim-Platform-v67-1",
+    "file": "dist/games/milyonluk-resim/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Milyonluk-Resim-Platform-v67-1",
+    "file": "dist/games/milyonluk-resim/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Milyonluk-Resim-Platform-v67-1",
+    "file": "dist/games/milyonluk-resim/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "O-Ses-Turkiye-Platform-v67-1",
+    "file": "dist/games/donen-koltuklar/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "O-Ses-Turkiye-Platform-v67-1",
+    "file": "dist/games/donen-koltuklar/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "O-Ses-Turkiye-Platform-v67-1",
+    "file": "dist/games/donen-koltuklar/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Para-Bende-Platform-v67-1",
+    "file": "dist/games/para-bende/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Para-Bende-Platform-v67-1",
+    "file": "dist/games/para-bende/platform-airport.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Para-Bende-Platform-v67-1",
+    "file": "dist/games/para-bende/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Para-Bende-Platform-v67-1",
+    "file": "dist/games/para-bende/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Para-Odasi-Platform-v67-1",
+    "file": "dist/games/para-odasi/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Para-Odasi-Platform-v67-1",
+    "file": "dist/games/para-odasi/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Para-Odasi-Platform-v67-1",
+    "file": "dist/games/para-odasi/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Password-Platform-v67-1",
+    "file": "dist/games/password/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Password-Platform-v67-1",
+    "file": "dist/games/password/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Password-Platform-v67-1",
+    "file": "dist/games/password/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Piramit-Platform-v67-1",
+    "file": "dist/games/piramit/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Piramit-Platform-v67-1",
+    "file": "dist/games/piramit/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Piramit-Platform-v67-1",
+    "file": "dist/games/piramit/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sahane-Pazar-Platform-v67-1",
+    "file": "dist/games/sahane-pazar/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Sahane-Pazar-Platform-v67-1",
+    "file": "dist/games/sahane-pazar/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sahane-Pazar-Platform-v67-1",
+    "file": "dist/games/sahane-pazar/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sans-Kapida-Ev-Platform-v67-1",
+    "file": "dist/games/sans-kapida/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Sans-Kapida-Ev-Platform-v67-1",
+    "file": "dist/games/sans-kapida/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sans-Kapida-Ev-Platform-v67-1",
+    "file": "dist/games/sans-kapida/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sansli-Masa-Platform-v67-1",
+    "file": "dist/games/sansli-masa/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Sansli-Masa-Platform-v67-1",
+    "file": "dist/games/sansli-masa/platform-hosts.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sansli-Masa-Platform-v67-1",
+    "file": "dist/games/sansli-masa/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sansli-Masa-Platform-v67-1",
+    "file": "dist/games/sansli-masa/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sebeke-Platform-v67-1",
+    "file": "dist/games/sebeke/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Sebeke-Platform-v67-1",
+    "file": "dist/games/sebeke/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Sebeke-Platform-v67-1",
+    "file": "dist/games/sebeke/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Super-Bulmaca-Platform-v67-1",
+    "file": "dist/games/super-bulmaca/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Super-Bulmaca-Platform-v67-1",
+    "file": "dist/games/super-bulmaca/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Super-Bulmaca-Platform-v67-1",
+    "file": "dist/games/super-bulmaca/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Survivor-Platform-v67-1",
+    "file": "dist/games/ada-mucadelesi/app.js",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Survivor-Platform-v67-1",
+    "file": "dist/games/ada-mucadelesi/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Survivor-Platform-v67-1",
+    "file": "dist/games/ada-mucadelesi/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Survivor-Platform-v67-1",
+    "file": "dist/games/ada-mucadelesi/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Takip-Platform-v67-2",
+    "file": "dist/games/takip/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Takip-Platform-v67-2",
+    "file": "dist/games/takip/platform-reference.png",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Takip-Platform-v67-2",
+    "file": "dist/games/takip/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Takip-Platform-v67-2",
+    "file": "dist/games/takip/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Telefon-Kulubesi-Platform-v67-1",
+    "file": "dist/games/telefon-kulubesi/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Telefon-Kulubesi-Platform-v67-1",
+    "file": "dist/games/telefon-kulubesi/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Telefon-Kulubesi-Platform-v67-1",
+    "file": "dist/games/telefon-kulubesi/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Temizlik-Benim-Isim-Platform-v67-1",
+    "file": "dist/games/temizlik-benim-isim/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Temizlik-Benim-Isim-Platform-v67-1",
+    "file": "dist/games/temizlik-benim-isim/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Temizlik-Benim-Isim-Platform-v67-1",
+    "file": "dist/games/temizlik-benim-isim/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "The-Taste-Turkiye-Platform-v67-1",
+    "file": "dist/games/the-taste-turkiye/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "The-Taste-Turkiye-Platform-v67-1",
+    "file": "dist/games/the-taste-turkiye/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "The-Taste-Turkiye-Platform-v67-1",
+    "file": "dist/games/the-taste-turkiye/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Turnike-Platform-v67-1",
+    "file": "dist/games/turnike/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Turnike-Platform-v67-1",
+    "file": "dist/games/turnike/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Turnike-Platform-v67-1",
+    "file": "dist/games/turnike/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Utopya-Platform-v67-1",
+    "file": "dist/games/utopya/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Utopya-Platform-v67-1",
+    "file": "dist/games/utopya/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Utopya-Platform-v67-1",
+    "file": "dist/games/utopya/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yaparsin-Askim-Platform-v67-1",
+    "file": "dist/games/yaparsin-askim/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Yaparsin-Askim-Platform-v67-1",
+    "file": "dist/games/yaparsin-askim/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yaparsin-Askim-Platform-v67-1",
+    "file": "dist/games/yaparsin-askim/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yasim-Kac-Platform-v67-1",
+    "file": "dist/games/yasim-kac/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Yasim-Kac-Platform-v67-1",
+    "file": "dist/games/yasim-kac/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yasim-Kac-Platform-v67-1",
+    "file": "dist/games/yasim-kac/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yemekteyiz-Platform-v67-1",
+    "file": "dist/games/sofra-rekabeti/app.js",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Yemekteyiz-Platform-v67-1",
+    "file": "dist/games/sofra-rekabeti/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Yemekteyiz-Platform-v67-1",
+    "file": "dist/games/sofra-rekabeti/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yemekteyiz-Platform-v67-1",
+    "file": "dist/games/sofra-rekabeti/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yetenek-Sizsiniz-Turkiye-Platform-v67-1",
+    "file": "dist/games/yetenek-sahnesi/index.html",
+    "kind": "modified",
+    "currentMatchesBase": true,
+    "currentExists": true
+  },
+  {
+    "patch": "Yetenek-Sizsiniz-Turkiye-Platform-v67-1",
+    "file": "dist/games/yetenek-sahnesi/platform.css",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  },
+  {
+    "patch": "Yetenek-Sizsiniz-Turkiye-Platform-v67-1",
+    "file": "dist/games/yetenek-sahnesi/platform.js",
+    "kind": "added",
+    "currentMatchesBase": false,
+    "currentExists": false
+  }
+]

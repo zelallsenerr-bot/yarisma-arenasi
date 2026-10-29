@@ -1,0 +1,32 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/ucte-uc/index.html",
+      "status": "modified",
+      "base_sha256": "8e0f2f5ba4964540b20d3c8ac73ea550f04cbef5e3cee840192a2106f4c695aa",
+      "new_sha256": "744b0f2035364766716c863e1713f6cadf6e2e8996adf6bfd60e0621d1facd2c"
+    },
+    {
+      "path": "dist/games/ucte-uc/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "952d350d332b5c650ae0ffa71bb4909792bb98c288e6a89645421e023dd70292"
+    },
+    {
+      "path": "dist/games/ucte-uc/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "3ddda3419a554264aba15a81638842ebac7a1c473553227eaa259690752dc4c8"
+    },
+    {
+      "path": "dist/games/ucte-uc/platform-reference.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "0e171970db00cbd42b986f328661f06f117f0d11553ab8682e27e8d9dc37231f"
+    }
+  ],
+  "shared_files_changed": []
+}

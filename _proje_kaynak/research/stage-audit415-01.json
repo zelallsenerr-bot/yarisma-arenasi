@@ -1,0 +1,501 @@
+{
+  "scope": "catalog indices 0–14",
+  "researchedAt": "2026-10-25",
+  "method": "Official pages searched/opened for every show. Text-only access; no episode still visually verified. unknown is not evidence of absence. Conservative no decorative audience recommendation is a product choice, not historical fact.",
+  "entries": [
+    {
+      "index": 0,
+      "id": "son-karar",
+      "name": "Kim Milyoner Olmak İster?",
+      "eraHost": "Cem Öğretir",
+      "findings": {
+        "activeContestants": 1,
+        "contestantPose": "seated",
+        "hostPose": "seated",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 1,
+        "contestantPose": "seated",
+        "hostPose": "seated",
+        "retainUserAudienceRequest": true,
+        "supporters": "selected companion, distinct from ordinary audience"
+      },
+      "sources": [
+        {
+          "url": "https://www.atv.com.tr/kim-milyoner-olmak-ister/1252-bolum/izle",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Güncel resmi bölüm kaydı mevcut; tek sıcak koltuklu oyun. Önceki dönem resmi ATV haberleri seyirci jokerini açıkça doğrular.",
+      "confidence": "medium",
+      "limitations": "Cem Öğretir döneminin seyirci düzeni ve ışığı görsel olarak doğrulanmadı; kullanıcının özel yakın/supporter ışığı talebi ayrıca korunmalı."
+    },
+    {
+      "index": 1,
+      "id": "kutu-karari",
+      "name": "Var Mısın Yok Musun?",
+      "eraHost": "Esra Erol",
+      "findings": {
+        "activeContestants": 1,
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 1,
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "caseOwnersTotal": 22,
+        "otherCaseOwners": 21,
+        "supporters": "separate named relatives"
+      },
+      "sources": [
+        {
+          "url": "https://www.atv.com.tr/haberler/2026/10/08/esra-erolla-var-misin-yok-musun-yeniden-basliyor",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://www.atv.com.tr/haberler/2026/07/29/pes-etmedi-kazandi",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Resmi ATV: 22 yarışmacı; bölümde bir kişi bankaya karşı kendi kutusuyla oynar. Diğer kutu sahipleri yarışmacıdır, seyirci değildir. Bölüm haberinde yarışmacının destek için gelen kardeşi ayrıca anlatılır.",
+      "confidence": "high",
+      "limitations": "22 kişinin tümünü aktif ana oyuncu veya seyirci diye modelleme. Oturma/host pozu metinden doğrulanmadı."
+    },
+    {
+      "index": 2,
+      "id": "para-kapani",
+      "name": "1 Milyon Canlı Para",
+      "eraHost": "Mesut Yar",
+      "findings": {
+        "activeContestants": 2,
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 2,
+        "contestantPose": "unknown",
+        "hostPose": "unknown"
+      },
+      "sources": [
+        {
+          "url": "https://eurod.kanald.com.tr/canli-para/ozetler/bir-milyon-canli-parada-yine-heyecan-var",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Kanal D, Mesut Yar sunumuyla yarışmacı çiftlere başlangıçta nakit verildiğini ve sekiz soruyla korunduğunu açıkça belirtir.",
+      "confidence": "high",
+      "limitations": "Çift sayısı kesin; seyirci ve fiziksel pozlar resmi metinde yok. Para kapakları etrafında ayakta duruş görsel kontrol bekliyor."
+    },
+    {
+      "index": 3,
+      "id": "sepetini-koru",
+      "name": "Şansa Davet",
+      "eraHost": "Yiğit Alıcı",
+      "findings": {
+        "activeContestants": 4,
+        "contestantPose": "seated",
+        "hostPose": "seated",
+        "audiencePresence": false
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 4,
+        "contestantPose": "seated",
+        "hostPose": "seated",
+        "basis": "explicit user preference",
+        "groupSizePolicy": "episode dependent; current scene uses four"
+      },
+      "sources": [
+        {
+          "url": "https://eurod.kanald.com.tr/sansa-davet/foto-galeri/sansa-davet-1-bolum",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://eurod.kanald.com.tr/sansa-davet/ozetler/kanal-d-nin-yeni-yarisma-programi-sansa-davet-sali-aksami-kanal-d-de",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Resmi galeri ilk bölümde Ertürk Ailesinin yarıştığını doğrular; tek kişilik yarışma değildir. Dört oturan yarışmacı + oturan Yiğit ve seyircisiz düzen kullanıcı tarafından açıkça istendi.",
+      "confidence": "high",
+      "limitations": "Dört kişi evrensel format sabiti olarak doğrulanmadı; bölümden bölüme grup büyüklüğü değişebilir. Seyircisizlik/oturma burada kullanıcı tercihi, bağımsız görsel teyit değil."
+    },
+    {
+      "index": 4,
+      "id": "alan-hakimi",
+      "name": "Alan",
+      "eraHost": "Oktay Kaynarca",
+      "findings": {
+        "activeContestants": 100,
+        "contestantPose": "standing",
+        "hostPose": "standing",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 100,
+        "contestantPose": "standing",
+        "hostPose": "standing",
+        "initialFieldContestants": 100,
+        "duelActive": 2,
+        "extrasMustBeContestants": true
+      },
+      "sources": [
+        {
+          "url": "https://www.atv.com.tr/alan/galeri/1-bolumde-neler-olacak",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://www.atv.com.tr/haberler/2024/04/26/ekranlarin-yeni-nesil-yarismasi-alan-yakinda-atvde",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "ATV: 100 yarışmacı,100 kategori,100 karelik LED alan; komşu rakiple düello. Kalabalık yarışmacı kadrosudur.",
+      "confidence": "high",
+      "limitations": "Ayrı tribün seyircisi doğrulanmadı; host pozuna ilişkin metin yok, ayakta önerisi zemindeki formatın yorumu."
+    },
+    {
+      "index": 5,
+      "id": "guven-cizgisi",
+      "name": "Güven Bana",
+      "eraHost": "Müge Anlı",
+      "findings": {
+        "activeContestants": 2,
+        "contestantPose": "seated",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 2,
+        "contestantPose": "seated",
+        "hostPose": "unknown",
+        "supporters": "contestant families, separate from competitors",
+        "removeFourContestantLayout": true
+      },
+      "sources": [
+        {
+          "url": "https://www.atv.com.tr/guven-bana/hakkinda",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://www.atv.com.tr/haberler/2025/06/16/muge-anli-ile-guven-bana-sali-2000de-atvde",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Resmi açıklama birbirini tanımayan iki yarışmacının aileleriyle geldiğini söyler; resmi 2025 haberi iki yarışmacının koltuğa oturduğunu belirtir.",
+      "confidence": "high",
+      "limitations": "Aile yakınları destekçidir; tüm arka planı genel seyirci ile doldurmak için kanıt yok."
+    },
+    {
+      "index": 6,
+      "id": "esim-yapar",
+      "name": "Ben Bilmem Eşim Bilir",
+      "eraHost": "İlker Ayrık",
+      "findings": {
+        "activeContestants": 8,
+        "contestantPose": "phase-dependent seated/standing",
+        "hostPose": "at betting table",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 8,
+        "contestantPose": "phase-dependent seated/standing",
+        "hostPose": "at betting table",
+        "couples": 4,
+        "bettingTableSeats": 4,
+        "rearGlassCabins": 4,
+        "finalCouples": 2
+      },
+      "sources": [
+        {
+          "url": "https://eurod.kanald.com.tr/ben-bilmem-esim-bilir/haber/ben-bilmem-esim-bilir-bu-aksam-basliyor",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Resmi başlangıç açıklaması dört çift ve üç etap. İlk etap dört kadın sunucunun iddia masasında oturur; dört erkek arkadaki cam kabinlerde oturur. Sonraki etap roller değişir; final iki çift.",
+      "confidence": "high",
+      "limitations": "2016 evli altı çift formatı ile karıştırılmamalı. Seyirci varlığı resmi metinle teyit edilmedi."
+    },
+    {
+      "index": 7,
+      "id": "aile-meydani",
+      "name": "Aileler Yarışıyor",
+      "eraHost": "Asuman Krause",
+      "findings": {
+        "activeContestants": "unknown",
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": "unknown",
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "teams": 2,
+        "teamSize": "unknown",
+        "preserveExistingUntilVerified": true
+      },
+      "sources": [
+        {
+          "url": "https://www.tv360.com.tr/yasam/aileler-yarisiyor--802",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "360 resmi sayfası Asuman Krause dönemini doğrular. İki aile takımı formatı; resmi sayfadaki metin kişi sayısını açıklamaz.",
+      "confidence": "low",
+      "limitations": "360 döneminde takım başına dört/beş kişi seçimi bu araştırmada resmi görselden sayılmadı. Eski Beyaz döneminden sayı taşınmamalı."
+    },
+    {
+      "index": 8,
+      "id": "ada-mucadelesi",
+      "name": "Survivor",
+      "eraHost": "Murat Ceylan",
+      "findings": {
+        "activeContestants": "variable",
+        "contestantPose": "standing/parkour",
+        "hostPose": "standing beside course",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": "variable",
+        "contestantPose": "standing/parkour",
+        "hostPose": "standing beside course",
+        "scene": "outdoor course",
+        "activeRunners": 2,
+        "waitingPeople": "remaining team members, not audience"
+      },
+      "sources": [
+        {
+          "url": "https://www.tv8.com.tr/survivor/gonca-parkurda-su-yuttu-murat-ceylan-oyunu-durdurdu-100559-video.htm",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "TV8 resmi klibi Murat Ceylanın iki farklı takım yarışmacısının parkur mücadelesini yönettiğini ve oyunu durdurduğunu doğrular.",
+      "confidence": "medium",
+      "limitations": "Stüdyo seyircisinin yokluğu bu metinle ispatlanamaz; parkur kadrosu sezon ve elemeye göre değişir. Dört kişiyi format toplamı sayma."
+    },
+    {
+      "index": 9,
+      "id": "risk-meydani",
+      "name": "Büyük Risk",
+      "eraHost": "Selçuk Yöntem",
+      "findings": {
+        "activeContestants": 3,
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 3,
+        "contestantPose": "unknown",
+        "hostPose": "unknown"
+      },
+      "sources": [
+        {
+          "url": "https://www.jokeryapim.com/buyuk-risk/",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Resmi yapımcı Joker Yapım: Selçuk Yöntem üç yarışmacıyla ekranda.",
+      "confidence": "high",
+      "limitations": "Seyirci ve podyumda ayakta konum metinden doğrulanmadı; üç podyum önerisi için görsel teyit gerekli."
+    },
+    {
+      "index": 10,
+      "id": "halka-mucadelesi",
+      "name": "En Zayıf Halka",
+      "eraHost": "Baybars Altuntaş",
+      "findings": {
+        "activeContestants": 9,
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 9,
+        "contestantPose": "unknown",
+        "hostPose": "unknown"
+      },
+      "sources": [
+        {
+          "url": "https://www.tv8.com.tr/baybars-altuntas-ile-en-zayif-halka/en-zayif-halka-1-bolum-7461-video.htm",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "TV8 resmi 21/09/2015 ilk bölüm kaydı Baybars Altuntaş dönemini ve dokuz yarışmacılı oyunu doğrular.",
+      "confidence": "medium",
+      "limitations": "Halka yerleşimi/ayakta duruş/tribün varlığı görsel olarak doğrulanmadı. Hülya Uğur veya başka dönemden alınmamalı."
+    },
+    {
+      "index": 11,
+      "id": "kelime-carki",
+      "name": "Çarkıfelek",
+      "eraHost": "Cem Davran",
+      "findings": {
+        "activeContestants": 3,
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": 3,
+        "contestantPose": "unknown",
+        "hostPose": "unknown"
+      },
+      "sources": [
+        {
+          "url": "https://www.tv8.com.tr/carkifelek/carkifelek-17-subat-2024-146327-video.htm",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://x.com/cdavran/status/1775127445949010260",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "TV8 resmi bölüm Cem Davranı doğrular. Sunucunun kendi paylaşımının arama metni bayram özelinde üç yarışmacı der.",
+      "confidence": "medium",
+      "limitations": "Sunucu paylaşımı açılırken403 verdi; üç sayısı özel bölümden ve arama metninden. Ana dönem görsel teyidi yapılmadı; dört kişilik mevcut sahneye güvenilmemeli."
+    },
+    {
+      "index": 12,
+      "id": "kelime-islem",
+      "name": "Bir Kelime Bir İşlem",
+      "eraHost": "Levent Ülgen",
+      "findings": {
+        "activeContestants": "unknown",
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": "unknown",
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "expertsAreNotContestants": true,
+        "preserveExistingUntilVerified": true
+      },
+      "sources": [
+        {
+          "url": "https://www.facebook.com/trtarsiv/videos/bir-kelime-bir-i%C5%9Flem/267573030950769/",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://www.trt.net.tr/vizyondergisi/wp-content/uploads/2015/02/subatDergi.pdf",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "TRT resmi arşiv kaydı mevcut; TRT dergisi dil ve matematik temelli yarışmanın formatını açıklar.",
+      "confidence": "low",
+      "limitations": "TRT arşiv videosu erişim engelli. İki yarışmacı iddiası yalnız ikincil kaynaklarda bulundu; resmi teyit olmadığından unknown. Uzman/jüri kişilerini yarışmacı sayma."
+    },
+    {
+      "index": 13,
+      "id": "harf-cemberi",
+      "name": "Passaparola",
+      "eraHost": "Metin Uca",
+      "findings": {
+        "activeContestants": "unknown",
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": "unknown",
+        "contestantPose": "unknown",
+        "hostPose": "unknown",
+        "possibleFormatPendingVerification": {
+          "mainContestants": 2,
+          "celebrityHelpers": 4
+        },
+        "preserveExistingUntilVerified": true
+      },
+      "sources": [
+        {
+          "url": "https://www.startv.com.tr/program/super-starlife/bolumler/super-starlife-passaparolada",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://www.showtv.com.tr/programlar/sahne/bu-sabah-metin-uca-hayatini-kaybetti/114997",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "Star resmi arşivinde Passaparola çekimleri kaydı; Show TV Metin Uca kaydı var. Resmi erişilebilir metin kadroyu saymıyor.",
+      "confidence": "low",
+      "limitations": "İkincil 2010 yayın duyuruları iki ana yarışmacı + her birine iki ünlü (toplam4yardımcı) diyor; resmi metin teyidi yok. Dört kişiyi ana yarışmacı sayma."
+    },
+    {
+      "index": 14,
+      "id": "sofra-rekabeti",
+      "name": "Yemekteyiz",
+      "eraHost": "Zuhal Topal",
+      "findings": {
+        "activeContestants": "unknown",
+        "contestantPose": "seated guests / standing cook",
+        "hostPose": "phase-dependent",
+        "audiencePresence": "unknown"
+      },
+      "recommendation": {
+        "audience": false,
+        "activeContestants": "unknown",
+        "contestantPose": "seated guests / standing cook",
+        "hostPose": "phase-dependent",
+        "scene": "home kitchen and dining table",
+        "provisionalWeeklyContestants": 5,
+        "dailyCook": 1,
+        "otherContestantGuests": 4,
+        "basis": "same franchise older official episode; current-era confirmation pending"
+      },
+      "sources": [
+        {
+          "url": "https://www.tv8.com.tr/zuhal-topalla-yemekteyiz",
+          "type": "official",
+          "opened": true
+        },
+        {
+          "url": "https://www.tv8.com.tr/yemekteyiz/1-nisan-2020-seda-sayan-ile-yemekteyiz-de-senem-hanim-in-menusunde-neler-var-79545-video.htm",
+          "type": "official",
+          "opened": true
+        }
+      ],
+      "evidence": "TV8 eski Seda Sayan döneminde haftada beş yarışmacıyı açıkça sayar. Ev sahibi rakiplerini ağırlıyor; masadaki kişiler yarışmacı/rakiptir.",
+      "confidence": "medium",
+      "limitations": "Zuhal Topal döneminin resmi sayfası erişilemedi. Beş kişiyi aynı döneme resmi teyitle taşıyamadığım için ana count unknown; mevcut dört kişi haftanın toplam kadrosu diye sunulmamalı."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-4585d27f-fcea-4e8b-9f09-381599b3a22a.png",
+  "prompt": "Use case: identity-preserve. Edit the supplied 4columns2rows sprite atlas. Preserve EXACT same eight people, faces, clothes, ages and row-major order. Primary change: REMOVE EVERY CHAIR/STOOL, leaving only the complete seated human body from hair to shoes with true transparent alpha. Keep their original natural FRONTAL/three-quarter seated postures, NOT all turned sideways. Vary attention subtly as original: some eyes look a little to left, others right, others slightly down listening, no staring/presenting directly at camera. Hands relaxed, varied naturally: on one thigh, loosely clasped, resting on knee, one elbow supported; nobody extending both arms, nobody pointing, nobody clapping. Keep original full legs and shoes. Photo realism, preserve identities and clothing. EXACT 4columns2rows landscape1536x1024, each entirely in own cell with margin. No furniture, background, floor shadows, logos, borders or text. These bodies will occupy existing 3D furniture.",
+  "method": "built-in imagegen",
+  "source": "dist/humans435/seated.webp",
+  "entries": [
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        122,
+        12,
+        247,
+        500
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "female",
+      "age": "adult"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        471,
+        6,
+        245,
+        504
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "male",
+      "age": "adult"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        852,
+        10,
+        244,
+        502
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "female",
+      "age": "adult"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        1167,
+        8,
+        251,
+        504
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "male",
+      "age": "adult"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        128,
+        512,
+        256,
+        509
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "female",
+      "age": "mature"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        384,
+        514,
+        351,
+        501
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "male",
+      "age": "mature"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        843,
+        512,
+        260,
+        509
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "female",
+      "age": "mature"
+    },
+    {
+      "asset": "humans435/calm-seated438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        1177,
+        512,
+        247,
+        510
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "front",
+      "gender": "male",
+      "age": "mature"
+    }
+  ]
+}

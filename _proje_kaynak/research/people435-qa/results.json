@@ -1,0 +1,320 @@
+[
+  {
+    "game": "ada-mucadelesi",
+    "actors": 21,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "altin-sofra",
+    "actors": 6,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "altmis-saniye",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "anlasma",
+    "actors": 3,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "arkandayiz",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "bak-su-duvara",
+    "actors": 6,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "ben-bilirim",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "beyazla-joker",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "cember",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "cevap-sende",
+    "actors": 50,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "cevap-soruda",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "cifte-milyon",
+    "actors": 3,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "donen-koltuklar",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "elli-sarisin",
+    "actors": 52,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "esim-yapar",
+    "actors": 9,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "evim-sahane",
+    "actors": 19,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "eyvah-dusuyorum",
+    "actors": 11,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "gel-hemserim",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "gonder-gitsin",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "goz6",
+    "actors": 20,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "halka-mucadelesi",
+    "actors": 10,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "hepsi-benim",
+    "actors": 9,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "herkes-kazanir",
+    "actors": 6,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "ilk-bulusma",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "kapis-kapis",
+    "actors": 9,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "kelime-islem",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "kelime-meydani",
+    "actors": 6,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "kizlar-ve-anneleri",
+    "actors": 7,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "kizma-kazan",
+    "actors": 1,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "kumbara",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "milyonluk-resim",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "on-dokuz",
+    "actors": 8,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "para-bende",
+    "actors": 2,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "para-odasi",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "password",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "piramit",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "sahane-pazar",
+    "actors": 3,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "sans-kapida",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "sansli-masa",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "sebeke",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "sefler-arenasi",
+    "actors": 23,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "sofra-rekabeti",
+    "actors": 6,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "super-bulmaca",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "takip",
+    "actors": 5,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "telefon-kulubesi",
+    "actors": 1,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "temizlik-benim-isim",
+    "actors": 6,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "the-taste-turkiye",
+    "actors": 16,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "turnike",
+    "actors": 17,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "ucte-uc",
+    "actors": 3,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "utopya",
+    "actors": 15,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "yaparsin-askim",
+    "actors": 9,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "yasim-kac",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  },
+  {
+    "game": "yetenek-sahnesi",
+    "actors": 4,
+    "errors": [],
+    "stages": 1
+  }
+]

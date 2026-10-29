@@ -1,0 +1,47 @@
+{
+  "key": "hosts3",
+  "asset": "humans435/angle437-hosts3.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      203,
+      16,
+      289,
+      733
+    ],
+    [
+      625,
+      26,
+      230,
+      732
+    ],
+    [
+      187,
+      774,
+      284,
+      733
+    ],
+    [
+      643,
+      779,
+      231,
+      733
+    ]
+  ],
+  "names": [
+    "Aslı Hünel",
+    "Şebnem Bozoklu",
+    "Öykü Serter",
+    "Saba Tümer"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right"
+}

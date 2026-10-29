@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/sahane-pazar/index.html",
+      "status": "modified",
+      "base_sha256": "caddbb04092c05a82ebbcb03f3ca856a466a03297f117d984a34edf8359a8d26",
+      "new_sha256": "04db780967634f15c817dae3d640be878e6f9848c7e1f4ae301a6355b5334d62"
+    },
+    {
+      "path": "dist/games/sahane-pazar/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "41c1ad35854f18981a6e8575e497d17d55873bcaa33c670d5d34a0c52fea23c6"
+    },
+    {
+      "path": "dist/games/sahane-pazar/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "779ac552656672599c3ffc6118a5a10d24a585a0ea9c747b531a6719fa4fdc25"
+    }
+  ]
+}

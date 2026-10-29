@@ -1,0 +1,257 @@
+{
+  "categories": [
+    {
+      "name": "Film yönetmenleri",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Film yılları",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Sinema oyuncuları",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Kitaplar ve yazarlar",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Şarkılar ve sanatçılar",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Televizyon",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Başkentler",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Ülkeler",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Dünya dilleri",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Kıtalar",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Plaka kodları",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Türkiye bölgeleri",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Dünya yapıları",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Gezilecek yerler",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Teknoloji",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Spor bilgisi",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Mutfak kültürü",
+      "count": 500,
+      "kind": "map"
+    },
+    {
+      "name": "Sanat",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Tarih",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Bilim ve doğa",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Genel kültür",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Dil ve kültür",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Coğrafya bilgisi",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Gündelik yaşam",
+      "count": 500,
+      "kind": "quiz"
+    },
+    {
+      "name": "Basketbol",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Futbol hesabı",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Tavla ve zarlar",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Satranç hesabı",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Zihinden işlem",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Yüzdeler",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Kesirler",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Sayı örüntüleri",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Geometri",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Hacim ve alan",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Saatler",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Takvim hesabı",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Hız ve yol",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Alışveriş hesabı",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Kredi kartı hesabı",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Mutfak ölçüleri",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Dijital ölçüler",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Renkler ve ışık",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Kelime hesabı",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Uzunluk birimleri",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Ağırlık birimleri",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Sıralama ve mantık",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Olasılık ve sayma",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Kitap ve sayfalar",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Müzik ritmi",
+      "count": 500,
+      "kind": "scenario"
+    },
+    {
+      "name": "Bahçe ve üretim",
+      "count": 500,
+      "kind": "scenario"
+    }
+  ],
+  "total": 25000,
+  "uniqueIDs": 25000,
+  "duplicateTexts": 0
+}

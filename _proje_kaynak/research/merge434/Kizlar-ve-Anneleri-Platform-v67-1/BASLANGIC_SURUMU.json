@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/kizlar-ve-anneleri/index.html",
+      "status": "modified",
+      "base_sha256": "10d895d3822b81ae322a540c95fe48a54fad7a5b00cf0c93a3f9767d7557bb4b",
+      "new_sha256": "c7718cb50e53e0fdaf7dc4435e2922608f55a9690ab94a9a269f2240f4a1ad0f"
+    },
+    {
+      "path": "dist/games/kizlar-ve-anneleri/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "32d91971626ac0d280541c84c0ff6308bf7a4b4d8c2ad07fc90c2cc381d729e9"
+    },
+    {
+      "path": "dist/games/kizlar-ve-anneleri/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "b658186ea1d517fda4767ca9841be03a8de556134a28fbd0a3d43e69a1c620c2"
+    }
+  ]
+}

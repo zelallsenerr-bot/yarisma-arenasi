@@ -1,0 +1,1 @@
+window.GAME318={"name": "Tuhaf Taksi", "rules": "Beş etaplık taksi yolculuğu: 60 saniyelik klasik soru, iki seçenekli soru, matematik problemi ve farklı bir konuda 4 veya 5 cevap sayma. Son etapta taksiden inip beş dakikada gönüllüleri topla ve sokak görevini tamamla. Her başarılı etap ayrı para kazandırır."};

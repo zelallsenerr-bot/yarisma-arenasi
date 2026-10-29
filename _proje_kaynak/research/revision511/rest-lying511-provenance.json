@@ -1,0 +1,8 @@
+{
+  "generator": "built-in image_gen",
+  "reference": "humans435/profile443-standing.webp",
+  "first_output": "exec-a4049daa-ac9f-49c3-af0d-19d5583c91b6.png",
+  "final_output": "exec-e438bf7a-3e75-4a29-9a8c-3f7a4061fc46.png",
+  "asset": "dist/games/cember/assets/rest-lying511.webp",
+  "changes": "Pose transformed to side-rest, exact adult default faces and clothes preserved. Second pass removed background alpha."
+}

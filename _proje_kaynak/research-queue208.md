@@ -1,0 +1,9 @@
+# Revision 208 — seated Emre presenter
+
+User screenshot from prior turn already inspected; latest complaint is presenter remains a rectangle rather than sitting in actual stool. Generated transparent seated-pose edit using built-in image generation from real programmes402/siradaki-gelsin.jpg, preserving facial identity reference, beard, rolled-sleeve white shirt and checked waistcoat, reconstructing dark trousers/shoes in natural stool seating. Inspected generated output: complete person and shoes, no stool, no rectangular background, true alpha (0..254); original retained unchanged and copied into tracked assets/emre-seated208.webp (lossless format conversion, decoded RGBA pixels verified identical). Source programme photograph remains in dialogue card. Clearly disclosed edited pose in credits, not a real broadcast still.
+
+Scene presenter sprite is full seated-body alpha mesh 1.30x1.95m, aligned with .27m raised stool and 1.17m pelvis anchor, shoes near footrest. No face-only crop or coloured rectangular background. Same person identity and actual seat position. Existing solo/fast/chair loss rules unchanged. Explained 'two amounts' to user: player's bank versus new leader's bank, e.g.700k and900k; displacement ends player run.
+
+Prompt (built-in image generation edit): preserve same Emre Karayel identity and programme vest/shirt, full-body natural seated pose on invisible studio bar stool, thighs horizontal, knees bent, feet on implied footrest, hands on thighs, transparent background, no chair/stage/text, entire shoes visible. No API/CLI fallback.
+
+Validation: native presenter geometry checks transparent full-body material, mesh dimensions, pelvis/stool alignment, no atlas contestant substitution; existing solo/queue UI and engine checks. No browser/GPU or device visual QA. Privacy review: no new data/services; credits updated; owner-private access unchanged.

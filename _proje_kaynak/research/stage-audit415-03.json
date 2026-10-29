@@ -1,0 +1,334 @@
+[
+  {
+    "id": "milyoner-aile",
+    "audience": null,
+    "contestants": {
+      "active": 16,
+      "teams": 4,
+      "membersPerTeam": 4
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Dört ayrı aile grubu; dört insanı dört aile yerine kullanmayın. Oturma düzeni ve stüdyo seyircisi metinden doğrulanmadı.",
+    "era": "2024, Engin Altan Düzyatan",
+    "sources": [
+      "https://www.atv.com.tr/milyoner-aile/galeri/engin-altan-duzyatanin-sunumuyla-milyoner-aile-ilk-bolumuyle-sali-aksami-atvde"
+    ],
+    "evidence": "ATV tanıtımı dört ailenin adlarını ve her ailenin dört üyesini ayrı ayrı sayıyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "utopya",
+    "audience": false,
+    "contestants": {
+      "initialResidents": 15,
+      "active": "variable"
+    },
+    "contestantPose": "mixed: daily living/work",
+    "hostPose": "none",
+    "layoutNotes": "Çiftlik ve yaşam alanı; sunuculu bilgi yarışması platformu veya seyirci tribünü değil. Eleme/değişim sonrasında sayı değişebilir.",
+    "era": "2014 başlangıcı, TV8",
+    "sources": [
+      "https://www.tv8.com.tr/utopya/utopya-basliyor-1266-haber.htm"
+    ],
+    "evidence": "TV8 tanıtımı 15 yarışmacı dışında alanda kimsenin olmayacağını, kameraman bile bulunmayacağını açıklıyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "high",
+      "poses": "high"
+    }
+  },
+  {
+    "id": "saba-ile-oyuna-geldik",
+    "audience": null,
+    "contestants": {
+      "active": 8,
+      "teams": 2,
+      "membersPerTeam": 4,
+      "celebrities": 6,
+      "publicContestants": 2
+    },
+    "contestantPose": "unknown; game dependent",
+    "hostPose": "unknown",
+    "layoutNotes": "İki ekip; her ekip üç ünlü ve bir halk yarışmacısı. Dört toplam oyuncu hatalı. Oyun dışı oturma ve seyirci için görsel teyit gerekiyor.",
+    "era": "2015, Saba Tümer",
+    "sources": [
+      "https://www.tv8.com.tr/saba-tumer-ile-oyuna-geldik/saba-tumer-ile-oyuna-geldik-cok-yakinda-2375-haber.htm"
+    ],
+    "evidence": "TV8 program tanıtımı dört kişilik iki takım ve 6 ünlü + 2 halk yarışmacısını açıkça veriyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "altin-petek",
+    "audience": null,
+    "contestants": {
+      "active": 1,
+      "episodeTotal": "multiple, sequential"
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Tek aktif yarışmacı ve petek soru/para yolu; bölümde adı geçen iki veya üç kişiyi eşzamanlı yarışmacı saymayın. Ünlü özel bölümlerinde ikili ekipler var.",
+    "era": "2016, Engin Hepileri",
+    "sources": [
+      "https://www.trt1.com.tr/arsiv/altin-petek/ozet/genel-ozet",
+      "https://www.tabii.com/en/detail/190021/altin-petek"
+    ],
+    "evidence": "TRT özetinin arama içeriği tek yarışmacının yolunu seçmesini anlatıyor; Tabii arşivi bir bölümde sırayla birden çok katılımcı listeliyor. TRT özet sayfası doğrudan açılamadı.",
+    "confidence": {
+      "count": "medium",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "eyvah-dusuyorum",
+    "audience": true,
+    "contestants": {
+      "active": 11,
+      "main": 1,
+      "opponents": 10
+    },
+    "contestantPose": "standing on individual trapdoors",
+    "hostPose": "standing, moving between contestants",
+    "layoutNotes": "Ana yarışmacı ve on rakip; oturan dört kişilik quiz düzeni uygun değil. Seyirci varlığı ikincil dönem haberiyle doğrulandı.",
+    "era": "2014–2015, Mehmet Ali Erbil; Eser Yenenler dönemi değil",
+    "sources": [
+      "https://www.star.com.tr/medya/eyvah-dusuyorumun-yayin-gunu-belli-oldu-haber-893513/",
+      "https://www.youtube.com/watch?v=kFS2s9UaYzE",
+      "https://www.cumhuriyet.com.tr/video/mehmet-ali-erbil-canli-yayinda-fena-dustu-92657"
+    ],
+    "evidence": "Star gazetesi 9 Haziran 2014 haberinde bir ana ve on yan yarışmacı sayıyor. Program kanalının video açıklaması yarışmacıların kapaklar üzerinde durduğunu ve sunucunun yanlarına yürüdüğünü anlatıyor. Cumhuriyet haberi stüdyodaki izleyicileri açıkça belirtiyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "medium",
+      "poses": "high"
+    }
+  },
+  {
+    "id": "super-bulmaca",
+    "audience": null,
+    "contestants": {
+      "active": 4
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Dört yarışmacılı bulmaca platformu; seyircisiz olduğu da seyircili olduğu da metinden doğrulanmadı.",
+    "era": "2014–2015 Bloomberg HT, Alper Ateş",
+    "sources": [
+      "https://www.bloomberght.com/super-bulmaca-ay-finali-ile-ekrana-geliyor-1695373",
+      "https://www.alperates.com/super-bulmaca/"
+    ],
+    "evidence": "Yayıncının 3 Ocak 2015 ay finali duyurusu dört finalisti isimleriyle sayıyor. Sunucunun kendi sitesi programı doğruluyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "takip",
+    "audience": null,
+    "contestants": {
+      "contestants": 3,
+      "chaser": 1,
+      "chaserName": "Muhsin Divan"
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Üç kişilik yarışmacı ekibi ile ayrı takipçi konumu gerekiyor. Takipçiyi dördüncü sıradan yarışmacı veya seyirci olarak göstermeyin.",
+    "era": "2014–2015, Uraz Kaygılaroğlu",
+    "sources": [
+      "https://eurod.kanald.com.tr/takip/ozetler/22-bolum-ozeti-final",
+      "https://eurod.kanald.com.tr/takip/foto-galeri/takip-22-bolum-foto-galeri"
+    ],
+    "evidence": "Kanal D final özeti üç yarışmacıyı ve takipçi Muhsin Divan’ı ayırarak sayıyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "sebeke",
+    "audience": false,
+    "contestants": {
+      "prizeContestant": 1,
+      "actors": "variable family cast"
+    },
+    "contestantPose": "mixed, domestic living room",
+    "hostPose": "none",
+    "layoutNotes": "Gizli kameralı aile evi; aileyi oynayan kişiler yarışmacı veya seyirci değildir. Stüdyo sunucusu ve seyirci tribünü eklemeyin.",
+    "era": "2012 Kanal D gizli kamera formatı",
+    "sources": [
+      "https://eurod.kanald.com.tr/sebeke/haber/kahkaha-garantili-sebeke"
+    ],
+    "evidence": "Kanal D duyurusu 32 gizli kamera bulunan eve getirilen habersiz sevgiliyi ve oyuncu aile üyelerini tarif ediyor. Stüdyo seyircisi yerine ev ortamı çıkarımı formatın doğrudan tarifine dayanıyor.",
+    "confidence": {
+      "count": "high",
+      "audience": "high",
+      "poses": "medium"
+    }
+  },
+  {
+    "id": "tuhaf-taksi",
+    "audience": false,
+    "contestants": {
+      "active": "taxi passenger(s), no fixed four-person panel"
+    },
+    "contestantPose": "seated in taxi; may leave for street task",
+    "hostPose": "seated driving",
+    "layoutNotes": "Sürücü sunucu ön koltukta; yarışmacı müşteri takside. Yoldan yardım istenen insanlar seyirci tribünü değildir.",
+    "era": "2013, Abdurrahman Yunusoğlu",
+    "sources": [
+      "https://eurod.kanald.com.tr/tuhaftaksi/haber/tuhaf-taksi-basliyor"
+    ],
+    "evidence": "Kanal D sürücü Abdurrahman Yunusoğlu’nun taksisine binen müşterilerin dört soruyu cevaplamasını ve sokak görevini anlatıyor. Studioaudience uygulanamaz.",
+    "confidence": {
+      "count": "medium",
+      "audience": "high",
+      "poses": "high"
+    }
+  },
+  {
+    "id": "turnike",
+    "audience": true,
+    "contestants": {
+      "active": "unknown; episode/game dependent",
+      "teams": "teams confirmed, count unknown"
+    },
+    "contestantPose": "unknown; game dependent",
+    "hostPose": "unknown",
+    "layoutNotes": "Seyircili eğlence sahnesi. Telefon/görüntülü bağlantıdaki aileleri sahnedeki yarışmacı sayısına eklemeyin. Dört kişinin gerçek toplam olduğu doğrulanmadı.",
+    "era": "2024 Kanal D, Mehmet Ali Erbil",
+    "sources": [
+      "https://www.kanald.com.tr/turnike/ozel-klipler/turnike-ilk-arabasini-kazandirdi",
+      "https://www.kanald.com.tr/turnike/ozel-klipler/kulaklik-etabini-hangi-takim-kazandi"
+    ],
+    "evidence": "Kanal D klip metni stüdyodaki seyircileri açıkça belirtir. Araba kazanan çift görüntülü telefonla katılıyor, sahnede değiller.",
+    "confidence": {
+      "count": "unknown",
+      "audience": "high",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "ben-bilirim",
+    "audience": null,
+    "contestants": {
+      "active": 4
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Dört yarışmacı. Resmi sayfadaki ekran karşısındaki seyirciler ifadesi evden izleyicileri anlatır; stüdyo seyircisine kanıt değildir.",
+    "era": "360, Alper Ateş; 2019 sonrası",
+    "sources": [
+      "https://www.tv360.com.tr/yasam/ben-bilirim--717"
+    ],
+    "evidence": "360 program sayfası dört katılımcıyı açıkça belirtir; sunucu Alper Ateş’tir.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "piramit",
+    "audience": null,
+    "contestants": {
+      "publicContestants": 2,
+      "coaches": 2,
+      "teams": 2,
+      "membersPerTeam": 2
+    },
+    "contestantPose": "unknown; clue games involve gestures",
+    "hostPose": "unknown",
+    "layoutNotes": "Her takıma bir yarışmacı ve bir koç. Koçlar Evrim Akın ve Sertan Erkaçan; dört sıradan yarışmacı olarak modellenmemeli.",
+    "era": "2015, Yusuf Çim",
+    "sources": [
+      "https://www.showtv.com.tr/programlar/tanitim/piramit/1579"
+    ],
+    "evidence": "Show TV tanıtımı iki takımı, iki yarışmacı ve iki koçu ayrı tanımlar.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "ucte-uc",
+    "audience": null,
+    "contestants": {
+      "active": 1,
+      "advisor": 1,
+      "advisorName": "Prof. Dr. Tufan Gündüz",
+      "episodeTotal": "multiple sequential"
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Config tarih soruları ve Tufan Gündüz kullanıyorsa 3’te 3 Tarih dönemi esas alınmalı. Dört eşzamanlı yarışmacı yerine tek yarışmacı ve ayrı danışman.",
+    "era": "TRT1, Pelin Çift / Tufan Gündüz tarih dönemi",
+    "sources": [
+      "https://www.trt1.com.tr/programlar/3te-3-tarih/bolum/2",
+      "https://www.trt1.com.tr/haber/programlar/3te-3te-buyuk-odul-gazze-ve-tskya-bagislandi-28719584"
+    ],
+    "evidence": "TRT bölüm listesi yarışanların sırasıyla geldiğini açıkça belirtir; bölüm toplamı aynı anda sahnede bulunanların sayısı değildir.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "kumbara",
+    "audience": null,
+    "contestants": {
+      "active": 1,
+      "episodeTotal": "multiple sequential"
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "layoutNotes": "Tek aktif yarışmacı; genel dört kişilik panel yanlış. Mevcut sunucu seated ayarını gerçek görsel olmadan doğrulanmış saymayın.",
+    "era": "NOW, Ali İhsan Varol",
+    "sources": [
+      "https://www.nowtv.com.tr/Ali-Ihsan-Varol-ile-Kumbara/ozel-sahne/136592/once-kolay-sorularla-baslayacagiz-sonra-azicik-zorlasacak",
+      "https://www.nowtv.com.tr/Ali-Ihsan-Varol-ile-Kumbara/ozel-sahne/136594/7de-7lik-sahane-bir-basari"
+    ],
+    "evidence": "NOW klipleri ilk yarışmacı ve yeni yarışmacı ifadeleriyle tek tek yarışmayı gösterir; seyirci ve pozlar metinden doğrulanmadı.",
+    "confidence": {
+      "count": "high",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  },
+  {
+    "id": "kizlar-ve-anneleri",
+    "audience": null,
+    "contestants": {
+      "teams": "mother-daughter pairs",
+      "teamCount": "unknown",
+      "membersPerTeam": 2
+    },
+    "contestantPose": "unknown; game dependent",
+    "hostPose": "unknown",
+    "layoutNotes": "Anne-kız ikilileri; uygulamadaki 8 kişi ve açıklamadaki üç takım çelişkisi kaynakla çözülemedi. Altı veya sekiz kişiyi kesin bilgi diye uygulamayın.",
+    "era": "2013 başlangıç dönemi, Ümit İbrahim Kantarcılar",
+    "sources": [
+      "https://www.atv.com.tr/haberler/2013/07/31/kizlar-ve-anneleri",
+      "https://www.atv.com.tr/haberler/2013/11/20/kizlar-ve-anneleri-gun-birincisi-oldu"
+    ],
+    "evidence": "ATV 31 Temmuz 2013 duyurusu anne-kız ekiplerini ve Ümit İbrahim Kantarcılar’ı doğruluyor; ekip sayısı ve seyirci/oturma ayrıntısı yok.",
+    "confidence": {
+      "count": "unknown",
+      "audience": "unknown",
+      "poses": "unknown"
+    }
+  }
+]

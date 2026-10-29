@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/the-taste-turkiye/index.html",
+      "status": "modified",
+      "base_sha256": "e5d2bfcb2751638ad954a09dc0a0dd007e3b5157c562dfa4f7979d7e991e9084",
+      "new_sha256": "6e797c2d294549124419fa051b43d0151deda1bcdeb7d695d23a082b1f3ccb11"
+    },
+    {
+      "path": "dist/games/the-taste-turkiye/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "e98593ee625bddd1aebce4a4ade61e50422e3870759a5d3d6bda45051bd28c12"
+    },
+    {
+      "path": "dist/games/the-taste-turkiye/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "58c581a3fd11a851e78d61365f67d02deec5de8ad54d99e046c6390fbfb4ba72"
+    }
+  ]
+}

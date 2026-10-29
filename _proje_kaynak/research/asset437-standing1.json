@@ -1,0 +1,65 @@
+{
+  "key": "standing1",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-310ee43d-81ab-4e28-a20f-3d0ebadc65f7.png",
+  "cols": 4,
+  "rows": 2,
+  "pose": "standing",
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit this transparent fullbody atlas. Preserve EXACT SAME 8 people in same 4columns 2rows row-major order, same faces, clothing and ages. Change every WHOLE BODY and HEAD to 65 degrees toward IMAGE RIGHT, looking at an offscreen conversation partner, never camera. All STANDING naturally, head to shoes visible. Photographic human anatomy, realistic hands. Strict 4columns2rows landscape1536x1024. Each person completely isolated in own cell with generous transparent margin on all sides, never touching adjacent cell. No stage, furniture, shadows, text, logos. Real transparent alpha background. Preserve only the original eight identities/outfits/order.",
+  "method": "built-in imagegen",
+  "asset": "humans435/angle437-standing1.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "rects": [
+    [
+      176,
+      17,
+      181,
+      478
+    ],
+    [
+      500,
+      10,
+      217,
+      484
+    ],
+    [
+      879,
+      19,
+      193,
+      477
+    ],
+    [
+      1252,
+      13,
+      196,
+      481
+    ],
+    [
+      165,
+      515,
+      201,
+      485
+    ],
+    [
+      510,
+      513,
+      224,
+      484
+    ],
+    [
+      910,
+      515,
+      200,
+      481
+    ],
+    [
+      1278,
+      512,
+      216,
+      488
+    ]
+  ]
+}

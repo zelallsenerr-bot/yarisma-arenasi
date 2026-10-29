@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/sebeke/index.html",
+      "status": "modified",
+      "base_sha256": "f8c3f62abff485617ca61c950ec85fc4097cb333c4ce3b73227edb55132cf916",
+      "new_sha256": "519936657c28e4be1f5c72531f1718ef348f596b6849d46b69f77cfd37bb86a3"
+    },
+    {
+      "path": "dist/games/sebeke/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "dc6dd2d2dcb2fc347e84d70e09a3d05b67d95c2307f72f172ecd94fb33c96359"
+    },
+    {
+      "path": "dist/games/sebeke/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "5ba3fce78b3c1ec20fe492c3e8d849934ed1d625cfb06ab996bde4ef0be95f8c"
+    }
+  ]
+}

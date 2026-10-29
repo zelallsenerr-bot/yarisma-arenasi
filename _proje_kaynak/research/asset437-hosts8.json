@@ -1,0 +1,48 @@
+{
+  "key": "hosts8",
+  "asset": "humans435/angle437-hosts8.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      128,
+      25,
+      345,
+      743
+    ],
+    [
+      586,
+      33,
+      341,
+      735
+    ],
+    [
+      146,
+      768,
+      336,
+      724
+    ],
+    [
+      622,
+      768,
+      374,
+      727
+    ]
+  ],
+  "names": [
+    "Sinan Çalışkanoğlu",
+    "Orçun Kaptan",
+    "Şinasi Yurtsever",
+    "Süheyl Uygur"
+  ],
+  "poses": [
+    "seated",
+    "seated",
+    "seated",
+    "standing"
+  ],
+  "facing": "right",
+  "source": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-8600ecc9-7e97-4792-a4e3-e6a5d2edca17.png"
+}

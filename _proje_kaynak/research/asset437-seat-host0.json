@@ -1,0 +1,47 @@
+{
+  "key": "seat-host0",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-ad6ac5d6-e2d5-4dd9-946e-a21b6ff3c0a1.png",
+  "cols": 2,
+  "rows": 2,
+  "pose": "seated",
+  "names": [
+    "Mesut Yar",
+    "Yiğit Alıcı",
+    "Oktay Kaynarca",
+    "İlker Ayrık"
+  ],
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit the supplied 2x2 transparent full body atlas. EXACT SAME FOUR IDENTITIES in SAME row-major positions: Mesut Yar, Yiğit Alıcı, Oktay Kaynarca, İlker Ayrık. Preserve each person's recognizable face, hair, age, outfit and shoes. Change ALL FOUR to natural SEATED posture with whole body and head turned 65 degrees towards IMAGE RIGHT, looking at an offscreen person, not camera. Feet fully visible, knees naturally bent, hands resting on thighs or holding cuecards. Body-only cutouts: NO chair, stool, furniture, background, floor shadow, text or borders. Will sit on existing stage furniture. Anatomical photorealism, natural relaxed posture. Keep each person strictly inside own quadrant with 45px transparent margins. Portrait 1024x1536, EXACT 2 columns 2 rows. Change ONLY seated pose and direction, retain same identities and clothing.",
+  "method": "built-in imagegen",
+  "asset": "humans435/angle437-seat-host0.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      82,
+      31,
+      392,
+      710
+    ],
+    [
+      586,
+      37,
+      372,
+      702
+    ],
+    [
+      97,
+      772,
+      403,
+      718
+    ],
+    [
+      590,
+      773,
+      398,
+      717
+    ]
+  ]
+}

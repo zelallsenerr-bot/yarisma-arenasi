@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/herkes-kazanir/index.html",
+      "status": "modified",
+      "base_sha256": "ac917442af52ab6367dcfe6844eff3ee83459473ed27e37cac4f4e7ea3c6e50e",
+      "new_sha256": "f842121fae39658f2ced0f8df261624034402620d2e2e96fad0a8b4026cfe61b"
+    },
+    {
+      "path": "dist/games/herkes-kazanir/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "83e684c7fee85f96a2861cf1db6ca571f804e5f8ecf1f02ce4d1b38ca00feadd"
+    },
+    {
+      "path": "dist/games/herkes-kazanir/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "478758140133a8e05f78175dc49e1cdb87dce50a3f55169e2b234221ffd5376e"
+    }
+  ],
+  "shared_files_changed": []
+}

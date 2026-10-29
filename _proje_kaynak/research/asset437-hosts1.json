@@ -1,0 +1,47 @@
+{
+  "key": "hosts1",
+  "asset": "humans435/angle437-hosts1.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      162,
+      12,
+      350,
+      756
+    ],
+    [
+      512,
+      16,
+      431,
+      736
+    ],
+    [
+      158,
+      768,
+      354,
+      738
+    ],
+    [
+      512,
+      816,
+      460,
+      638
+    ]
+  ],
+  "names": [
+    "Selçuk Yöntem",
+    "Baybars Altuntaş",
+    "Cem Davran",
+    "Levent Ülgen"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "seated"
+  ],
+  "facing": "right"
+}

@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/ilk-bulusma/index.html",
+      "status": "modified",
+      "base_sha256": "433f250821a1726721bdf26f77b89a499ccfb496a053e8013f93cd8163b74f88",
+      "new_sha256": "ddd66d91c02fc18dc909f396bc2d112c5de95555ab3892ba8107a4d46387ab3c"
+    },
+    {
+      "path": "dist/games/ilk-bulusma/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "6a31789fec803e63b8a1df4941812d280ef0b858400e454d91ad0bb526e690f0"
+    },
+    {
+      "path": "dist/games/ilk-bulusma/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "68a20e91370d44b38364e22e742308c8a432d096a56ffb3a1b8f75ec4874d63a"
+    },
+    {
+      "path": "dist/games/ilk-bulusma/platform-hosts.png",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "189fd574dbae2c304e5e7535e4ff53616963b21627c3ccaac6b9daeba2d4698c"
+    }
+  ]
+}

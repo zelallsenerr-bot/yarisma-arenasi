@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/cifte-milyon/index.html",
+      "status": "modified",
+      "base_sha256": "656c7d67cc666320d7991d1a030c4da7b30689c00f24eb6d57b736af08ce990f",
+      "new_sha256": "f34917edc729c3ef409d47730390f2bafd30ca154e9b5d795eba437db019bd82"
+    },
+    {
+      "path": "dist/games/cifte-milyon/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "23bb44422c6fdedf1f974f2a1beccc3978e222a7e42e7c00f07c68e1c6956a1e"
+    },
+    {
+      "path": "dist/games/cifte-milyon/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "4653eed8b4b15d17be52276cafaa1d86c5607b434cb5e6b3fe6db9a58acd5597"
+    }
+  ],
+  "shared_files_changed": []
+}

@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/telefon-kulubesi/index.html",
+      "status": "modified",
+      "base_sha256": "9dc36ae30bbda3bb14fd019bdf650fcbb06ba6a0855d55c9be03cd0d8728beeb",
+      "new_sha256": "f627a6510e95506e17cb2badc02da282b1f1fb4417b574f6a90f8833c41fa72a"
+    },
+    {
+      "path": "dist/games/telefon-kulubesi/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "62d754d4d2beae297f6a911d45d08b5761a5371fa4d0bea6c59f4803ac88b6d4"
+    },
+    {
+      "path": "dist/games/telefon-kulubesi/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "f3bd81a7607cdd9ae8cd87d8c34981d80d8ae172f9a0b1313e7e740c8280fde2"
+    }
+  ]
+}

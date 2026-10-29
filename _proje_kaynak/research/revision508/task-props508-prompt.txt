@@ -1,0 +1,1 @@
+Built-in imagegen. Photorealistic 3×3 transparent object sprite sheet: cup/saucer, plate, napkin; water, tomato soup, chicken dinner; keys, wallet, phone. Isolated full objects, studio materials and soft light, no people/text. Original: exec-7ba86896-3e48-4aaa-80a9-f59ac77458b4.png. WebP format conversion only.

@@ -1,0 +1,47 @@
+{
+  "key": "hosts2",
+  "asset": "humans435/angle437-hosts2.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      175,
+      10,
+      284,
+      758
+    ],
+    [
+      654,
+      18,
+      305,
+      750
+    ],
+    [
+      191,
+      768,
+      294,
+      717
+    ],
+    [
+      630,
+      768,
+      346,
+      724
+    ]
+  ],
+  "names": [
+    "Esra Erol",
+    "Müge Anlı",
+    "Asuman Krause",
+    "Zuhal Topal"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right"
+}

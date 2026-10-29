@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/altin-sofra/index.html",
+      "status": "modified",
+      "base_sha256": "1de95f4b7bd8544f7ce5002758602ec414c9018c765204f72e06796dfe5a47eb",
+      "new_sha256": "b7fcebc5d80bee29af6a3fbb17eac8fc68c2ad78e082e50659df4cf349f6df51"
+    },
+    {
+      "path": "dist/games/altin-sofra/app.js",
+      "status": "modified",
+      "base_sha256": "96ac7c66e67e6a915f78901c05898bea248cfa0966478bbd7cf797293a56914b",
+      "new_sha256": "9caf65d6f6bcf5bd8f140491e4b97ae78facd2328038b1a8e4e50b20e75a20e0"
+    },
+    {
+      "path": "dist/games/altin-sofra/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "b3c2a67747e0fcd328420650981c2618a5bb57b63139fba0775f1f3e7ff5f614"
+    },
+    {
+      "path": "dist/games/altin-sofra/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "354b7f5e4a2efdc16ad17b36870c2813f535d7a918ad490c5ee2b854bcca8ddd"
+    }
+  ]
+}

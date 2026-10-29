@@ -1,0 +1,74 @@
+{
+  "key": "seatedhosts",
+  "cols": 4,
+  "rows": 2,
+  "pose": "seated",
+  "names": [
+    "Esra Erol",
+    "Müge Anlı",
+    "Zuhal Topal",
+    "Yiğit Alıcı",
+    "Cem Öğretir",
+    "Selçuk Yöntem",
+    "Beyazıt Öztürk",
+    "Engin Hepileri"
+  ],
+  "prompt": "8specificfullbodySEATEDTVhosts EXACT4columns2rows order topEsraErol,MügeAnlı,ZuhalTopal,YiğitAlıcı; bottomCemÖğretir,SelçukYöntem,BeyazıtÖztürk,EnginHepileri. Preserve allauthenticreferencefaces/clothes. Allturned65degreesRIGHTnotcamera, naturalconversationhands. SeatedinmidairNOCHAIRS,furniture,stools. Uncrossedlegsfullshoes.",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-b2549e6f-62e5-4b85-b8c2-fbaf47dba307.png",
+  "facing": "right",
+  "asset": "humans435/angle437-seatedhosts.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      7,
+      122,
+      249,
+      611
+    ],
+    [
+      256,
+      123,
+      256,
+      606
+    ],
+    [
+      512,
+      126,
+      256,
+      604
+    ],
+    [
+      768,
+      120,
+      246,
+      602
+    ],
+    [
+      9,
+      803,
+      247,
+      617
+    ],
+    [
+      256,
+      798,
+      256,
+      613
+    ],
+    [
+      512,
+      789,
+      256,
+      619
+    ],
+    [
+      768,
+      798,
+      253,
+      614
+    ]
+  ]
+}

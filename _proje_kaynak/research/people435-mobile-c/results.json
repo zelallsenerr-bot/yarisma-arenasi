@@ -1,0 +1,104 @@
+[
+  {
+    "game": "sahane-pazar",
+    "actors": 3,
+    "width": 370,
+    "zero": []
+  },
+  {
+    "game": "sans-kapida",
+    "actors": 4,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "sansli-masa",
+    "actors": 4,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "sebeke",
+    "actors": 4,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "sefler-arenasi",
+    "actors": 23,
+    "width": 354,
+    "zero": []
+  },
+  {
+    "game": "sofra-rekabeti",
+    "actors": 6,
+    "width": 354,
+    "zero": []
+  },
+  {
+    "game": "super-bulmaca",
+    "actors": 5,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "takip",
+    "actors": 5,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "telefon-kulubesi",
+    "actors": 1,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "temizlik-benim-isim",
+    "actors": 6,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "the-taste-turkiye",
+    "actors": 16,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "turnike",
+    "actors": 17,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "ucte-uc",
+    "actors": 3,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "utopya",
+    "actors": 15,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "yaparsin-askim",
+    "actors": 9,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "yasim-kac",
+    "actors": 4,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "yetenek-sahnesi",
+    "actors": 4,
+    "width": 358,
+    "zero": []
+  }
+]

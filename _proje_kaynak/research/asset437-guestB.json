@@ -1,0 +1,48 @@
+{
+  "key": "guestB",
+  "source": "dist/humans435/guestB.webp",
+  "cols": 2,
+  "rows": 2,
+  "names": [
+    "Gupse Özay",
+    "Oğuzhan Koç",
+    "Doğu Demirkol",
+    "Melis Sezen"
+  ],
+  "pose": "seated",
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit target: supplied2x2 transparent full-body celebrityguest spriteatlas. Keep EXACT SAME FOUR recognizable people and outfits, ages,hair,faces and row-major quadrant order: Gupse Özay, Oğuzhan Koç, Doğu Demirkol, Melis Sezen. New1024x1536 portrait2x2atlas. All four seated in natural conversation poses, FULLBODY from hair to BOTHFEET inside each quadrant, minimum40pxclear margins fromeveryedge andcellboundary. Rotate wholebody AND head65degrees toward IMAGE RIGHT, eyes looking offscreenRIGHT at anotherperson, neveratcamera. Preserve individual identities fromreference. Vary naturalhands: relaxedlap, mildconversationgesture, listeninghandnearchin, forearmon thigh. Preserve outfitcolours/styles. Remove EVERY CHAIR/STOOL/SEAT and all furniture/supports. Only seatedhumanbodies remain forcompositing into existingchairs. No text,borders,logos,stage,backdrop,floorshadow orglow. Genuine transparentalpha background, cleanedges. Photorealistic skin,hands,fabric andneutralstudiolighting. Allshoes must befullyvisible, nopartclipped.",
+  "asset": "humans435/angle437-guestB.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      130,
+      23,
+      382,
+      738
+    ],
+    [
+      512,
+      30,
+      491,
+      722
+    ],
+    [
+      108,
+      786,
+      404,
+      718
+    ],
+    [
+      512,
+      785,
+      481,
+      715
+    ]
+  ],
+  "generated_path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-e033381c-7b23-4522-8262-7f30732bc02e.png",
+  "method": "built-in imagegen"
+}

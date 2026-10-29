@@ -1,0 +1,1 @@
+Built-in image_gen. Reference assets/lucky-cast311.jpg. Preserve six identities from first two rows. 3x2 transparent1536x1024 full-body seated atlas, no chairs/table, 3/4 left conversational pose. Exact prompt retained in session. Original generated PNG: /workspace/scratch/1cdac27dbcf0/generated_images/exec-c90b3569-3dd1-4f71-9ff2-2c6fd5092414.png

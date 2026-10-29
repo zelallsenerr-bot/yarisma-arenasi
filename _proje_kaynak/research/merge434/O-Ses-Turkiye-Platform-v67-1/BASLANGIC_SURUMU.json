@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/donen-koltuklar/index.html",
+      "status": "modified",
+      "base_sha256": "441c9766e7479e91428f2ab1d24045a57537ac1da128faa3d956651a200a6d50",
+      "new_sha256": "39eb89d7b66bd70e8a145538b0c1a9e0c333347e9b8e41c9553d868f7b3b83a7"
+    },
+    {
+      "path": "dist/games/donen-koltuklar/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "f18c8cf2cf7b826468297eb867746dcde268204c4e7bb1276c8b465cc10e9da9"
+    },
+    {
+      "path": "dist/games/donen-koltuklar/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "50b1d50c07f70aa89272e4f4224d07fcf11ed3945ec59c3b350e2d713d6e7ba8"
+    }
+  ]
+}

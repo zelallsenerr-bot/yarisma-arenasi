@@ -1,0 +1,47 @@
+{
+  "key": "seat-host10",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-fe8009e0-c79b-42a4-b839-6c2b27a0684c.png",
+  "cols": 2,
+  "rows": 2,
+  "pose": "seated",
+  "names": [
+    "Derda Yasir Yenal",
+    "Rüştü Onur Atilla",
+    "Öner Erkan",
+    "Ahmet Çakar"
+  ],
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit supplied 2x2 atlas, preserve exact SAME FOUR PEOPLE and outfits, faces, order: top-left Derda Yasir Yenal, top-right Rüştü Onur Atilla, bottom-left Öner Erkan, bottom-right Ahmet Çakar. ALL FOUR seated naturally with bent knees, full shoes, body and head facing 65 degrees toward IMAGE RIGHT, looking offscreen right. Preserve their recognizable faces and original clothes. Remove ALL chairs/stools/furniture and backgrounds, just body-only full human cutouts for placement on existing chairs. 1024x1536 portrait, exactly 2columns2rows, wide transparent margins inside each quadrant. Photorealistic humans with correct hands. No shadows, no text, no adjacent overlapping body parts. MOST IMPORTANT bottom-left Öner Erkan must stay genuinely seated with lap horizontal and knees bent, never standing.",
+  "method": "built-in imagegen",
+  "asset": "humans435/angle437-seat-host10.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      138,
+      24,
+      342,
+      713
+    ],
+    [
+      581,
+      23,
+      384,
+      705
+    ],
+    [
+      124,
+      781,
+      381,
+      683
+    ],
+    [
+      591,
+      780,
+      379,
+      693
+    ]
+  ]
+}

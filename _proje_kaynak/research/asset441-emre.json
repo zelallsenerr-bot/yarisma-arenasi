@@ -1,0 +1,8 @@
+{
+  "method": "Built-in image_gen, identity-preserve with genuine alpha",
+  "source": "/workspace/scratch/1cdac27dbcf0/refs441/emre.jpg",
+  "sourceURL": "https://iatv.tmgrup.com.tr/album/2020/09/21/8-bolum-foto-galeri-1600681993008.jpg",
+  "generated": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-8f583b1f-29fd-44dc-b975-42caab93d9ec.png",
+  "asset": "dist/games/sans-kapiyi-calinca/emre441.webp",
+  "prompt": "Use case: identity-preserve. Input image is the official programme reference. The subject to preserve is Emre Altuğ, the male presenter on the RIGHT: dark navy double-breasted suit, white crew-neck shirt, grey and white sneakers, short swept-up brown hair grey at sides, neat short beard. Produce a clean genuinely transparent-background sprite atlas showing TWO separate complete full-body versions of the SAME Emre Altuğ, side by side, with generous transparent padding. Left half: standing nearly frontal, friendly relaxed expression, one hand holding a small plain cue card low, other hand relaxed. Right half: same man, face, clothes and proportions, standing in three-quarter view turned toward his LEFT, looking at an off-camera contestant, one small natural speaking gesture, not both hands raised. Keep his recognizable face faithfully from the reference; do not substitute another or generic presenter. Include entire head, both hands, both legs and shoes. Photographic live television realism, realistic anatomy, finely textured fabric, neutral soft stage lighting. No stage, no tower, no other people, no caption or logo, no background scenery, no border, no drop shadow. Actual alpha transparency, clean edges. Landscape1536x1024, one person centered in each half, feet at same floor height."
+}

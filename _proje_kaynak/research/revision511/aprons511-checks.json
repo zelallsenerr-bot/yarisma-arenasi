@@ -1,0 +1,38 @@
+[
+  {
+    "asset": "dist/games/sefler-arenasi/assets/aprons-white511.webp",
+    "bytes": 174396,
+    "sha256": "01f9456fd9b10aaf1faad57ea8c99274c649800d24d83e9221061a827bcd6bd3",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "fully_transparent_pixels": 1055831,
+    "entries": 8
+  },
+  {
+    "asset": "dist/games/sefler-arenasi/assets/aprons-red511.webp",
+    "bytes": 380702,
+    "sha256": "d776db49906266dff491c43f84983d51652f89f8a6165d5c1119765b10941c12",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "fully_transparent_pixels": 7,
+    "entries": 8
+  },
+  {
+    "asset": "dist/games/sefler-arenasi/assets/aprons-blue511.webp",
+    "bytes": 318260,
+    "sha256": "6941badd8fad35a046b043eeb4d9e717a8fee217b35f7b89cac3ef3ce333528e",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "fully_transparent_pixels": 26719,
+    "entries": 8
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "key": "seated1",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-7b3e6117-d031-4286-8270-a3a0aa204626.png",
+  "cols": 4,
+  "rows": 2,
+  "pose": "seated",
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit this transparent fullbody atlas. Preserve EXACT SAME 8 people in same 4columns 2rows row-major order, same faces, clothing and ages. Change every WHOLE BODY and HEAD to 65 degrees toward IMAGE RIGHT, looking at an offscreen conversation partner, never camera. All SEATED naturally, knees bent and feet visible. Remove all chairs/stools/furniture, BODY ONLY, to use existing stage chairs. Photographic human anatomy, realistic hands. Strict 4columns2rows landscape1536x1024. Each person completely isolated in own cell with generous transparent margin on all sides, never touching adjacent cell. No stage, furniture, shadows, text, logos. Real transparent alpha background. Preserve only the original eight identities/outfits/order.",
+  "method": "built-in imagegen",
+  "asset": "humans435/angle437-seated1.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "rects": [
+    [
+      95,
+      19,
+      280,
+      491
+    ],
+    [
+      455,
+      15,
+      296,
+      487
+    ],
+    [
+      862,
+      18,
+      279,
+      494
+    ],
+    [
+      1233,
+      12,
+      292,
+      493
+    ],
+    [
+      86,
+      518,
+      264,
+      499
+    ],
+    [
+      476,
+      516,
+      276,
+      474
+    ],
+    [
+      857,
+      512,
+      287,
+      496
+    ],
+    [
+      1239,
+      520,
+      266,
+      474
+    ]
+  ]
+}

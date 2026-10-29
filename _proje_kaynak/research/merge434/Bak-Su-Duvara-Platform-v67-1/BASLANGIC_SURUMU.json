@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/bak-su-duvara/index.html",
+      "status": "modified",
+      "base_sha256": "348ebcaad9fd44a1781d16b54b821cecbf338a0eb30b18f6978b4ebd0b373cc5",
+      "new_sha256": "68243c7a0856b8b1857c468acb219cffa8df6f35e183d7271d520724aa96864c"
+    },
+    {
+      "path": "dist/games/bak-su-duvara/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "abe79005a995e3940d03120446f33b1ddb1738885b91662ac7ace518e620c9ce"
+    },
+    {
+      "path": "dist/games/bak-su-duvara/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "fb4211b95d062407203ed9ed194c5774b68e7b6f094882b7dc93cb825c27f426"
+    }
+  ]
+}

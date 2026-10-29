@@ -1,0 +1,16 @@
+{
+  "method": "built-in image_gen, transparent_background=true",
+  "output": "Ten photorealistic Turkish full-body contestants in five columns and two rows, women top row, men bottom row; ages13,20,32,45,68; navy casual TV contestant clothes, three-quarter right; poses standing, chairless seated and holding telephone handset. No text or stage.",
+  "assets": [
+    "dist/humans435/profile443-standing.webp",
+    "dist/humans435/profile443-seated.webp",
+    "dist/humans435/profile443-phone.webp"
+  ],
+  "ageBands": {
+    "8-17": "child",
+    "18-24": "young",
+    "25-39": "adult",
+    "40-54": "mature",
+    "55-100": "senior"
+  }
+}

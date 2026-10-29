@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/super-bulmaca/index.html",
+      "status": "modified",
+      "base_sha256": "5bd839c503315fd6ba237e3ad31764ab97db3f29de50fadcbd6bf5f3edda9dcc",
+      "new_sha256": "80088f38ad78e3c7934bafa8773a1c4231e59de809ddcd7ae50984af9de61b0f"
+    },
+    {
+      "path": "dist/games/super-bulmaca/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "3f3dd03c7abca96f5c22c42fc6c0f626a981a0b68cc21d242ea980b668b4db50"
+    },
+    {
+      "path": "dist/games/super-bulmaca/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "7c1e81d2c3b602001c60129ba9ec0c9fc2889d941e4dddf80dca8ce34f2d9c3f"
+    }
+  ]
+}

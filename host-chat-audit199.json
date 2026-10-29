@@ -1,0 +1,501 @@
+{
+  "games": [
+    {
+      "id": "son-karar",
+      "host": "Cem Öğretir",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "pool160.js",
+        "app.js?v=effects-only-169"
+      ]
+    },
+    {
+      "id": "kutu-karari",
+      "host": "Esra Erol",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "para-kapani",
+      "host": "Mesut Yar",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js?v=effects-only-169"
+      ]
+    },
+    {
+      "id": "sepetini-koru",
+      "host": "Yiğit Alıcı",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "alan-hakimi",
+      "host": "Oktay Kaynarca",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "content.js"
+      ]
+    },
+    {
+      "id": "guven-cizgisi",
+      "host": "Müge Anlı",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "esim-yapar",
+      "host": "İlker Ayrık",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js"
+      ]
+    },
+    {
+      "id": "aile-meydani",
+      "host": "Asuman Krause",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "ada-mucadelesi",
+      "host": "Murat Ceylan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js"
+      ]
+    },
+    {
+      "id": "risk-meydani",
+      "host": "Selçuk Yöntem",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "halka-mucadelesi",
+      "host": "Baybars Altuntaş",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kelime-carki",
+      "host": "Cem Davran",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kelime-islem",
+      "host": "Sunucu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "harf-cemberi",
+      "host": "Kaan Sekban",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "sofra-rekabeti",
+      "host": "Zuhal Topal",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js?v=revision194"
+      ]
+    },
+    {
+      "id": "sefler-arenasi",
+      "host": "Somer Sivrioğlu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js"
+      ]
+    },
+    {
+      "id": "altin-sofra",
+      "host": "Aslı Hünel",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kelime-meydani",
+      "host": "İbrahim Selim",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "altmis-saniye",
+      "host": "Zuhal Topal",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "yetenek-sahnesi",
+      "host": "Alp Kırşan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "donen-koltuklar",
+      "host": "Saadet Özsırkıntı",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "ortak-kasa",
+      "host": "Ufuk Özkan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "lingo-meydani",
+      "host": "Kemal Uçar",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kapi-kapanmadan",
+      "host": "Murat Serezli",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "sansli-masa",
+      "host": "Sinan Çalışkanoğlu ve Orçun Kaptan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "content.js",
+        "engine.js?v=revision194",
+        "app.js?v=revision194"
+      ]
+    },
+    {
+      "id": "password",
+      "host": "Şebnem Bozoklu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kismet-locasi",
+      "host": "Zuhal Topal",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "content.js",
+        "engine.js",
+        "app.js"
+      ]
+    },
+    {
+      "id": "beyazla-joker",
+      "host": "Beyazıt Öztürk",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js?v=video-jokers-172"
+      ]
+    },
+    {
+      "id": "iste-benim-stilim",
+      "host": "Öykü Serter",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js"
+      ]
+    },
+    {
+      "id": "cevap-soruda",
+      "host": "Ersin Düzen",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "milyoner-aile",
+      "host": "Engin Altan Düzyatan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "utopya",
+      "host": "Anlatıcı",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "saba-ile-oyuna-geldik",
+      "host": "Saba Tümer",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "altin-petek",
+      "host": "Engin Hepileri",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "eyvah-dusuyorum",
+      "host": "Mehmet Ali Erbil",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "super-bulmaca",
+      "host": "Alper Ateş",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "content393.js",
+        "app393.js"
+      ]
+    },
+    {
+      "id": "takip",
+      "host": "Uraz Kaygılaroğlu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "sebeke",
+      "host": "Şebeke ekibi",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "config.js"
+      ]
+    },
+    {
+      "id": "tuhaf-taksi",
+      "host": "Abdurrahman Yunusoğlu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "engine378.js?v=revision194"
+      ]
+    },
+    {
+      "id": "turnike",
+      "host": "Mehmet Ali Erbil",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js"
+      ]
+    },
+    {
+      "id": "ben-bilirim",
+      "host": "Alper Ateş",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js"
+      ]
+    },
+    {
+      "id": "piramit",
+      "host": "Yusuf Çim",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "app.js?v=revision194"
+      ]
+    },
+    {
+      "id": "ucte-uc",
+      "host": "Pelin Çift",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kumbara",
+      "host": "Ali İhsan Varol",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kizlar-ve-anneleri",
+      "host": "Ümit Kantarcılar",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "content.js",
+        "app.js"
+      ]
+    },
+    {
+      "id": "ilk-bulusma",
+      "host": "Şinasi Yurtsever ve Sinan Çalışkanoğlu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": [
+        "content.js",
+        "engine.js?v=revision194",
+        "app.js?v=revision194"
+      ]
+    },
+    {
+      "id": "telefon-kulubesi",
+      "host": "Telefondaki ses",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "cifte-milyon",
+      "host": "İlker Ayrık",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "yaparsin-askim",
+      "host": "İlker Ayrık",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "hepsi-benim",
+      "host": "Çağla Şıkel",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "on-dokuz",
+      "host": "Barış Kılıç",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "sahane-pazar",
+      "host": "Süheyl Uygur ve Behzat Uygur",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "bak-su-duvara",
+      "host": "Behzat Uygur",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "cember",
+      "host": "Sunucu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "gonder-gitsin",
+      "host": "Timur Acar",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "temizlik-benim-isim",
+      "host": "Kadir Ezildi",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "goz6",
+      "host": "Öykü Serter",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "evim-sahane",
+      "host": "Selim Yuhay",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "elli-sarisin",
+      "host": "Mehmet Ali Erbil",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "milyonluk-resim",
+      "host": "Selçuk Yöntem",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "bir-iceri-bir-disari",
+      "host": "Derda Yasir Yenal",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "cevap-sende",
+      "host": "Anıl İlter",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "the-taste-turkiye",
+      "host": "Hazer Amani",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kendi-dusen-aglamaz",
+      "host": "Ertem Şener",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "siradaki-gelsin",
+      "host": "Emre Karayel",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "herkes-kazanir",
+      "host": "Hakan Bilgin",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "arkandayiz",
+      "host": "Ünal Yeter",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "anlasma",
+      "host": "Sunucu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "yasim-kac",
+      "host": "Behzat Uygur",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "para-odasi",
+      "host": "Ahmet Çakar",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kizma-kazan",
+      "host": "Öner Erkan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "sans-kapida",
+      "host": "Yiğit Alıcı",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "kapis-kapis",
+      "host": "Sinan Çalışkanoğlu",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "gel-hemserim",
+      "host": "Rüştü Onur Atilla",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    },
+    {
+      "id": "para-bende",
+      "host": "Almeda Abazi ve Murat Ceylan",
+      "newConversationTopics": 6,
+      "existingConversationSignals": []
+    }
+  ]
+}

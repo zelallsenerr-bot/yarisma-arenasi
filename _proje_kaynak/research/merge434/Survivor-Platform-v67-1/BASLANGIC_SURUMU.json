@@ -1,0 +1,32 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/ada-mucadelesi/index.html",
+      "status": "modified",
+      "base_sha256": "74a2ae7338641e8b0887943ee11a719a4a492dc0827cdc6b69a20f9bdaf5ed59",
+      "new_sha256": "0e62b859d81c1e554c8c19c1daa18fc0c828d470a7e15afe23c0aaded13b0021"
+    },
+    {
+      "path": "dist/games/ada-mucadelesi/app.js",
+      "status": "modified",
+      "base_sha256": "3852c63bed2a25688adbbb3f036b422bbca3bdc2176054231f3337de1e5817f7",
+      "new_sha256": "6b7d9c5ffd59f02b9f01f6b7ba87258def01e90aaef3cd036e09802ac2252a80"
+    },
+    {
+      "path": "dist/games/ada-mucadelesi/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "503f1eaecb3f992e8de712431a85baee8afcbc27a8843be568170d386dd8e46f"
+    },
+    {
+      "path": "dist/games/ada-mucadelesi/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "92005bd5f6e07bf836c5a96a3d7a21a1feb5e3b0a5db0afb7e6d69d6b4449a37"
+    }
+  ]
+}

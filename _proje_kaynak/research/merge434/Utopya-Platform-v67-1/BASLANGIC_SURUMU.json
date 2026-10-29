@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/utopya/index.html",
+      "status": "modified",
+      "base_sha256": "0cf46718fe389aaae6aa51ec74c23e8dc0a5499b5361e4b5a0286321ef68096b",
+      "new_sha256": "5a03bceaf2c2f517956b7dffbebe9a1394294367d40bae76c13d0444f3f93f88"
+    },
+    {
+      "path": "dist/games/utopya/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "9650dbdd6fe4c98e2caa23621c44887eb3fe744b349e5ef083183770c84d521e"
+    },
+    {
+      "path": "dist/games/utopya/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "d33ad3c1a83b961072671fbabac5e746a56dfc9ddf1266b2f657e198aba2e23a"
+    }
+  ]
+}

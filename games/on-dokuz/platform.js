@@ -1,0 +1,11 @@
+/* 19 local presentation: two main players and five candidates remain unchanged. */
+(()=>{'use strict';function install(){const app=document.getElementById('app');if(!app)return;let signature='';
+function update(){const sources=[...app.querySelectorAll('.duel>.podium'),...app.querySelectorAll('.candidates>.candidate')];let current=app.querySelector('.nineteen-platform-v67');if(!sources.length){if(current)current.remove();signature='';return}
+const next=sources.map(n=>n.textContent).join('|');if(current&&signature===next)return;signature=next;
+const stage=document.createElement('section');stage.className='nineteen-platform-v67';stage.setAttribute('aria-label','19 stüdyosu: merkezde Barış Kılıç, çevrede iki ana yarışmacı ve beş aday');const sign=document.createElement('h2');sign.textContent='19';stage.append(sign);
+const positions=[[14,57],[86,57],[24,25],[76,25],[10,75],[90,75],[50,13]];
+sources.forEach((source,i)=>{const pod=document.createElement('div');pod.className='nineteen-podium-v67'+(i<2?' nineteen-main-v67':'');pod.style.left=positions[i][0]+'%';pod.style.top=positions[i][1]+'%';const face=source.querySelector('.portrait35');if(face)pod.append(face.cloneNode(true));const desk=document.createElement('div');desk.className='nineteen-desk-v67';const name=document.createElement('strong');name.textContent=source.querySelector('h2,b')?.textContent||'Yarışmacı';const score=document.createElement('span');score.textContent=source.querySelector('strong')?.textContent||'0 PUAN';const role=document.createElement('small');role.textContent=i===0?'SEN':i===1?'RAKİP':'ADAY';desk.append(name,score,role);pod.append(desk);stage.append(pod)});
+const host=document.createElement('div');host.className='nineteen-host-v67';host.innerHTML=(window.ArenaHumans435?.host()||'')+'<div class="nineteen-host-desk-v67"><strong>Barış Kılıç</strong><small>SUNUCU</small></div>';stage.append(host);
+if(current)current.replaceWith(stage);else app.prepend(stage);
+}new MutationObserver(records=>{if(records.every(r=>r.target.nodeType===1&&r.target.closest?.('.nineteen-platform-v67')))return;update()}).observe(app,{childList:true,subtree:true});update();}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install();})();

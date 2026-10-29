@@ -1,0 +1,26 @@
+{
+  "archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "label": "v67 (yüklenen ZIP adı)",
+  "files": [
+    {
+      "path": "dist/games/cevap-sende/index.html",
+      "status": "modified",
+      "base_sha256": "66f5639f49b17c2cc3462b900f89a49ff7314feea98f798c436c175db564421f",
+      "new_sha256": "5b80c14bc7f2f1df4b7bb73cde45bf7839a8677689037fead12266f858e07f9a"
+    },
+    {
+      "path": "dist/games/cevap-sende/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "88a4ea34c3ba0ae8ae45b3889ec59b05f6f239b2e747e55b88652e567f4d0edd"
+    },
+    {
+      "path": "dist/games/cevap-sende/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "2c00c1defb2e5ed2f6dfded12008c2526414c829a11dbc2946f535d6dd5c718b"
+    }
+  ],
+  "shared_files_changed": []
+}

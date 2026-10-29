@@ -1,0 +1,1434 @@
+[
+  {
+    "game": "on-dokuz",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "19 KUTUYU AÇ →"
+      }
+    ],
+    "headings": [
+      "19",
+      "Yarışmacı",
+      "Eren",
+      "Bilgi düellosu başlıyor."
+    ],
+    "stages": [
+      {
+        "class": "nineteen-platform-v67",
+        "label": "19 stüdyosu: merkezde Barış Kılıç, çevrede iki ana yarışmacı ve beş aday"
+      }
+    ],
+    "title": "19 — Yarışma Arenası"
+  },
+  {
+    "game": "ucte-uc",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Pelin Çift ile başla"
+      }
+    ],
+    "headings": [
+      "3’te 3",
+      "Her aşamada üç soruyu doğru cevapla."
+    ],
+    "stages": [],
+    "title": "3’te 3 — Yarışma Arenası"
+  },
+  {
+    "game": "elli-sarisin",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "catm7",
+        "text": "1Sayı örüntüleri"
+      },
+      {
+        "id": "catc4",
+        "text": "2Şarkılar ve sanatçılar"
+      },
+      {
+        "id": "catc19",
+        "text": "3Bilim ve doğa"
+      },
+      {
+        "id": "catm12",
+        "text": "4Hız ve yol"
+      },
+      {
+        "id": "catc23",
+        "text": "5Gündelik yaşam"
+      },
+      {
+        "id": "catm0",
+        "text": "6Basketbol"
+      }
+    ],
+    "headings": [
+      "50 SARIŞIN",
+      "Kategorini seç"
+    ],
+    "stages": [
+      {
+        "class": "fifty-platform-v67",
+        "label": "50 Sarışın platformu: solda yarışmacı ve Mehmet Ali Erbil, sağda elli sarışın kadın"
+      }
+    ],
+    "title": "50 Sarışın — Yarışma Arenası"
+  },
+  {
+    "game": "anlasma",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "answer0",
+        "text": "A40"
+      },
+      {
+        "id": "answer1",
+        "text": "B56"
+      },
+      {
+        "id": "answer2",
+        "text": "C49"
+      },
+      {
+        "id": "answer3",
+        "text": "D79"
+      },
+      {
+        "id": "discuss",
+        "text": "Arkadaşınla konuş · 3 saniye"
+      },
+      {
+        "id": "consensus",
+        "text": "Ortak yanıtı kilitle"
+      }
+    ],
+    "headings": [
+      "ANLAŞMA",
+      "Bir aracın Kilis iline kayıtlı olduğu söyleniyor. Plakasındaki il kodu aşağıdaki sayılardan hangisi olmalıdır?"
+    ],
+    "stages": [
+      {
+        "class": "deal-platform-v67",
+        "label": "Anlaşma stüdyosu: üç yarışmacı ortak yeşil ışıklı masa çevresinde"
+      }
+    ],
+    "title": "Anlaşma — Yarışma Arenası"
+  },
+  {
+    "game": "arkandayiz",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "normal",
+        "text": "Normal · 1.000 TL"
+      },
+      {
+        "id": "double",
+        "text": "Arkandayız! İki kat · 2.000 TL"
+      }
+    ],
+    "headings": [
+      "ARKANDAYIZ",
+      "“Köln Katedrali” hakkında bir seyahat yazısı okuyorsunuz. Bu yerin bulunduğu ülke hangi seçenekte doğru verilmiştir?"
+    ],
+    "stages": [
+      {
+        "class": "arka-platform-v67",
+        "label": "Arkandayız stüdyosu: önde yarışmacı, arkasında yükseltilmiş masada arkadaşları, iki yanda merdiven ve seyirci alanı"
+      }
+    ],
+    "title": "Arkandayız — Yarışma Arenası"
+  },
+  {
+    "game": "ucte-uc",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "İlk soruyu getir"
+      }
+    ],
+    "headings": [
+      "3’TE 3",
+      "Stüdyoya hoş geldin"
+    ],
+    "stages": [
+      {
+        "class": "ucte-platform-v67",
+        "label": "3’te 3 platformu: solda yarışmacı ve Pelin Çift, sağda yüksek masada Tufan Gündüz"
+      }
+    ],
+    "title": "3’te 3 — Yarışma Arenası"
+  },
+  {
+    "game": "bak-su-duvara",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Oyunu başlat"
+      }
+    ],
+    "headings": [
+      "BAK ŞU DUVARA",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "wall-platform-v67",
+        "label": "Bak Şu Duvara: solda şekilli duvar ve yarışmacı, önde havuz, sağda Behzat Uygur ve bekleyen takımlar"
+      }
+    ],
+    "title": "Bak Şu Duvara — Yarışma Arenası"
+  },
+  {
+    "game": "ben-bilirim",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "40A"
+      },
+      {
+        "id": "",
+        "text": "50C"
+      },
+      {
+        "id": "",
+        "text": "50Ç"
+      },
+      {
+        "id": "",
+        "text": "60D"
+      },
+      {
+        "id": "",
+        "text": "40E"
+      }
+    ],
+    "headings": [
+      "BEN BİLİRİM",
+      "1. TUR"
+    ],
+    "stages": [
+      {
+        "class": "ben-platform-v67",
+        "label": "Ben Bilirim stüdyosu: solda dört yarışmacı kürsüsü, sağda Alper Ateş"
+      }
+    ],
+    "title": "Ben Bilirim — Yarışma Arenası"
+  },
+  {
+    "game": "esim-yapar",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause",
+        "text": "Ⅱ MOLA"
+      },
+      {
+        "id": "",
+        "text": "Uyumlu bir çift derlerdi."
+      },
+      {
+        "id": "",
+        "text": "Neşeli olduğumuzu söylerler."
+      },
+      {
+        "id": "",
+        "text": "Biraz inatçı ama iyi anlaşan derler."
+      },
+      {
+        "id": "",
+        "text": "Birbirine destek olan iki kişi derler."
+      }
+    ],
+    "headings": [
+      "BEN BİLMEM EŞİM BİLİR",
+      "İlker Ayrık · Çiftlerle sohbet"
+    ],
+    "stages": [
+      {
+        "class": "esim-platform-v67",
+        "label": "Ben Bilmem Eşim Bilir: önde kadın yarışmacılar, arkada camlı sessiz odada erkek eşler, sağda İlker Ayrık"
+      }
+    ],
+    "title": "Ben Bilmem Eşim Bilir — Yarışma Arenası"
+  },
+  {
+    "game": "kelime-islem",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause",
+        "text": "Ⅱ MOLA"
+      },
+      {
+        "id": "begin",
+        "text": "Mustafa HAZIR →"
+      }
+    ],
+    "headings": [
+      "BİR KELİME BİR İŞLEM",
+      "Harfler seni bekliyor."
+    ],
+    "stages": [
+      {
+        "class": "mind-platform-v67",
+        "label": "Bir Kelime Bir İşlem stüdyosu: solda yarışmacı kürsüleri, ortada sunucu, sağda uzman masası"
+      }
+    ],
+    "title": "Bir Kelime Bir İşlem — Yarışma Arenası"
+  },
+  {
+    "game": "cember",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Oyunu başlat"
+      }
+    ],
+    "headings": [
+      "ÇEMBER",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "cember-platform-v67",
+        "label": "Çember: beyaz ışıklı kırmızı dairesel platformda beş yarışmacı, arkada yuvarlak giriş kapısı"
+      }
+    ],
+    "title": "Çember — Yarışma Arenası"
+  },
+  {
+    "game": "cevap-sende",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "member0-0",
+        "text": "Yarışmacı"
+      },
+      {
+        "id": "member0-1",
+        "text": "Ece"
+      },
+      {
+        "id": "member0-2",
+        "text": "Murat"
+      },
+      {
+        "id": "member0-3",
+        "text": "Derya"
+      },
+      {
+        "id": "member1-0",
+        "text": "Bora"
+      }
+    ],
+    "headings": [
+      "CEVAP SENDE",
+      "Senin takımın",
+      "Dört kişi, tek takım"
+    ],
+    "stages": [
+      {
+        "class": "cs-platform-v67",
+        "label": "Cevap Sende stüdyosu: büyük soru ekranı, seyirci portre panelleri ve merkezde Anıl İlter ile aktif yarışmacı"
+      }
+    ],
+    "title": "Cevap Sende — Yarışma Arenası"
+  },
+  {
+    "game": "cevap-soruda",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "greet0",
+        "text": "Hazırım. Önce sorunun tamamını okuyacağım."
+      },
+      {
+        "id": "greet1",
+        "text": "Biraz heyecanlıyım ama ayrıntıları kaçırmamaya çalışacağım."
+      },
+      {
+        "id": "greet2",
+        "text": "En çok dikkat etabını merak ediyorum. Başlayalım."
+      }
+    ],
+    "headings": [
+      "Deneme kürsüde!"
+    ],
+    "stages": [
+      {
+        "class": "cevap-platform-v67",
+        "label": null
+      }
+    ],
+    "title": "Cevap Soruda — Yarışma Arenası"
+  },
+  {
+    "game": "cifte-milyon",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "duelGo",
+        "text": "Eşim · YENİ SORU"
+      }
+    ],
+    "headings": [
+      "2.000.000 TL",
+      "Eşim ile devam ediyoruz.",
+      "AŞAMALAR"
+    ],
+    "stages": [
+      {
+        "class": "double-platform-v67",
+        "label": "Çifte Milyon stüdyosu: önde A B C D silindirleri, arkada çift ve para masası, sağda İlker Ayrık ve kasa"
+      }
+    ],
+    "title": "Çifte Milyon — Yarışma Arenası"
+  },
+  {
+    "game": "halka-mucadelesi",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause",
+        "text": "Ⅱ MOLA"
+      },
+      {
+        "id": "begin",
+        "text": "TURU BAŞLAT →"
+      }
+    ],
+    "headings": [
+      "EN ZAYIF HALKA",
+      "9 yarışmacı kaldı."
+    ],
+    "stages": [
+      {
+        "class": "halka-platform-v67",
+        "label": "En Zayıf Halka stüdyosu: yarım dairede dokuz yarışmacı kürsüsü, merkezde sunucu"
+      }
+    ],
+    "title": "En Zayıf Halka — Yarışma Arenası"
+  },
+  {
+    "game": "evim-sahane",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Oyunu başlat"
+      }
+    ],
+    "headings": [
+      "EVİM ŞAHANE",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "evim-platform-v67",
+        "label": "Evim Şahane: kırmızı tadilat kamyonunun önünde Selim Yuhay ve mavi tulumlu ekibi"
+      }
+    ],
+    "title": "Evim Şahane — Yarışma Arenası"
+  },
+  {
+    "game": "eyvah-dusuyorum",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Yarısını al ve çekil · 0 TL"
+      },
+      {
+        "id": "",
+        "text": "1. Selin"
+      },
+      {
+        "id": "",
+        "text": "2. Cem"
+      },
+      {
+        "id": "",
+        "text": "3. Merve"
+      },
+      {
+        "id": "",
+        "text": "4. Bora"
+      }
+    ],
+    "headings": [
+      "Mehmet Ali Erbil ile Eyvah Düşüyorum"
+    ],
+    "stages": [
+      {
+        "class": "floor366",
+        "label": "Dairesel platform: merkez yarışmacısı, yanında sunucu ve çevrede on numaralı kapak"
+      }
+    ],
+    "title": "Mehmet Ali Erbil ile Eyvah Düşüyorum — Yarışma Arenası"
+  },
+  {
+    "game": "gel-hemserim",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "GEL HEMŞERİM",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "gel-platform-v67",
+        "label": "Gel Hemşerim köy meydanı: ortada Rüştü Onur Atilla, mavi ışıklı merdivenlerde kutular, iki yanda seyirciler"
+      }
+    ],
+    "title": "Gel Hemşerim — Yarışma Arenası"
+  },
+  {
+    "game": "altin-sofra",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "new",
+        "text": "YENİ HAFTA →"
+      }
+    ],
+    "headings": [
+      "GELİNİM MUTFAKTA",
+      "Lezzeti hazırla.Altını hedefle."
+    ],
+    "stages": [
+      {
+        "class": "gelin-platform-v67",
+        "label": "Gelinim Mutfakta: arkada dört gelin mutfağı, ortada sunucu ve kayınvalide, önde dört kapaklı tadım tabağı"
+      }
+    ],
+    "title": "Gelinim Mutfakta — Yarışma Arenası"
+  },
+  {
+    "game": "gonder-gitsin",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "İLK SORUYU AÇ →"
+      },
+      {
+        "id": "double",
+        "text": "×2İki cevap"
+      },
+      {
+        "id": "half",
+        "text": "%50İki şıkkı ele"
+      }
+    ],
+    "headings": [
+      "GÖNDER GİTSİN",
+      "10 soru, iki joker,bir büyük ödül.",
+      "ÖDÜL AĞACI"
+    ],
+    "stages": [
+      {
+        "class": "gonder-platform-v67",
+        "label": "Gönder Gitsin stüdyosu: dört yuvarlak ekran, kırmızı siyah panel, beyaz kırmızı masa, Timur Acar ve yarışmacı"
+      }
+    ],
+    "title": "Gönder Gitsin — Yarışma Arenası"
+  },
+  {
+    "game": "goz6",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Oyunu başlat"
+      }
+    ],
+    "headings": [
+      "GÖZ6",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "goz-platform-v67",
+        "label": "Göz6: solda kızlar takımı, sağda erkekler takımı; önde iki oyun masası"
+      }
+    ],
+    "title": "Göz6 — Yarışma Arenası"
+  },
+  {
+    "game": "hepsi-benim",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "OLSA OLSA →"
+      }
+    ],
+    "headings": [
+      "HEPSİ BENİM",
+      "İlk tahmin senden!"
+    ],
+    "stages": [
+      {
+        "class": "hepsi-platform-v67",
+        "label": "Hepsi Benim: solda Çağla Şıkel, iki yanda dört çiftin kürsüleri, ortada geniş oyun alanı"
+      }
+    ],
+    "title": "Hepsi Benim — Yarışma Arenası"
+  },
+  {
+    "game": "herkes-kazanir",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "answer0",
+        "text": "AAfrika"
+      },
+      {
+        "id": "answer1",
+        "text": "BKuzey Amerika"
+      },
+      {
+        "id": "answer2",
+        "text": "CAsya"
+      },
+      {
+        "id": "answer3",
+        "text": "DGüney Amerika"
+      }
+    ],
+    "headings": [
+      "HERKESKAZANIR",
+      "Bir dünya turunda Kosta Rika durağına gidiliyor. Bu ülkenin konumu hangi kıtayla ilişkilidir?"
+    ],
+    "stages": [
+      {
+        "class": "everyone-platform-v67",
+        "label": "Herkes Kazanır stüdyosu: beş turuncu gri yarışmacı koltuğu, önde Hakan Bilgin"
+      }
+    ],
+    "title": "Herkes Kazanır — Yarışma Arenası"
+  },
+  {
+    "game": "ilk-bulusma",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause391",
+        "text": "Ⅱ Mola"
+      },
+      {
+        "id": "",
+        "text": "Bir dakika izin isteyip yanlarına gidiyorum."
+      },
+      {
+        "id": "",
+        "text": "Önce sohbetimizi bitireyim. Sonra kısa bir izin isterim."
+      }
+    ],
+    "headings": [
+      "İLK BULUŞMA",
+      "Zelal ile masadasın."
+    ],
+    "stages": [
+      {
+        "class": "first-platform-v67",
+        "label": "İlk Buluşma: restoranda yarışmacı ve tanıdığı; ayrı odada görev veren iki sunucu"
+      }
+    ],
+    "title": "İlk Buluşma — Yarışma Arenası"
+  },
+  {
+    "game": "kapis-kapis",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "KAPIŞ KAPIŞ",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "kapis-platform-v67",
+        "label": "Kapış Kapış: üst katta sunucu ve dört çift, alt katta hediye mağazası"
+      }
+    ],
+    "title": "Kapış Kapış — Yarışma Arenası"
+  },
+  {
+    "game": "altmis-saniye",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "all33",
+        "text": "KARIŞIK ALTI TUR →"
+      },
+      {
+        "id": "",
+        "text": "Bardak Piramidi"
+      },
+      {
+        "id": "",
+        "text": "Pinpon Atışı"
+      },
+      {
+        "id": "",
+        "text": "Balonu Havada Tut"
+      },
+      {
+        "id": "",
+        "text": "Şişe Çevirme"
+      }
+    ],
+    "headings": [
+      "KAZANMAK İÇİN 1 DAKİKA",
+      "Altmış Saniye"
+    ],
+    "stages": [
+      {
+        "class": "minute-platform-v67",
+        "label": "Kazanmak İçin 1 Dakika: yuvarlak ışıklı sahnede sunucu Ertem Şener, yarışmacı ve oyun sehpası"
+      }
+    ],
+    "title": "Kazanmak İçin 1 Dakika — Yarışma Arenası"
+  },
+  {
+    "game": "kelime-meydani",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause",
+        "text": "Ⅱ"
+      },
+      {
+        "id": "hint",
+        "text": "HARF AL · −100"
+      },
+      {
+        "id": "buzz",
+        "text": "BULDUM ⏱"
+      },
+      {
+        "id": "pass",
+        "text": "Soruyu geç · 0"
+      }
+    ],
+    "headings": [
+      "KELİME OYUNU"
+    ],
+    "stages": [
+      {
+        "class": "word-platform-v67",
+        "label": "Kelime Oyunu stüdyosu: önde birlikte oturan sunucu ve yarışmacı, arkada bekleyen dört kişi"
+      }
+    ],
+    "title": "Kelime Oyunu — Yarışma Arenası"
+  },
+  {
+    "game": "kizlar-ve-anneleri",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "start",
+        "text": "Takımımla stüdyoya gir"
+      }
+    ],
+    "headings": [
+      "Anne-kız sahneye!"
+    ],
+    "stages": [],
+    "title": "Kızlar ve Anneleri — Yarışma Arenası"
+  },
+  {
+    "game": "kizma-kazan",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "KIZMA KAZAN",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "kizma-platform-v67",
+        "label": "Kızma Kazan kontrol odası: masada Öner Erkan, arkada monitörler ve sağ üst ekranda şaka sahnesi"
+      }
+    ],
+    "title": "Kızma Kazan — Yarışma Arenası"
+  },
+  {
+    "game": "kumbara",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Hazırım · 60 saniyeyi başlat"
+      }
+    ],
+    "headings": [
+      "KUMBARA",
+      "1. etap · Hazırlık"
+    ],
+    "stages": [
+      {
+        "class": "kumbara-platform-v67",
+        "label": "Kumbara stüdyosu: beyaz oval masa, solda Ali İhsan Varol, sağda yarışmacı"
+      }
+    ],
+    "title": "Ali İhsan Varol ile Kumbara — Yarışma Arenası"
+  },
+  {
+    "game": "sefler-arenasi",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "new",
+        "text": "YARIŞMAYA KATIL →"
+      }
+    ],
+    "headings": [
+      "Önlüğünü giy.Son tabağa kal."
+    ],
+    "stages": [
+      {
+        "class": "master-platform-v67",
+        "label": "MasterChef Türkiye: üç şefin karşısında toplu yarışmacı mutfağı"
+      }
+    ],
+    "title": "MasterChef Türkiye — Yarışma Arenası"
+  },
+  {
+    "game": "milyonluk-resim",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin200",
+        "text": "İlk resmi aç"
+      },
+      {
+        "id": "joker-near",
+        "text": "Yakınına sor"
+      },
+      {
+        "id": "joker-change",
+        "text": "Soruyu değiştir"
+      },
+      {
+        "id": "joker-buy",
+        "text": "Soruyu satın al"
+      }
+    ],
+    "headings": [
+      "MİLYONLUK RESİM",
+      "Resimler seni ne kadar ileri taşıyacak?",
+      "Ödül ağacı"
+    ],
+    "stages": [
+      {
+        "class": "picture-platform-v67",
+        "label": "Milyonluk Resim stüdyosu: altın çerçeveli büyük resim ekranı ve önünde iki yüksek koltuk"
+      }
+    ],
+    "title": "Milyonluk Resim — Yarışma Arenası"
+  },
+  {
+    "game": "donen-koltuklar",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Sıcak pop"
+      },
+      {
+        "id": "",
+        "text": "Piyano baladı"
+      },
+      {
+        "id": "",
+        "text": "Hareketli sahne"
+      },
+      {
+        "id": "",
+        "text": "Akustik akşam"
+      },
+      {
+        "id": "",
+        "text": "Sahne rock"
+      }
+    ],
+    "headings": [
+      "O SESTÜRKİYE",
+      "Dönen Koltuklar"
+    ],
+    "stages": [
+      {
+        "class": "voice-platform-v67",
+        "label": "O Ses Türkiye: arkadan görülen Sibel Can, Murat Boz, Hadise ve Gökhan koltukları, karşılarında sahnedeki yarışmacı"
+      }
+    ],
+    "title": "O Ses Türkiye — Yarışma Arenası"
+  },
+  {
+    "game": "para-bende",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "PARA BENDE",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "para-platform-v67",
+        "label": "Para Bende havaalanı platformu: solda Almeda Abazi, sağda Murat Ceylan"
+      }
+    ],
+    "title": "Para Bende — Yarışma Arenası"
+  },
+  {
+    "game": "para-odasi",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "PARAODASI",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "room-platform-v67",
+        "label": "Para Odası stüdyosu: solda üç yarışmacı kürsüsü, ortada büyük ekran, sağda sunucu"
+      }
+    ],
+    "title": "Para Odası — Yarışma Arenası"
+  },
+  {
+    "game": "password",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "KARTLARI DAĞIT →"
+      }
+    ],
+    "headings": [
+      "PASSWORD",
+      "İlk kart ünlülerde!"
+    ],
+    "stages": [
+      {
+        "class": "password-platform-v67",
+        "label": "Password stüdyosu: solda yarışmacı ve Enis, ortada sunucu, sağda ünlü konuk ve diğer yarışmacı"
+      }
+    ],
+    "title": "Password — Yarışma Arenası"
+  },
+  {
+    "game": "piramit",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Etaba geç"
+      }
+    ],
+    "headings": [
+      "PİRAMİT",
+      "Klasik Piramit I"
+    ],
+    "stages": [
+      {
+        "class": "piramit-platform-v67",
+        "label": "Piramit: solda ünlü konuk ve yarışmacı, ortada Yusuf Çim, sağda ünlü konuk ve diğer yarışmacı, karşılarında piramit oyun panosu"
+      }
+    ],
+    "title": "Piramit — Yarışma Arenası"
+  },
+  {
+    "game": "sahane-pazar",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "ready",
+        "text": "Sahneye çık"
+      }
+    ],
+    "headings": [
+      "ŞAHANE PAZAR",
+      "Şahane bölüm başlıyor!"
+    ],
+    "stages": [
+      {
+        "class": "sunday-platform-v67",
+        "label": "Şahane Pazar Belediye Çukuru: kırmızı kapak parkurunda sarı tulumlu yarışmacı, yanında Süheyl ve Behzat Uygur"
+      }
+    ],
+    "title": "Şahane Pazar — Yarışma Arenası"
+  },
+  {
+    "game": "sans-kapida",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "ŞANS KAPIDA · EVİNİZE KONUK OLDUK",
+      "Hazır mısın?"
+    ],
+    "stages": [],
+    "title": "Şans Kapıda — Yarışma Arenası"
+  },
+  {
+    "game": "sansli-masa",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause311",
+        "text": "Ⅱ Mola"
+      },
+      {
+        "id": "",
+        "text": "Bir dakika izin isteyip yanlarına gidiyorum."
+      },
+      {
+        "id": "",
+        "text": "Önce sohbetimizi bitireyim. Sonra kısa bir izin isterim."
+      }
+    ],
+    "headings": [
+      "ŞANSLI MASA",
+      "Zelal ile masadasın."
+    ],
+    "stages": [
+      {
+        "class": "lucky-platform-v67",
+        "label": "Şanslı Masa: restoranda yarışmacı ve tanıdığı; ayrı odada görev veren iki sunucu"
+      }
+    ],
+    "title": "Şanslı Masa — Yarışma Arenası"
+  },
+  {
+    "game": "sebeke",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Çelişkileri sor"
+      },
+      {
+        "id": "",
+        "text": "Önce emeğinize teşekkür ederim. Birlikte tadına bakalım."
+      },
+      {
+        "id": "",
+        "text": "Sofranızın kendine özgü bir hikâyesi var gibi görünüyor."
+      },
+      {
+        "id": "",
+        "text": "Biraz heyecanlandım ama sizi tanımak çok keyifli."
+      },
+      {
+        "id": "",
+        "text": "Dürüst olayım, ne olduğunu sorabilir miyim?"
+      }
+    ],
+    "headings": [
+      "ŞEBEKE · AİLEYLE TANIŞMA",
+      "Şebeke — Aile evinde"
+    ],
+    "stages": [
+      {
+        "class": "sebeke-platform-v67",
+        "label": "Şebeke: sevgilisinin ailesini tanımaya gelen yarışmacı; ev salonunda anne, baba ve sevgilisiyle birlikte"
+      }
+    ],
+    "title": "Şebeke — Yarışma Arenası"
+  },
+  {
+    "game": "super-bulmaca",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "go",
+        "text": "SORUYU AÇ →"
+      }
+    ],
+    "headings": [
+      "SÜPER BULMACA",
+      "Harf Harf"
+    ],
+    "stages": [
+      {
+        "class": "super-platform-v67",
+        "label": "Süper Bulmaca stüdyosu: solda Alper Ateş, sağda çapraz sıralanan dört yarışmacı kürsüsü"
+      }
+    ],
+    "title": "Süper Bulmaca — Yarışma Arenası"
+  },
+  {
+    "game": "ada-mucadelesi",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "pause",
+        "text": "Ⅱ MOLA"
+      },
+      {
+        "id": "rest",
+        "text": "🌴DinlenEnerji +25. Daha hızlı toparlan."
+      },
+      {
+        "id": "eat",
+        "text": "🥥Erzak tüket1 erzak karşılığı enerji +35."
+      },
+      {
+        "id": "train",
+        "text": "🎯AntrenmanEnerji −12. Kalıcı hız +2 ve atış toleransı artar."
+      },
+      {
+        "id": "social",
+        "text": "🤝İttifak kurBir takım arkadaşının sana oy verme ihtimalini azalt"
+      }
+    ],
+    "headings": [
+      "SURVIVOR",
+      "Parkurdan önce ne yapalım?",
+      "Hafta 1 · Gün 1/7"
+    ],
+    "stages": [
+      {
+        "class": "survivor-platform-v67",
+        "label": "Survivor ada platformu: solda Gönüllüler, ortada sunucu, sağda Ünlüler"
+      }
+    ],
+    "title": "Survivor — Yarışma Arenası"
+  },
+  {
+    "game": "takip",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "HIZ ETABINI BAŞLAT"
+      }
+    ],
+    "headings": [
+      "TAKİP",
+      "Sen · Hız etabı"
+    ],
+    "stages": [
+      {
+        "class": "takip-platform-v67",
+        "label": "Takip platformu: takım solda, Uraz Kaygılaroğlu ortada ayakta, takipçi sağda"
+      }
+    ],
+    "title": "Takip — Yarışma Arenası"
+  },
+  {
+    "game": "telefon-kulubesi",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "answer",
+        "text": "AHİZEYİ KALDIR →"
+      }
+    ],
+    "headings": [
+      "TELEFON",
+      "Telefon çalıyor."
+    ],
+    "stages": [
+      {
+        "class": "phone-platform-v67",
+        "label": "Sokağın ortasındaki telefon kulübesinde ahizeyi kulağına tutarak konuşan yarışmacı"
+      }
+    ],
+    "title": "Telefon Kulübesi — Yarışma Arenası"
+  },
+  {
+    "game": "temizlik-benim-isim",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Oyunu başlat"
+      }
+    ],
+    "headings": [
+      "TEMİZLİK BENİM İŞİM",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "clean-platform-v67",
+        "label": "Temizlik Benim İşim: ortada Kadir Ezildi ve günün yarışmacısı, sol ve sağ koltuklarda diğer dört yarışmacı"
+      }
+    ],
+    "title": "Temizlik Benim İşim — Yarışma Arenası"
+  },
+  {
+    "game": "the-taste-turkiye",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "team0",
+        "text": "Ali Ronay4 kişilik takım"
+      },
+      {
+        "id": "team1",
+        "text": "Şemsa Denizsel4 kişilik takım"
+      },
+      {
+        "id": "team2",
+        "text": "Rafet İnce4 kişilik takım"
+      }
+    ],
+    "headings": [
+      "THE TASTE TÜRKİYE",
+      "Şef takımını seç"
+    ],
+    "stages": [
+      {
+        "class": "taste-platform-v67",
+        "label": "The Taste Türkiye: solda yarışmacı mutfak tezgâhları, sağda ışıklı basamaklar üzerinde sunucu kürsüsü"
+      }
+    ],
+    "title": "The Taste Türkiye — Yarışma Arenası"
+  },
+  {
+    "game": "turnike",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Stüdyoya gir"
+      },
+      {
+        "id": "",
+        "text": "Nasıl oynanır?"
+      }
+    ],
+    "headings": [
+      "Mehmet Ali Erbil ile",
+      "TURNİKE"
+    ],
+    "stages": [],
+    "title": "Turnike — Yarışma Arenası"
+  },
+  {
+    "game": "utopya",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "",
+        "text": "Bahçe"
+      },
+      {
+        "id": "",
+        "text": "Ahır"
+      },
+      {
+        "id": "",
+        "text": "Atölye"
+      },
+      {
+        "id": "",
+        "text": "Mutfak"
+      },
+      {
+        "id": "",
+        "text": "Pazar"
+      }
+    ],
+    "headings": [
+      "ÜTOPYA · ORTAK YAŞAM",
+      "Ütopya — Yeni bir düzen"
+    ],
+    "stages": [
+      {
+        "class": "utopya-platform-v67",
+        "label": "Ütopya ortak yaşam alanı: ahşap salonda sobanın çevresinde toplu oturan on beş sakin"
+      }
+    ],
+    "title": "Ütopya — Yarışma Arenası"
+  },
+  {
+    "game": "yaparsin-askim",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "auction",
+        "text": "İDDİALARI AÇ"
+      }
+    ],
+    "headings": [
+      "YAPARSIN AŞKIM",
+      "Kaplumpota"
+    ],
+    "stages": [
+      {
+        "class": "askim-platform-v67",
+        "label": "Yaparsın Aşkım: önde kadın yarışmacılar, arkada camlı sessiz odada erkek eşler, sağda İlker Ayrık"
+      }
+    ],
+    "title": "Yaparsın Aşkım — Yarışma Arenası"
+  },
+  {
+    "game": "yasim-kac",
+    "start": true,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "begin",
+        "text": "Hazırım, başlat"
+      }
+    ],
+    "headings": [
+      "YAŞIM KAÇ?",
+      "Hazır mısın?"
+    ],
+    "stages": [
+      {
+        "class": "age-platform-v67",
+        "label": "Yaşım Kaç: solda Behzat Uygur, ortada yükseltide konuk, önde arkadan görülen iki kişilik yarışmacı masası"
+      }
+    ],
+    "title": "Yaşım Kaç? — Yarışma Arenası"
+  },
+  {
+    "game": "sofra-rekabeti",
+    "start": false,
+    "broken": [],
+    "buttons": [
+      {
+        "id": "new",
+        "text": "YENİ HAFTA →"
+      }
+    ],
+    "headings": [
+      "ZUHAL TOPAL’LA YEMEKTEYİZ",
+      "Bir menü hazırla.Sofran konuşsun."
+    ],
+    "stages": [
+      {
+        "class": "dining-platform-v67",
+        "label": "Yemekteyiz ev sofrası: karşıda günün yarışmacısı ve Zuhal Topal, solda iki ve sağda iki yarışmacı"
+      }
+    ],
+    "title": "Yemekteyiz — Yarışma Arenası"
+  },
+  {
+    "game": "yetenek-sahnesi",
+    "manual": "İllüzyon seçildi; seçmelere katılma ve jüri tanışması açıldı",
+    "stages": [
+      {
+        "class": "talent-platform-v67"
+      }
+    ],
+    "broken": []
+  },
+  {
+    "game": "beyazla-joker",
+    "manual": "Açılış sohbeti ve ilk soru, yedi joker ile ödül merdiveni görüldü",
+    "stages": [
+      {
+        "class": "joker-platform-v67"
+      }
+    ],
+    "broken": []
+  },
+  {
+    "game": "kizlar-ve-anneleri",
+    "manual": "Takım hazırlığı tamamlandı; üç anne-kız takımı ve Ümit Kantarcılar göründü",
+    "stages": [
+      {
+        "class": "ka-platform-v67"
+      }
+    ],
+    "broken": []
+  }
+]

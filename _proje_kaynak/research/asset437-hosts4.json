@@ -1,0 +1,47 @@
+{
+  "key": "hosts4",
+  "asset": "humans435/angle437-hosts4.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      186,
+      18,
+      326,
+      733
+    ],
+    [
+      512,
+      22,
+      433,
+      730
+    ],
+    [
+      186,
+      780,
+      325,
+      720
+    ],
+    [
+      627,
+      777,
+      336,
+      736
+    ]
+  ],
+  "names": [
+    "İbrahim Selim",
+    "Alp Kırşan",
+    "Ufuk Özkan",
+    "Kemal Uçar"
+  ],
+  "poses": [
+    "standing",
+    "standing",
+    "standing",
+    "standing"
+  ],
+  "facing": "right"
+}

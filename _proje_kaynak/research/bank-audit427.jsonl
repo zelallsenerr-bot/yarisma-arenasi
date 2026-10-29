@@ -1,0 +1,47 @@
+{"id":"aile-meydani","banks":[{"k":"SURVEYS","n":1040,"counts":{"none":1040}}],"err":[]}
+{"id":"altin-petek","banks":[{"k":"EXP_BANK","n":1000,"counts":{"1":602,"2":358,"3":40}}],"err":[]}
+{"id":"anlasma","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"arkandayiz","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"bak-su-duvara","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"ben-bilirim","banks":[{"k":"BEN_BANK387","n":1027,"counts":{"1":657,"2":318,"3":52}},{"k":"EXP_BANK","n":1027,"counts":{"1":657,"2":318,"3":52}}],"err":[]}
+{"id":"beyazla-joker","banks":[{"k":"JOKER_BANK315","n":1000,"counts":{"1":172,"2":751,"3":77}}],"err":[]}
+{"id":"cember","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"cevap-sende","banks":[{"k":"CevapBank201","n":80,"counts":{"none":80}}],"err":[]}
+{"id":"cevap-soruda","banks":[{"k":"CEVAP_BANK317","n":1000,"counts":{"1":595,"2":405}}],"err":[]}
+{"id":"cifte-milyon","banks":[{"k":"DoubleBank395","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"elli-sarisin","banks":[],"err":["bank195.js:fetch is not defined"]}
+{"id":"evim-sahane","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"eyvah-dusuyorum","banks":[{"k":"EXP_BANK","n":1000,"counts":{"1":602,"2":358,"3":40}}],"err":[]}
+{"id":"gel-hemserim","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"gonder-gitsin","banks":[{"k":"GonderBank194","n":520,"counts":{"1":40,"2":368,"3":112}}],"err":[]}
+{"id":"goz6","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"guven-cizgisi","banks":[{"k":"QUESTION_BANK","n":1233,"counts":{"1":244,"2":731,"3":171,"4":58,"5":29}},{"k":"GUVEN_BANK38","n":1000,"counts":{"1":203,"2":595,"3":202}}],"err":[]}
+{"id":"halka-mucadelesi","banks":[{"k":"LINK_BANK","n":1142,"counts":{"1":42,"2":733,"3":367}}],"err":[]}
+{"id":"harf-cemberi","banks":[{"k":"CIRCLE_BANK","n":1146,"counts":{"1":560,"2":474,"3":112}}],"err":[]}
+{"id":"herkes-kazanir","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"kapi-kapanmadan","banks":[{"k":"QUESTION_BANK","n":1029,"counts":{"1":631,"2":358,"3":40}}],"err":[]}
+{"id":"kapis-kapis","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"kelime-carki","banks":[{"k":"PUZZLES","n":361,"counts":{"none":361}}],"err":[]}
+{"id":"kelime-meydani","banks":[{"k":"WORD_BANK","n":1000,"counts":{"none":1000}}],"err":[]}
+{"id":"kendi-dusen-aglamaz","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"kizma-kazan","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"kumbara","banks":[{"k":"KUMBARA_BANK","n":1180,"counts":{"1":677,"2":503}}],"err":["hard-bank427.js:document is not defined"]}
+{"id":"milyoner-aile","banks":[],"err":["questions181.js:window.FAMILY_CLIPS363 is not iterable"]}
+{"id":"milyonluk-resim","banks":[{"k":"PictureBank200","n":500,"counts":{"1":171,"2":176,"3":153}}],"err":[]}
+{"id":"on-dokuz","banks":[{"k":"NineteenBank398","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"ortak-kasa","banks":[{"k":"QUESTION_BANK","n":224,"counts":{"1":40,"2":130,"3":54}},{"k":"CASH_HINTS","n":137,"counts":{"none":137}},{"k":"CASH_TOPICS","n":500,"counts":{"none":500}},{"k":"CASH_TRIPLES35","n":30,"counts":{"none":30}},{"k":"CASH_FINAL368","n":80,"counts":{"3":80}}],"err":[]}
+{"id":"para-bende","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"para-kapani","banks":[{"k":"QUESTION_BANK","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"para-odasi","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"risk-meydani","banks":[{"k":"RISK_BANK","n":1240,"counts":{"1":254,"2":246,"3":249,"4":246,"5":245}}],"err":[]}
+{"id":"sahane-pazar","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"sans-kapida","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"sepetini-koru","banks":[{"k":"QUESTION_BANK","n":1030,"counts":{"1":632,"2":358,"3":40}}],"err":[]}
+{"id":"siradaki-gelsin","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"son-karar","banks":[{"k":"QUESTION_BANK","n":1029,"counts":{"1":631,"2":358,"3":40}}],"err":[]}
+{"id":"takip","banks":[{"k":"EXP_BANK","n":1000,"counts":{"1":602,"2":358,"3":40}}],"err":[]}
+{"id":"temizlik-benim-isim","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"the-taste-turkiye","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}
+{"id":"tuhaf-taksi","banks":[{"k":"EXP_BANK","n":1000,"counts":{"1":602,"2":358,"3":40}},{"k":"TAXI_BANK388","n":1000,"counts":{"1":602,"2":358,"3":40}}],"err":[]}
+{"id":"ucte-uc","banks":[{"k":"EXP_BANK","n":1000,"counts":{"1":602,"2":398}}],"err":["hard-bank427.js:document is not defined"]}
+{"id":"yasim-kac","banks":[{"k":"SundayBank399","n":1030,"counts":{"1":632,"2":351,"3":47}}],"err":[]}

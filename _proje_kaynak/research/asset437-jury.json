@@ -1,0 +1,46 @@
+{
+  "key": "jury",
+  "cols": 2,
+  "rows": 2,
+  "pose": "seated",
+  "names": [
+    "Nur Yerlitaş",
+    "Ivana Sert",
+    "Kemal Doğulu",
+    "Uğurkan Erez"
+  ],
+  "prompt": "4specificTurkishfashionjurycelebrities EXACT2columns2rows TOPNurYerlitaş olderfullfiguredwomanblackoutfitblackhair,IvanaSertblondwomanwhitestyleoutfit; BOTTOMKemalDoğulumaledarkhairbeardblackfashionoutfit,UğurkanErezmiddleagedmanglassesblazer. Recognizableauthenticfaces. AllSEATEDwithoutCHAIRSorfurniture turned65degreesRIGHT watchingrunwayoffscreenright, notcamera. Naturalhands fullfeet.",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-e49617a2-2ca0-48b1-b39b-6e0763ec9748.png",
+  "facing": "right",
+  "asset": "humans435/angle437-jury.webp",
+  "size": [
+    1140,
+    1380
+  ],
+  "rects": [
+    [
+      125,
+      8,
+      445,
+      677
+    ],
+    [
+      570,
+      29,
+      504,
+      661
+    ],
+    [
+      142,
+      694,
+      428,
+      665
+    ],
+    [
+      570,
+      690,
+      547,
+      677
+    ]
+  ]
+}

@@ -1,0 +1,399 @@
+[
+  {
+    "id": "sefler-arenasi",
+    "name": "MasterChef Türkiye",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "active": "round-dependent",
+      "initialMainCast": 20,
+      "judges": 3
+    },
+    "contestantPose": "standing at cooking benches",
+    "hostPose": "standing / tasting desk",
+    "era": "TV8; Mehmet Yalçınkaya, Somer Sivrioğlu, Danilo Zanna era",
+    "layoutNotes": "Cooking benches in rows, tasting counter for 3 chefs; balcony occupants are waiting contestants, not an interchangeable public audience. 20 is a possible initial main cast, not a constant active count. Public studio audience remains unknown; do not infer it from TV8 generic audience navigation.",
+    "sources": [
+      "https://www.tv8.com.tr/masterchef-turkiye",
+      "https://www.tv8.com.tr/masterchef-turkiye/ana-kadroya-giren-8-isim-aciklandi-108487-video.htm"
+    ],
+    "evidence": "Official programme and main-cast selection clips establish elimination/cooking format. The site audience link is global, not programme-specific. Pose/layout are format-based reconstruction, not measured set documentation.",
+    "confidence": "medium",
+    "judges": [
+      "Mehmet Yalçınkaya",
+      "Somer Sivrioğlu",
+      "Danilo Zanna"
+    ],
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "altin-sofra",
+    "name": "Gelinim Mutfakta",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "activeBrides": 4,
+      "scoringMothersInLaw": 4,
+      "totalParticipants": 8
+    },
+    "contestantPose": "brides standing at kitchen benches; mothers-in-law seated",
+    "hostPose": "standing / moving between tasting and kitchens",
+    "era": "Aslı Hünel era",
+    "layoutNotes": "Four separate kitchen stations plus distinct seated scoring area for four mothers-in-law. Mothers-in-law must be identified as participants, not anonymous spectators.",
+    "sources": [
+      "https://www.kanald.com.tr/gelinim-mutfakta/ozel-klipler/4-yarismaci-gelin-de-diskalifiye-mi-oldu",
+      "https://www.kanald.com.tr/gelinim-mutfakta/ozel-klipler/asli-hunel-gelinim-mutfaktanin-1720-bolumunde-en-yuksek-puani-kime-verdi"
+    ],
+    "evidence": "Official clip explicitly identifies four competing brides; official scoring clips distinguish mothers-in-law and host tasting. Public audience not established.",
+    "confidence": "medium",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "kelime-meydani",
+    "name": "Kelime Oyunu",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "active": 1,
+      "dailyField": 4
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "era": "İbrahim Selim; began 23 October 2023",
+    "layoutNotes": "One active buzzer contestant faces the host; do not stage four simultaneous quiz contestants. Four-person daily field and poses need episode-level confirmation; host era is verified.",
+    "sources": [
+      "https://eurod.kanald.com.tr/kelime-oyunu-ile-ekrana-donen-ibrahim-selimden-samimi-aciklamalar",
+      "https://www.tv2.com.tr/programlar/guncel/kelime-oyunu/fragmanlar/kelime-oyunu-yeni-sezon-fragmani-1"
+    ],
+    "evidence": "Official channel interview confirms İbrahim Selim era. Active-one layout is format reconstruction; no verified public-audience or seated/standing evidence obtained.",
+    "confidence": "medium-low",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "altmis-saniye",
+    "name": "Kazanmak İçin 1 Dakika",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "active": 1,
+      "specialEpisodes": "may vary"
+    },
+    "contestantPose": "standing / physical task",
+    "hostPose": "standing at side of task floor",
+    "era": "Zuhal Topal 2012 Kanal D era",
+    "layoutNotes": "Large open central floor with changing physical-task props; single active player for normal tasks, not four permanent quiz desks. Public-audience evidence unresolved.",
+    "sources": [
+      "https://www.kanald.com.tr/kazanmakicin1dakika/ozel-klip/tatli-cadi",
+      "https://www.kanald.com.tr/kazanmakicin1dakika/ozel-klip/ucan-hali",
+      "https://zuhaltopal.com/tvprogrami"
+    ],
+    "evidence": "Official task instructions describe one contestant executing 60-second physical actions. Host programme CV supplies era, but currently intermittently times out. Standing follows task requirements; exact host mark unverified.",
+    "confidence": "medium",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "yetenek-sahnesi",
+    "name": "Yetenek Sizsiniz Türkiye",
+    "audience": true,
+    "audienceStatus": "verified",
+    "contestants": {
+      "activeActs": 1,
+      "actMembers": "variable",
+      "judges": 4
+    },
+    "contestantPose": "performance-dependent",
+    "hostPose": "standing at side / backstage",
+    "era": "NOW 2025; Alp Kırşan",
+    "layoutNotes": "One act on a large performance stage, four seated jurors facing it, genuine seated public behind jury. Group acts vary in member count. Alp is presenter, not a fifth juror.",
+    "sources": [
+      "https://www.nowtv.com.tr/Yetenek-Sizsiniz/haber/4090/NOW-in-Yeni-Yarismasi-Yetenek-Sizsiniz-in-Juri-Uyeleri-Aciklandi",
+      "https://biletinial.com/tr-tr/tiyatro/yetenek-sizsiniz-sezon-acilisi"
+    ],
+    "evidence": "Official NOW identifies the four named jurors; ticket seller invites viewers to Alp-hosted NOW recording at Ayazağa Rauf Denktaş Kültür Merkezi. This is direct audience-attendance evidence, not generic website navigation.",
+    "confidence": "high",
+    "judges": [
+      "Eda Ece",
+      "Şevval Sam",
+      "İlker Ayrık",
+      "Hande Yener"
+    ],
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": true,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "donen-koltuklar",
+    "name": "O Ses Türkiye",
+    "audience": true,
+    "audienceStatus": "verified",
+    "contestants": {
+      "blindAuditionSingers": 1,
+      "duelSingers": 2,
+      "judges": 4,
+      "relatives": "variable backstage"
+    },
+    "contestantPose": "singer standing; jurors seated in rotating red chairs",
+    "hostPose": "Saadet standing backstage with relatives",
+    "era": "TV8 Saadet Özsırkıntı kulis era; 2025 jury used explicitly",
+    "layoutNotes": "Singer alone center stage during blind audition; four real jurors face away until turning. Saadet belongs to backstage/relative reaction area, not center stage or one of the jury chairs. Public audience is present.",
+    "sources": [
+      "https://www.tv8basvuru.com/basvuru/o-ses-seyirci/1",
+      "https://www.tv8.com.tr/o-ses-turkiye",
+      "https://www.mynet.com/magazin/o-ses-turkiye-sunucusu-saadet-ozsirkinti-nin-tarzina-yorum-yagdi-etege-kumas-yetmemis-130100523622"
+    ],
+    "evidence": "Official programme-specific O SES TÜRKİYE SEYİRCİ application directly verifies audience. 2025 report explicitly identifies Saadet as backstage presenter and names contemporary jury. Do not mix older Murat/Ebru/Oğuzhan lineups into 2025.",
+    "confidence": "high",
+    "judges": [
+      "Hadise",
+      "Beyazıt Öztürk",
+      "Gökhan Özoğuz",
+      "Melike Şahin"
+    ],
+    "mainPresenter": "Acun Ilıcalı",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": true,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "ortak-kasa",
+    "name": "Kim Gitsin?",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "initial": 5,
+      "remaining": "5 to 1"
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "era": "TRT 1; Ufuk Özkan",
+    "layoutNotes": "Five contestant positions, not four; reduce after elimination. Podium geometry and seated/standing pose not confirmed from accessed text.",
+    "sources": [
+      "https://www.tabii.com/detail/535767",
+      "https://www.trt1.com.tr/programlar/kim-gitsin/bolum"
+    ],
+    "evidence": "Official tabii lists five named contestants in each episode. Host publicity image alone does not establish stage geometry or audience.",
+    "confidence": "high for count; unknown for poses/audience",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "lingo-meydani",
+    "name": "Lingo Türkiye",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "teams": 3,
+      "membersPerTeam": 2,
+      "initialPeople": 6,
+      "finalTeams": 1
+    },
+    "contestantPose": "standing behind paired team desks (format inference)",
+    "hostPose": "standing at separate host desk (format inference)",
+    "era": "TRT 1; Kemal Uçar",
+    "layoutNotes": "Three clearly paired contestant desks, two people per desk; word display facing all. No invented six independent opponents. Public audience unknown.",
+    "sources": [
+      "https://www.trt1.com.tr/programlar/lingo-turkiye",
+      "https://www.trt1.com.tr/haber/programlar/trt-1in-heyecan-dolu-yarismasi-lingo-turkiye-basvurulari-26427183"
+    ],
+    "evidence": "Official TRT states three pairs and elimination of lowest-earning pair after the second stage. Exact poses not independently visually verified.",
+    "confidence": "high for count; medium for layout",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "kapi-kapanmadan",
+    "name": "Kapanmadan Kazan",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "teams": 1,
+      "members": 2,
+      "answering": 1,
+      "collectingPrizes": 1
+    },
+    "contestantPose": "standing / running collector",
+    "hostPose": "standing near answering contestant (inference)",
+    "era": "atv; Murat Serezli era",
+    "layoutNotes": "Two functional zones: quiz position and timed prize room behind moving doors. One partner answers while the other runs for prizes. Not four generic contestants.",
+    "sources": [
+      "https://www.atv.com.tr/kapanmadan-kazan/hakkinda"
+    ],
+    "evidence": "Official atv description explicitly specifies a two-person team with split answer/collect roles. Collector movement follows task. Exact host mark and public audience remain unverified.",
+    "confidence": "high for count/roles",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "sansli-masa",
+    "name": "Şanslı Masa",
+    "audience": false,
+    "audienceStatus": "verified",
+    "contestants": {
+      "informedContestant": 1,
+      "unawarePartner": 1,
+      "moderators": 2
+    },
+    "contestantPose": "seated at restaurant table",
+    "hostPose": "hidden separate control position; sitting not verified",
+    "era": "Kanal D 2011; Sinan Çalışkanoğlu / Orçun Kaptan",
+    "layoutNotes": "Restaurant table with contestant and unaware companion; moderators remotely instruct from hiding. Restaurant customers are scene bystanders, not a studio spectator gallery. Do not put two moderators at contestant table.",
+    "sources": [
+      "https://www.kanald.com.tr/sanslimasa/haber/sansli-masaya-fisildayan-ikili",
+      "https://eurod.kanald.com.tr/sanslimasa/haber/sansli-masa-basliyor"
+    ],
+    "evidence": "Official Kanal D interview explicitly says both moderators instruct from a hidden position and discusses the person opposite the contestant. Audience=false means no studio public gallery in this restaurant hidden-camera format, not no bystanders anywhere.",
+    "confidence": "high for roles; medium for audience classification",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": true,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "password",
+    "name": "Password",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "ordinaryContestants": 2,
+      "celebrityPartners": 2,
+      "peoplePlaying": 4,
+      "teams": 2
+    },
+    "contestantPose": "seated pairs (format inference)",
+    "hostPose": "standing centrally / between teams (inference)",
+    "era": "Kanal D 2024; Şebnem Bozoklu, regular celebrity Enis Arıkan",
+    "layoutNotes": "Two opposing two-person teams; Enis Arıkan and episode celebrity are teammates, not judges or extra audience. Host distributes word envelopes; four permanent standing generic contestants is wrong.",
+    "sources": [
+      "https://www.kanald.com.tr/password/bolumler/password-6-bolum-ozge-ozpirincci"
+    ],
+    "evidence": "Official episode synopsis explicitly pairs Enis and guest Özge Özpirinçci with one contestant each and identifies Şebnem. Audience and exact poses not visually verified.",
+    "confidence": "high for count/roles",
+    "regularCelebrity": "Enis Arıkan",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "kismet-locasi",
+    "name": "Zuhal Topal’la İzdivaç",
+    "audience": true,
+    "audienceStatus": "verified",
+    "contestants": {
+      "activeCouple": 2,
+      "waitingSuitors": "variable"
+    },
+    "contestantPose": "active couple seated; waiting suitors seated (format reconstruction)",
+    "hostPose": "mixed seated / standing (unverified)",
+    "era": "Star TV 2010 Zuhal Topal’la İzdivaç, not later FOX-title era",
+    "layoutNotes": "Conversation area for one active pair, separate seated waiting candidates and public audience. A fixed four-player game scene misrepresents variable suitor pool. Exact set geometry needs era-specific still.",
+    "sources": [
+      "https://www.haberturk.com/medya/haber/564047-zuhal-topalin-programinda-sok-eden-olay",
+      "https://zuhaltopal.com/tvprogrami"
+    ],
+    "evidence": "Contemporary Habertürk 22 October 2010 report explicitly identifies Star programme title and both female/male studio spectators. Audience evidence is contemporary secondary reporting, not official. Pose remains reconstruction.",
+    "confidence": "medium-high for audience; medium-low for geometry",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": true,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "beyazla-joker",
+    "name": "Beyaz’la Joker",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "activeContestant": 1,
+      "relativeAssist": "1 when allowed by stage"
+    },
+    "contestantPose": "seated at main contestant position (provisional)",
+    "hostPose": "unknown",
+    "era": "Kanal D 2026; Beyazıt Öztürk",
+    "layoutNotes": "Single main contestant and clear large question screen. Relative may join on a permitted high-value question, not a constant extra competitor. Host pose and public audience need visual confirmation.",
+    "sources": [
+      "https://www.kanald.com.tr/beyazla-joker/ozel-klipler/500-bin-liralik-soruyu-2-kisi-cevapladilar"
+    ],
+    "evidence": "Official clip identifies two-person answer during a 500,000-lira question, consistent with relative assistance. It does not establish a permanent two-contestant format. Seated pose is provisional, not a verified still.",
+    "confidence": "medium",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "iste-benim-stilim",
+    "name": "İşte Benim Stilim",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "activeOnRunway": 1,
+      "waitingContestants": "season/episode-dependent",
+      "judges": 3
+    },
+    "contestantPose": "active contestant standing on runway; others seated",
+    "hostPose": "standing / moving beside runway",
+    "era": "TV8 2025 Öykü Serter era selected; do not blend 2017 jury",
+    "layoutNotes": "Catwalk centered toward three seated jurors; competing models wait along side seating, not anonymous public. Do not hardcode four competitors or call all seated women audience.",
+    "sources": [
+      "https://www.tv8.com.tr/iste-benim-stilim",
+      "https://www.milliyet.com.tr/galeri/iste-benim-stilimde-bugun-kim-birinci-oldu-aciklandi-mi-iste-benim-stilimde-hangi-yarismaci-en-yuksek-puani-topladi-belli-oldu-mu-7341866?p=2"
+    ],
+    "evidence": "Official TV8 archive verifies programme; 2025 contemporary report names Öykü and three jurors. Pose/geometry are format reconstruction and public audience remains unknown.",
+    "confidence": "medium",
+    "judges": [
+      "Ivana Sert",
+      "Güzide Duran",
+      "Nur Bilen Yavuzer"
+    ],
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  },
+  {
+    "id": "cevap-soruda",
+    "name": "Cevap Soruda",
+    "audience": null,
+    "audienceStatus": "unknown",
+    "contestants": {
+      "initial": 4,
+      "final": 1
+    },
+    "contestantPose": "unknown",
+    "hostPose": "unknown",
+    "era": "360 2021–2022; Ersin Düzen",
+    "layoutNotes": "Four distinct contestant stations with a separate presenter position; final reduces to one. Exact desk shape, poses and audience unverified.",
+    "sources": [
+      "https://www.tv360.com.tr/yasam/cevap-soruda--826",
+      "https://www.facebook.com/tv360comtr/videos/cevap-soruda/414435496911881/",
+      "https://www.star.com.tr/guncel/cevap-soruda-1-kasim-pazartesiden-itibaren-hafta-ici-her-aksam-360ta-haber-1662774/"
+    ],
+    "evidence": "Official 360 archive identifies Ersin; official 360 Facebook promo search result states four daily contestants. Article corroborates count. Official thumbnail inspected was unrelated programme tile and cannot establish stage or audience.",
+    "confidence": "high for count; unknown for poses/audience",
+    "poseVerified": false,
+    "reviewed": "2026-10-25",
+    "audienceVerified": false,
+    "audienceUnknownPolicy": "Do not claim absence from missing text; use no invented crowd until episode image confirms, retaining explicitly verified public audiences."
+  }
+]

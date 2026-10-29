@@ -1,0 +1,110 @@
+{
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-b4ed0163-c565-4a7a-8c45-79bf7a03ba80.png",
+  "prompt": "Use case: identity-preserve. Edit supplied 3columns2rows photo sprite atlas of six Turkish celebrities, preserving EXACT same six faces, recognizable identities, hairstyles, outfits, shoes, order and fullbody proportions. All remain SEATED BODY ONLY without any furniture. Change to candid LISTENING postures instead of all presenting hands: top-left one hand on knee other on lap, top-middle loosely clasped hands low lap, top-right right hand relaxed on thigh left on knee; bottom-left one forearm resting along thigh, bottom-middle hands loosely together on one knee, bottom-right arms naturally resting one on each thigh. NO extended palms, no clapping, no pointing, no identical hands. Vary their upperbody/head directions: top-left 20deg toward right, top-middle nearfrontal eyes a little left, top-right 35deg right; bottom-left nearfrontal looking slightly downright, bottom-middle 15deg right, bottom-right 25deg left. Do not stare atcamera. Preserve ALL sixidentities/clothes/order. True transparent alpha, 3columns2rows1536x1024, margins inside each cell; complete heads/feet. No chair/sofa/stool, no background/floorshadows/text. Photorealistic anatomy.",
+  "method": "built-in imagegen",
+  "source": "dist/humans435/angle437-saba.webp",
+  "entries": {
+    "Hande Ataizi|seated": {
+      "asset": "humans435/saba-relaxed438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        175,
+        10,
+        337,
+        502
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "right"
+    },
+    "Alper Kul|seated": {
+      "asset": "humans435/saba-relaxed438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        512,
+        11,
+        463,
+        501
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "right"
+    },
+    "Doğa Rutkay|seated": {
+      "asset": "humans435/saba-relaxed438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        1115,
+        16,
+        349,
+        496
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "right"
+    },
+    "Murat Başoğlu|seated": {
+      "asset": "humans435/saba-relaxed438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        142,
+        512,
+        370,
+        500
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "right"
+    },
+    "Ozan Doğulu|seated": {
+      "asset": "humans435/saba-relaxed438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        512,
+        512,
+        493,
+        501
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "right"
+    },
+    "Kerimcan Kamal|seated": {
+      "asset": "humans435/saba-relaxed438.webp",
+      "size": [
+        1536,
+        1024
+      ],
+      "rect": [
+        1087,
+        512,
+        418,
+        505
+      ],
+      "height": 1.65,
+      "seated": true,
+      "bodyOnly": true,
+      "facing": "right"
+    }
+  }
+}

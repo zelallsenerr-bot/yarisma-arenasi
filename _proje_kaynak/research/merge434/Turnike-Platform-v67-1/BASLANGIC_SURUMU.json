@@ -1,0 +1,26 @@
+{
+  "starting_archive": "Yarisma-Arenasi-v67-Tum-Kaynaklar.zip",
+  "starting_archive_sha256": "1c31d9419f2b3752f5fab7f3728155e0357d14e3df4010dee6600a2e8d6b2363",
+  "version": "v67 (kaynak ZIP etiketi)",
+  "shared_files_changed": [],
+  "files": [
+    {
+      "path": "dist/games/turnike/index.html",
+      "status": "modified",
+      "base_sha256": "bd759fd3c3dda33e9efd42e0ad4cd1aeff7dec3f2e8638cb469da51dcbea6284",
+      "new_sha256": "b110750028dfa0c472203629afbb85a00e41503616297c4192acd9822fe71190"
+    },
+    {
+      "path": "dist/games/turnike/platform.js",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "2a1c50a91942dc1acae517638d18a3dfe5daf6085267343d6d1c89b173cd797b"
+    },
+    {
+      "path": "dist/games/turnike/platform.css",
+      "status": "added",
+      "base_sha256": null,
+      "new_sha256": "1da713405cac2f6b0ae7ac1979ff702562aafc5d2f16786ca9495d59cfbc5503"
+    }
+  ]
+}

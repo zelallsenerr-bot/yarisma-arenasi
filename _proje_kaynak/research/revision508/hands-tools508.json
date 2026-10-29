@@ -1,0 +1,201 @@
+{
+  "asset": "humans435/hands-tools508.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "items": [
+    {
+      "id": "knife",
+      "rect": [
+        0,
+        0,
+        522,
+        512
+      ],
+      "alpha_bounds_local": [
+        52,
+        46,
+        520,
+        509
+      ],
+      "grip_local": [
+        315,
+        330
+      ],
+      "working_tip_local": [
+        56,
+        47
+      ],
+      "source_cell": [
+        0,
+        0,
+        522,
+        512
+      ]
+    },
+    {
+      "id": "spoon",
+      "rect": [
+        530,
+        0,
+        494,
+        512
+      ],
+      "alpha_bounds_local": [
+        20,
+        38,
+        488,
+        510
+      ],
+      "grip_local": [
+        264,
+        323
+      ],
+      "working_tip_local": [
+        96,
+        119
+      ],
+      "source_cell": [
+        530,
+        0,
+        494,
+        512
+      ]
+    },
+    {
+      "id": "plate",
+      "rect": [
+        1030,
+        0,
+        506,
+        512
+      ],
+      "alpha_bounds_local": [
+        35,
+        25,
+        506,
+        510
+      ],
+      "grip_local": [
+        199,
+        148
+      ],
+      "working_tip_local": [
+        192,
+        304
+      ],
+      "source_cell": [
+        1030,
+        0,
+        506,
+        512
+      ]
+    },
+    {
+      "id": "roller",
+      "rect": [
+        0,
+        512,
+        522,
+        512
+      ],
+      "alpha_bounds_local": [
+        35,
+        16,
+        520,
+        498
+      ],
+      "grip_local": [
+        331,
+        340
+      ],
+      "working_tip_local": [
+        173,
+        119
+      ],
+      "source_cell": [
+        0,
+        512,
+        522,
+        512
+      ]
+    },
+    {
+      "id": "screwdriver",
+      "rect": [
+        530,
+        512,
+        494,
+        512
+      ],
+      "alpha_bounds_local": [
+        53,
+        30,
+        488,
+        512
+      ],
+      "grip_local": [
+        263,
+        312
+      ],
+      "working_tip_local": [
+        56,
+        33
+      ],
+      "source_cell": [
+        530,
+        512,
+        494,
+        512
+      ]
+    },
+    {
+      "id": "card",
+      "rect": [
+        1030,
+        512,
+        506,
+        512
+      ],
+      "alpha_bounds_local": [
+        61,
+        49,
+        506,
+        512
+      ],
+      "grip_local": [
+        221,
+        264
+      ],
+      "working_tip_local": [
+        131,
+        143
+      ],
+      "source_cell": [
+        1030,
+        512,
+        506,
+        512
+      ]
+    }
+  ],
+  "generation": {
+    "tool": "built-in image_gen",
+    "mode": "photorealistic-natural",
+    "transparent_background": true,
+    "prompt_file": "research/revision508/hands508-prompt.txt",
+    "original": "research/revision508/hands-tools508-original.png"
+  },
+  "compression": {
+    "format": "WebP",
+    "quality": 91,
+    "method": 6,
+    "size_bytes": 192748
+  },
+  "limits": [
+    "Neutral male-appearing forearms; skin is not personalized to every contestant.",
+    "Knife, spoon, roller, screwdriver, card forearms cropped at lower-right of their sprite by design.",
+    "Plate sprite has two hands and a supporting plate; garnish pinch anchor supplied separately from plate working centre."
+  ]
+}

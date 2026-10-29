@@ -1,0 +1,47 @@
+{
+  "key": "seat-host2",
+  "path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-2e40b8e0-b2f4-4399-8949-a120b1603ea9.png",
+  "cols": 2,
+  "rows": 2,
+  "pose": "seated",
+  "names": [
+    "Esra Erol",
+    "Müge Anlı",
+    "Asuman Krause",
+    "Zuhal Topal"
+  ],
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit the supplied 2x2 transparent full body atlas. EXACT SAME FOUR IDENTITIES in SAME row-major positions: Esra Erol, Müge Anlı, Asuman Krause, Zuhal Topal. Preserve each person's recognizable face, hair, age, outfit and shoes. Change ALL FOUR to natural SEATED posture with whole body and head turned 65 degrees towards IMAGE RIGHT, looking at an offscreen person, not camera. Feet fully visible, knees naturally bent, hands resting on thighs or holding cuecards. Body-only cutouts: NO chair, stool, furniture, background, floor shadow, text or borders. Will sit on existing stage furniture. Anatomical photorealism, natural relaxed posture. Keep each person strictly inside own quadrant with 45px transparent margins. Portrait 1024x1536, EXACT 2 columns 2 rows. Change ONLY seated pose and direction, retain same identities and clothing.",
+  "method": "built-in imagegen",
+  "asset": "humans435/angle437-seat-host2.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      158,
+      24,
+      349,
+      720
+    ],
+    [
+      605,
+      24,
+      389,
+      718
+    ],
+    [
+      123,
+      768,
+      374,
+      740
+    ],
+    [
+      565,
+      772,
+      424,
+      738
+    ]
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "key": "host11",
+  "source": "dist/studios211/poses11.webp",
+  "cols": 2,
+  "rows": 2,
+  "names": [
+    "Jess Molho",
+    "Ersin Düzen",
+    "Murat Ceylan",
+    "Metin Uca"
+  ],
+  "pose": "standing",
+  "facing": "right",
+  "prompt": "Use case: identity-preserve. Edit target: supplied existing2x2 transparent full-body presenter sprite atlas. Produce one new atlas retaining EXACT SAME FOUR PEOPLE, recognizable faces, ages, hair, facial features, clothes, cuecard props, row-majororder and1024x1536 portrait2x2layout. People top-left, top-right, bottom-left, bottom-right respectively: Jess Molho, Ersin Düzen, Murat Ceylan, Metin Uca. All four standing. Change every person's WHOLE BODY AND HEAD orientation to approximately65degrees toward IMAGE RIGHT, candid TV-show conversation with somebody offscreen right. Faces and eyes must look RIGHT, never at camera. Natural three-quarter/side profiles with anatomical depth, realistic hands and posture. Preserve each identity from source, do not substitute genericmodels. Full humanbody from hair to feet in each quadrant, centred insideownquadrant with at least40px clear margins on all sides, no touching/crossing quadrantboundaries. True transparent alpha background. Remove ALL furniture, chairs, stools, stage, backdrop, floor shadows, text, logos, borders and glow. Only four isolated realistic full humanfigures. Professional studio photographic realism and neutral lighting. Invariants: same four identities/outfits/order/layout; change only orientation and remove chairs/furniture.",
+  "asset": "humans435/angle437-host11.webp",
+  "size": [
+    1024,
+    1536
+  ],
+  "rects": [
+    [
+      140,
+      29,
+      372,
+      729
+    ],
+    [
+      512,
+      28,
+      447,
+      732
+    ],
+    [
+      148,
+      778,
+      349,
+      740
+    ],
+    [
+      624,
+      782,
+      342,
+      734
+    ]
+  ],
+  "generated_path": "/workspace/scratch/1cdac27dbcf0/generated_images/exec-0b6f1f48-13c7-408b-877c-00ee5502e7a1.png",
+  "method": "built-in imagegen"
+}

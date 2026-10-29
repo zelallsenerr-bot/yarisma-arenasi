@@ -1,0 +1,119 @@
+[
+  {
+    "game": "gonder-gitsin",
+    "actors": 3,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "goz6",
+    "actors": 20,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "halka-mucadelesi",
+    "actors": 10,
+    "width": 360,
+    "zero": []
+  },
+  {
+    "game": "hepsi-benim",
+    "actors": 57,
+    "width": 372,
+    "zero": []
+  },
+  {
+    "game": "herkes-kazanir",
+    "actors": 6,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "ilk-bulusma",
+    "actors": 4,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "kapis-kapis",
+    "actors": 37,
+    "width": 390,
+    "zero": [
+      "Seyirci 1",
+      "Seyirci 2",
+      "Seyirci 3",
+      "Seyirci 4",
+      "Seyirci 5",
+      "Seyirci 6",
+      "Seyirci 7",
+      "Seyirci 8"
+    ]
+  },
+  {
+    "game": "kelime-islem",
+    "actors": 5,
+    "width": 360,
+    "zero": []
+  },
+  {
+    "game": "kelime-meydani",
+    "actors": 6,
+    "width": 358,
+    "zero": []
+  },
+  {
+    "game": "kizlar-ve-anneleri",
+    "actors": 7,
+    "width": 374,
+    "zero": []
+  },
+  {
+    "game": "kizma-kazan",
+    "actors": 1,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "kumbara",
+    "actors": 2,
+    "width": 366,
+    "zero": []
+  },
+  {
+    "game": "milyonluk-resim",
+    "actors": 2,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "on-dokuz",
+    "actors": 8,
+    "width": 372,
+    "zero": []
+  },
+  {
+    "game": "para-bende",
+    "actors": 2,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "para-odasi",
+    "actors": 4,
+    "width": 390,
+    "zero": []
+  },
+  {
+    "game": "password",
+    "actors": 5,
+    "width": 366,
+    "zero": []
+  },
+  {
+    "game": "piramit",
+    "actors": 5,
+    "width": 390,
+    "zero": []
+  }
+]

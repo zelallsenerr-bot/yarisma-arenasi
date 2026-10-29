@@ -1,0 +1,8 @@
+{
+  "changed_js_checked": 100,
+  "syntax_errors": [],
+  "missing_html_references": [],
+  "additional_checks": [
+    "sahane-pazar app/engine/visuals/platform node --check; sunday506 and difficulty427 passed"
+  ]
+}

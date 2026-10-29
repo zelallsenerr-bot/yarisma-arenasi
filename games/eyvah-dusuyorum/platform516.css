@@ -1,0 +1,42 @@
+/* Final, game-local overrides. Feet, hatches and labels use separate lanes. */
+body[data-game="eyvah-dusuyorum"] #app .floor366.oval516{--person516:150px;position:relative;display:block;isolation:isolate;width:100%;height:900px;min-height:900px;padding:0;overflow:hidden;border:2px solid #72c9ff;border-radius:40px;background:repeating-linear-gradient(90deg,transparent 0 58px,#37aeff18 59px 62px),radial-gradient(ellipse at 50% 55%,#1a4678,#101d3e 58%,#060c24 95%)}
+body[data-game="eyvah-dusuyorum"] #app .oval516:before{inset:24% 3% 8%;border-width:14px;pointer-events:none}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-side366{display:contents}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .ring-host-v67{display:none!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .pod366{position:absolute;left:var(--pod-x);top:var(--pod-y);width:12%;height:var(--person516);transform:translate(-50%,-100%);padding:0;border:0;box-shadow:none;z-index:5;pointer-events:auto;overflow:visible}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .pod366 .standing-person341{position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:0;box-shadow:none;background:none;overflow:visible;display:block;pointer-events:none}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .standing-name341{display:none!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .standing-body435{position:absolute;inset:0;width:100%;height:100%;margin:0;display:block;transform-origin:50% 95%}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .human435{position:relative!important;width:100%!important;height:100%!important;margin:0!important;inset:auto!important;animation:none!important;transform:none!important;overflow:hidden!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .number366{position:absolute;top:calc(100% - 5px);left:0;width:100%;height:26px;min-height:0;border:3px solid #e6f3ff;border-radius:50%;overflow:hidden;background:#030a16;box-shadow:0 0 0 2px #4fbfff,0 5px 0 #8094b3;z-index:3;pointer-events:none}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .number366>b,body[data-game="eyvah-dusuyorum"] #app .oval516 .number366 strong,body[data-game="eyvah-dusuyorum"] #app .oval516 .number366 small{position:relative;z-index:2;font-size:12px;line-height:18px;background:transparent;padding:0}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .pick366,body[data-game="eyvah-dusuyorum"] #app .oval516 .pod-label516{position:absolute;top:calc(100% + 32px);left:-8%;width:116%;right:auto;display:grid;place-items:center;box-sizing:border-box;min-height:40px;margin:0;padding:4px 2px!important;white-space:normal;overflow-wrap:anywhere;font:650 clamp(9px,1vw,12px)/1.25 system-ui!important;background:#092345!important;border:1px solid #70c9ff!important;border-radius:9px!important;color:#fff!important;z-index:8}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-you366{position:absolute;left:50%!important;top:59%!important;width:14%!important;height:var(--person516);transform:translate(-50%,-100%);border:0;padding:0;z-index:6;pointer-events:none;overflow:visible}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-you366:after{display:none}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-you366>.person{position:absolute;inset:0;width:100%;height:100%;margin:0;overflow:visible}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-you366>strong{position:absolute!important;top:calc(100% + 32px)!important;left:-9%!important;width:118%!important;right:auto!important;margin:0;box-sizing:border-box;min-height:35px;padding:5px 2px;background:#0c1e38;border-radius:8px;text-align:center;font-size:12px;line-height:1.2;color:#ffe499;z-index:8}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .center-hatch516{position:absolute;top:calc(100% - 5px);left:-6%;width:112%;height:28px;overflow:hidden;border:4px solid #e6f3ff;border-radius:50%;background:#030a16;box-shadow:0 0 0 3px #46c7ff,0 5px 0 #8199bb;z-index:3}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .hatch-lid516{position:absolute;top:0;width:50%;height:100%;background:linear-gradient(#27466d,#0d1831);transform:perspective(120px) rotateX(calc(var(--open516,0)*88deg));transform-origin:50% 0;transition:none;z-index:1}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .left516{left:0}body[data-game="eyvah-dusuyorum"] #app .oval516 .right516{left:50%}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516{position:absolute;width:11%;height:var(--person516);transform:translate(-50%,-100%);text-align:center;z-index:6;pointer-events:none;transition:left .4s,top .4s}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .host-body516{position:absolute;inset:0;height:100%;width:100%}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong{position:absolute;top:calc(100% + 8px);left:-12%;width:124%;padding:4px 1px;background:#0c1e38;border-radius:6px;font-size:11px;line-height:1.3;color:#fff}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>small{display:none}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eliminated366 .empty-hatch366{display:none}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .drop-target516 .standing-body435{transform:perspective(600px) rotateY(var(--turn516,0deg)) translateY(var(--drop516,0%))!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .drop-target516 .standing-person341{overflow:hidden!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .hatch-open516 .number366>b{visibility:hidden}
+body[data-game="eyvah-dusuyorum"] #app .oval516[data-speaker516="host"] .host-body516{animation:speaking516 1.4s ease-in-out infinite}
+body[data-game="eyvah-dusuyorum"] #app .oval516[data-speaker516="player"] .drop-target516 .human435{animation:speaking516 1.4s ease-in-out infinite!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516.dropping516 .host-body516{animation:none}
+body.paused #app .oval516 .host-body516,body.paused #app .oval516 .human435{animation-play-state:paused!important}
+@keyframes speaking516{0%,100%{rotate:0deg}50%{rotate:1deg}}
+@media(max-width:650px){
+body[data-game="eyvah-dusuyorum"] #app .floor366.oval516{--person516:105px;height:820px;min-height:820px;border-radius:22px}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .pod366{width:14%}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-you366{width:18%!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516{width:14%}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .pick366,body[data-game="eyvah-dusuyorum"] #app .oval516 .pod-label516{min-height:44px;font-size:9px!important;top:calc(100% + 27px)}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong,body[data-game="eyvah-dusuyorum"] #app .oval516 .floor-you366>strong{font-size:9px}
+}
+@media(prefers-reduced-motion:reduce){body #app .oval516 .host-body516,body #app .oval516 .human435{animation:none!important}}

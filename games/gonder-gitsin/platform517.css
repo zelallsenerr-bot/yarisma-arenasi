@@ -1,0 +1,9 @@
+/* Wide camera: small console and three people watching the image wall. */
+html[data-arena-game="gonder-gitsin"] body #app>.gonder-platform-v67{height:clamp(310px,46vw,480px)!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 :is(.gonder-host-v67,.gonder-player-v67,.gonder-rival435){top:auto!important;bottom:9%!important;width:12%!important;height:33%!important;z-index:8!important;transform:none!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-host-v67{left:29%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-player-v67{left:47%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-rival435{left:62%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-desk-v67{left:44%!important;right:23%!important;top:66%!important;height:7%!important;border-width:4px!important;border-top-width:6px!important;padding:2px!important;z-index:6!important;transform:perspective(400px) rotateX(12deg);border-radius:6px!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-desk-v67 span{font-size:clamp(6px,.85vw,10px)!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 :is(.gonder-host-v67,.gonder-player-v67,.gonder-rival435)>strong{top:100%!important;bottom:auto!important;font-size:clamp(7px,1vw,11px)!important;max-width:140%!important;white-space:normal!important}

@@ -1,0 +1,2 @@
+/* Survivor-only bridge: keep the race and controls owned by the existing engine. */
+(()=>{'use strict';const baseTick=E.tick;E.tick=function(r,dt,input,rng){if(window.Survivor3D525?.loading)return;return baseTick(r,dt,input,rng);};const baseDraw=draw;draw=function(){baseDraw();if(s?.phase==='race'&&s.race)window.Survivor3D525?.render(s.race,s.players,color);};window.SurvivorBridge525={getState:()=>s};})();

@@ -1,0 +1,8 @@
+Survivor 530 V2 - 3D Final Atışı
+Bu sürüm gerçek Three.js 3D sahnesi, arkadan kamera, atış animasyonu, kavisli top uçuşu, hedef çarpışması ve devrilme animasyonu içerir.
+Karakter stilize bir TEST modelidir; gerçek Survivor yarışmacısı Turabi'nin birebir modeli değildir.
+ZIP'i ayıklayın. ES modülleri nedeniyle index.html dosyasını çift tıklamak yerine klasörde bir HTTP sunucusu başlatın:
+python -m http.server 8000
+Sonra http://localhost:8000/ adresini açın.
+Alternatif olarak GitHub/Netlify üzerinden ayrı test dalında yayımlayın.
+Mevcut 76 oyuna dokunulmadı. Bu ZIP bağımsız prototiptir.

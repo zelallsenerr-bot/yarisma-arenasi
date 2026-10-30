@@ -1,0 +1,7 @@
+SURVIVOR 529 — VIDEO PARKUR + GERCEK ZAMANLI 3D FINAL
+Bu, bagimsiz test prototipidir. 76 oyun ve mevcut Survivor 526/527/528 dosyalarini degistirmez.
+Kurulum: games/survivor-video-529 klasorunu projedeki games klasorune ekleyin. ZIP icindeki games klasorunu koruyun.
+Test adresi: /games/survivor-video-529/
+Video etaplari mevcut Survivor 528 parkur videosunu kullanir. Videonun sonunda 3D final acilir veya '3D finale gec (test)' dugmesine basabilirsiniz.
+3D finalde 5 hedef, 8 top vardir. Hedef secmek icin sol/sag ok veya fare, atis icin bosluk kullanin.
+Sinirlamalar: Video etabinda oyuncu videodaki insanin hareketlerini degistiremez. 3D final, fiziksel atis simulasyonundan ziyade hedef secimi ve atis animasyonunun ilk oynanabilir prototipidir. Videonun lisans ve kullanim haklari yayindan once kontrol edilmelidir.

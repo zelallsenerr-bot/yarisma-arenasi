@@ -1,0 +1,8 @@
+Survivor 533 – Hareketli 3D Karakter Testi
+
+- Önceki sabit resim yerine yerel .glb iskeletli insan modeli.
+- Sağ kol, dirsek, gövde ve başta atışa bağlı animasyon.
+- 3D top uçuşu, nişan ve hedef devirme korunmuştur.
+- Karakter Turabi'nin birebir modeli değildir. Hareketler prototip niteliğindedir.
+- Tarayıcıda yerel dosyayı doğrudan açmak yerine Netlify/GitHub Pages veya yerel HTTP sunucusu kullanın.
+- Ana Yarışma Arenası oyunları bu paketle değiştirilmemiştir.

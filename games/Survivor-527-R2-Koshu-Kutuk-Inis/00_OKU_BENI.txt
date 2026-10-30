@@ -1,0 +1,67 @@
+SURVIVOR 527 R2 — KOŞU / KÜTÜK / İNİŞ DÜZELTMESİ
+Başlangıç sürümü: Survivor-527-Mocap-Prototip.zip, ilk 527 prototipi.
+
+Bu ZIP aynı ayrı prototip klasörünün güncellenmiş TAM kopyasıdır. games/survivor-527-prototip klasörünü eskisiyle birleştirin. Ana oyunlara ve ana index.html dosyasına dokunmayın.
+527 dosyalarında kendiniz değişiklik yaptıysanız aşağıdaki 5 ortak dosyayı doğrudan ezmeden karşılaştırın:
+engine.js, motion.js, world.js, app.js, index.html.
+Diğer dosyalar ve varlıklar ilk 527 ile aynıdır.
+
+R2 DEĞİŞİKLİKLERİ
+- Eski 350/680 balistik sıçrama yerine CMU kaydının 9–36. karelerinden alınan zamanlı ayak yüksekliği eğrisi kullanılır. Zıplama pozu aynı kayıt karesine eşlenir.
+- Koşu hızı kademeli artar; inişte kısa yavaşlama vardır. Sıçramada depar çarpanı devreden çıkar.
+- Kütük çapı 56 cm oldu. Çarpışma kutusu yerine daire kesitinin üst yüzeyi hesaplanır. Botun atlama mesafesi buna eşlendi.
+- Kameranın baktığı nokta ve yüksekliği karakterin yükselişini izler.
+
+TEST
+Node ile 30, 60 ve 120 Hz adımlarında oyuncu ve botun ilk kütüğü hatasız geçip yere inmesi, sürekli yatay ilerleme ve 0,5–0,8 m aralığındaki ayak yüksekliği doğrulandı. Ölçülen tepe: 0,673 m. Bu test normal hız ve belirtilen doğru atlama zamanlaması içindir; bütün giriş zamanları ve engellerin kusursuzluğu iddia edilmez.
+Tarayıcıda R2 sayfası açıldı. Bu ortamda WebGL kapalı olduğundan dokulu son görünüm yine görsel olarak doğrulanamadı. Bu sınırlama devam etmektedir.
+Bu revizyon duvar, sürünme ve yüzme sorunlarını TAMAMLANMIŞ saymaz; yalnız koşu-kütük-iniş bölümüne odaklanır. Mevcut 76 oyun korunmuştur. Site yayımlanmadı.
+
+Tekrar denenecek yol: /games/survivor-527-prototip/
+Sayfanın üstünde 527 R2 yazdığını kontrol edin.
+
+SURVIVOR 527 — AYRI MOCAP PROTOTİPİ
+
+Bu paket mevcut sitenin tamamı değildir. Mevcut 76 oyunun hiçbir dosyasının üzerine yazmaz. Ana Survivor 526 ve menü korunur. Yalnız games/survivor-527-prototip klasörünü ekler.
+
+KURULUM
+1. ZIP'i çıkarın.
+2. Mevcut projenizin games klasörüne survivor-527-prototip klasörünü bütünüyle kopyalayın. Klasör adını ve iç yapısını koruyun.
+3. index.html dosyasını sitenin köküne taşımayın; mevcut ana index.html dosyasını değiştirmeyin.
+4. GitHub'a bu yeni klasörü yükleyip commit edin. GitHub'a bağlı Netlify otomatik yayımlar.
+5. Sitenizde /games/survivor-527-prototip/ yolunu açın.
+6. Bu yalnızca tek parkur prototipidir. Görsel onayınızdan sonra ana Survivor'a entegrasyon yapılmalıdır.
+
+YEREL ÇALIŞTIRMA
+ZIP'in çıkarıldığı dizinde: python -m http.server 8000
+Tarayıcıda: http://localhost:8000/games/survivor-527-prototip/
+HTML dosyasına çift tıklamak yerine HTTP sunucusu kullanın. WebGL destekli güncel bir tarayıcı gerekir. Modeller ve Three.js yereldir; CDN bağımlılığı yoktur.
+
+OYNAMA
+PARKURU BAŞLAT: Kıyı Fırtınası tek parkuru, iki yarışmacı ve hedef atışı.
+Boşluk / yukarı: zıpla, tırman, yüz, hedef atışı.
+Aşağı: eğil / sol denge. Shift: depar / sağ denge.
+Takip ve TV kameraları yarış sırasında değiştirilebilir. Yakınlık ayarlanabilir.
+Alttaki hareket düğmeleri yarışı durdurup seçilen gerçek kaydı oynatır.
+
+NE DEĞİŞTİ?
+526'nın zamanla sinüs üreten kol-bacak animasyonları kullanılmadı. Ayrı motion.js, gerçek CMU BVH kayıtlarından çıkarılmış eklem verisini modellerin kendi kemiklerine aktarır. 13 hareket görünümü: bekleme, yürüme, koşma, hızlanma, yavaşlama, durma, sıçrama hazırlığı, zıplama, iniş, eğilme, sürünme, tırmanma, yüzme.
+0,2 saniyelik poz geçişleri, hıza göre kayıt oynatma, zemine basan ayak için temas sabitleme, iki kemikli bacak IK, tırmanmada kol IK eklendi.
+İki mevcut ayrıntılı GLB insan modeli yüz/saç/giysi dokuları korunarak kullanıldı. Yeni insan modeli yapıldığı veya gerçek Survivor yarışmacılarının birebir yüzlerinin bulunduğu iddia edilmiyor.
+Parkura kum ve ağaç kabuğu dokusu, ayrıntılı palmiye yaprakları, su havuzu tabanı/kenarları, gölge ve yakın kamera düzeni eklendi.
+Mevcut yarış kurallarının bir kopyası bağımsız prototip motorunda kullanılır; ana oyun dosyası değiştirilmez.
+
+DÜRÜST SINIRLAMALAR / TEST DURUMU
+Bu ortamda tarayıcı WebGL'i kapalı olduğundan dokulu 3B görünümün nihai kalitesi görsel olarak DOĞRULANAMADI. Tarayıcıda yükleme, hareket seçimi, parkur başlatma, kamera düğmesi ve mola kontrol edildi. WebGL yoksa açıkça etiketlenmiş gerçek model iskeleti inceleme görünümü gösterilir; bu görünüm bitmiş 3B oyun diye sunulmaz.
+İki modelin 13 hareket durumunda sonlu kemik dönüşümleri, model sınırları ve ayak temasları sayısal olarak kontrol edildi. Duvar tırmanmasının üç ilerleme noktasında el hedefi hatası 0,001 metreden küçük bulundu. Bu sayısal kontroller bütün parkur boyunca görsel penetrasyon olmadığını kanıtlamaz.
+Tırmanma kaydı merdiven tırmanışıdır; Survivor duvarı için özel çekilmiş kayıt değildir. Duvara IK ile uyarlanmıştır. Sürünme ve yüzme kayıtları stüdyoda yakalanmış hareketlerdir; gerçek su fiziği simülasyonu değildir.
+Tam gövde fizik motoru/ragdoll, bütün engeller için ayrıntılı mesh çarpışması ve her kare kusursuz ayak kilidi tamamlandı diye iddia edilmiyor. Oyun kurallarındaki engel kontrolleri korunur. Özellikle duvardan üst geçişi, yüzme-su çizgisi ve döngü birleşimleri kendi WebGL tarayıcınızda gözden geçirilmelidir.
+Bu nedenle paket görsel değerlendirmeye hazır bir PROTOTİPTİR; fotogerçekçi kalite tamamlandı veya tüm parkurlar onaylandı anlamına gelmez.
+
+KAYNAKLAR
+Motion capture: Carnegie Mellon University Graphics Lab, https://mocap.cs.cmu.edu/ . Veriler NSF EIA-0196217 desteğiyle oluşturulmuştur.
+BVH dönüşümü: Bruce Hahne; dağıtım: una-dinosauria/cmu-mocap.
+assets/source içinde kullanılan 10 BVH aslı ve READMEFIRST.txt; assets/mocap-provenance.json içinde kaynak URL ve SHA-256 değerleri bulunur.
+assets/mocap.json gerçek kayıtlardan 30 fps eklem örnekleri içerir. İniş, sıçrama ve yavaşlama aynı ilgili yakalama kaydının ayrı zaman aralıklarıdır; bağımsız çekim gibi sunulmaz.
+Modeller: mevcut projenizdeki sam.glb ve maya.glb varlıklarının kopyaları. Kaynak projedeki model kullanım hakları ve kısıtları geçerlidir; bu paket yeni bir model lisansı sağlamaz.
+Three.js: MIT; vendor klasöründeki lisansa bakın.

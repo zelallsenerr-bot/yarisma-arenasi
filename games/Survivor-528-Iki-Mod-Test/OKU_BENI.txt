@@ -1,0 +1,8 @@
+SURVIVOR 528 IKI MOD TEST PAKETI
+
+1. games/survivor-video-528/ : Orijinal zamanlama oyunu.
+2. games/survivor-video-528-secimli/ : Karar noktasinda duran video; dogru tusa basinca devam eder, yanlis tusa basinca 3 saniye ceza.
+
+Secimli surumde farkli video cekimleri yoktur; TV goruntusu degismez.
+
+GitHub test dalindaki games/ klasorune iki klasoru ekleyin. Ana siteyi degistirmeyin.

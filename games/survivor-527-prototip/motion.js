@@ -9,8 +9,8 @@ export function animate(a,p,t,dt,force=null){if(!data)return;dt=T.MathUtils.clam
  if(!force&&state.mode==='land'&&state.time<.35&&wanted!=='jump')wanted='land';if(!force&&wanted==='stop'&&state.mode==='stop'&&state.time>.8)wanted='idle';if(!force&&['walk','run'].includes(wanted)&&['stop','idle'].includes(state.mode))wanted='accelerate';if(!force&&state.mode==='accelerate'&&state.time<.45&&!['jump','climb','crawl','swim'].includes(wanted))wanted='accelerate';
  if(wanted!==state.mode){state.from=a.lastPose?.map(v=>v.clone())||null;state.blend=0;state.mode=wanted;state.time=0;state.phase=0;a.contacts={};}else state.time+=dt;
  let clip=data.clips[state.mode]||data.clips.idle,loop=['walk','run','idle','crawl','swim'].includes(state.mode),sampleTime=state.time;
- if(['run','walk'].includes(state.mode)){state.phase=(state.phase||0)+dt*T.MathUtils.clamp(state.speed/Math.max(.5,clip.speed*.78),.35,2.2);sampleTime=state.phase;}
- if(state.mode==='jump'&&!force){let q=data.clips.jump,falling=p.vy<0,u=T.MathUtils.clamp((350-p.vy)/700,0,1);sampleTime=(q.takeoffFrame+(q.landingFrame-q.takeoffFrame)*u)/30;}
+ if(['run','walk'].includes(state.mode)){state.phase=(state.phase||0)+dt*T.MathUtils.clamp(state.speed/Math.max(.5,clip.speed*.9),.5,1.9);sampleTime=state.phase;}
+ if(state.mode==='jump'&&!force){let q=data.clips.jump,falling=p.vy<0,u=T.MathUtils.clamp((275-p.vy)/550,0,1);sampleTime=(q.takeoffFrame+(q.landingFrame-q.takeoffFrame)*u)/30;}
  if(state.mode==='climb'&&!force)sampleTime=p.vault524?clip.duration*(.65+.35*T.MathUtils.clamp(p.vault524.t/1.15,0,1)):clip.duration*(.08+.6*T.MathUtils.clamp(p.climb,0,1));
  let pose=read(clip,sampleTime,loop);state.blend=Math.min(1,state.blend+dt/.2);let blend=state.blend*state.blend*(3-2*state.blend);if(state.from&&blend<1)pose=pose.map((v,i)=>state.from[i].clone().lerp(v,blend));a.lastPose=pose.map(v=>v.clone());a.capturePose=pose;
  for(let[b,q,pos]of a.rest){b.quaternion.copy(q);b.position.copy(pos);}a.model.position.copy(a.modelRest);a.group.updateMatrixWorld(true);

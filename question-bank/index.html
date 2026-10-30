@@ -1,0 +1,29 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Yarışma Arenası — Ortak Soru Havuzu Testi</title><style>
+*{box-sizing:border-box}body{margin:0;background:#071825;color:#f5f7fb;font:16px system-ui,Arial}.wrap{max-width:900px;margin:35px auto;padding:16px}.panel{background:linear-gradient(145deg,#153454,#0b2138);border:1px solid #456488;border-radius:20px;padding:25px;box-shadow:0 20px 60px #0004}h1{margin:0 0 8px;font-size:26px}.muted{color:#adc4dc}select,button{font:inherit;border-radius:9px;padding:11px 15px}select{background:#142f4a;color:#fff;border:1px solid #6684a2}button{cursor:pointer;border:1px solid #8a9ec6;background:#203d66;color:white}button:hover{background:#315487}button:disabled{opacity:.45;cursor:default}.gold{background:#edc35e;color:#1d2532;border:0;font-weight:800}.controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:20px 0}.question{font-size:clamp(20px,3vw,29px);font-weight:750;margin:28px 0}.options{display:grid;grid-template-columns:1fr 1fr;gap:12px}.options button{text-align:left;min-height:64px}.options button.correct{background:#17634b;border-color:#61d2a3}.options button.wrong{background:#742c3b;border-color:#f07e88}.info{background:#0b273a;border-left:4px solid #edc35e;padding:14px;margin-top:18px;border-radius:7px;line-height:1.5}.stats{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}.hide{display:none}@media(max-width:600px){.options{grid-template-columns:1fr}} </style></head><body><div class="wrap"><div class="panel"><h1>YARIŞMA ARENASI <span style="color:#edc35e">· SORU HAVUZU</span></h1><p class="muted">Ortak soru motoru — oyunlara bağlanmadan önce bağımsız deneme. Sorular taslak ve inceleme aşamasındadır.</p><div class="controls"><label>Kategori <select id="category"><option value="">Tüm kategoriler</option></select></label><label>Zorluk <select id="difficulty"><option value="0">Karışık</option><option value="1">Kolay</option><option value="2">Orta</option><option value="3">Zor</option></select></label><button class="gold" id="start">5 SORULUK DENEME BAŞLAT</button><button id="clear">Görülme geçmişini sıfırla</button></div><div class="stats"><span id="progress">Hazırlanıyor...</span><span id="score">Puan: 0</span></div><div class="question" id="question">Sorular yükleniyor...</div><div class="options" id="options"></div><div class="info hide" id="explanation"></div><div class="controls"><button id="next" class="gold hide">SONRAKİ SORU</button></div><p class="muted" id="validation"></p></div></div><script type="module">
+import {validateBank,selectQuestions,markSeen} from './engine.js';
+const $=id=>document.getElementById(id);let bank=null,round=[],at=0,score=0,answered=false;
+try{
+ const response=await fetch('./questions.json');if(!response.ok)throw Error('Sorular yüklenemedi');
+ bank=await response.json();const check=validateBank(bank);
+ $('validation').textContent=check.valid?'Şema kontrolü: '+check.total+' taslak soru; doğruluk onayı bekliyor.':'Veri hataları: '+check.errors.join('; ');
+ if(!check.valid)throw Error('Veri kontrolünden geçemedi');
+ [...new Set(bank.questions.map(q=>q.category))].sort().forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;$('category').append(o)});
+ $('question').textContent='Kategori ve zorluk seçip denemeyi başlat.';
+ $('progress').textContent=bank.questions.length+' taslak soru mevcut';
+}catch(e){$('question').textContent='Hata: '+e.message;$('start').disabled=true}
+function begin(){
+ const category=$('category').value||null,level=Number($('difficulty').value);
+ const args={category,difficulties:level?[level]:[1,2,3],count:5,approvedOnly:false};
+ let seen=[];try{seen=JSON.parse(localStorage.getItem('arena-question-seen')||'[]')}catch{}
+ round=selectQuestions(bank,{...args,seenIds:seen});
+ if(!round.length){$('question').textContent='Bu filtrede görülmemiş soru kalmadı. Geçmişi sıfırlayabilir veya başka kategori seçebilirsin.';$('options').replaceChildren();return}
+ at=0;score=0;show();
+}
+function show(){answered=false;const q=round[at];$('progress').textContent=(at+1)+' / '+round.length+' · '+q.category+' · '+['','Kolay','Orta','Zor'][q.difficulty];$('score').textContent='Puan: '+score;$('question').textContent=q.question;$('options').replaceChildren();$('explanation').classList.add('hide');$('next').classList.add('hide');
+ q.options.forEach((label,i)=>{const b=document.createElement('button');b.textContent=String.fromCharCode(65+i)+') '+label;b.onclick=()=>answer(i);$('options').append(b)});
+ try{markSeen(localStorage,'arena-question-seen',q.id)}catch{}
+}
+function answer(choice){if(answered)return;answered=true;const q=round[at];if(choice===q.answerIndex)score++;[...$('options').children].forEach((b,i)=>{b.disabled=true;if(i===q.answerIndex)b.classList.add('correct');else if(i===choice)b.classList.add('wrong')});$('score').textContent='Puan: '+score;$('explanation').textContent='Doğru cevap: '+String.fromCharCode(65+q.answerIndex)+') '+q.options[q.answerIndex]+'. '+q.explanation;$('explanation').classList.remove('hide');$('next').textContent=at===round.length-1?'SONUCU GÖR':'SONRAKİ SORU';$('next').classList.remove('hide')}
+$('next').onclick=()=>{if(++at<round.length)show();else{$('question').textContent='Deneme tamamlandı! '+round.length+' soruda '+score+' doğru.';$('progress').textContent='Bitti';$('options').replaceChildren();$('explanation').classList.add('hide');$('next').classList.add('hide')}};
+$('start').onclick=begin;$('clear').onclick=()=>{try{localStorage.removeItem('arena-question-seen')}catch{}$('question').textContent='Görülme geçmişi sıfırlandı. Yeni deneme başlatabilirsin.'};
+</script></body></html>

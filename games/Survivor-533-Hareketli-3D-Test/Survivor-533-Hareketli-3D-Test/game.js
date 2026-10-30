@@ -22,7 +22,7 @@ const neck=cyl(.16,.17,.2,skin,0,2.35,0,character),head=ballMesh(.29,skin,0,2.62
 const leftArm=new T.Group();leftArm.position.set(-.54,2.14,0);character.add(leftArm);cyl(.14,.12,.68,skin,0,-.32,0,leftArm);cyl(.11,.10,.48,skin,-.06,-.8,-.05,leftArm);
 armPivot=new T.Group();armPivot.position.set(.55,2.13,0);character.add(armPivot);cyl(.145,.12,.69,skin,0,-.34,0,armPivot);cyl(.12,.10,.48,skin,.02,-.88,-.02,armPivot);ballMesh(.13,skin,.02,-1.1,-.02,armPivot);
 // Animated skinned human, loaded locally. This is NOT a likeness of a named contestant.
-let athlete=null, shoulder=null, elbow=null, spine=null, headBone=null, pelvis=null, restPose={};
+let athlete=null, shoulder=null, elbow=null, spine=null, headBone=null, pelvis=null, restPose={},hairStrands=[];
 const placeholderParts=[...character.children];
 new GLTFLoader().load('./assets/sam.glb',gltf=>{
  const figure=gltf.scene;
@@ -44,12 +44,30 @@ new GLTFLoader().load('./assets/sam.glb',gltf=>{
    if(/hips|pelvis/i.test(o.name))pelvis=o;
  });
  for(const o of [shoulder,elbow,spine,headBone,pelvis])if(o)restPose[o.uuid]=o.quaternion.clone();
+ // Athletic, long-haired contestant styling. Not an exact facial likeness.
+ figure.traverse(o=>{if(!o.isMesh||!o.material)return; const n=o.name.toLowerCase();
+   if(/shirt|top|tshirt|body_cloth|uppercloth/.test(n)){o.material=o.material.clone();o.material.color.set('#292e33');}
+   if(/pant|short|trouser/.test(n)){o.material=o.material.clone();o.material.color.set('#b82d27');}
+ });
+ if(headBone){
+   const darkHair=new T.MeshStandardMaterial({color:'#18120f',roughness:.98,side:T.DoubleSide});
+   const hairCap=new T.Mesh(new T.SphereGeometry(.115,14,10,0,Math.PI*2,0,Math.PI*.53),darkHair);
+   hairCap.position.set(0,.085,0);headBone.add(hairCap);
+   for(let i=0;i<11;i++){
+     const theta=(i/10)*Math.PI*1.25+.85;
+     const strand=new T.Mesh(new T.CapsuleGeometry(.016,.22+(i%3)*.05,4,6),darkHair);
+     strand.position.set(Math.cos(theta)*.095,-.13,Math.sin(theta)*.085);
+     strand.rotation.z=.12*Math.sin(i*3);headBone.add(strand);hairStrands.push({strand,i});
+   }
+   const beard=new T.Mesh(new T.SphereGeometry(.087,12,8),darkHair);
+   beard.scale.set(.8,.65,.55);beard.position.set(0,-.075,-.065);headBone.add(beard);
+ }
  placeholderParts.forEach(o=>o.visible=false);
  announce('HAREKETLİ 3D KARAKTER HAZIR');
 },undefined,e=>{console.warn('Model loading failed',e);announce('MODEL AÇILAMADI — YEDEK KARAKTER');});
 
 // jersey detail on back
-const number=new T.CanvasTexture((()=>{const c=document.createElement('canvas');c.width=256;c.height=256;const ctx=c.getContext('2d');ctx.clearRect(0,0,256,256);ctx.fillStyle='#f7d995';ctx.textAlign='center';ctx.font='bold 116px Arial';ctx.fillText('01',128,155);ctx.font='bold 34px Arial';ctx.fillText('YARIŞMACI',128,54);return c})());number.colorSpace=T.SRGBColorSpace;const tag=mesh(new T.PlaneGeometry(.72,.72),new T.MeshBasicMaterial({map:number,transparent:true,side:T.DoubleSide}),0,1.65,.218,character);
+const number=new T.CanvasTexture((()=>{const c=document.createElement('canvas');c.width=256;c.height=256;const ctx=c.getContext('2d');ctx.clearRect(0,0,256,256);ctx.fillStyle='#f7d995';ctx.textAlign='center';ctx.font='bold 116px Arial';ctx.fillText('01',128,155);ctx.font='bold 34px Arial';ctx.fillText('YARIŞMACI',128,54);return c})());number.colorSpace=T.SRGBColorSpace;// No floating jersey decal over the skinned character.
 const ballMaterial=mat('#e6d2a5',.55);const lineMaterial=mat('#bd6a38');
 function makeBall(){let b=ballMesh(.16,ballMaterial,0,0,0);for(let i=0;i<3;i++){let ring=mesh(new T.TorusGeometry(.161,.008,5,48),lineMaterial,0,0,0,b);ring.rotation.set(i*.95,i*.8,0)}return b}
 const crosshair=(()=>{const group=new T.Group();const ring=mesh(new T.TorusGeometry(.36,.022,6,48),new T.MeshBasicMaterial({color:'#f8df90'}),0,0,0,group);return group})();scene.add(crosshair);
@@ -69,11 +87,11 @@ if(athlete){
  if(spine){spine.quaternion.copy(restPose[spine.uuid]);spine.rotateY(-a*.32+.22*wind-.16*follow);spine.rotateX(.018*Math.sin(now*2.3)+.1*wind);}
  if(headBone){headBone.quaternion.copy(restPose[headBone.uuid]);headBone.rotateY(a*.08);}
  if(pelvis){pelvis.quaternion.copy(restPose[pelvis.uuid]);pelvis.rotateY(-.09*wind);}
- athlete.position.y+=0; // feet remain planted while throwing
+ for(const {strand,i} of hairStrands){strand.rotation.z=.05*Math.sin(now*3+i*.7)+.16*wind;} // subtle hair follow-through
 }
 
 const targetX=Math.tan(a)*14.3;crosshair.position.set(targetX,1.86,-17.35);crosshair.rotation.y=0;crosshair.visible=!flight;
 if(flight){flight.t+=dt;const t=flight.t;ball.position.copy(flight.origin).addScaledVector(flight.vel,t);ball.position.y-=4.9*t*t;ball.rotation.x+=dt*14;ball.rotation.z+=dt*7;if(ball.position.z<=-17.35||ball.position.y<.15){let match=targets.find(q=>!q.hit&&Math.abs(q.x-ball.position.x)<.46&&Math.abs(1.86-ball.position.y)<.53&&ball.position.z<-16.9);if(match){match.hit=true;hits++;announce('İSABET!');shake=.15}else announce('ISKA!');scene.remove(ball);ball=null;flight=null;update();if(hits===5)announce('TÜM HEDEFLER DEVİRİLDİ!');else if(shots===0)announce('TOPLAR BİTTİ — TEKRAR DENE') }}
 targets.forEach(q=>{if(q.hit){q.fall=Math.min(1,q.fall+dt*2.6);q.group.rotation.x=-q.fall*1.52;q.group.position.y=1.86-q.fall*.35}});
-const desired=camMode===0?new T.Vector3(-.85,3.3,7.65):new T.Vector3(5.5,3.8,5.9);camera.position.lerp(desired,1-Math.exp(-dt*4));const look=new T.Vector3(camMode===0?0:-.5,1.5,-9);camera.lookAt(look);if(shake>0){camera.position.x+=(Math.random()-.5)*shake;shake=Math.max(0,shake-dt)}renderer.render(scene,camera)}
+const desired=camMode===0?new T.Vector3(-.3,2.55,9.8):new T.Vector3(5.8,3.2,9.5);camera.position.lerp(desired,1-Math.exp(-dt*4));const look=new T.Vector3(camMode===0?0:-.5,1.65,-11);camera.lookAt(look);if(shake>0){camera.position.x+=(Math.random()-.5)*shake;shake=Math.max(0,shake-dt)}renderer.render(scene,camera)}
 $('shoot').onclick=fire;$('reset').onclick=reset;$('camera').onclick=()=>camMode=1-camMode;power.oninput=update;window.addEventListener('keydown',e=>{if(e.code==='Space'){e.preventDefault();fire()}if(e.code==='ArrowLeft')angle.value=clamp(+angle.value-2,-24,24);if(e.code==='ArrowRight')angle.value=clamp(+angle.value+2,-24,24);if(e.code==='ArrowUp')power.value=clamp(+power.value+3,35,100);if(e.code==='ArrowDown')power.value=clamp(+power.value-3,35,100);update()});let dragging=false;renderer.domElement.addEventListener('pointerdown',e=>{dragging=true;renderer.domElement.setPointerCapture(e.pointerId)});renderer.domElement.addEventListener('pointerup',()=>dragging=false);renderer.domElement.addEventListener('pointermove',e=>{if(!dragging)return;const r=renderer.domElement.getBoundingClientRect();angle.value=Math.round(clamp(((e.clientX-r.left)/r.width-.5)*48,-24,24))});reset();tick();

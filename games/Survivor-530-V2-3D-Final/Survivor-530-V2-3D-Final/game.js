@@ -20,6 +20,24 @@ const torso=box(.82,1.18,.42,blue,0,1.68,0,character);torso.rotation.x=.08;box(.
 const neck=cyl(.16,.17,.2,skin,0,2.35,0,character),head=ballMesh(.29,skin,0,2.62,0,character);const cap=ballMesh(.30,hair,0,2.75,.02,character);cap.scale.set(1,.42,1);box(.55,.05,.17,hair,0,2.73,-.24,character);
 const leftArm=new T.Group();leftArm.position.set(-.54,2.14,0);character.add(leftArm);cyl(.14,.12,.68,skin,0,-.32,0,leftArm);cyl(.11,.10,.48,skin,-.06,-.8,-.05,leftArm);
 armPivot=new T.Group();armPivot.position.set(.55,2.13,0);character.add(armPivot);cyl(.145,.12,.69,skin,0,-.34,0,armPivot);cyl(.12,.10,.48,skin,.02,-.88,-.02,armPivot);ballMesh(.13,skin,.02,-1.1,-.02,armPivot);
+// Survivor 531: replace placeholder with a textured, rigged human model when loaded.
+let realisticHuman=null,throwShoulder=null,modelLoading=true;
+const modelURL='https://raw.githubusercontent.com/zelallsenerr-bot/yarisma-arenasi/survivor-527-clean-prototype/games/survivor-527-prototip/assets/humans/sam.glb';
+(async()=>{try{
+ const {GLTFLoader}=await import('https://cdn.jsdelivr.net/npm/three@0.175.0/examples/jsm/loaders/GLTFLoader.js');
+ const gltf=await new GLTFLoader().loadAsync(modelURL);
+ const figure=gltf.scene;
+ figure.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=true;o.frustumCulled=false;}if(o.isBone&&/upperarm_r|RightArm|upper_arm_R/i.test(o.name))throwShoulder=o;});
+ const bounds=new T.Box3().setFromObject(figure),h=bounds.max.y-bounds.min.y;
+ if(!Number.isFinite(h)||h<=0)throw Error('Model dimensions invalid');
+ figure.scale.setScalar(1.82/h);
+ figure.position.y=-bounds.min.y*figure.scale.y;
+ figure.rotation.y=Math.PI/2;
+ character.add(figure);realisticHuman=figure;
+ for(const o of [torso,neck,head,cap,leftArm,armPivot,tag])if(o)o.visible=false;
+ character.children.forEach(o=>{if(o!==figure)o.visible=false});
+ announce('3D İNSAN MODELİ YÜKLENDİ');
+ }catch(e){console.warn('Human model fallback:',e);announce('MODEL YÜKLENEMEDİ · TEST KARAKTERİ');}finally{modelLoading=false;}})();
 // jersey detail on back
 const number=new T.CanvasTexture((()=>{const c=document.createElement('canvas');c.width=256;c.height=256;const ctx=c.getContext('2d');ctx.clearRect(0,0,256,256);ctx.fillStyle='#f7d995';ctx.textAlign='center';ctx.font='bold 116px Arial';ctx.fillText('01',128,155);ctx.font='bold 34px Arial';ctx.fillText('YARIŞMACI',128,54);return c})());number.colorSpace=T.SRGBColorSpace;const tag=mesh(new T.PlaneGeometry(.72,.72),new T.MeshBasicMaterial({map:number,transparent:true,side:T.DoubleSide}),0,1.65,.218,character);
 const ballMaterial=mat('#e6d2a5',.55);const lineMaterial=mat('#bd6a38');
@@ -29,7 +47,7 @@ function announce(t){msg.textContent=t;msg.classList.add('on');noticeUntil=perfo
 function reset(){shots=8;hits=0;flight=null;throwTime=0;targets.forEach(t=>{t.hit=false;t.fall=0;t.group.rotation.x=0;t.group.visible=true});if(ball){scene.remove(ball);ball=null}announce('FİNAL ATIŞI BAŞLIYOR');update()}
 function fire(){if(flight||shots<=0||hits===5)return;shots--;const a=+angle.value*Math.PI/180,p=+power.value/100;const origin=new T.Vector3(-.38,1.65,2.6);const dest=new T.Vector3(Math.tan(a)*14.3,1.86,-17.6);const time=.88+(.98-p)*.55;const vel=dest.clone().sub(origin).divideScalar(time);vel.y+=.5*9.8*time;ball=makeBall();ball.position.copy(origin);flight={origin,vel,t:0,time,hit:false};throwTime=.55;update()}
 function resize(){const w=holder.clientWidth,h=holder.clientHeight||w*9/16;renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix()}new ResizeObserver(resize).observe(holder);resize();
-function tick(){requestAnimationFrame(tick);const dt=Math.min(clock.getDelta(),.04);if(noticeUntil&&performance.now()>noticeUntil){msg.classList.remove('on');noticeUntil=0}const a=+angle.value*Math.PI/180;character.rotation.y=-a*.42;armPivot.rotation.x=-.35;if(throwTime>0){throwTime=Math.max(0,throwTime-dt);armPivot.rotation.x=-1.8*Math.sin((1-throwTime/.55)*Math.PI)-.35;character.rotation.z=.065*Math.sin((1-throwTime/.55)*Math.PI)}else character.rotation.z*=.9;
+function tick(){requestAnimationFrame(tick);const dt=Math.min(clock.getDelta(),.04);if(noticeUntil&&performance.now()>noticeUntil){msg.classList.remove('on');noticeUntil=0}const a=+angle.value*Math.PI/180;character.rotation.y=-a*.42;armPivot.rotation.x=-.35;if(throwTime>0){throwTime=Math.max(0,throwTime-dt);armPivot.rotation.x=-1.8*Math.sin((1-throwTime/.55)*Math.PI)-.35;character.rotation.z=.065*Math.sin((1-throwTime/.55)*Math.PI)}else character.rotation.z*=.9;if(throwShoulder&&realisticHuman){throwShoulder.rotation.x=throwTime>0?-.9*Math.sin((1-throwTime/.55)*Math.PI):-.1;}
 const targetX=Math.tan(a)*14.3;crosshair.position.set(targetX,1.86,-17.35);crosshair.rotation.y=0;crosshair.visible=!flight;
 if(flight){flight.t+=dt;const t=flight.t;ball.position.copy(flight.origin).addScaledVector(flight.vel,t);ball.position.y-=4.9*t*t;ball.rotation.x+=dt*14;ball.rotation.z+=dt*7;if(ball.position.z<=-17.35||ball.position.y<.15){let match=targets.find(q=>!q.hit&&Math.abs(q.x-ball.position.x)<.46&&Math.abs(1.86-ball.position.y)<.53&&ball.position.z<-16.9);if(match){match.hit=true;hits++;announce('İSABET!');shake=.15}else announce('ISKA!');scene.remove(ball);ball=null;flight=null;update();if(hits===5)announce('TÜM HEDEFLER DEVİRİLDİ!');else if(shots===0)announce('TOPLAR BİTTİ — TEKRAR DENE') }}
 targets.forEach(q=>{if(q.hit){q.fall=Math.min(1,q.fall+dt*2.6);q.group.rotation.x=-q.fall*1.52;q.group.position.y=1.86-q.fall*.35}});

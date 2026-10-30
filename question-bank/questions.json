@@ -302,6 +302,606 @@
       "answerIndex": 2,
       "explanation": "1010₂ = 8 + 2 = 10'dur.",
       "status": "draft"
+    },
+    {
+      "id": "QA-00021",
+      "category": "Genel kültür",
+      "difficulty": 1,
+      "question": "Bir yılda kaç ay vardır?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answerIndex": 2,
+      "explanation": "Takvim yılı 12 aydan oluşur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00022",
+      "category": "Genel kültür",
+      "difficulty": 1,
+      "question": "Trafik ışıklarında dur anlamına gelen renk hangisidir?",
+      "options": [
+        "Sarı",
+        "Yeşil",
+        "Mavi",
+        "Kırmızı"
+      ],
+      "answerIndex": 3,
+      "explanation": "Kırmızı ışık durmayı bildirir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00023",
+      "category": "Genel kültür",
+      "difficulty": 2,
+      "question": "Uluslararası birim sisteminde sıcaklığın temel birimi hangisidir?",
+      "options": [
+        "Santigrat derece",
+        "Kelvin",
+        "Fahrenheit",
+        "Joule"
+      ],
+      "answerIndex": 1,
+      "explanation": "SI temel sıcaklık birimi kelvindir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00024",
+      "category": "Genel kültür",
+      "difficulty": 2,
+      "question": "Bir düzine kaç adettir?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bir düzine 12 adettir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00025",
+      "category": "Tarih",
+      "difficulty": 1,
+      "question": "Anıtkabir hangi şehirde yer alır?",
+      "options": [
+        "İstanbul",
+        "Ankara",
+        "Samsun",
+        "İzmir"
+      ],
+      "answerIndex": 1,
+      "explanation": "Anıtkabir Ankara'dadır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00026",
+      "category": "Tarih",
+      "difficulty": 2,
+      "question": "TBMM hangi tarihte açılmıştır?",
+      "options": [
+        "23 Nisan 1920",
+        "19 Mayıs 1919",
+        "29 Ekim 1923",
+        "30 Ağustos 1922"
+      ],
+      "answerIndex": 0,
+      "explanation": "Türkiye Büyük Millet Meclisi 23 Nisan 1920'de açıldı.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00027",
+      "category": "Tarih",
+      "difficulty": 2,
+      "question": "Fransız Devrimi hangi yılda başlamıştır?",
+      "options": [
+        "1776",
+        "1789",
+        "1815",
+        "1848"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fransız Devrimi 1789'da başladı.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00028",
+      "category": "Tarih",
+      "difficulty": 3,
+      "question": "Westphalia Barışı hangi yılda imzalanmıştır?",
+      "options": [
+        "1492",
+        "1648",
+        "1713",
+        "1815"
+      ],
+      "answerIndex": 1,
+      "explanation": "Westphalia antlaşmaları 1648'de imzalandı.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00029",
+      "category": "Coğrafya",
+      "difficulty": 1,
+      "question": "İtalya'nın başkenti hangisidir?",
+      "options": [
+        "Milano",
+        "Roma",
+        "Napoli",
+        "Torino"
+      ],
+      "answerIndex": 1,
+      "explanation": "İtalya'nın başkenti Roma'dır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00030",
+      "category": "Coğrafya",
+      "difficulty": 1,
+      "question": "Japonya'nın başkenti hangisidir?",
+      "options": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Nagoya"
+      ],
+      "answerIndex": 2,
+      "explanation": "Japonya'nın başkenti Tokyo'dur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00031",
+      "category": "Coğrafya",
+      "difficulty": 2,
+      "question": "Nil Nehri hangi kıtadadır?",
+      "options": [
+        "Asya",
+        "Afrika",
+        "Avrupa",
+        "Güney Amerika"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nil Nehri Afrika kıtasındadır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00032",
+      "category": "Coğrafya",
+      "difficulty": 2,
+      "question": "Everest Dağı hangi sıradağlar üzerindedir?",
+      "options": [
+        "Andlar",
+        "Alpler",
+        "Himalayalar",
+        "Kayalık Dağlar"
+      ],
+      "answerIndex": 2,
+      "explanation": "Everest Himalaya Dağları'ndadır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00033",
+      "category": "Coğrafya",
+      "difficulty": 3,
+      "question": "Dünyanın en derin bilinen okyanus çukuru hangisidir?",
+      "options": [
+        "Porto Riko Çukuru",
+        "Mariana Çukuru",
+        "Java Çukuru",
+        "Tonga Çukuru"
+      ],
+      "answerIndex": 1,
+      "explanation": "Challenger Deep bölgesini barındıran Mariana Çukuru en derin bilinen okyanus çukurudur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00034",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 1,
+      "question": "Dünya'nın doğal uydusu hangisidir?",
+      "options": [
+        "Mars",
+        "Ay",
+        "Venüs",
+        "Güneş"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ay Dünya'nın doğal uydusudur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00035",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 1,
+      "question": "İnsan vücudunda kanı pompalayan organ hangisidir?",
+      "options": [
+        "Akciğer",
+        "Böbrek",
+        "Kalp",
+        "Karaciğer"
+      ],
+      "answerIndex": 2,
+      "explanation": "Kalp kanı dolaşım sistemine pompalar.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00036",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 2,
+      "question": "Elektrik akımının SI birimi hangisidir?",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Amper",
+        "Watt"
+      ],
+      "answerIndex": 2,
+      "explanation": "Elektrik akımının SI birimi amperdir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00037",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 2,
+      "question": "Ses boşlukta neden yayılamaz?",
+      "options": [
+        "Işık olmadığı için",
+        "Maddesel ortam olmadığı için",
+        "Sıcaklık sabit olduğu için",
+        "Yerçekimi olmadığı için"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ses mekanik bir dalgadır ve yayılmak için maddesel ortam gerektirir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00038",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 3,
+      "question": "Bir atomun çekirdeğinde hangi parçacıklar bulunur?",
+      "options": [
+        "Proton ve nötron",
+        "Elektron ve foton",
+        "Elektron ve proton",
+        "Nötrino ve foton"
+      ],
+      "answerIndex": 0,
+      "explanation": "Atom çekirdeği proton ve nötronlardan oluşur; hidrojen-1 çekirdeği yalnızca proton içerir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00039",
+      "category": "Sanat ve edebiyat",
+      "difficulty": 1,
+      "question": "İstiklâl Marşı'nın şairi kimdir?",
+      "options": [
+        "Nazım Hikmet",
+        "Mehmet Âkif Ersoy",
+        "Yahya Kemal Beyatlı",
+        "Tevfik Fikret"
+      ],
+      "answerIndex": 1,
+      "explanation": "İstiklâl Marşı Mehmet Âkif Ersoy tarafından yazılmıştır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00040",
+      "category": "Sanat ve edebiyat",
+      "difficulty": 2,
+      "question": "Don Kişot romanının yazarı kimdir?",
+      "options": [
+        "Dante",
+        "Miguel de Cervantes",
+        "Victor Hugo",
+        "Charles Dickens"
+      ],
+      "answerIndex": 1,
+      "explanation": "Don Kişot Miguel de Cervantes'in eseridir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00041",
+      "category": "Sanat ve edebiyat",
+      "difficulty": 2,
+      "question": "Yıldızlı Gece tablosunu kim yapmıştır?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Edgar Degas"
+      ],
+      "answerIndex": 1,
+      "explanation": "Yıldızlı Gece Vincent van Gogh'un eseridir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00042",
+      "category": "Sanat ve edebiyat",
+      "difficulty": 3,
+      "question": "Suç ve Ceza romanının yazarı kimdir?",
+      "options": [
+        "Tolstoy",
+        "Dostoyevski",
+        "Gogol",
+        "Turgenyev"
+      ],
+      "answerIndex": 1,
+      "explanation": "Suç ve Ceza Fyodor Dostoyevski tarafından yazılmıştır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00043",
+      "category": "Spor",
+      "difficulty": 1,
+      "question": "Voleybolda bir takım sahada kaç oyuncuyla yer alır?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answerIndex": 1,
+      "explanation": "Salon voleybolunda her takım sahada altı oyuncuyla bulunur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00044",
+      "category": "Spor",
+      "difficulty": 2,
+      "question": "Teniste 40-40 eşitliğine ne ad verilir?",
+      "options": [
+        "Set puanı",
+        "Beraberlik (deuce)",
+        "Maç puanı",
+        "Tie-break"
+      ],
+      "answerIndex": 1,
+      "explanation": "Teniste 40-40 skoru deuce olarak adlandırılır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00045",
+      "category": "Spor",
+      "difficulty": 2,
+      "question": "Olimpiyat halkalarının sayısı kaçtır?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 1,
+      "explanation": "Olimpiyat simgesinde beş halka bulunur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00046",
+      "category": "Spor",
+      "difficulty": 3,
+      "question": "Maraton koşusunun resmî mesafesi kaç kilometredir?",
+      "options": [
+        "40,000",
+        "41,195",
+        "42,195",
+        "43,000"
+      ],
+      "answerIndex": 2,
+      "explanation": "Maratonun standart mesafesi 42,195 kilometredir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00047",
+      "category": "Matematik ve mantık",
+      "difficulty": 1,
+      "question": "9'un karesi kaçtır?",
+      "options": [
+        "18",
+        "72",
+        "81",
+        "90"
+      ],
+      "answerIndex": 2,
+      "explanation": "9 × 9 = 81.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00048",
+      "category": "Matematik ve mantık",
+      "difficulty": 1,
+      "question": "100'ün yüzde 25'i kaçtır?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "answerIndex": 1,
+      "explanation": "100 × 0,25 = 25.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00049",
+      "category": "Matematik ve mantık",
+      "difficulty": 2,
+      "question": "Bir dikdörtgenin kenarları 6 ve 8 cm ise alanı kaç cm² olur?",
+      "options": [
+        "14",
+        "28",
+        "42",
+        "48"
+      ],
+      "answerIndex": 3,
+      "explanation": "Dikdörtgen alanı 6 × 8 = 48 cm².",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00050",
+      "category": "Matematik ve mantık",
+      "difficulty": 2,
+      "question": "2, 4, 8, 16 dizisinin sonraki terimi kaçtır?",
+      "options": [
+        "20",
+        "24",
+        "30",
+        "32"
+      ],
+      "answerIndex": 3,
+      "explanation": "Her terim ikiyle çarpılır, sonraki terim 32'dir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00051",
+      "category": "Matematik ve mantık",
+      "difficulty": 3,
+      "question": "İki adil zar atıldığında toplamın 7 gelme olasılığı kaçtır?",
+      "options": [
+        "1/12",
+        "1/9",
+        "1/6",
+        "1/4"
+      ],
+      "answerIndex": 2,
+      "explanation": "36 eş olası sonuçtan altısının toplamı 7'dir; olasılık 6/36 = 1/6.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00052",
+      "category": "Doğa ve hayvanlar",
+      "difficulty": 1,
+      "question": "Arılar hangi ürünü üretmeleriyle bilinir?",
+      "options": [
+        "İpek",
+        "Bal",
+        "Süt",
+        "Yün"
+      ],
+      "answerIndex": 1,
+      "explanation": "Bal arıları çiçek nektarından bal üretir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00053",
+      "category": "Doğa ve hayvanlar",
+      "difficulty": 2,
+      "question": "Memelilerin yavrularını beslemek için ürettiği salgı hangisidir?",
+      "options": [
+        "Nektar",
+        "Süt",
+        "Safra",
+        "Reçine"
+      ],
+      "answerIndex": 1,
+      "explanation": "Memeliler süt bezlerinden süt üretir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00054",
+      "category": "Doğa ve hayvanlar",
+      "difficulty": 2,
+      "question": "Kurbağalar hangi omurgalı grubuna girer?",
+      "options": [
+        "Sürüngenler",
+        "İki yaşamlılar",
+        "Kuşlar",
+        "Memeliler"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kurbağalar amfibiler yani iki yaşamlılardır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00055",
+      "category": "Doğa ve hayvanlar",
+      "difficulty": 3,
+      "question": "Dünyanın en büyük yaşayan hayvan türü hangisidir?",
+      "options": [
+        "Afrika fili",
+        "Mavi balina",
+        "Balina köpekbalığı",
+        "Zürafa"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mavi balina yaşayan en büyük hayvan türüdür.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00056",
+      "category": "Türkiye ve dünya kültürü",
+      "difficulty": 1,
+      "question": "Mevlânâ Müzesi hangi şehirdedir?",
+      "options": [
+        "Konya",
+        "Kayseri",
+        "Sivas",
+        "Eskişehir"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mevlânâ Müzesi Konya'dadır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00057",
+      "category": "Türkiye ve dünya kültürü",
+      "difficulty": 2,
+      "question": "UNESCO'nun açılımındaki E harfi hangi kavramı temsil eder?",
+      "options": [
+        "Ekonomi",
+        "Eğitim",
+        "Enerji",
+        "Ekoloji"
+      ],
+      "answerIndex": 1,
+      "explanation": "UNESCO adındaki E, Education yani eğitimi temsil eder.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00058",
+      "category": "Türkiye ve dünya kültürü",
+      "difficulty": 2,
+      "question": "Tac Mahal hangi ülkededir?",
+      "options": [
+        "Pakistan",
+        "Hindistan",
+        "Nepal",
+        "Bangladeş"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tac Mahal Hindistan'ın Agra kentindedir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00059",
+      "category": "Karışık özel sorular",
+      "difficulty": 2,
+      "question": "Roma rakamıyla XL hangi sayıyı gösterir?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "answerIndex": 1,
+      "explanation": "XL, 50'den 10 çıkarılarak 40'ı gösterir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00060",
+      "category": "Karışık özel sorular",
+      "difficulty": 3,
+      "question": "Onaltılık sayı sisteminde F rakamının onluk karşılığı kaçtır?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answerIndex": 2,
+      "explanation": "Onaltılık sistemde A=10, B=11, ... F=15'tir.",
+      "status": "draft"
     }
   ]
 }

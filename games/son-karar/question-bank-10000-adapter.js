@@ -12,7 +12,8 @@ for(const q of source){
  const d=Number(q.difficulty);
  if(![1,2,3].includes(d))continue;
  const n=Number(q.id.match(/\d+$/)?.[0]||0);
- const level=d===1?1:d===2?(n%2?2:3):(n%2?4:5);
+ const mediumIds=new Set([4,10,11,13,19,20,23,26,27,32,36,37,40,41,42,46,49,56,59,61,62,63,67,68,69,70,72,73,74,75,77,79,80,81,82,83,84,86,88,89,92,93,94,96,98,101,102,105,107,111,112,117,119,121,125,129,130]);
+ const level=mediumIds.has(n)?(n%2?2:3):d===1?1:d===2?(n%2?2:3):(n%2?4:5);
  root.QUESTION_BANK.push({
    id:'ortak-'+q.id,factID:q.factKey||q.id,
    question:q.question,options:q.options.slice(),answer:q.answerIndex,

@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "goal": 10000,
+  "reviewedCount": 0,
+  "questions": [
+    {
+      "id": "QA-00001",
+      "category": "Genel kültür",
+      "difficulty": 1,
+      "question": "Bir haftada kaç gün vardır?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bir hafta yedi günden oluşur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00002",
+      "category": "Genel kültür",
+      "difficulty": 2,
+      "question": "Satrançta oyun başlangıcında her oyuncunun kaç taşı vardır?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "answerIndex": 2,
+      "explanation": "Her oyuncu 8 piyon ve 8 diğer taşla başlar.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00003",
+      "category": "Tarih",
+      "difficulty": 1,
+      "question": "Türkiye Cumhuriyeti hangi yıl ilan edildi?",
+      "options": [
+        "1920",
+        "1921",
+        "1923",
+        "1924"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cumhuriyet 29 Ekim 1923'te ilan edildi.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00004",
+      "category": "Tarih",
+      "difficulty": 2,
+      "question": "İstanbul'un fethi hangi yılda gerçekleşti?",
+      "options": [
+        "1451",
+        "1453",
+        "1473",
+        "1492"
+      ],
+      "answerIndex": 1,
+      "explanation": "İstanbul 29 Mayıs 1453'te fethedildi.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00005",
+      "category": "Tarih",
+      "difficulty": 3,
+      "question": "Magna Carta hangi ülkede 1215 yılında kabul edilmiştir?",
+      "options": [
+        "Fransa",
+        "İngiltere",
+        "İspanya",
+        "İtalya"
+      ],
+      "answerIndex": 1,
+      "explanation": "Magna Carta 1215 yılında İngiltere'de kabul edildi.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00006",
+      "category": "Coğrafya",
+      "difficulty": 1,
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": [
+        "İstanbul",
+        "İzmir",
+        "Ankara",
+        "Bursa"
+      ],
+      "answerIndex": 2,
+      "explanation": "Ankara Türkiye'nin başkentidir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00007",
+      "category": "Coğrafya",
+      "difficulty": 2,
+      "question": "Dünyanın yüzölçümü bakımından en büyük okyanusu hangisidir?",
+      "options": [
+        "Atlas",
+        "Hint",
+        "Arktik",
+        "Pasifik"
+      ],
+      "answerIndex": 3,
+      "explanation": "Pasifik Okyanusu yüzölçümü bakımından en büyüğüdür.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00008",
+      "category": "Coğrafya",
+      "difficulty": 3,
+      "question": "Ekvator çizgisi Dünya'yı hangi iki yarımküreye ayırır?",
+      "options": [
+        "Doğu ve Batı",
+        "Kuzey ve Güney",
+        "Kara ve Deniz",
+        "Yaz ve Kış"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ekvator Dünya'yı Kuzey ve Güney yarımkürelerine ayırır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00009",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 1,
+      "question": "Suyun kimyasal formülü hangisidir?",
+      "options": [
+        "CO₂",
+        "H₂O",
+        "O₂",
+        "NaCl"
+      ],
+      "answerIndex": 1,
+      "explanation": "Su iki hidrojen ve bir oksijen atomundan oluşur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00010",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 2,
+      "question": "Işığın boşluktaki hızı yaklaşık kaç kilometre/saniyedir?",
+      "options": [
+        "30.000",
+        "150.000",
+        "300.000",
+        "3.000.000"
+      ],
+      "answerIndex": 2,
+      "explanation": "Işığın boşluktaki hızı yaklaşık 299.792 km/s'dir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00011",
+      "category": "Bilim ve teknoloji",
+      "difficulty": 3,
+      "question": "DNA'nın çift sarmal yapısında adenin hangi bazla eşleşir?",
+      "options": [
+        "Guanin",
+        "Sitozin",
+        "Timin",
+        "Urasil"
+      ],
+      "answerIndex": 2,
+      "explanation": "DNA'da adenin timin ile eşleşir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00012",
+      "category": "Sanat ve edebiyat",
+      "difficulty": 1,
+      "question": "Mona Lisa tablosunun ressamı kimdir?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Botticelli"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mona Lisa Leonardo da Vinci tarafından yapılmıştır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00013",
+      "category": "Sanat ve edebiyat",
+      "difficulty": 2,
+      "question": "Kürk Mantolu Madonna romanının yazarı kimdir?",
+      "options": [
+        "Sabahattin Ali",
+        "Yaşar Kemal",
+        "Orhan Kemal",
+        "Reşat Nuri Güntekin"
+      ],
+      "answerIndex": 0,
+      "explanation": "Romanın yazarı Sabahattin Ali'dir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00014",
+      "category": "Spor",
+      "difficulty": 1,
+      "question": "Futbolda normal oyun süresi, uzatmalar hariç, kaç dakikadır?",
+      "options": [
+        "60",
+        "80",
+        "90",
+        "100"
+      ],
+      "answerIndex": 2,
+      "explanation": "Normal futbol maçı iki 45 dakikalık devreden oluşur.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00015",
+      "category": "Spor",
+      "difficulty": 2,
+      "question": "Basketbolda serbest atıştan kazanılan sayı kaçtır?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 0,
+      "explanation": "Başarılı bir serbest atış bir sayıdır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00016",
+      "category": "Matematik ve mantık",
+      "difficulty": 1,
+      "question": "12 × 8 işleminin sonucu kaçtır?",
+      "options": [
+        "84",
+        "92",
+        "96",
+        "108"
+      ],
+      "answerIndex": 2,
+      "explanation": "12 ile 8'in çarpımı 96'dır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00017",
+      "category": "Matematik ve mantık",
+      "difficulty": 2,
+      "question": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+      "options": [
+        "90",
+        "180",
+        "270",
+        "360"
+      ],
+      "answerIndex": 1,
+      "explanation": "Öklid geometrisinde üçgenin iç açıları toplamı 180 derecedir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00018",
+      "category": "Doğa ve hayvanlar",
+      "difficulty": 1,
+      "question": "Fotosentez sırasında bitkiler atmosferden hangi gazı alır?",
+      "options": [
+        "Oksijen",
+        "Azot",
+        "Karbondioksit",
+        "Helyum"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bitkiler fotosentezde karbondioksiti kullanır.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00019",
+      "category": "Türkiye ve dünya kültürü",
+      "difficulty": 2,
+      "question": "Kapadokya'daki peribacaları ağırlıklı olarak hangi süreçlerle şekillenmiştir?",
+      "options": [
+        "Volkanik tüfün aşınması",
+        "Mercan birikimi",
+        "Buzul çökmesi",
+        "Deniz kabuğu birikimi"
+      ],
+      "answerIndex": 0,
+      "explanation": "Volkanik tüf tabakaları su ve rüzgâr aşındırmasıyla şekillenmiştir.",
+      "status": "draft"
+    },
+    {
+      "id": "QA-00020",
+      "category": "Karışık özel sorular",
+      "difficulty": 3,
+      "question": "İkili sayı sisteminde 1010 sayısının onluk sistemdeki karşılığı kaçtır?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "answerIndex": 2,
+      "explanation": "1010₂ = 8 + 2 = 10'dur.",
+      "status": "draft"
+    }
+  ]
+}

@@ -44,19 +44,19 @@ new GLTFLoader().load('./assets/sam.glb',gltf=>{
    if(/hips|pelvis/i.test(o.name))pelvis=o;
  });
  for(const o of [shoulder,elbow,spine,headBone,pelvis])if(o)restPose[o.uuid]=o.quaternion.clone();
- // Athletic, long-haired contestant styling. Not an exact facial likeness.
+ // Short-haired athletic contestant styling from user reference. Not an exact facial likeness.
  figure.traverse(o=>{if(!o.isMesh||!o.material)return; const n=o.name.toLowerCase();
    if(/shirt|top|tshirt|body_cloth|uppercloth/.test(n)){o.material=o.material.clone();o.material.color.set('#292e33');}
    if(/pant|short|trouser/.test(n)){o.material=o.material.clone();o.material.color.set('#b82d27');}
  });
  if(headBone){
    const darkHair=new T.MeshStandardMaterial({color:'#18120f',roughness:.98,side:T.DoubleSide});
-   const hairCap=new T.Mesh(new T.SphereGeometry(.115,14,10,0,Math.PI*2,0,Math.PI*.53),darkHair);
+   const hairCap=new T.Mesh(new T.SphereGeometry(.115,20,14,0,Math.PI*2,0,Math.PI*.53),darkHair);
    hairCap.position.set(0,.085,0);headBone.add(hairCap);
-   for(let i=0;i<11;i++){
-     const theta=(i/10)*Math.PI*1.25+.85;
-     const strand=new T.Mesh(new T.CapsuleGeometry(.016,.22+(i%3)*.05,4,6),darkHair);
-     strand.position.set(Math.cos(theta)*.095,-.13,Math.sin(theta)*.085);
+   for(let i=0;i<5;i++){
+     const theta=(i/5)*Math.PI*1.25+.85;
+     const strand=new T.Mesh(new T.CapsuleGeometry(.012,.025+(i%3)*.008,4,6),darkHair);
+     strand.position.set(Math.cos(theta)*.095,.075,Math.sin(theta)*.085);
      strand.rotation.z=.12*Math.sin(i*3);headBone.add(strand);hairStrands.push({strand,i});
    }
    const beard=new T.Mesh(new T.SphereGeometry(.087,12,8),darkHair);
@@ -72,7 +72,7 @@ const ballMaterial=mat('#e6d2a5',.55);const lineMaterial=mat('#bd6a38');
 function makeBall(){let b=ballMesh(.16,ballMaterial,0,0,0);for(let i=0;i<3;i++){let ring=mesh(new T.TorusGeometry(.161,.008,5,48),lineMaterial,0,0,0,b);ring.rotation.set(i*.95,i*.8,0)}return b}
 const crosshair=(()=>{const group=new T.Group();const ring=mesh(new T.TorusGeometry(.36,.022,6,48),new T.MeshBasicMaterial({color:'#f8df90'}),0,0,0,group);return group})();scene.add(crosshair);
 function announce(t){msg.textContent=t;msg.classList.add('on');noticeUntil=performance.now()+1400}function update(){score.textContent=`${hits}/5 HEDEF · ${shots} TOP`;powerText.textContent=`ATIŞ GÜCÜ %${power.value}`;shoot.disabled=!!flight||shots===0||hits===5;status.textContent=hits===5?'KAZANDIN':shots===0?'TOPLAR BİTTİ':flight?'TOP HAVADA':'NİŞAN AL'}
-function reset(){shots=8;hits=0;flight=null;throwTime=0;targets.forEach(t=>{t.hit=false;t.fall=0;t.group.rotation.x=0;t.group.visible=true});if(ball){scene.remove(ball);ball=null}announce('FİNAL ATIŞI BAŞLIYOR');update()}
+function reset(){shots=8;hits=0;flight=null;throwTime=0;targets.forEach(t=>{t.hit=false;t.fall=0;t.group.rotation.x=0;t.group.position.y=1.86;t.group.visible=true});if(ball){scene.remove(ball);ball=null}announce('FİNAL ATIŞI BAŞLIYOR');update()}
 function fire(){if(flight||shots<=0||hits===5)return;shots--;const a=+angle.value*Math.PI/180,p=+power.value/100;const origin=new T.Vector3(-.38,1.65,2.6);const dest=new T.Vector3(Math.tan(a)*14.3,1.86,-17.6);const time=.88+(.98-p)*.55;const vel=dest.clone().sub(origin).divideScalar(time);vel.y+=.5*9.8*time;ball=makeBall();ball.position.copy(origin);flight={origin,vel,t:0,time,hit:false};throwTime=.55;update()}
 function resize(){const w=holder.clientWidth,h=holder.clientHeight||w*9/16;renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix()}new ResizeObserver(resize).observe(holder);resize();
 function tick(){requestAnimationFrame(tick);const dt=Math.min(clock.getDelta(),.04);const now=clock.elapsedTime;if(noticeUntil&&performance.now()>noticeUntil){msg.classList.remove('on');noticeUntil=0}const a=+angle.value*Math.PI/180;character.rotation.y=-a*.42;armPivot.rotation.x=-.35;if(throwTime>0){throwTime=Math.max(0,throwTime-dt);armPivot.rotation.x=-1.8*Math.sin((1-throwTime/.55)*Math.PI)-.35;character.rotation.z=.065*Math.sin((1-throwTime/.55)*Math.PI)}else character.rotation.z*=.9;
@@ -93,5 +93,5 @@ if(athlete){
 const targetX=Math.tan(a)*14.3;crosshair.position.set(targetX,1.86,-17.35);crosshair.rotation.y=0;crosshair.visible=!flight;
 if(flight){flight.t+=dt;const t=flight.t;ball.position.copy(flight.origin).addScaledVector(flight.vel,t);ball.position.y-=4.9*t*t;ball.rotation.x+=dt*14;ball.rotation.z+=dt*7;if(ball.position.z<=-17.35||ball.position.y<.15){let match=targets.find(q=>!q.hit&&Math.abs(q.x-ball.position.x)<.46&&Math.abs(1.86-ball.position.y)<.53&&ball.position.z<-16.9);if(match){match.hit=true;hits++;announce('İSABET!');shake=.15}else announce('ISKA!');scene.remove(ball);ball=null;flight=null;update();if(hits===5)announce('TÜM HEDEFLER DEVİRİLDİ!');else if(shots===0)announce('TOPLAR BİTTİ — TEKRAR DENE') }}
 targets.forEach(q=>{if(q.hit){q.fall=Math.min(1,q.fall+dt*2.6);q.group.rotation.x=-q.fall*1.52;q.group.position.y=1.86-q.fall*.35}});
-const desired=camMode===0?new T.Vector3(-.3,2.55,9.8):new T.Vector3(5.8,3.2,9.5);camera.position.lerp(desired,1-Math.exp(-dt*4));const look=new T.Vector3(camMode===0?0:-.5,1.65,-11);camera.lookAt(look);if(shake>0){camera.position.x+=(Math.random()-.5)*shake;shake=Math.max(0,shake-dt)}renderer.render(scene,camera)}
+const desired=camMode===0?new T.Vector3(-.3,3.2,12.5):new T.Vector3(6.8,3.5,11.5);camera.position.lerp(desired,1-Math.exp(-dt*4));const look=new T.Vector3(camMode===0?0:-.5,1.65,-11);camera.lookAt(look);if(shake>0){camera.position.x+=(Math.random()-.5)*shake;shake=Math.max(0,shake-dt)}renderer.render(scene,camera)}
 $('shoot').onclick=fire;$('reset').onclick=reset;$('camera').onclick=()=>camMode=1-camMode;power.oninput=update;window.addEventListener('keydown',e=>{if(e.code==='Space'){e.preventDefault();fire()}if(e.code==='ArrowLeft')angle.value=clamp(+angle.value-2,-24,24);if(e.code==='ArrowRight')angle.value=clamp(+angle.value+2,-24,24);if(e.code==='ArrowUp')power.value=clamp(+power.value+3,35,100);if(e.code==='ArrowDown')power.value=clamp(+power.value-3,35,100);update()});let dragging=false;renderer.domElement.addEventListener('pointerdown',e=>{dragging=true;renderer.domElement.setPointerCapture(e.pointerId)});renderer.domElement.addEventListener('pointerup',()=>dragging=false);renderer.domElement.addEventListener('pointermove',e=>{if(!dragging)return;const r=renderer.domElement.getBoundingClientRect();angle.value=Math.round(clamp(((e.clientX-r.left)/r.width-.5)*48,-24,24))});reset();tick();

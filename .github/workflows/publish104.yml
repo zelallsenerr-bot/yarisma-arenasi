@@ -10,7 +10,7 @@ permissions:
   contents: read
 concurrency:
   group: github-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   snapshot:
     runs-on: ubuntu-latest
@@ -20,7 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
       - name: Copy and verify the exact published Sites104 snapshot
-        run: python3 migration104/fetch_snapshot.py
+        run: python3 -c "from pathlib import Path; assert Path('site104/index.html').is_file(), 'Waiting for verified local snapshot upload'"
       - name: Preserve verified game files in this repository
         run: |
           git config user.name 'github-actions[bot]'

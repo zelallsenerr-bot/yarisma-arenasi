@@ -1,0 +1,2 @@
+/* Çeşitli konulardan yeni sorular, ortak Şahane Pazar havuzuna eklenir. */
+(()=>{'use strict';for(const [i,[category,rows]] of (window.FiftyExtra454||[]).entries())for(const [j,[question,...options]] of rows.entries()){const id='sunday459-'+i+'-'+j;window.SundayBank399.push({id,factID:id,question,options,answer:0,difficulty:1+Math.floor(j/3),category,topic:category,explanation:'Doğru cevap: '+options[0]+'.'})}})();

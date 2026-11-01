@@ -1,0 +1,10 @@
+SÜRÜM 515 — EYVAH DÜŞÜYORUM
+- Seçim sahnesinde 10 rakip iki ayrı sıraya yerleştirildi; numaralar ve isimler için alan ayrıldı.
+- Ana yarışmacı %50 merkezine alındı; sunucu ayrı bir alana taşındı.
+- Rakip gövdelerine tıklamak da ilgili seçim düğmesini çalıştırır.
+- Düşme sahnesinde sunucuya kapak çizilmez. Sunucu ile elenecek kişi yan yana gösterilir.
+- Sohbet bitene kadar kapak kapalıdır; sonra 0,22 saniyede açılır.
+- Diğer oyunların ve ortak dosyaların tamamı orijinal ZIP ile byte düzeyinde aynıdır.
+- Tarayıcıda 3 ve 6 numaralı seçimler, sohbet/düşme akışı kontrol edildi.
+NETLIFY: Bu ZIP açıldığında index.html doğrudan kökte bulunur. Netlify mevcut site Deploys alanına ZIP'i yükleyin. Klasör istenirse ZIP'i açıp index.html'nin bulunduğu klasörü sürükleyin.
+Geliştirme yardımcıları ve önceki proje notları _proje_kaynak klasöründe korunmuştur.

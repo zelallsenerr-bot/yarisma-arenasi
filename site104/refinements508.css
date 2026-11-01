@@ -1,0 +1,19 @@
+/* Local labels keep their own furniture anchors; no common name strip. */
+.portrait35:has(svg){background-image:none!important}.stage435 [data-eliminated508="true"] .human435{visibility:hidden!important}.word-hand466{display:none!important}.word-platform-v67 .word-table-v67{overflow:visible}.joker-host-press508{animation:hostPress508 .55s ease-in-out!important}@keyframes hostPress508{45%{transform:translateY(3px) rotate(-1deg)}100%{transform:none}}.stage435 [data-guest508] .lm-chair{z-index:-1}
+
+.reno-tool499{display:block;width:clamp(95px,18vw,180px);height:140px;pointer-events:none}.reno-tool499 svg{display:block;width:100%;height:100%}.reno-zone499{overflow:hidden;background-image:linear-gradient(#ffffff22,#3b2d2155),url(humans435/setevim-sahane.webp);background-size:cover}.reno-zone499.done499{filter:saturate(1.1)}
+.prank-scene508{position:relative;min-height:230px;border:2px solid #ba9463;border-radius:12px;padding:25px;background:linear-gradient(#10233533,#102335cc),url(humans435/setkizma-kazan.webp) center/cover}.prank-targets508,.prank-items508{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin:20px 0}.prank-target508{min-width:90px;min-height:72px;border:2px dashed #f1d79b!important;background:#11273acc!important;color:white!important}.prank-target508.done508{background:#145840!important;border-style:solid!important}.prank-items508 button{cursor:grab;min-width:90px}.prank-items508 [aria-pressed=true]{outline:3px solid #ffdf7b}.prank-noise508{padding:9px;background:#171c2bdc;border-radius:7px;color:#f4dabe}.rhyme508 blockquote{padding:18px;border-left:4px solid #e6c573;background:#152e48;font-size:clamp(17px,2vw,24px)}.rhyme508 input{width:100%;box-sizing:border-box;margin:15px 0;padding:15px;font-size:18px}
+
+
+.stage435 .lm-guest[data-guest508]>svg.guest-body508{width:auto!important;max-width:none!important;height:100%!important;left:50%!important;transform:translateX(-50%);inset:auto!important;bottom:0!important}.stage435 .lm-guest[data-guest508]{width:32%!important;height:62%!important;top:23%!important}.stage435 .lm-guest[data-guest508]>.lm-chair{inset:30% 0 0!important}
+.stage435 .lm-guest[data-guest508]>svg.guest-body508{inset:0!important;left:0!important;bottom:0!important;width:100%!important;height:100%!important;transform:none!important}
+
+.stage435 .kp-out :is(.human435,.portrait35){visibility:hidden!important}.stage435 [data-eliminated508="true"] :is(svg.human435,.portrait35,.standing-body341){visibility:hidden!important}
+.yd-seat[data-eating508=true]{filter:brightness(1.025)}.yd-seat[data-eating508=true] svg.human435{animation:none!important}
+:is(.lucky-platform-v67,.first-platform-v67).stage435{padding-top:52px!important}:is(.lucky-platform-v67,.first-platform-v67)>h2{top:12px!important;z-index:100!important;line-height:1.2!important}
+
+.survivor-platform-v67 .sv-body508>svg.survivor-body508{display:block!important;position:absolute!important;inset:0!important;width:100%!important;height:88%!important;transform:none!important;overflow:hidden}.survivor-platform-v67 .sv-out{display:none!important}
+
+.task-prop508{display:block;width:110px;height:74px;max-width:100%;margin:auto;pointer-events:none;overflow:hidden}.prank-items508 button{min-width:100px}.prank-target508.done508{min-height:110px}
+
+.scene-names508{display:none!important}

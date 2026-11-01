@@ -1,0 +1,59 @@
+{
+  "asset": "games/donen-koltuklar/assets/chair-turn511.webp",
+  "size": [
+    1536,
+    1024
+  ],
+  "views": {
+    "front": {
+      "rect": [
+        227,
+        15,
+        392,
+        479
+      ]
+    },
+    "frontQuarter": {
+      "rect": [
+        898,
+        14,
+        395,
+        481
+      ]
+    },
+    "back": {
+      "rect": [
+        221,
+        512,
+        425,
+        489
+      ]
+    },
+    "backQuarter": {
+      "rect": [
+        897,
+        514,
+        409,
+        488
+      ]
+    }
+  },
+  "anchors": {
+    "front": {
+      "seat_center_local": [
+        197,
+        315
+      ],
+      "buzzer_center_local": [
+        50,
+        198
+      ],
+      "seat_back_top_local": [
+        197,
+        86
+      ]
+    }
+  },
+  "buzzer_side": "sitter-right; image-left in front view",
+  "limitations": "Four static angles; not an exact measured proprietary chair. Alpha outside silhouettes predominantly zero with faint <=4/255 antialias speckles; rectangles exclude those speckles. All views complete including bases."
+}

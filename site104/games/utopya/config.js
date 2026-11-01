@@ -1,0 +1,1 @@
+window.GAME318={"name": "Ütopya", "rules": "15 yetişkinle ortak yaşam kur. Bahçe, ahır, atölye ve pazarı yönet. Üretim, bütçe ve oylamayla topluluğunu yaşat. Mekân seç, üret, görev dağıt ve günü bitir. Yedi günlük mobil aylarda oylamaya katıl."};

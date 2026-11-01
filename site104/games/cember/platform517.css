@@ -1,0 +1,8 @@
+/* The full marked circle is red, including the rear half. */
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-ring{background:radial-gradient(ellipse,#da2447,#b51336)!important;border:5px solid #ff364e!important;box-shadow:0 0 0 2px #9f132b,0 0 16px #ff394f,inset 0 0 15px #ff8794!important;z-index:2!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-floor{background:#b51336!important;border-color:#ed2a44!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person{width:10%!important;height:25%!important;z-index:5!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person.cr-floor517{width:14%!important;height:16%!important;margin-left:-2%;margin-top:calc(clamp(380px,49vw,580px) * .09)!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person>svg{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;transform:none!important;animation:none!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person>strong{top:100%!important;bottom:auto!important;z-index:10!important;font-size:clamp(7px,.8vw,10px)!important}
+html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person:before,html[data-arena-game="cember"] body #app .cember-platform-v67 .cr-person:after{content:none!important;display:none!important}

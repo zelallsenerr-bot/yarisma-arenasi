@@ -1,0 +1,28 @@
+body[data-game="takip"] #app>.takip-platform-v67{position:relative;isolation:isolate;height:430px;margin:14px 0 24px;overflow:hidden;border:2px solid #53c5ff;border-radius:22px;background:repeating-linear-gradient(90deg,transparent 0 35px,#a6eaff66 36px 38px,transparent 40px 65px),linear-gradient(#020819,#071e74 54%,#03091b 55%);box-shadow:inset 0 0 55px #020716,0 10px 30px #0006}
+.takip-platform-v67:before{content:'';position:absolute;z-index:-1;left:4%;right:4%;top:52%;bottom:5%;background:linear-gradient(155deg,#1559d2,#071344 55%,#1424a4);clip-path:polygon(0 0,100% 0,80% 100%,20% 100%);border-bottom:7px solid #51c9ff}
+.takip-platform-v67>h2{position:absolute;left:42%;top:10px;color:#fff;letter-spacing:6px;font-size:25px;margin:0;text-shadow:0 0 20px #57baff}
+.platform-team-v67{position:absolute;left:3%;top:34%;width:32%;display:flex;justify-content:space-around;gap:5px;padding:12px 4px 32px;border:3px solid #4ee3ff;border-top:9px solid #d62d67;border-radius:12px;background:linear-gradient(#0b215e,#1828b4);box-shadow:0 15px 0 #060e30}
+.platform-pod-v67{min-width:0;flex:1;text-align:center;color:#fff}
+.platform-pod-v67 .portrait35,.platform-center-v67 .portrait35{display:block!important;width:65px!important;height:65px!important;min-width:0!important;border-radius:50%!important;border:3px solid #e3f3ff;margin:0 auto 9px!important;overflow:hidden;box-shadow:0 0 15px #3ed0ff;background:#102652}
+.platform-pod-v67 strong{display:block;font-size:12px;overflow-wrap:anywhere}
+.platform-caught-v67{opacity:.4;filter:grayscale(1)}
+.platform-center-v67{position:absolute;left:38%;top:48%;width:110px;text-align:center;padding-bottom:13px;color:#fff}
+.platform-center-v67:after{content:'';position:absolute;z-index:-1;left:-5px;right:-5px;bottom:0;height:35px;border:5px solid #a3eaff;border-radius:50%;background:#081a39;box-shadow:0 7px 0 #244a97}
+.platform-center-v67 .portrait35{width:80px!important;height:80px!important}
+.platform-center-v67 strong{font-size:12px;display:block;background:#071b46;border-radius:8px}
+.platform-host-v67{position:absolute;left:53%;top:34%;width:105px;text-align:center;color:#fff}
+.platform-host-v67>svg{display:block;width:90px;height:130px;margin:auto;border:2px solid #9ad6ff;border-radius:16px;background:#08172d}
+.platform-host-v67 strong,.platform-hunter-v67 strong{display:block;font-size:11px;background:#061538;border-radius:6px;line-height:1.5}
+.platform-host-v67 small,.platform-hunter-v67 small{display:block;font-size:9px;letter-spacing:1px;color:#a6e7ff}
+.platform-hunter-v67{position:absolute;right:3%;top:28%;width:23%;max-width:160px;border-bottom:14px solid #080d29;background:#102246;border-radius:20px;text-align:center}
+.platform-hunter-v67 svg{display:block;width:100%;height:160px;border:2px solid #7abaff;border-radius:18px}
+@media(max-width:600px){body[data-game="takip"] #app>.takip-platform-v67{height:390px}.takip-platform-v67>h2{left:37%;font-size:20px}.platform-team-v67{left:2%;width:38%;top:25%;padding:9px 2px 20px}.platform-pod-v67 .portrait35{width:32px!important;height:32px!important;border-width:2px}.platform-pod-v67 strong{font-size:9px}.platform-center-v67{left:27%;top:59%;width:85px}.platform-center-v67 .portrait35{width:56px!important;height:56px!important}.platform-host-v67{left:48%;top:43%;width:85px}.platform-host-v67>svg{width:65px;height:100px}.platform-host-v67 strong{font-size:9px}.platform-hunter-v67{right:2%;top:21%;width:24%}.platform-hunter-v67 svg{height:120px}.platform-hunter-v67 strong{font-size:10px}}
+
+/* Revision 2: shared team desk on the left, standing host in the centre. */
+.platform-team-v67{left:4%;top:31%;width:34%;padding:12px 6px 42px;border-radius:5px;transform:perspective(650px) rotateY(9deg);border-left-width:6px;border-right-width:6px}
+.platform-pod-v67 .portrait35{width:70px!important;height:85px!important;border-radius:22px 22px 2px 2px!important;border:0;box-shadow:none;margin-bottom:8px!important}
+.platform-host-v67{left:47%;top:30%;width:110px}
+.platform-host-v67>svg{height:165px;width:100px;border:0;border-radius:24px 24px 3px 3px;background:transparent}
+.platform-hunter-v67{right:3%;top:34%;width:25%;max-width:180px;border-left:8px solid #1c346a;border-right:8px solid #172a55;border-radius:35px 35px 10px 10px;box-shadow:0 14px 0 #050b1d}
+.platform-hunter-v67 svg{height:180px;border-radius:25px 25px 8px 8px}
+@media(max-width:600px){.platform-team-v67{left:3%;top:29%;width:38%;padding:9px 3px 28px}.platform-pod-v67 .portrait35{width:31px!important;height:43px!important;border-radius:12px 12px 2px 2px!important}.platform-host-v67{left:44%;top:40%;width:76px}.platform-host-v67>svg{height:130px;width:70px}.platform-hunter-v67{right:2%;top:28%;width:25%;border-left-width:4px;border-right-width:4px}.platform-hunter-v67 svg{height:145px}}

@@ -1,0 +1,6 @@
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-player-v67{left:49%!important;width:11%!important;height:35%!important;bottom:11%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-rival435{left:55%!important;width:11%!important;height:35%!important;bottom:11%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-host-v67{left:40%!important;width:12%!important;height:35%!important;bottom:12%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-desk-v67{left:48%!important;right:33%!important;top:65%!important;height:7%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 :is(.gonder-player-v67,.gonder-rival435)>strong{max-width:95%!important;font-size:clamp(6px,.9vw,10px)!important;line-height:1.1!important;padding:3px!important;min-height:22px}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-rival435>strong{top:110%!important}

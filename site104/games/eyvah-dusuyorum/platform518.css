@@ -1,0 +1,12 @@
+/* Reflexes and gravity share the same floor opening; the upper body and legs react independently. */
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516{width:calc(11% * var(--host-scale518,1));height:calc(var(--person516) * var(--host-scale518,1))}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong{font-size:clamp(8px,.9vw,11px);box-sizing:border-box}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .drop-target516 .standing-body435{transform:translate(var(--fall-drift518,0%),var(--drop516,0%)) rotate(var(--fall-tilt518,0deg))!important;transform-origin:50% 62%;filter:blur(var(--fall-blur518,0px))}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .drop-target516 .standing-person341{overflow:hidden!important;clip-path:inset(-30% -40% -1% -40%)}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .falling516 svg.human435{overflow:visible!important;animation:none!important;rotate:0deg!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .fall-joint518{transform-box:view-box;transition:none;animation:none!important}
+body[data-game="eyvah-dusuyorum"] #app .oval516.dropping516 .drop-target516 .human435{animation:none!important;rotate:0deg!important}
+@media(max-width:650px){body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516{width:calc(14% * var(--host-scale518,1))}}
+@media(prefers-reduced-motion:reduce){body[data-game="eyvah-dusuyorum"] #app .oval516 .drop-target516 .standing-body435{filter:none!important}}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong{left:var(--host-name-left518,-12%)}
+body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong{left:var(--host-name-left518,0px);width:100%}

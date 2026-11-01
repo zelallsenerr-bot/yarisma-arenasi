@@ -1,0 +1,18 @@
+/* Dedicated programme-logo studio covers, matching the selected Vitrin reference. */
+.vitrine-card323 .tile-art:has(.programme-thumb314){position:relative;isolation:isolate;background:#09071f!important;aspect-ratio:16/9;height:auto!important;overflow:hidden;border-bottom:1px solid #8461b5}
+.vitrine-card323 .programme-thumb314{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;border-radius:0;background:#09071f}
+.vitrine-card323 .tile-art:after{display:none!important}
+.vitrine-card323{position:relative;overflow:hidden;border:1px solid #8762bd;background:#100b2c;border-radius:15px}
+.vitrine-card323 .favorite{z-index:3!important;right:7px;top:7px;box-shadow:0 2px 8px #0008}
+.vitrine-card323 .card-body{display:flex;flex-direction:column;align-items:stretch;gap:12px;padding:13px;background:linear-gradient(180deg,#181037,#0e0928);min-height:132px}
+.vitrine-card323 h3{font:700 16px/1.3 system-ui;color:#fff!important;text-shadow:0 1px 4px #0008;min-height:2.6em;margin:0;display:flex;align-items:center}
+.vitrine-card323 .card-actions{display:contents}
+.vitrine-card323 .play{display:flex;align-items:center;justify-content:center;gap:12px;width:100%!important;height:auto;min-width:0;min-height:48px;padding:12px 16px!important;border-radius:12px;border:1px solid #ffe4a0;background:linear-gradient(135deg,#ffe6a7,#efbd55);color:#24152f;box-shadow:0 3px 0 #a76f24,0 6px 18px #0005;font-size:16px;font-weight:900;cursor:pointer;touch-action:manipulation}
+.vitrine-card323 .play span{font-size:16px;margin:0}
+.vitrine-card323 .play .play-label327{position:static;width:auto;height:auto;overflow:visible;clip-path:none;letter-spacing:.035em;font-size:15px;line-height:1.2}
+.vitrine-card323 .play:hover{background:linear-gradient(135deg,#fff2cb,#ffd778);filter:brightness(1.04)}
+.vitrine-card323 .play:active{transform:translateY(2px);box-shadow:0 1px 0 #a76f24}
+.vitrine-card323 .play:focus-visible{outline:3px solid #b8dfff;outline-offset:4px}
+.vitrine-card323 .details{position:absolute;top:8px;left:8px;z-index:3;width:27px!important;height:27px;min-height:27px;min-width:27px;padding:0;font-size:17px;border-radius:50%;background:#110c31cc;color:#fff;border:1px solid #b5a0d888}
+.recent323 img{object-fit:cover;background:#0b0823}.recent323 button{border-color:#9271c2}
+@media(max-width:600px){.vitrine-rail323{grid-auto-columns:245px}.vitrine-card323 h3{font-size:14px}.vitrine-card323 .card-body{padding:12px;min-height:126px}.vitrine-card323 .play{width:100%!important;min-width:0;height:auto;min-height:48px}.catalog:not(.vitrine-shelves323) .vitrine-card323 .tile-art:has(.programme-thumb314){aspect-ratio:16/9!important}}

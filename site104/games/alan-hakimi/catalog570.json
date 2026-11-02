@@ -1,0 +1,814 @@
+{
+  "totalBefore": 1284,
+  "added": 1936,
+  "totalAfter": 3220,
+  "categories": [
+    {
+      "id": "flags",
+      "name": "Bayraklar",
+      "before": 30,
+      "added": 166,
+      "after": 196,
+      "newVisuals": 166
+    },
+    {
+      "id": "capitals",
+      "name": "Başkentler",
+      "before": 60,
+      "added": 38,
+      "after": 98,
+      "newVisuals": 0
+    },
+    {
+      "id": "animals",
+      "name": "Hayvanlar",
+      "before": 30,
+      "added": 32,
+      "after": 62,
+      "newVisuals": 16
+    },
+    {
+      "id": "birds",
+      "name": "Kuşlar",
+      "before": 14,
+      "added": 20,
+      "after": 34,
+      "newVisuals": 4
+    },
+    {
+      "id": "sea",
+      "name": "Deniz Canlıları",
+      "before": 14,
+      "added": 21,
+      "after": 35,
+      "newVisuals": 5
+    },
+    {
+      "id": "fruits",
+      "name": "Meyveler",
+      "before": 18,
+      "added": 17,
+      "after": 35,
+      "newVisuals": 1
+    },
+    {
+      "id": "vegetables",
+      "name": "Sebzeler",
+      "before": 13,
+      "added": 19,
+      "after": 32,
+      "newVisuals": 3
+    },
+    {
+      "id": "food",
+      "name": "Yiyecekler",
+      "before": 25,
+      "added": 45,
+      "after": 70,
+      "newVisuals": 29
+    },
+    {
+      "id": "drinks",
+      "name": "İçecekler",
+      "before": 12,
+      "added": 25,
+      "after": 37,
+      "newVisuals": 9
+    },
+    {
+      "id": "music",
+      "name": "Müzik Aletleri",
+      "before": 13,
+      "added": 19,
+      "after": 32,
+      "newVisuals": 3
+    },
+    {
+      "id": "sports",
+      "name": "Spor Dalları",
+      "before": 20,
+      "added": 39,
+      "after": 59,
+      "newVisuals": 25
+    },
+    {
+      "id": "vehicles",
+      "name": "Taşıtlar",
+      "before": 23,
+      "added": 36,
+      "after": 59,
+      "newVisuals": 20
+    },
+    {
+      "id": "home",
+      "name": "Ev Eşyaları",
+      "before": 23,
+      "added": 45,
+      "after": 68,
+      "newVisuals": 29
+    },
+    {
+      "id": "tech",
+      "name": "Teknoloji",
+      "before": 17,
+      "added": 33,
+      "after": 50,
+      "newVisuals": 18
+    },
+    {
+      "id": "tools",
+      "name": "Araç Gereçler",
+      "before": 17,
+      "added": 27,
+      "after": 44,
+      "newVisuals": 12
+    },
+    {
+      "id": "clothes",
+      "name": "Giyim",
+      "before": 21,
+      "added": 35,
+      "after": 56,
+      "newVisuals": 19
+    },
+    {
+      "id": "shapes",
+      "name": "Geometrik Şekiller",
+      "before": 12,
+      "added": 21,
+      "after": 33,
+      "newVisuals": 21
+    },
+    {
+      "id": "colors",
+      "name": "Renkler",
+      "before": 12,
+      "added": 31,
+      "after": 43,
+      "newVisuals": 31
+    },
+    {
+      "id": "chemistry",
+      "name": "Kimya",
+      "before": 30,
+      "added": 88,
+      "after": 118,
+      "newVisuals": 88
+    },
+    {
+      "id": "literature",
+      "name": "Edebiyat",
+      "before": 21,
+      "added": 9,
+      "after": 30,
+      "newVisuals": 0
+    },
+    {
+      "id": "history",
+      "name": "Tarih",
+      "before": 16,
+      "added": 12,
+      "after": 28,
+      "newVisuals": 0
+    },
+    {
+      "id": "geography",
+      "name": "Coğrafya",
+      "before": 23,
+      "added": 14,
+      "after": 37,
+      "newVisuals": 0
+    },
+    {
+      "id": "plants",
+      "name": "Bitkiler",
+      "before": 15,
+      "added": 27,
+      "after": 42,
+      "newVisuals": 11
+    },
+    {
+      "id": "space",
+      "name": "Uzay",
+      "before": 13,
+      "added": 10,
+      "after": 23,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic25",
+      "name": "Türk şairleri",
+      "before": 8,
+      "added": 15,
+      "after": 23,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic26",
+      "name": "Türk romanları",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic27",
+      "name": "Dünya romanları",
+      "before": 8,
+      "added": 15,
+      "after": 23,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic28",
+      "name": "Roman kahramanları",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic29",
+      "name": "Masallar",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic30",
+      "name": "Bilim insanları",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic31",
+      "name": "Buluşlar",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic32",
+      "name": "Anadolu uygarlıkları",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic33",
+      "name": "Osmanlı padişahları",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic34",
+      "name": "Millî mücadele",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic35",
+      "name": "Dünya tarihindeki olaylar",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic36",
+      "name": "Antik dünya",
+      "before": 8,
+      "added": 15,
+      "after": 23,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic37",
+      "name": "Türk şehirleri",
+      "before": 8,
+      "added": 17,
+      "after": 25,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic38",
+      "name": "Bursa ve çevresi",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic39",
+      "name": "İstanbul semtleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic40",
+      "name": "Türkiye gölleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic41",
+      "name": "Nehirler",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic42",
+      "name": "Dağlar",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic43",
+      "name": "Adalar",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic44",
+      "name": "Çöller",
+      "before": 8,
+      "added": 17,
+      "after": 25,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic45",
+      "name": "Dünya yapıları",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic46",
+      "name": "Ülke mutfakları",
+      "before": 8,
+      "added": 17,
+      "after": 25,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic47",
+      "name": "Yöresel yemekler",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic48",
+      "name": "Çorbalar",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic49",
+      "name": "Tatlılar",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic50",
+      "name": "Baharatlar",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic51",
+      "name": "Mutfak teknikleri",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic52",
+      "name": "Meslekler",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic53",
+      "name": "Hobiler",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic54",
+      "name": "El sanatları",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic55",
+      "name": "Tiyatro terimleri",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic56",
+      "name": "Sinema terimleri",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic57",
+      "name": "Resim teknikleri",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic58",
+      "name": "Ressamlar",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic59",
+      "name": "Klasik besteciler",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic60",
+      "name": "Müzik terimleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic61",
+      "name": "Türk halk dansları",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic62",
+      "name": "Futbol kulüpleri",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic63",
+      "name": "Futbol terimleri",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic64",
+      "name": "Basketbol",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic65",
+      "name": "Olimpik dallar",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic66",
+      "name": "Raketsiz sporlar",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic67",
+      "name": "Satranç",
+      "before": 100,
+      "added": 3,
+      "after": 103,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic68",
+      "name": "Masa oyunları",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic69",
+      "name": "Gök cisimleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic70",
+      "name": "Uzay görevleri",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic71",
+      "name": "Hava olayları",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic72",
+      "name": "Doğa olayları",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic73",
+      "name": "Ekoloji",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic74",
+      "name": "Geri dönüşüm",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic75",
+      "name": "İnsan vücudu",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic76",
+      "name": "Duyular",
+      "before": 8,
+      "added": 15,
+      "after": 23,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic77",
+      "name": "Hayvan sesleri",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 6
+    },
+    {
+      "id": "topic78",
+      "name": "Böcekler",
+      "before": 100,
+      "added": 3,
+      "after": 103,
+      "newVisuals": 2
+    },
+    {
+      "id": "topic79",
+      "name": "Ağaçlar",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic80",
+      "name": "Çiçekler",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 4
+    },
+    {
+      "id": "topic81",
+      "name": "Bahçe işleri",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic82",
+      "name": "Kumaşlar",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic83",
+      "name": "Mimarlık",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic84",
+      "name": "Ulaşım terimleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic85",
+      "name": "Denizcilik",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic86",
+      "name": "Havacılık",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic87",
+      "name": "Bilgisayar parçaları",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic88",
+      "name": "İnternet terimleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic89",
+      "name": "Fotoğrafçılık",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic90",
+      "name": "Takvim",
+      "before": 8,
+      "added": 17,
+      "after": 25,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic91",
+      "name": "Ölçü aletleri",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic92",
+      "name": "Geometri terimleri",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic93",
+      "name": "Edebî türler",
+      "before": 8,
+      "added": 18,
+      "after": 26,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic94",
+      "name": "Kitap dünyası",
+      "before": 8,
+      "added": 13,
+      "after": 21,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic95",
+      "name": "Deyimler",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic96",
+      "name": "Atasözleri",
+      "before": 8,
+      "added": 16,
+      "after": 24,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic97",
+      "name": "Gündelik nesneler",
+      "before": 8,
+      "added": 14,
+      "after": 22,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic98",
+      "name": "Seyahat",
+      "before": 8,
+      "added": 12,
+      "after": 20,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic99",
+      "name": "Kış sporları",
+      "before": 8,
+      "added": 15,
+      "after": 23,
+      "newVisuals": 0
+    },
+    {
+      "id": "topic100",
+      "name": "Su sporları",
+      "before": 8,
+      "added": 19,
+      "after": 27,
+      "newVisuals": 0
+    }
+  ],
+  "assets": 375,
+  "failed": {
+    "1fa88.svg": "HTTP Error 404: Not Found",
+    "1fabc.svg": "HTTP Error 404: Not Found",
+    "1fada.svg": "HTTP Error 404: Not Found",
+    "1fadb.svg": "HTTP Error 404: Not Found"
+  }
+}

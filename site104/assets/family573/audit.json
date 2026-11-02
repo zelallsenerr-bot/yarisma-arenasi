@@ -1,0 +1,14 @@
+{
+  "accepted": 100,
+  "questions": 300,
+  "groups": {
+    "cooking": 19,
+    "everyday": 20,
+    "crafts": 24,
+    "sports": 21,
+    "science": 16
+  },
+  "videoBytes": 60762340,
+  "uniqueOriginalSources": 100,
+  "uniqueVideoHashes": 100
+}

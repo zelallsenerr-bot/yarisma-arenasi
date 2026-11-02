@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "memory571-00",
+    "sourceFile": "Pottery making process.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Pottery_making_process.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pottery_making_process.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Pottery_making_process.webm/Pottery_making_process.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Alvin Ategyeka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-00.mp4",
+    "bytes": 600658,
+    "theme": 0,
+    "title": "Hafıza klibi 1",
+    "parts": null,
+    "contentKey571": "memory571-00",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-00-q0",
+        "question": "Usta kilin biçimini nasıl değiştiriyordu?",
+        "options": [
+          "Dönen kilin üzerine iki eliyle bastırarak",
+          "Bir oklavayla açarak",
+          "Makasla keserek",
+          "Bir kovaya boşaltarak"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "0–25 sn: Eller dönen çamura birlikte temas ediyor.",
+        "explanation": "0–25 sn: Eller dönen çamura birlikte temas ediyor."
+      },
+      {
+        "id": "memory571-00-q1",
+        "question": "Kil hangi düzeneğin üzerinde şekillendiriliyordu?",
+        "options": [
+          "Dairesel dönen bir tabla",
+          "Bir metal ızgara",
+          "Dik duran bir pano",
+          "Bir taşıma bandı"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "0–25 sn: Kil yuvarlak dönen tablanın merkezinde.",
+        "explanation": "0–25 sn: Kil yuvarlak dönen tablanın merkezinde."
+      },
+      {
+        "id": "memory571-00-q2",
+        "question": "Tezgahın ön kısmında ne vardı?",
+        "options": [
+          "Dikdörtgen ahşap çerçeve",
+          "Kırmızı trafik konisi",
+          "Şeffaf akvaryum",
+          "Beyaz buzdolabı"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–15 sn: Döner tablanın çevresinde dikdörtgen ahşap çerçeve görülüyor.",
+        "explanation": "0–15 sn: Döner tablanın çevresinde dikdörtgen ahşap çerçeve görülüyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-01",
+    "sourceFile": "Pottery 01.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Pottery_01.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pottery_01.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Pottery_01.webm/Pottery_01.webm.480p.vp9.webm",
+    "start": 0,
+    "duration": 30,
+    "author": "Ganesh Mohan T",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-01.mp4",
+    "bytes": 795308,
+    "theme": 0,
+    "title": "Hafıza klibi 2",
+    "parts": null,
+    "contentKey571": "memory571-01",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-01-q0",
+        "question": "Şekillenen kilin ortasında nasıl bir bölüm vardı?",
+        "options": [
+          "İçi boş yuvarlak bir açıklık",
+          "Yıldız biçimli kapak",
+          "Düz bir cam yüzey",
+          "Kare bir pencere"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "0–25 sn: Kilin ortasında yuvarlak açıklık var.",
+        "explanation": "0–25 sn: Kilin ortasında yuvarlak açıklık var."
+      },
+      {
+        "id": "memory571-01-q1",
+        "question": "Dönen tablanın arkasında hangi büyük eşya görünüyordu?",
+        "options": [
+          "Örgü bir sepet",
+          "Bisiklet",
+          "Televizyon",
+          "Sarı merdiven"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Arkada büyük örgü sepet bulunuyor.",
+        "explanation": "0–25 sn: Arkada büyük örgü sepet bulunuyor."
+      },
+      {
+        "id": "memory571-01-q2",
+        "question": "Ustanın elleri neyin çevresinde çalışıyordu?",
+        "options": [
+          "Tablanın ortasındaki kilin",
+          "Yerdeki bir halının",
+          "Duvardaki bir saatin",
+          "Bir ağaç dalının"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Eller dönmekte olan kilin çevresinde.",
+        "explanation": "0–25 sn: Eller dönmekte olan kilin çevresinde."
+      }
+    ]
+  },
+  {
+    "id": "memory571-02",
+    "sourceFile": "At the potter's workshop.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:At_the_potter%27s_workshop.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/At_the_potter%27s_workshop.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/At_the_potter%27s_workshop.webm/At_the_potter%27s_workshop.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Mariusz Raniszewski",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-02.mp4",
+    "bytes": 493262,
+    "theme": 0,
+    "title": "Hafıza klibi 3",
+    "parts": null,
+    "contentKey571": "memory571-02",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-02-q0",
+        "question": "Geniş atölye görüntüsünün ardından neyin yakın çekimi geldi?",
+        "options": [
+          "Kabı şekillendiren ellerin",
+          "Bir kapı kilidinin",
+          "Uçan bir kuşun",
+          "Sokaktaki otobüsün"
+        ],
+        "answer": 0,
+        "category181": "sequence",
+        "evidence571": "0–5 sn: Atölye; 10 sn: Kabın üzerindeki ellerin yakın çekimi.",
+        "explanation": "0–5 sn: Atölye; 10 sn: Kabın üzerindeki ellerin yakın çekimi."
+      },
+      {
+        "id": "memory571-02-q1",
+        "question": "Son bölümde eldeki kil nasıl bir biçime gelmişti?",
+        "options": [
+          "Yukarı doğru uzayan dar bir kap",
+          "Yassı bir kalp",
+          "İçi dolu küp",
+          "Uzun kıvrık boru"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "20–25 sn: Kap yukarı doğru uzanıyor.",
+        "explanation": "20–25 sn: Kap yukarı doğru uzanıyor."
+      },
+      {
+        "id": "memory571-02-q2",
+        "question": "Ustanın arkasındaki raflarda neler vardı?",
+        "options": [
+          "Çeşitli seramik kaplar",
+          "Sadece kitaplar",
+          "Spor ayakkabılar",
+          "Bilgisayar monitörleri"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–5 ve 25 sn: Raflarda seramik örnekler var.",
+        "explanation": "0–5 ve 25 sn: Raflarda seramik örnekler var."
+      }
+    ]
+  },
+  {
+    "id": "memory571-03",
+    "sourceFile": "Market Movements.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Market_Movements.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Market_Movements.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/Market_Movements.webm/Market_Movements.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Ayorinde Ogundele",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-03.mp4",
+    "bytes": 930214,
+    "theme": 3,
+    "title": "Hafıza klibi 4",
+    "parts": null,
+    "contentKey571": "memory571-03",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-03-q0",
+        "question": "Pazar yeri hangi açıdan gösteriliyordu?",
+        "options": [
+          "Tepeden geniş açıyla",
+          "Yerin altından",
+          "Tezgahın içinden",
+          "Bir arabanın arka koltuğundan"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Pazar tepeden kuşbakışı görüntüleniyor.",
+        "explanation": "0–25 sn: Pazar tepeden kuşbakışı görüntüleniyor."
+      },
+      {
+        "id": "memory571-03-q1",
+        "question": "Tezgah kümelerinin arasında nasıl bir alan vardı?",
+        "options": [
+          "Geniş toprak renkli geçiş yolları",
+          "Kapalı mavi yüzme havuzu",
+          "Kar kaplı pist",
+          "Tek bir yeşil futbol sahası"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Toprak renkli boş geçiş yolları belirgin.",
+        "explanation": "0–25 sn: Toprak renkli boş geçiş yolları belirgin."
+      },
+      {
+        "id": "memory571-03-q2",
+        "question": "Ürünlerin konduğu kapların çoğu nasıl görünüyordu?",
+        "options": [
+          "Yuvarlak sepet ve kaplar",
+          "Uzun cam tüpler",
+          "Asılı kare çerçeveler",
+          "Kapalı dikey dolaplar"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "0–25 sn: Sık dizili yuvarlak ürün kapları görülüyor.",
+        "explanation": "0–25 sn: Sık dizili yuvarlak ürün kapları görülüyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-04",
+    "sourceFile": "Market for food stuff 1.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Market_for_food_stuff_1.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Market_for_food_stuff_1.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Market_for_food_stuff_1.webm/Market_for_food_stuff_1.webm.480p.vp9.webm",
+    "start": 0,
+    "duration": 30,
+    "author": "Adimora chidinma",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-04.mp4",
+    "bytes": 916279,
+    "theme": 3,
+    "title": "Hafıza klibi 5",
+    "parts": null,
+    "contentKey571": "memory571-04",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-04-q0",
+        "question": "İlk yakın çekimde üst üste duran açık yeşil sebze neydi?",
+        "options": [
+          "Lahana",
+          "Patlıcan",
+          "Mısır",
+          "Kırmızı biber"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "0–10 sn: Açık yeşil lahana başları tezgahın önünde.",
+        "explanation": "0–10 sn: Açık yeşil lahana başları tezgahın önünde."
+      },
+      {
+        "id": "memory571-04-q1",
+        "question": "Sebze tezgahının ardından kamera bir süre nereyi gösterdi?",
+        "options": [
+          "Tezgahlar arasındaki geçiş yolunu",
+          "Bir geminin kamarasını",
+          "Bir sınıf tahtasını",
+          "Boş bir spor salonunu"
+        ],
+        "answer": 0,
+        "category181": "sequence",
+        "evidence571": "15–20 sn: Kamera pazardaki dar geçiş yoluna dönüyor.",
+        "explanation": "15–20 sn: Kamera pazardaki dar geçiş yoluna dönüyor."
+      },
+      {
+        "id": "memory571-04-q2",
+        "question": "Şişe ve kaplar sebzelerin hangi bölümünde görünüyordu?",
+        "options": [
+          "Arka tarafta ve üst sırada",
+          "Su dolu bir havuzun altında",
+          "Tavandan sarkarken",
+          "Tezgahın tamamen dışında bir odada"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–10 ve 25 sn: Şişe ve kaplar tezgahın arkasında sıralı.",
+        "explanation": "0–10 ve 25 sn: Şişe ve kaplar tezgahın arkasında sıralı."
+      }
+    ]
+  },
+  {
+    "id": "memory571-05",
+    "sourceFile": "Kente weaving 01.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Kente_weaving_01.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kente_weaving_01.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9f/Kente_weaving_01.webm/Kente_weaving_01.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "daSupremo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-05.mp4",
+    "bytes": 937489,
+    "theme": 14,
+    "title": "Hafıza klibi 6",
+    "parts": null,
+    "contentKey571": "memory571-05",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-05-q0",
+        "question": "Dokumacı ayaklarıyla ne yapıyordu?",
+        "options": [
+          "Tezgahın pedallarına basıyordu",
+          "Top sektiriyordu",
+          "Bir bisiklet çeviriyordu",
+          "Bir kovayı itiyordu"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "10–25 sn: Ayaklar tezgah altındaki pedallarla çalışıyor.",
+        "explanation": "10–25 sn: Ayaklar tezgah altındaki pedallarla çalışıyor."
+      },
+      {
+        "id": "memory571-05-q1",
+        "question": "Dokunan kumaş hangi bölümde duruyordu?",
+        "options": [
+          "Çalışanın önündeki tezgahın üzerinde",
+          "Duvarda asılı bir çerçevede",
+          "Dışarıdaki bir araçta",
+          "Tavanın üzerinde"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Kumaş tezgahın üstünde, çalışanın önünde.",
+        "explanation": "0–25 sn: Kumaş tezgahın üstünde, çalışanın önünde."
+      },
+      {
+        "id": "memory571-05-q2",
+        "question": "Çalışanın ellerinin önünde nasıl bir düzenek vardı?",
+        "options": [
+          "Çok sayıda gerili ipi olan dokuma tezgahı",
+          "Bir davul seti",
+          "Bir kaynak maskesi",
+          "Bir mutfak ocağı"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "0–25 sn: Dokuma ipleri ve ahşap tezgah görülüyor.",
+        "explanation": "0–25 sn: Dokuma ipleri ve ahşap tezgah görülüyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-07",
+    "sourceFile": "Weaving demonstrated on a historic loom in Leiden.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Weaving_demonstrated_on_a_historic_loom_in_Leiden.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Weaving_demonstrated_on_a_historic_loom_in_Leiden.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e6/Weaving_demonstrated_on_a_historic_loom_in_Leiden.webm/Weaving_demonstrated_on_a_historic_loom_in_Leiden.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Shani Evenstein (שני אבנשטיין)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-07.mp4",
+    "bytes": 940907,
+    "theme": 14,
+    "title": "Hafıza klibi 8",
+    "parts": null,
+    "contentKey571": "memory571-07",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-07-q0",
+        "question": "Tezgahtaki kumaşta nasıl bir desen vardı?",
+        "options": [
+          "Farklı renklerde şeritler",
+          "Sadece büyük beyaz noktalar",
+          "Tek bir siyah yıldız",
+          "Şeffaf kareler"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "0–25 sn: Kumaş boyunca renkli çizgi ve şeritler var.",
+        "explanation": "0–25 sn: Kumaş boyunca renkli çizgi ve şeritler var."
+      },
+      {
+        "id": "memory571-07-q1",
+        "question": "Dokumacı elindeki parçayı nasıl hareket ettiriyordu?",
+        "options": [
+          "Kumaş boyunca sağa sola geçirerek",
+          "Suyun içine atarak",
+          "Yüksekten yere bırakarak",
+          "Bir fırına koyarak"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "0–25 sn: Çalışan ellerini iplerin eni boyunca hareket ettiriyor.",
+        "explanation": "0–25 sn: Çalışan ellerini iplerin eni boyunca hareket ettiriyor."
+      },
+      {
+        "id": "memory571-07-q2",
+        "question": "Dokumacının arkasında ışık nereden geliyordu?",
+        "options": [
+          "Pencerelerden",
+          "Yerdeki bir kamp ateşinden",
+          "Bir araç farından",
+          "Dönen disko topundan"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Tezgahın arkasındaki pencereler aydınlık.",
+        "explanation": "0–25 sn: Tezgahın arkasındaki pencereler aydınlık."
+      }
+    ]
+  },
+  {
+    "id": "memory571-08",
+    "sourceFile": "The art and craft of Local blacksmiths from Northern Ghana.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:The_art_and_craft_of_Local_blacksmiths_from_Northern_Ghana.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_art_and_craft_of_Local_blacksmiths_from_Northern_Ghana.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/The_art_and_craft_of_Local_blacksmiths_from_Northern_Ghana.webm/The_art_and_craft_of_Local_blacksmiths_from_Northern_Ghana.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Sir Amugi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-08.mp4",
+    "bytes": 645707,
+    "theme": 16,
+    "title": "Hafıza klibi 9",
+    "parts": null,
+    "contentKey571": "memory571-08",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-08-q0",
+        "question": "Usta elindeki çekiçle ne yapıyordu?",
+        "options": [
+          "Önündeki metal parçaya vuruyordu",
+          "Bir duvara resim çiziyordu",
+          "Cam bardağı karıştırıyordu",
+          "Kumaş kesiyordu"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "0–15 sn: Çekiç metal iş parçasına iniyor.",
+        "explanation": "0–15 sn: Çekiç metal iş parçasına iniyor."
+      },
+      {
+        "id": "memory571-08-q1",
+        "question": "Metal parçaların işlendiği yer neresiydi?",
+        "options": [
+          "Yere yakın alçak bir çalışma alanı",
+          "Tavandaki bir raf",
+          "Bir teknenin burnu",
+          "Bir buzdolabının içi"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Usta yerde, alçak destek üzerinde çalışıyor.",
+        "explanation": "0–25 sn: Usta yerde, alçak destek üzerinde çalışıyor."
+      },
+      {
+        "id": "memory571-08-q2",
+        "question": "Son bölümde çalışma alanında ne daha belirgin gösterildi?",
+        "options": [
+          "Yan yana duran metal aletler",
+          "Bir pasta vitrini",
+          "Bir duvar saati",
+          "Uçan uçaklar"
+        ],
+        "answer": 0,
+        "category181": "sequence",
+        "evidence571": "20–25 sn: Zemindeki metal parçalar ve aletler yakın planda.",
+        "explanation": "20–25 sn: Zemindeki metal parçalar ve aletler yakın planda."
+      }
+    ]
+  },
+  {
+    "id": "memory571-09",
+    "sourceFile": "The art of craft, wiki loves Africa 2024, By Choonga.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:The_art_of_craft%2C_wiki_loves_Africa_2024%2C_By_Choonga.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_art_of_craft%2C_wiki_loves_Africa_2024%2C_By_Choonga.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/The_art_of_craft%2C_wiki_loves_Africa_2024%2C_By_Choonga.webm/The_art_of_craft%2C_wiki_loves_Africa_2024%2C_By_Choonga.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Choonga",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-09.mp4",
+    "bytes": 912444,
+    "theme": 16,
+    "title": "Hafıza klibi 10",
+    "parts": null,
+    "contentKey571": "memory571-09",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-09-q0",
+        "question": "Dans eden grubun görüntüsünden sonra hangi çalışma gösterildi?",
+        "options": [
+          "Dikiş makinesinde kumaş dikilmesi",
+          "Bir otomobilin yıkanması",
+          "Bir futbol maçının başlaması",
+          "Bir akvaryumun temizlenmesi"
+        ],
+        "answer": 0,
+        "category181": "sequence",
+        "evidence571": "15 sn dans grubu; 20–25 sn dikiş makinesi.",
+        "explanation": "15 sn dans grubu; 20–25 sn dikiş makinesi."
+      },
+      {
+        "id": "memory571-09-q1",
+        "question": "Son yakın çekimde kumaş hangi araçla işleniyordu?",
+        "options": [
+          "Dikiş makinesi",
+          "Beton mikseri",
+          "Çömlek çarkı",
+          "Kaykay"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "20–25 sn: Dikiş makinesinin ayağı ve iğne bölümü görülüyor.",
+        "explanation": "20–25 sn: Dikiş makinesinin ayağı ve iğne bölümü görülüyor."
+      },
+      {
+        "id": "memory571-09-q2",
+        "question": "İlk bölümde yol kenarında nasıl bir yapı gösterildi?",
+        "options": [
+          "Çok katlı beyaz bina",
+          "Tek bir saz kulübe",
+          "Kırmızı deniz feneri",
+          "Kar altındaki ahşap köprü"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0 sn: Şehir yolunun arkasında beyaz çok katlı bina.",
+        "explanation": "0 sn: Şehir yolunun arkasında beyaz çok katlı bina."
+      }
+    ]
+  },
+  {
+    "id": "memory571-10",
+    "sourceFile": "Artisan making a coir toy.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Artisan_making_a_coir_toy.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Artisan_making_a_coir_toy.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Artisan_making_a_coir_toy.webm/Artisan_making_a_coir_toy.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Subhashish Panigrahi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-10.mp4",
+    "bytes": 937200,
+    "theme": 16,
+    "title": "Hafıza klibi 11",
+    "parts": null,
+    "contentKey571": "memory571-10",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-10-q0",
+        "question": "Ustanın kullandığı ana malzeme nasıl görünüyordu?",
+        "options": [
+          "Kahverengi ince lif demetleri",
+          "Mavi cam levhalar",
+          "Parlak çelik plakalar",
+          "Beyaz buz parçaları"
+        ],
+        "answer": 0,
+        "category181": "material",
+        "evidence571": "0–25 sn: Zeminde ve elde kahverengi lifler var.",
+        "explanation": "0–25 sn: Zeminde ve elde kahverengi lifler var."
+      },
+      {
+        "id": "memory571-10-q1",
+        "question": "Oyuncağı yapan kişi nerede oturuyordu?",
+        "options": [
+          "Zeminde, çalışması önünde olacak şekilde",
+          "Yüksek bir vinç kabininde",
+          "Bir trenin ayakta yolcu bölümünde",
+          "Bir yüzme havuzunun içinde"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Usta zeminde bacaklarını katlayarak oturuyor.",
+        "explanation": "0–25 sn: Usta zeminde bacaklarını katlayarak oturuyor."
+      },
+      {
+        "id": "memory571-10-q2",
+        "question": "Liflerle yapılan küçük parçaya hangi işlem uygulanıyordu?",
+        "options": [
+          "Elle sarılıp bağlanarak biçim veriliyordu",
+          "Elektrikli matkapla delinip boyanıyordu",
+          "Fırında pişiriliyordu",
+          "Suyla eritiliyordu"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "10–25 sn: Lifler elle sarılıyor ve bağlanıyor.",
+        "explanation": "10–25 sn: Lifler elle sarılıyor ve bağlanıyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-11",
+    "sourceFile": "Music Engraving on Metal Plates (with sound).webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Music_Engraving_on_Metal_Plates_%28with_sound%29.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Music_Engraving_on_Metal_Plates_%28with_sound%29.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/24/Music_Engraving_on_Metal_Plates_%28with_sound%29.webm/Music_Engraving_on_Metal_Plates_%28with_sound%29.webm.480p.vp9.webm",
+    "start": 120,
+    "duration": 30,
+    "author": "Henleverlag",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "../../assets/family571/memory571-11.mp4",
+    "bytes": 540808,
+    "theme": 16,
+    "title": "Hafıza klibi 12",
+    "parts": null,
+    "contentKey571": "memory571-11",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-11-q0",
+        "question": "Son bölümde tahta bir tutucuda ne sıralanmıştı?",
+        "options": [
+          "Sivri metal zımbalar",
+          "Renkli boya tüpleri",
+          "Cam bardaklar",
+          "Mutfak kaşıkları"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "25 sn: Tutucuda dik duran ince metal zımbalar var.",
+        "explanation": "25 sn: Tutucuda dik duran ince metal zımbalar var."
+      },
+      {
+        "id": "memory571-11-q1",
+        "question": "Yakın çekimde gösterilen müzik işareti hangisiydi?",
+        "options": [
+          "Sol anahtarı",
+          "Yüzde işareti",
+          "Soru işareti",
+          "Sonsuzluk işareti"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "5 sn: Sol anahtarı biçimi yakın planda gösteriliyor.",
+        "explanation": "5 sn: Sol anahtarı biçimi yakın planda gösteriliyor."
+      },
+      {
+        "id": "memory571-11-q2",
+        "question": "Son alet yakın çekiminden önce ne gösterildi?",
+        "options": [
+          "Üzerinde notalar olan bir sayfa",
+          "Bir futbol sahası",
+          "Cam bir vazo",
+          "Bir pazar tezgahı"
+        ],
+        "answer": 0,
+        "category181": "sequence",
+        "evidence571": "20 sn nota yazılı sayfa, 25 sn metal zımbalar.",
+        "explanation": "20 sn nota yazılı sayfa, 25 sn metal zımbalar."
+      }
+    ]
+  },
+  {
+    "id": "memory571-12",
+    "sourceFile": "Wood Sculpting.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Wood_Sculpting.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wood_Sculpting.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d5/Wood_Sculpting.webm/Wood_Sculpting.webm.480p.vp9.webm",
+    "start": 0,
+    "duration": 30,
+    "author": "Alvin Ategyeka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-12.mp4",
+    "bytes": 853007,
+    "theme": 16,
+    "title": "Hafıza klibi 13",
+    "parts": null,
+    "contentKey571": "memory571-12",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-12-q0",
+        "question": "Ahşap parçalarla yapılan eşya neydi?",
+        "options": [
+          "Sandalye",
+          "Çamaşır makinesi",
+          "Gitar",
+          "Bavul"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "0–25 sn: Ahşap sandalyenin arkalığı ve ayakları görünür.",
+        "explanation": "0–25 sn: Ahşap sandalyenin arkalığı ve ayakları görünür."
+      },
+      {
+        "id": "memory571-12-q1",
+        "question": "Son bölümde yerdeki alet ve kaplar neyin içindeydi?",
+        "options": [
+          "Yuvarlak plastik leğenin",
+          "Duvardaki posta kutusunun",
+          "Asılı metal kafesin",
+          "Şeffaf bir akvaryumun"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "15–25 sn: Yerde yuvarlak yeşil leğen var.",
+        "explanation": "15–25 sn: Yerde yuvarlak yeşil leğen var."
+      },
+      {
+        "id": "memory571-12-q2",
+        "question": "Sandalyenin arkalığı nasıl uzanıyordu?",
+        "options": [
+          "Yukarı doğru yüksek ve dar",
+          "Yalnız yatay ince bir halka",
+          "Kapalı tam daire",
+          "Üçgen bir çatı gibi"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "0–25 sn: Sandalyenin arkalığı yüksek ve dar.",
+        "explanation": "0–25 sn: Sandalyenin arkalığı yüksek ve dar."
+      }
+    ]
+  },
+  {
+    "id": "memory571-13",
+    "sourceFile": "Wood Sculpture Making.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Wood_Sculpture_Making.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Wood_Sculpture_Making.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a5/Wood_Sculpture_Making.webm/Wood_Sculpture_Making.webm.480p.vp9.webm",
+    "start": 0,
+    "duration": 30,
+    "author": "Alvin Ategyeka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-13.mp4",
+    "bytes": 633446,
+    "theme": 16,
+    "title": "Hafıza klibi 14",
+    "parts": null,
+    "contentKey571": "memory571-13",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-13-q0",
+        "question": "Usta ahşabı işlerken hangi tür elektrikli aleti kullanıyordu?",
+        "options": [
+          "Yuvarlak diskli bir taşlama aleti",
+          "Bir saç kurutma makinesi",
+          "Elektrikli su ısıtıcısı",
+          "Bir oyun kumandası"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "5–25 sn: Dönen yuvarlak disk ahşaba temas ediyor.",
+        "explanation": "5–25 sn: Dönen yuvarlak disk ahşaba temas ediyor."
+      },
+      {
+        "id": "memory571-13-q1",
+        "question": "İşlenen uzun ahşap parçada hangi motif belirgindi?",
+        "options": [
+          "İnsan yüzünü andıran oyma",
+          "Sadece rakamlardan oluşan tablo",
+          "Bir şehir haritası",
+          "Düz siyah kare"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "0–25 sn: Uzun parçanın ucunda yüz biçimli oyma görülüyor.",
+        "explanation": "0–25 sn: Uzun parçanın ucunda yüz biçimli oyma görülüyor."
+      },
+      {
+        "id": "memory571-13-q2",
+        "question": "Ahşap parça çalışana göre nasıl duruyordu?",
+        "options": [
+          "Dikey veya dikeye yakın uzunlamasına",
+          "Tamamen suya batmış",
+          "Tavandan ipte sallanmış",
+          "Bir fırının içinde yatay"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Uzun parça yukarı doğru uzanıyor.",
+        "explanation": "0–25 sn: Uzun parça yukarı doğru uzanıyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-15",
+    "sourceFile": "Ise Gbena-Gbena.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Ise_Gbena-Gbena.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ise_Gbena-Gbena.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ise_Gbena-Gbena.webm",
+    "start": 90,
+    "duration": 30,
+    "author": "Yoruba Wikimedians User Group",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-15.mp4",
+    "bytes": 925302,
+    "theme": 16,
+    "title": "Hafıza klibi 16",
+    "parts": null,
+    "contentKey571": "memory571-15",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-15-q0",
+        "question": "Ustanın elinde şekillendirdiği uzun parçanın malzemesi neydi?",
+        "options": [
+          "Ahşap",
+          "Şeffaf cam",
+          "Kumaş",
+          "Yumuşak hamur"
+        ],
+        "answer": 0,
+        "category181": "material",
+        "evidence571": "0–15 sn: Oyulan parçanın açık renkli ahşap dokusu görülüyor.",
+        "explanation": "0–15 sn: Oyulan parçanın açık renkli ahşap dokusu görülüyor."
+      },
+      {
+        "id": "memory571-15-q1",
+        "question": "Ustanın çalıştığı yerin arkasında nasıl bir çevre vardı?",
+        "options": [
+          "Yeşil bitkilerle dolu açık alan",
+          "Raflarla dolu bir kütüphane",
+          "Buzla kaplı bir salon",
+          "Bir trenin içi"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–15 sn: Çalışmanın arkasında yeşil bitkiler var.",
+        "explanation": "0–15 sn: Çalışmanın arkasında yeşil bitkiler var."
+      },
+      {
+        "id": "memory571-15-q2",
+        "question": "Yakın çekimde ustanın başında ne vardı?",
+        "options": [
+          "Kahverengi düz bir kasket",
+          "Sarı baret",
+          "Uzun beyaz aşçı şapkası",
+          "Şeffaf dalış maskesi"
+        ],
+        "answer": 0,
+        "category181": "clothing",
+        "evidence571": "5 sn civarı: Usta kahverengi düz kasket takıyor.",
+        "explanation": "5 sn civarı: Usta kahverengi düz kasket takıyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-16",
+    "sourceFile": "Ise agbegilere.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Ise_agbegilere.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ise_agbegilere.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ise_agbegilere.webm",
+    "start": 90,
+    "duration": 30,
+    "author": "Yoruba Wikimedians user Group",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "../../assets/family571/memory571-16.mp4",
+    "bytes": 769970,
+    "theme": 16,
+    "title": "Hafıza klibi 17",
+    "parts": null,
+    "contentKey571": "memory571-16",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-16-q0",
+        "question": "Usta ahşap parçayı işlerken nereye dayamıştı?",
+        "options": [
+          "Önündeki çalışma tezgahına",
+          "Bir pencerenin dışına",
+          "Dönen bisiklet tekerine",
+          "Omzunun üstüne"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–15 sn: Ahşap parça çalışma tezgahında destekleniyor.",
+        "explanation": "0–15 sn: Ahşap parça çalışma tezgahında destekleniyor."
+      },
+      {
+        "id": "memory571-16-q1",
+        "question": "Atölyedeki ustanın çevresinde hangi nesneler görünüyordu?",
+        "options": [
+          "Ahşap oyma ve heykel örnekleri",
+          "Sadece spor topları",
+          "Büyük akvaryumlar",
+          "Mutfak fırınları"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–15 sn: Çevrede dik duran ahşap oyma parçalar var.",
+        "explanation": "0–15 sn: Çevrede dik duran ahşap oyma parçalar var."
+      },
+      {
+        "id": "memory571-16-q2",
+        "question": "Ustanın elleri ahşap üzerinde ne yapıyordu?",
+        "options": [
+          "Bir el aletiyle yüzeyi işliyordu",
+          "İp atlıyordu",
+          "Kumaşı makasla kesiyordu",
+          "Bir davula vuruyordu"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "0–15 sn: Eller ahşap ve el aleti üzerinde çalışıyor.",
+        "explanation": "0–15 sn: Eller ahşap ve el aleti üzerinde çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "memory571-17",
+    "sourceFile": "Balle contact 012 - contact juggling.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Balle_contact_012_-_contact_juggling.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Balle_contact_012_-_contact_juggling.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b7/Balle_contact_012_-_contact_juggling.webm/Balle_contact_012_-_contact_juggling.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Vincent TCHENG CHANG",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "../../assets/family571/memory571-17.mp4",
+    "bytes": 981889,
+    "theme": 11,
+    "title": "Hafıza klibi 18",
+    "parts": null,
+    "contentKey571": "memory571-17",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-17-q0",
+        "question": "Gösteride kullanılan nesne nasıl görünüyordu?",
+        "options": [
+          "Şeffaf bir küre",
+          "İçi dolu ahşap küp",
+          "Yassı kırmızı üçgen",
+          "Uzun yeşil şerit"
+        ],
+        "answer": 0,
+        "category181": "shape",
+        "evidence571": "0–25 sn: Şeffaf küre eller ve kollar üzerinde.",
+        "explanation": "0–25 sn: Şeffaf küre eller ve kollar üzerinde."
+      },
+      {
+        "id": "memory571-17-q1",
+        "question": "Gösterici küreyi hangi bölümünde gezdiriyordu?",
+        "options": [
+          "Ellerinin ve kollarının üzerinde",
+          "Ayakkabısının içinde",
+          "Bir tavada",
+          "Yalnız masanın altında"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "0–25 sn: Küre parmak, el ve kol boyunca yuvarlanıyor.",
+        "explanation": "0–25 sn: Küre parmak, el ve kol boyunca yuvarlanıyor."
+      },
+      {
+        "id": "memory571-17-q2",
+        "question": "Göstericinin arkasındaki tavanda ne dikkat çekiyordu?",
+        "options": [
+          "Eğimli ahşap kiriş",
+          "Dönen büyük vantilatör",
+          "Camdan yuvarlak kubbe",
+          "Renkli balon dizisi"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Tavanı çapraz geçen koyu ahşap kiriş var.",
+        "explanation": "0–25 sn: Tavanı çapraz geçen koyu ahşap kiriş var."
+      }
+    ]
+  },
+  {
+    "id": "memory571-20",
+    "sourceFile": "Street musician (Bukhara, Uzbekistan).webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Street_musician_%28Bukhara%2C_Uzbekistan%29.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Street_musician_%28Bukhara%2C_Uzbekistan%29.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2d/Street_musician_%28Bukhara%2C_Uzbekistan%29.webm/Street_musician_%28Bukhara%2C_Uzbekistan%29.webm.480p.vp9.webm",
+    "start": 0,
+    "duration": 30,
+    "author": "Виктор Пинчук",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "file": "../../assets/family571/memory571-20.mp4",
+    "bytes": 877066,
+    "theme": 10,
+    "title": "Hafıza klibi 21",
+    "parts": null,
+    "contentKey571": "memory571-20",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-20-q0",
+        "question": "Müzisyen çalgısını nasıl tutuyordu?",
+        "options": [
+          "Otururken kucağına dayayarak",
+          "Başının üzerinde dengede",
+          "Yere bırakıp uzaktan",
+          "Sırtına bağlayarak"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Oturan müzisyen çalgıyı kucağında tutuyor.",
+        "explanation": "0–25 sn: Oturan müzisyen çalgıyı kucağında tutuyor."
+      },
+      {
+        "id": "memory571-20-q1",
+        "question": "Müzisyen çalgıyı nasıl çalıyordu?",
+        "options": [
+          "Tellerine eliyle dokunup çekerek",
+          "Ağzıyla üfleyerek",
+          "İki tokmakla vurarak",
+          "Bir yayla sürterek"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "0–25 sn: Bir el sapta, diğer el telleri çalıyor.",
+        "explanation": "0–25 sn: Bir el sapta, diğer el telleri çalıyor."
+      },
+      {
+        "id": "memory571-20-q2",
+        "question": "Müzisyenin oturduğu bankın çevresindeki zemin nasıldı?",
+        "options": [
+          "Taş döşemeli açık alan",
+          "Kar kaplı pist",
+          "Mavi yüzme havuzu",
+          "Kumlu deniz tabanı"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Bank taş döşemeli açık alanda.",
+        "explanation": "0–25 sn: Bank taş döşemeli açık alanda."
+      }
+    ]
+  },
+  {
+    "id": "memory571-21",
+    "sourceFile": "King Penguins (Aptenodytes patagonicus).webm",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Penguins_%28Aptenodytes_patagonicus%29.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/King_Penguins_%28Aptenodytes_patagonicus%29.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/King_Penguins_%28Aptenodytes_patagonicus%29.webm/King_Penguins_%28Aptenodytes_patagonicus%29.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "The Nature Box",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "../../assets/family571/memory571-21.mp4",
+    "bytes": 642928,
+    "theme": 15,
+    "title": "Hafıza klibi 22",
+    "parts": null,
+    "contentKey571": "memory571-21",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-21-q0",
+        "question": "Penguenlerin arkasında hangi manzara görünüyordu?",
+        "options": [
+          "Karlı dağları gösteren bir fon",
+          "Trafik ışıklarıyla dolu kavşak",
+          "Uzun kitap rafları",
+          "Kırmızı tuğla fabrika"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Arka duvarda kar ve dağ görüntüsü var.",
+        "explanation": "0–25 sn: Arka duvarda kar ve dağ görüntüsü var."
+      },
+      {
+        "id": "memory571-21-q1",
+        "question": "Yakındaki büyük penguenlerin boyun çevresinde hangi renk belirgindi?",
+        "options": [
+          "Sarı ve turuncu",
+          "Mor ve pembe",
+          "Tamamen mavi",
+          "Yeşil ve kahverengi"
+        ],
+        "answer": 0,
+        "category181": "color",
+        "evidence571": "0–25 sn: Boynun iki yanında sarı turuncu alanlar görülüyor.",
+        "explanation": "0–25 sn: Boynun iki yanında sarı turuncu alanlar görülüyor."
+      },
+      {
+        "id": "memory571-21-q2",
+        "question": "Penguenlerin bastığı alan nasıl görünüyordu?",
+        "options": [
+          "Kayalık ve düzensiz",
+          "Parlak ahşap parke",
+          "Düz kırmızı halı",
+          "Çiçekli masa örtüsü"
+        ],
+        "answer": 0,
+        "category181": "object",
+        "evidence571": "0–25 sn: Kuşlar kayalık düzensiz zeminde.",
+        "explanation": "0–25 sn: Kuşlar kayalık düzensiz zeminde."
+      }
+    ]
+  },
+  {
+    "id": "memory571-22",
+    "sourceFile": "Gentoo penguins (Pygoscelis papua) in Antarctica.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Gentoo_penguins_%28Pygoscelis_papua%29_in_Antarctica.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gentoo_penguins_%28Pygoscelis_papua%29_in_Antarctica.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/Gentoo_penguins_%28Pygoscelis_papua%29_in_Antarctica.webm/Gentoo_penguins_%28Pygoscelis_papua%29_in_Antarctica.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Bettina May",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "../../assets/family571/memory571-22.mp4",
+    "bytes": 909451,
+    "theme": 15,
+    "title": "Hafıza klibi 23",
+    "parts": null,
+    "contentKey571": "memory571-22",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-22-q0",
+        "question": "Penguenlerin hemen arkasında ne vardı?",
+        "options": [
+          "Su ve kıyı çizgisi",
+          "Dikiş makineleri",
+          "Büyük otomobil yolu",
+          "Bir kitapçı vitrini"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Kuşların arkasında su kıyısı görülüyor.",
+        "explanation": "0–25 sn: Kuşların arkasında su kıyısı görülüyor."
+      },
+      {
+        "id": "memory571-22-q1",
+        "question": "Son bölümde öndeki penguenlerden biri ne yaptı?",
+        "options": [
+          "Kanatlarını iki yana açtı",
+          "Yüksek bir ağaca tırmandı",
+          "Havada süzülüp uzaklaştı",
+          "Bir topu gagasıyla taşıdı"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "20–25 sn: Öndeki penguen kanatlarını yana açıyor.",
+        "explanation": "20–25 sn: Öndeki penguen kanatlarını yana açıyor."
+      },
+      {
+        "id": "memory571-22-q2",
+        "question": "Penguenlerin üzerinde durduğu kıyı yüzeyi nasıldı?",
+        "options": [
+          "Kumlu ve çakıllı",
+          "Sulu çamur içinde uzun çimenli",
+          "Tamamen buz bloklarından",
+          "Renkli plastik parçalı"
+        ],
+        "answer": 0,
+        "category181": "material",
+        "evidence571": "0–25 sn: Kıyı açık kahverengi kum ve çakıl dokulu.",
+        "explanation": "0–25 sn: Kıyı açık kahverengi kum ve çakıl dokulu."
+      }
+    ]
+  },
+  {
+    "id": "memory571-23",
+    "sourceFile": "Penguins slow motion video.webm",
+    "source": "https://commons.wikimedia.org/wiki/File:Penguins_slow_motion_video.webm",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Penguins_slow_motion_video.webm",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/Penguins_slow_motion_video.webm/Penguins_slow_motion_video.webm.480p.vp9.webm",
+    "start": 3,
+    "duration": 30,
+    "author": "Guido Konrad",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "../../assets/family571/memory571-23.mp4",
+    "bytes": 602981,
+    "theme": 15,
+    "title": "Hafıza klibi 24",
+    "parts": null,
+    "contentKey571": "memory571-23",
+    "changes": "Tek kaynaktan kesintisiz 30 saniye. Özgün sıra, hız ve ses korundu; mobil MP4 biçimine dönüştürüldü. Görüntüye soru eklenmedi.",
+    "questions": [
+      {
+        "id": "memory571-23-q0",
+        "question": "Su kenarındaki penguenlerin arkasında hangi alan görünüyordu?",
+        "options": [
+          "Yeşil çimenlik",
+          "Çöl kumulları",
+          "Karlı dağ zirvesi",
+          "Kapalı tiyatro perdesi"
+        ],
+        "answer": 0,
+        "category181": "background",
+        "evidence571": "0–25 sn: Kayaların arkasında yeşil çimen var.",
+        "explanation": "0–25 sn: Kayaların arkasında yeşil çimen var."
+      },
+      {
+        "id": "memory571-23-q1",
+        "question": "Son bölümde yakın penguen başını nereye doğru eğiyordu?",
+        "options": [
+          "Kendi göğsüne ve tüylerine",
+          "Gökteki bir uçağa",
+          "Bir ağaç dalına",
+          "Su içindeki bir topa"
+        ],
+        "answer": 0,
+        "category181": "action",
+        "evidence571": "20–25 sn: Yakındaki penguen başını göğsüne doğru eğiyor.",
+        "explanation": "20–25 sn: Yakındaki penguen başını göğsüne doğru eğiyor."
+      },
+      {
+        "id": "memory571-23-q2",
+        "question": "Penguenler suyun neresindeydi?",
+        "options": [
+          "Kenarındaki kayalıkta",
+          "Tamamı suyun altında",
+          "Yüzen bir geminin güvertesinde",
+          "Suyun üstündeki asma köprüde"
+        ],
+        "answer": 0,
+        "category181": "position",
+        "evidence571": "0–25 sn: Kuşlar havuz kenarındaki kayalıkta.",
+        "explanation": "0–25 sn: Kuşlar havuz kenarındaki kayalıkta."
+      }
+    ]
+  }
+]

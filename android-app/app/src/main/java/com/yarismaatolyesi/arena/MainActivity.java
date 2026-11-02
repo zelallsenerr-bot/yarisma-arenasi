@@ -81,6 +81,9 @@ public class MainActivity extends Activity {
    @Override public void onHideCustomView() { closeFullscreen(); }
   });
   setContentView(root);
+  if (android.os.Build.VERSION.SDK_INT >= 33) {
+   getOnBackInvokedDispatcher().registerOnBackInvokedCallback(android.window.OnBackInvokedDispatcher.PRIORITY_DEFAULT, this::handleBack);
+  }
   if(state==null || web.restoreState(state)==null) web.loadUrl(HOME);
  }
  private void showError() { failed=true; progress.setVisibility(View.GONE); error.setVisibility(View.VISIBLE); }
@@ -90,7 +93,8 @@ public class MainActivity extends Activity {
   getWindow().clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
   if(fullCallback!=null) { fullCallback.onCustomViewHidden(); fullCallback=null; }
  }
- @Override public void onBackPressed() {
+ @Override public void onBackPressed() { handleBack(); }
+ private void handleBack() {
   if(fullscreen!=null) { closeFullscreen(); return; }
   if(web.canGoBack()) { web.goBack(); return; }
   new AlertDialog.Builder(this).setMessage("Yarışma Arenası kapatılsın mı?").setPositiveButton("Çık",(d,w)->finish()).setNegativeButton("Devam et",null).show();

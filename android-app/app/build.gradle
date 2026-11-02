@@ -1,13 +1,13 @@
 plugins { id 'com.android.application' }
 android {
  namespace 'com.yarismaatolyesi.arena'
- compileSdk 35
+ compileSdk 36
  defaultConfig {
   applicationId 'com.yarismaatolyesi.arena'
   minSdk 26
-  targetSdk 35
+  targetSdk 36
   versionCode 1
-  versionName '1.0-test'
+  versionName '1.0'
  }
  compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
 }

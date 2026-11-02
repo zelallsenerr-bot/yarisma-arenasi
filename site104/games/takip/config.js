@@ -1,0 +1,1 @@
+window.GAME318={"name": "Takip", "rules": "Uraz Kaygılaroğlu ile üç kişilik takım. Hızlı kasa turu, riskli takipçi teklifleri ve ortak kasayı koruyan büyük final. İlk etapta üç seçenekten birini seç; finalde cevabını yaz. Düşük, temel veya yüksek teklif seç. Üç şıklı takip tahtasında ilerle ve finalde geri it."};

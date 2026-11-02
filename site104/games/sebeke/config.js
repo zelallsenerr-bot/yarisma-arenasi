@@ -1,0 +1,1 @@
+window.GAME318={"name": "Şebeke", "rules": "Sıra dışı bir aile tanışması. Beş farklı yetişkin, değişen diyaloglar ve iki saati temsil eden on iki sahne. Sohbetlerde yanıtını seç. Yakınlığı ve rahatlığını takip et. İstersen tanışmayı sonlandır."};

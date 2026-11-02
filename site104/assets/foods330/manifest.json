@@ -1,0 +1,442 @@
+[
+  {
+    "recipe": "mercimek",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      4,
+      4,
+      279,
+      249
+    ],
+    "file": "mercimek.webp"
+  },
+  {
+    "recipe": "yayla",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      287,
+      4,
+      559,
+      249
+    ],
+    "file": "yayla.webp"
+  },
+  {
+    "recipe": "mantar",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      567,
+      4,
+      842,
+      249
+    ],
+    "file": "mantar.webp"
+  },
+  {
+    "recipe": "domates",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      850,
+      4,
+      1118,
+      249
+    ],
+    "file": "domates.webp"
+  },
+  {
+    "recipe": "tavuk",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      4,
+      257,
+      279,
+      509
+    ],
+    "file": "tavuk.webp"
+  },
+  {
+    "recipe": "kebap",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      287,
+      257,
+      559,
+      509
+    ],
+    "file": "kebap.webp"
+  },
+  {
+    "recipe": "balik",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      567,
+      257,
+      842,
+      509
+    ],
+    "file": "balik.webp"
+  },
+  {
+    "recipe": "risotto",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      850,
+      257,
+      1118,
+      509
+    ],
+    "file": "risotto.webp"
+  },
+  {
+    "recipe": "sutlac",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      4,
+      517,
+      279,
+      766
+    ],
+    "file": "sutlac.webp"
+  },
+  {
+    "recipe": "muhallebi",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      287,
+      517,
+      559,
+      766
+    ],
+    "file": "muhallebi.webp"
+  },
+  {
+    "recipe": "sufle",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      567,
+      517,
+      842,
+      766
+    ],
+    "file": "sufle.webp"
+  },
+  {
+    "recipe": "meyve",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      850,
+      517,
+      1118,
+      766
+    ],
+    "file": "meyve.webp"
+  },
+  {
+    "recipe": "ezogelin",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      4,
+      774,
+      279,
+      1024
+    ],
+    "file": "ezogelin.webp"
+  },
+  {
+    "recipe": "tarhana",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      287,
+      774,
+      559,
+      1024
+    ],
+    "file": "tarhana.webp"
+  },
+  {
+    "recipe": "kabakcorba",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      567,
+      774,
+      842,
+      1024
+    ],
+    "file": "kabakcorba.webp"
+  },
+  {
+    "recipe": "sebzecorba",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      850,
+      774,
+      1118,
+      1024
+    ],
+    "file": "sebzecorba.webp"
+  },
+  {
+    "recipe": "kofte",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      4,
+      1032,
+      279,
+      1398
+    ],
+    "file": "kofte.webp"
+  },
+  {
+    "recipe": "guvec",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      287,
+      1032,
+      559,
+      1398
+    ],
+    "file": "guvec.webp"
+  },
+  {
+    "recipe": "dolma",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      567,
+      1032,
+      842,
+      1398
+    ],
+    "file": "dolma.webp"
+  },
+  {
+    "recipe": "makarna",
+    "source": "food-v37-0.webp",
+    "bounds": [
+      850,
+      1032,
+      1118,
+      1398
+    ],
+    "file": "makarna.webp"
+  },
+  {
+    "recipe": "sebzetabak",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      4,
+      4,
+      281,
+      271
+    ],
+    "file": "sebzetabak.webp"
+  },
+  {
+    "recipe": "turlu",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      289,
+      4,
+      560,
+      271
+    ],
+    "file": "turlu.webp"
+  },
+  {
+    "recipe": "revani",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      568,
+      4,
+      836,
+      271
+    ],
+    "file": "revani.webp"
+  },
+  {
+    "recipe": "tart",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      844,
+      4,
+      1118,
+      271
+    ],
+    "file": "tart.webp"
+  },
+  {
+    "recipe": "puding",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      4,
+      279,
+      281,
+      538
+    ],
+    "file": "puding.webp"
+  },
+  {
+    "recipe": "krep",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      289,
+      279,
+      560,
+      538
+    ],
+    "file": "krep.webp"
+  },
+  {
+    "recipe": "irmik",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      568,
+      279,
+      836,
+      538
+    ],
+    "file": "irmik.webp"
+  },
+  {
+    "recipe": "cheesecake",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      844,
+      279,
+      1118,
+      538
+    ],
+    "file": "cheesecake.webp"
+  },
+  {
+    "recipe": "brokoli",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      4,
+      546,
+      281,
+      805
+    ],
+    "file": "brokoli.webp"
+  },
+  {
+    "recipe": "tavukcorba",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      289,
+      546,
+      560,
+      805
+    ],
+    "file": "tavukcorba.webp"
+  },
+  {
+    "recipe": "pirasa",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      568,
+      546,
+      836,
+      805
+    ],
+    "file": "pirasa.webp"
+  },
+  {
+    "recipe": "hunkar",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      844,
+      546,
+      1118,
+      805
+    ],
+    "file": "hunkar.webp"
+  },
+  {
+    "recipe": "manti",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      4,
+      813,
+      281,
+      1068
+    ],
+    "file": "manti.webp"
+  },
+  {
+    "recipe": "musakka",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      289,
+      813,
+      560,
+      1068
+    ],
+    "file": "musakka.webp"
+  },
+  {
+    "recipe": "pilav",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      568,
+      813,
+      836,
+      1068
+    ],
+    "file": "pilav.webp"
+  },
+  {
+    "recipe": "pide",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      844,
+      813,
+      1118,
+      1068
+    ],
+    "file": "pide.webp"
+  },
+  {
+    "recipe": "brownie",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      4,
+      1076,
+      281,
+      1398
+    ],
+    "file": "brownie.webp"
+  },
+  {
+    "recipe": "asure",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      289,
+      1076,
+      560,
+      1398
+    ],
+    "file": "asure.webp"
+  },
+  {
+    "recipe": "kurabiye",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      568,
+      1076,
+      836,
+      1398
+    ],
+    "file": "kurabiye.webp"
+  },
+  {
+    "recipe": "kabaktatli",
+    "source": "food-v37-1.webp",
+    "bounds": [
+      844,
+      1076,
+      1118,
+      1398
+    ],
+    "file": "kabaktatli.webp"
+  }
+]

@@ -1,0 +1,248 @@
+{
+  "version": 511,
+  "alpha_bbox_threshold": 32,
+  "layout": "4 columns x 2 rows; row boundary y540",
+  "items": [
+    {
+      "id": "female-adult",
+      "rect": [
+        150,
+        15,
+        171,
+        525
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "female-mature",
+      "rect": [
+        507,
+        14,
+        171,
+        524
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "female-hijab-navy",
+      "rect": [
+        868,
+        16,
+        174,
+        522
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "female-hijab-beige",
+      "rect": [
+        1231,
+        13,
+        182,
+        521
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "male-adult",
+      "rect": [
+        136,
+        540,
+        182,
+        479
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "male-senior",
+      "rect": [
+        496,
+        543,
+        184,
+        477
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "male-bearded",
+      "rect": [
+        866,
+        544,
+        185,
+        476
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    },
+    {
+      "id": "male-curly",
+      "rect": [
+        1236,
+        543,
+        191,
+        476
+      ],
+      "size": [
+        1536,
+        1024
+      ],
+      "asset": "games/sefler-arenasi/assets/aprons-red511.webp",
+      "facing": "right",
+      "pose": "standing",
+      "wornApron": true,
+      "color": "red",
+      "alphaMask": {
+        "asset": "games/sefler-arenasi/assets/aprons-white511.webp",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "alpha",
+        "requiredFor": [
+          "red",
+          "blue"
+        ]
+      }
+    }
+  ],
+  "alpha_bbox_basis": "approved white atlas; exact shared coordinates"
+}

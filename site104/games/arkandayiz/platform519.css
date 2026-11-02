@@ -1,0 +1,6 @@
+html[data-arena-game="arkandayiz"] body #app>.arka-platform-v67 .arka-friends-v67.arka-support519{display:block!important;left:43%!important;right:33%!important;top:26%!important;height:48%!important;z-index:4!important}
+.arka-support519>img{display:block!important;width:100%!important;height:100%!important;object-fit:contain!important;position:absolute;inset:0;pointer-events:none}
+.arka-names519{position:absolute;left:43%;right:33%;top:51%;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:2px;z-index:9}
+.arka-names519 strong{background:#172640e8;border-radius:5px;padding:3px 0;text-align:center;color:white;font:600 clamp(6px,.7vw,10px)/1.2 system-ui;overflow-wrap:anywhere}
+html[data-arena-game="arkandayiz"] body #app>.arka-platform-v67 .arka-desk-v67{left:43%!important;right:33%!important;top:47%!important;height:3%!important;z-index:5!important}
+html[data-arena-game="arkandayiz"] body #app>.arka-platform-v67 .arka-desk-v67:before,html[data-arena-game="arkandayiz"] body #app>.arka-platform-v67 .arka-desk-v67:after{height:45px!important}

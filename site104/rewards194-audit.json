@@ -1,0 +1,456 @@
+{
+  "reviewedAt": "2026-10-23",
+  "policy": "Sanal oyun ödül planları; TÜFE ile birebir endekslenmiş veya resmî TV güncel ödülü olduğu iddia edilmez. Mevcut ürün tahmin verileri ve yabancı para formatları ayrı tutulur.",
+  "games": [
+    {
+      "id": "son-karar",
+      "name": "Kim Milyoner Olmak İster?",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "kutu-karari",
+      "name": "Var Mısın Yok Musun?",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "para-kapani",
+      "name": "1 Milyon Canlı Para",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "sepetini-koru",
+      "name": "Şansa Davet",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "alan-hakimi",
+      "name": "Alan",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "guven-cizgisi",
+      "name": "Güven Bana",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "esim-yapar",
+      "name": "Ben Bilmem Eşim Bilir",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "aile-meydani",
+      "name": "Aileler Yarışıyor",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "ada-mucadelesi",
+      "name": "Survivor",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "risk-meydani",
+      "name": "Büyük Risk",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "halka-mucadelesi",
+      "name": "En Zayıf Halka",
+      "status": "updated",
+      "plan": "Gerçek oyun zinciri ve tur tavanı 1.000.000 TL ile eşleştirildi"
+    },
+    {
+      "id": "kelime-carki",
+      "name": "Çarkıfelek",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "kelime-islem",
+      "name": "Bir Kelime Bir İşlem",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "harf-cemberi",
+      "name": "Passaparola",
+      "status": "updated",
+      "plan": "Tam tur 5.000.000 TL; doğru 5.000, yanlış −1.250 TL"
+    },
+    {
+      "id": "sofra-rekabeti",
+      "name": "Yemekteyiz",
+      "status": "updated",
+      "plan": "Hafta birinciliği 500.000 TL, eşitlikte bölüşülür"
+    },
+    {
+      "id": "sefler-arenasi",
+      "name": "MasterChef Türkiye",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "altin-sofra",
+      "name": "Gelinim Mutfakta",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "kelime-meydani",
+      "name": "Kelime Oyunu",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "altmis-saniye",
+      "name": "Kazanmak İçin 1 Dakika",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "yetenek-sahnesi",
+      "name": "Yetenek Sizsiniz Türkiye",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "donen-koltuklar",
+      "name": "O Ses Türkiye",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "ortak-kasa",
+      "name": "Kim Gitsin?",
+      "status": "updated",
+      "plan": "Etap tutarları birlikte güncellendi; işlem merdiveni 1.000.000 TL"
+    },
+    {
+      "id": "lingo-meydani",
+      "name": "Lingo Türkiye",
+      "status": "updated",
+      "plan": "Tur ödül katsayısı 5.000 TL; süper final ek ödülü 750.000 TL"
+    },
+    {
+      "id": "kapi-kapanmadan",
+      "name": "Kapanmadan Kazan",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "sansli-masa",
+      "name": "Şanslı Masa",
+      "status": "updated",
+      "plan": "5 aşama: 50.000 → 100.000 → 250.000 → 500.000 → 1.000.000 TL"
+    },
+    {
+      "id": "password",
+      "name": "Password",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "kismet-locasi",
+      "name": "Zuhal Topal’la İzdivaç",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "beyazla-joker",
+      "name": "Beyaz’la Joker",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "iste-benim-stilim",
+      "name": "İşte Benim Stilim",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "cevap-soruda",
+      "name": "Cevap Soruda",
+      "status": "updated",
+      "plan": "Finalde devam 1.000.000, çekilme 200.000 TL"
+    },
+    {
+      "id": "milyoner-aile",
+      "name": "Milyoner Aile",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "utopya",
+      "name": "Ütopya",
+      "status": "updated",
+      "plan": "12.500 TL ortak kasa; üretim ve erzak birlikte güncellendi"
+    },
+    {
+      "id": "saba-ile-oyuna-geldik",
+      "name": "Saba ile Oyuna Geldik",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "altin-petek",
+      "name": "Altın Petek",
+      "status": "updated",
+      "plan": "15 basamak, en yüksek 5.000.000 TL"
+    },
+    {
+      "id": "eyvah-dusuyorum",
+      "name": "Mehmet Ali Erbil ile Eyvah Düşüyorum",
+      "status": "updated",
+      "plan": "Ödül destesi 12.500–125.000; büyük ödül 1.250.000 TL"
+    },
+    {
+      "id": "super-bulmaca",
+      "name": "Süper Bulmaca",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "takip",
+      "name": "Takip",
+      "status": "updated",
+      "plan": "Doğru başına 25.000 TL, yüksek teklif ek değeri 250.000 TL"
+    },
+    {
+      "id": "sebeke",
+      "name": "Şebeke",
+      "status": "updated",
+      "plan": "Hikâye sonu sanal ödül 500.000 TL"
+    },
+    {
+      "id": "tuhaf-taksi",
+      "name": "Tuhaf Taksi",
+      "status": "updated",
+      "plan": "Soru ödülleri 25.000 /50.000 /75.000 /125.000 /250.000 TL; görev ve animasyonlar değişmedi"
+    },
+    {
+      "id": "turnike",
+      "name": "Turnike",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "ben-bilirim",
+      "name": "Ben Bilirim",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "piramit",
+      "name": "Piramit",
+      "status": "updated",
+      "plan": "50.000 →125.000 →250.000 →500.000 →1.250.000 TL"
+    },
+    {
+      "id": "ucte-uc",
+      "name": "3’te 3",
+      "status": "updated",
+      "plan": "50.000 → 200.000 → 600.000 → 2.000.000 → 5.000.000 TL"
+    },
+    {
+      "id": "kumbara",
+      "name": "Ali İhsan Varol ile Kumbara",
+      "status": "updated",
+      "plan": "Etapta doğru başına 5.000 / 25.000 / 50.000 / 250.000 / 500.000 TL"
+    },
+    {
+      "id": "kizlar-ve-anneleri",
+      "name": "Kızlar ve Anneleri",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "ilk-bulusma",
+      "name": "İlk Buluşma",
+      "status": "updated",
+      "plan": "5 aşama: 50.000 → 100.000 → 250.000 → 500.000 → 1.000.000 TL"
+    },
+    {
+      "id": "telefon-kulubesi",
+      "name": "Telefon Kulübesi",
+      "status": "updated",
+      "plan": "5 görev sonunda 1.000.000 TL"
+    },
+    {
+      "id": "cifte-milyon",
+      "name": "Çifte Milyon",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "yaparsin-askim",
+      "name": "Yaparsın Aşkım",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "hepsi-benim",
+      "name": "Hepsi Benim",
+      "status": "updated",
+      "plan": "Olsa Olsa 25.000; balon 25.000 +75.000; 5 kablo 125.000 TL"
+    },
+    {
+      "id": "on-dokuz",
+      "name": "19",
+      "status": "updated",
+      "plan": "Günlük 1.000.000 TL"
+    },
+    {
+      "id": "sahane-pazar",
+      "name": "Şahane Pazar",
+      "status": "reviewed-points-or-product-format",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "bak-su-duvara",
+      "name": "Bak Şu Duvara",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "cember",
+      "name": "Çember",
+      "status": "updated",
+      "plan": "Ortak başlangıç kasası 1.000.000 TL"
+    },
+    {
+      "id": "gonder-gitsin",
+      "name": "Gönder Gitsin",
+      "status": "updated",
+      "plan": "25.000 → 75.000 →125.000 →250.000 →400.000 →600.000 →1.000.000 →2.000.000 →3.000.000 →5.000.000 TL; finalde doğru başına %7,5"
+    },
+    {
+      "id": "temizlik-benim-isim",
+      "name": "Temizlik Benim İşim",
+      "status": "updated",
+      "plan": "Hafta birincisi 250.000 TL"
+    },
+    {
+      "id": "goz6",
+      "name": "Göz6",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "evim-sahane",
+      "name": "Evim Şahane",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "elli-sarisin",
+      "name": "50 Sarışın",
+      "status": "updated",
+      "plan": "Yedişerli basamaklar, son rakipte ikiye katlama, 5.000.000 sanal TL finali; revision195."
+    },
+    {
+      "id": "milyonluk-resim",
+      "name": "Milyonluk Resim",
+      "status": "updated",
+      "plan": "revision200: Fotoğraftaki 12 basamak, tarihî tutarların5katı; büyük ödül5m; satın alma net çarpanı0,75."
+    },
+    {
+      "id": "bir-iceri-bir-disari",
+      "name": "Bir İçeri Bir Dışarı",
+      "status": "updated",
+      "plan": "revision200: Kullanıcı isteği10.000 başlangıç; görseldeki para kartları, ×5/×2, bölme/İflas; kalan üst hedef gerçek işlemlerle hesaplanır."
+    },
+    {
+      "id": "cevap-sende",
+      "name": "Cevap Sende",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "the-taste-turkiye",
+      "name": "The Taste Türkiye",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "kendi-dusen-aglamaz",
+      "name": "Kendi Düşen Ağlamaz",
+      "status": "updated",
+      "plan": "5.000.000 TL başlangıç"
+    },
+    {
+      "id": "siradaki-gelsin",
+      "name": "Sıradaki Gelsin",
+      "status": "updated",
+      "plan": "52 tüplü birikimli kasa; 70 dakika lider koltuğu; final +500.000; ek sürede −5.000/sn."
+    },
+    {
+      "id": "herkes-kazanir",
+      "name": "Herkes Kazanır",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    },
+    {
+      "id": "arkandayiz",
+      "name": "Arkandayız",
+      "status": "updated",
+      "plan": "250.000 TL başlangıç"
+    },
+    {
+      "id": "anlasma",
+      "name": "Anlaşma",
+      "status": "updated",
+      "plan": "Soru taban değeri 50.000 TL"
+    },
+    {
+      "id": "yasim-kac",
+      "name": "Yaşım Kaç?",
+      "status": "updated",
+      "plan": "5.000.000 TL kasa; isabet 50.000, kesintiler 50.000–300.000 TL"
+    },
+    {
+      "id": "para-odasi",
+      "name": "Para Odası",
+      "status": "updated",
+      "plan": "Kutular 12.500–500.000 TL"
+    },
+    {
+      "id": "kizma-kazan",
+      "name": "Kızma Kazan",
+      "status": "updated",
+      "plan": "Şaka başına 50.000, toplam 250.000 TL"
+    },
+    {
+      "id": "sans-kapida",
+      "name": "Şans Kapıda",
+      "status": "updated",
+      "plan": "Soru ödülleri 12.500 /25.000 /62.500 TL"
+    },
+    {
+      "id": "kapis-kapis",
+      "name": "Kapış Kapış",
+      "status": "updated",
+      "plan": "Hediye değerleri 15.000–75.000 TL"
+    },
+    {
+      "id": "gel-hemserim",
+      "name": "Gel Hemşerim",
+      "status": "updated",
+      "plan": "Dört çark finali 1.250.000 TL"
+    },
+    {
+      "id": "para-bende",
+      "name": "Para Bende",
+      "status": "reviewed-existing-money",
+      "plan": "Mevcut ölçek veya puan/ürün formatı korundu; tarihsel program tutarları oyun ödülü değildir."
+    }
+  ]
+}

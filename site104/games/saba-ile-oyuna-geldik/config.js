@@ -1,0 +1,1 @@
+window.GAME318={"name": "Saba ile Oyuna Geldik", "rules": "İki dörder kişilik takım. Alın Yazısı, Resmen Ünlü, Lay Lay Lom, Bas Basabilirsen, Kime Patlasam ve ünlü tahmin finali. İpuçlarından isim bul, harfleri birleştir, melodiyi çal ve tepki düellosunda doğru anı bekle."};

@@ -1,4 +1,4 @@
-name: Publish Sites 104
+name: Publish Yarışma Atölyesi
 on:
   workflow_dispatch:
   push:
@@ -6,36 +6,28 @@ on:
     paths:
       - '.github/workflows/publish104.yml'
       - 'migration104/**'
+      - 'site104/**'
 permissions:
   contents: read
 concurrency:
   group: github-pages
   cancel-in-progress: true
 jobs:
-  snapshot:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
+      - name: Checkout verified source
         uses: actions/checkout@v6
-      - name: Copy and verify the exact published Sites104 snapshot
-        run: python3 -c "from pathlib import Path; assert Path('site104/index.html').is_file(), 'Waiting for verified local snapshot upload'"
-      - name: Preserve verified game files in this repository
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- site104
-          if ! git diff --cached --quiet; then
-            git commit -m 'Preserve verified Sites104 game snapshot [skip ci]'
-            git push origin HEAD:main
-          fi
-      - name: Upload only the current game site
+        with:
+          persist-credentials: false
+      - name: Verify complete Sites104 snapshot
+        run: python3 migration104/verify_snapshot.py
+      - name: Upload current game site only
         uses: actions/upload-pages-artifact@v4
         with:
           path: site104
   deploy:
-    needs: snapshot
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -46,6 +38,6 @@ jobs:
     steps:
       - name: Configure Pages
         uses: actions/configure-pages@v5
-      - name: Deploy verified Sites104
+      - name: Deploy verified site
         id: deployment
         uses: actions/deploy-pages@v4

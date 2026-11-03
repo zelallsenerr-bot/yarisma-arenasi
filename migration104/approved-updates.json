@@ -205,14 +205,14 @@
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "games/kelime-carki/app.js": {
-    "sha": "593927990a65f7f8173261101440d71a709c82ca",
-    "size": 22999,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "0acbf4ef4a8d7828ec9be38b113ab80c9753f5c9",
+    "size": 23158,
+    "reason": "Ensure contextual setup fields remain hidden under the shared game theme"
   },
   "games/kelime-carki/index.html": {
-    "sha": "158dcbc1318afe0cd13ea92741516b2c411befe0",
+    "sha": "3b6fc5f3bf7fab8ccab0d89094e264d05d14777d",
     "size": 5305,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "reason": "Ensure contextual setup fields remain hidden under the shared game theme"
   },
   "games/kelime-islem/index.html": {
     "sha": "d831e5bc058f946d2f78d82fafe47f0d97e728ce",

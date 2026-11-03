@@ -1,13 +1,13 @@
 {
   "index.html": {
-    "sha": "e292116b5f7542fef8b1effb5781f64e74548ba8",
+    "sha": "dba26037c2882b04596de73e79e6a69c9f43743a",
     "size": 6103,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "app.js": {
-    "sha": "23a40c57e4520ae750e3b621837afcecb6f018e4",
-    "size": 16234,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "884fcc02d10dda68903a1ca2e9dbc3849a0ea75b",
+    "size": 16301,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "privacy.html": {
     "sha": "b7fee227a51d3397e6cc0e7c13c63de221ec013e",
@@ -20,14 +20,14 @@
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "games/son-karar/app.js": {
-    "sha": "2ec7504b1ff123dc3bdb2a661a13b9a0e3048f6b",
-    "size": 52324,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "5be1187348e71190c1683f84318c1aff2260fbba",
+    "size": 52588,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/son-karar/index.html": {
-    "sha": "f1d27c04f3ef5c0b3b07d5b077a6220660c5041a",
-    "size": 6439,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "11137cccb84ab1ba253eec3344dc7e304a1a1381",
+    "size": 6653,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "online/index.html": {
     "sha": "c4ba5a3ea0c0b9242ce38802f9d25fa0ca0430f7",
@@ -40,169 +40,169 @@
     "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
   },
   "games/ada-mucadelesi/index.html": {
-    "sha": "1519d6195ac50fa3d4b429f07f1b1cd94c0cc775",
-    "size": 6029,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "d9b60be020f1c0d7a4110cdb1ae1975f6d51536d",
+    "size": 6145,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/aile-meydani/index.html": {
-    "sha": "17de52a498da8a2b720bacd6e6a047f4f33f38f3",
-    "size": 5218,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "bd8e069aab88cc701a45231b3b57b2d36d6cf24b",
+    "size": 5334,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/alan-hakimi/index.html": {
-    "sha": "01dcbc0a89b314882d0c7d75d58bc68b83e5f317",
-    "size": 5642,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "7c86f0e6892ee2235d03ea519109ac9ae93fe108",
+    "size": 5758,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/altin-petek/index.html": {
-    "sha": "e29f71173489c7b3ebcd3cdefe6b90633324eb38",
-    "size": 5126,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "85e0fb30cf0eab5ab1650620b86ba18a842e9ff3",
+    "size": 5242,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/altin-sofra/index.html": {
-    "sha": "0a5e31e83b96a8c291b7e3a93523877eca91fb07",
-    "size": 5389,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "0cac266f9042911794a3f6afcf5650be9a768608",
+    "size": 5505,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/altmis-saniye/index.html": {
-    "sha": "3ade6b1cb22b748ee84e284da8c3f96e61f6270a",
-    "size": 5245,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "516c630ea765fe9c746c19f486101034b3283be2",
+    "size": 5361,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/anlasma/index.html": {
-    "sha": "1d7aa517dc7319a7c6e2f08ef494844e30d131b6",
-    "size": 5215,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "49ae0812f5a8583075b3d4728592ac26c24e7bed",
+    "size": 5331,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/arkandayiz/index.html": {
-    "sha": "874e7455d35fee046fa076c7361cb5a050f77be7",
-    "size": 5249,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "8c33be9225b5b59dfaf913eedb0096050a448a2f",
+    "size": 5365,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/bak-su-duvara/index.html": {
-    "sha": "685829bb2bcdb2e62b2e111463b31ce5ecc9f66e",
-    "size": 4929,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "4bb52282191efc370297b0a7ef3669714cb088bd",
+    "size": 5045,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/ben-bilirim/index.html": {
-    "sha": "908a44d74ac550bbf0eec22b9767f6687b1df58e",
-    "size": 5178,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "631e1b490b5cb29e759c9b1f40369c73e08ccbf2",
+    "size": 5294,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/beyazla-joker/index.html": {
-    "sha": "7362760f9d2e3d5151c8080334bbc5cffcd37f0f",
-    "size": 5251,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "e61dd0db9a3e223cc718a43050a91a720067bfc4",
+    "size": 5367,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/bir-iceri-bir-disari/index.html": {
-    "sha": "7663af58ad7161807973c0df1e2e400deefbbadd",
-    "size": 4689,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "b3080e7ca17383185041d3b26fd78d1c682944bc",
+    "size": 4805,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/cember/index.html": {
-    "sha": "52a4d73689a2ccaae77bd35c11136f69691e3959",
-    "size": 5068,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "a54a3035642b3a81407f2db83d9d1b0779828127",
+    "size": 5184,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/cevap-sende/index.html": {
-    "sha": "68d70b286190414ae4cc5b8d7a293dbf7b159661",
-    "size": 5560,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "b83598e11e26a343ec21a0e62fec2c9e28bb0bc0",
+    "size": 5676,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/cevap-soruda/index.html": {
-    "sha": "08c3196406512a49ce8050c02a4bf1c73c2e21ae",
-    "size": 5380,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "9d4524dd7e919ea39b95bc3993f81fc3cc01b0ae",
+    "size": 5496,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/cifte-milyon/index.html": {
-    "sha": "c26d33e153128b6eb811863a00bf854bc57a0da9",
-    "size": 5452,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "1a6b34e78d370139a48d3db6a216461ef6f6fdba",
+    "size": 5568,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/donen-koltuklar/index.html": {
-    "sha": "24dbaeef326db62f397e14962a9c14782a00e47a",
-    "size": 5565,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "ef622a25ed1e75cf986bf36766cbb3f4ec487355",
+    "size": 5681,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/elli-sarisin/index.html": {
-    "sha": "6216c1e8d4c3678543607bcc76050a4e596c6d43",
-    "size": 5490,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "e755e7c23bcaff7b7a5c8265983352296c7e3add",
+    "size": 5606,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/esim-yapar/index.html": {
-    "sha": "3f85df03bf016ce8b9d0c02aee2fceb8d111da52",
-    "size": 5533,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "e5e1037f48af5d6dadbf54e97d11ae2101ec8bc7",
+    "size": 5649,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/evim-sahane/index.html": {
-    "sha": "db2bbba97523c2202b4ac807edf63ad4c62db328",
-    "size": 5165,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "6ea6e0eeb5dc9954f2a898fb9504217754f50f83",
+    "size": 5281,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/eyvah-dusuyorum/index.html": {
-    "sha": "a153ac33707c99469319dc4c79b05410138becdb",
-    "size": 6195,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "58277f0f2291f1070dcab774f0200181d9c56ac9",
+    "size": 6409,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/gel-hemserim/index.html": {
-    "sha": "0934fd5634a3bbb62fbbf0fb03d808f0046cbaf8",
-    "size": 4943,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "a6fdde3bd23de4fb21c5a61529ef057705787d8d",
+    "size": 5059,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/gonder-gitsin/index.html": {
-    "sha": "7286fc7beb1206090edbfb8ea2bf587e6d0942b7",
-    "size": 5037,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "18c19f9cf976aa2a3cea5ab953dc2d01695930c6",
+    "size": 5153,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/goz6/index.html": {
-    "sha": "7addfac832756a4b0ff7badc1a624435405f3646",
-    "size": 4873,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "20bfc2867dc81217c22f46b1facd4ffcc957186d",
+    "size": 4989,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/guven-cizgisi/index.html": {
-    "sha": "68618dce19644dcb47a7d8be53527f16fc8a3c43",
-    "size": 5444,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "d085f424871b778fd274c585b58cc59ed3a1e975",
+    "size": 5560,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/halka-mucadelesi/index.html": {
-    "sha": "fd38139d0982178899aa80f336b8d96a8fb3e7d9",
-    "size": 5395,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "6045e3dc183edcc3b19aa8d1eb87a369976d9204",
+    "size": 5511,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/harf-cemberi/index.html": {
-    "sha": "023775781cc72d838c9ec1205d8cf4c9b8c0f6a0",
-    "size": 5368,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "b655cf8f51ea7282342e3681d452d0859da9245b",
+    "size": 5484,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/hepsi-benim/index.html": {
-    "sha": "6bd15601e822f92fe2aed31c705a880eafce22ca",
-    "size": 5020,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "194781311060ce90db8d8efac1fde892c39b165b",
+    "size": 5136,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/herkes-kazanir/index.html": {
-    "sha": "9027328d63b0c356e580f6cbfc3ab97b9bd8c6b6",
-    "size": 5176,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "b48d715bd4cc26a04235a95f70a9ae7dea824287",
+    "size": 5292,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/ilk-bulusma/index.html": {
-    "sha": "c997e136167f1bd3963980fa4f980ff4af9b26fb",
-    "size": 5251,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "1e80d4646f835e53a44072796c68dd532862e57e",
+    "size": 5367,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/iste-benim-stilim/index.html": {
-    "sha": "8176ce460c0095db06853768e558f7cf9f3e221e",
-    "size": 5028,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "56e71a47c7044079327d474a21ccd18093bb9291",
+    "size": 5144,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kapi-kapanmadan/index.html": {
-    "sha": "7626ef2a39595ec62f474e810faed86288caa551",
-    "size": 5177,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "7767db987d80c5d3fc95681d6f2a5c8737d386d0",
+    "size": 5293,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kapis-kapis/index.html": {
-    "sha": "6083eaaf3ddeaea990d24d8f2ae4d992b81db46e",
-    "size": 4902,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "0dbc484e518e9d8f2c2bdae74384fe8091cce906",
+    "size": 5018,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kelime-carki/app.js": {
     "sha": "0acbf4ef4a8d7828ec9be38b113ab80c9753f5c9",
@@ -210,218 +210,253 @@
     "reason": "Ensure contextual setup fields remain hidden under the shared game theme"
   },
   "games/kelime-carki/index.html": {
-    "sha": "3b6fc5f3bf7fab8ccab0d89094e264d05d14777d",
-    "size": 5305,
-    "reason": "Ensure contextual setup fields remain hidden under the shared game theme"
+    "sha": "f62f9420d3451c0a40a33918746376099ea2fd11",
+    "size": 5421,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kelime-islem/index.html": {
-    "sha": "d831e5bc058f946d2f78d82fafe47f0d97e728ce",
-    "size": 5384,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "3baf5a58487931a74d0accf7e4043aef8a64f79c",
+    "size": 5500,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kelime-meydani/index.html": {
-    "sha": "8cfab33715de13578bd1824c02f00c4916b0643f",
-    "size": 5361,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "75a703442ea924293444e8fe0baf3c7c3114bda6",
+    "size": 5477,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kendi-dusen-aglamaz/index.html": {
-    "sha": "d16bae2268b0ac74b8e4706012919c028682fbb1",
-    "size": 5775,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "3a482d255ad1138d8e988f91969b7bebd8986a72",
+    "size": 5891,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kismet-locasi/index.html": {
-    "sha": "9f897a1e83a8ce6df1193dfa9edac5e0ce4cbe13",
-    "size": 5126,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "126c72e390046d0f850c74bdf4fe7927a523ad8f",
+    "size": 5242,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kizlar-ve-anneleri/index.html": {
-    "sha": "503b2fc407f5cdf887a6ffe6da47cd7b092a70ec",
-    "size": 5065,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "3d50af534bbcaa950c7a93376d1870267419cee5",
+    "size": 5181,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kizma-kazan/index.html": {
-    "sha": "d755cf744fc842c438087ec5b1cf3189ff18e35f",
-    "size": 4986,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "eec68e36066c48650d43d7d936db0c3dacb21554",
+    "size": 5102,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kumbara/index.html": {
-    "sha": "ac3d43b6756207f2927c165c483b9c75e044509b",
-    "size": 5465,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "4ddc944dbca0278705dd05ab1dd458134b7bf77e",
+    "size": 5581,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kutu-karari/index.html": {
-    "sha": "dffc03d9ca7b50c224ea28b6d935789bdc514c6a",
-    "size": 5906,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "0284d8941967c52ba69a956fc1034d739ea0152a",
+    "size": 6120,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/lingo-meydani/index.html": {
-    "sha": "45bdd3dc874370eb7d51af09a245a0be82456e05",
-    "size": 5041,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "ea39ed3d09e982b4d2f6e94936e721aff7f61a09",
+    "size": 5157,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/index.html": {
-    "sha": "99483bab0d85fdf5a4b382db42c9662654ca329b",
-    "size": 5421,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "2afe818de06a9311852213ac3a1ae1bd7e93cb01",
+    "size": 5625,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyonluk-resim/index.html": {
-    "sha": "735dc7b1df218eb4a3d8fa3e6605c4cd4bcd71d6",
-    "size": 5045,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "4b10d41f2b070347420a563da74ece1d4c6ef19a",
+    "size": 5161,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/on-dokuz/index.html": {
-    "sha": "70fc5e3c4f0a783eff4a1323cb008d85b59b7455",
-    "size": 5284,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "0cd110945f8733057ed191fe22c3605132b1511a",
+    "size": 5400,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/ortak-kasa/index.html": {
-    "sha": "a0330bd51910600d4efcc02c5c0919f1d0e7839a",
-    "size": 5311,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "068dfd21a04758ec4867053ca36d312a10207faf",
+    "size": 5427,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/para-bende/index.html": {
-    "sha": "01e1ece21673838ebcebd62559e23d2d5d4c2422",
-    "size": 4983,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "93aa2a6bc4657d37b76bc224877bd1e71a9e8934",
+    "size": 5099,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/para-kapani/index.html": {
-    "sha": "65b19bb29387e7338f5f2b6d63ae3302e51854e1",
-    "size": 6119,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "d3ad2295012a0f09b63f0d31e990cdd353d52684",
+    "size": 6235,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/para-odasi/index.html": {
-    "sha": "19d2276d2ec916848b235f06e77e02882fbce10c",
-    "size": 5237,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "ae6d094245560ab6f46c10b5fe97f66706d8207c",
+    "size": 5353,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/password/index.html": {
-    "sha": "325281d9c608b4b48e5391d2a10246506c88827f",
-    "size": 5338,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "f36baa8b2a87f0d4416bbdbe3e32371943e01cbf",
+    "size": 5454,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/piramit/index.html": {
-    "sha": "9e06e6049ff908327a0c6e20c0dee38ee00beb94",
-    "size": 5157,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "1826fbe5c3149776bbe8eb50df906dfd3ec2fe06",
+    "size": 5273,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/risk-meydani/index.html": {
-    "sha": "b587868351b5aaa084e51bfb162fc4b8018b503b",
-    "size": 5218,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "02bd49f5719c1f1cbb2db1a0b27d44a550329a41",
+    "size": 5334,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/saba-ile-oyuna-geldik/index.html": {
-    "sha": "6dcdbfe75269ecc0963565f0d4c939d2e839918c",
-    "size": 4964,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "ef0ea5a03b458d70578f0e4837f6a7a421f5f8b2",
+    "size": 5080,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sahane-pazar/index.html": {
-    "sha": "112c6a2965a28811e3ea122e16fe6ecf4d75433e",
-    "size": 5720,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "18067d65e300ab7c7839b8f6da22676dffa020d5",
+    "size": 5836,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sans-kapida/index.html": {
-    "sha": "70de96a2386e9ba8a6705b65012fd5f41dd61aad",
-    "size": 5158,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "fc2b418fedc841e719c90cd421c1ac3471393e0d",
+    "size": 5274,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sans-kapiyi-calinca/index.html": {
-    "sha": "cda42d9bde61bb5c904332910e6fa6f94e35922d",
-    "size": 4781,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "8cc54c8174ec36dde33cedfc5e1d6d0cf6d4c5a3",
+    "size": 4897,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sansli-masa/index.html": {
-    "sha": "e6eaa7f604e04b64b7705087e3510ffd4a8bf7af",
-    "size": 5008,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "71f1ae2d4a172e09f15ea1dc8017c22e2f766800",
+    "size": 5124,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sebeke/index.html": {
-    "sha": "42523084c66e82d0e204a0c9ae7469bd2f8e9674",
-    "size": 5118,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "6ad78adff57d02b133917d4e5aea2375a61addb1",
+    "size": 5234,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sefler-arenasi/index.html": {
-    "sha": "152ff3a00a55650508fb44306ca868c22d71904f",
-    "size": 5538,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "da6752e31ece00fa001dcace6a2b13341add519e",
+    "size": 5654,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sepetini-koru/index.html": {
-    "sha": "51cd71c367bb9cc1b885992cebab776b4091c687",
-    "size": 5884,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "6667dfa935fb47a6f570bd512afb2256c8012862",
+    "size": 6000,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/siradaki-gelsin/index.html": {
-    "sha": "d307bfe7e69029071e02931b68b98097aac47742",
-    "size": 5239,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "08d770415e11bdc018895b53a412bf6770f84a95",
+    "size": 5355,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sofra-rekabeti/index.html": {
-    "sha": "13a99be1b5becb5cdcce88eed2bd1a06a1c72cf7",
-    "size": 5605,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "05bde0f8f418c46d8e06fe2c4650d85554daa78c",
+    "size": 5721,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/super-bulmaca/index.html": {
-    "sha": "d6d3da4d2709ff8fdec11213eca9010d92bfc706",
-    "size": 5166,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "c6b9002ccf17321a2628439695068a2abdfedd17",
+    "size": 5282,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/takip/index.html": {
-    "sha": "9e143091a261a9fa6dcd1bddfd625a0cd17c7027",
-    "size": 5392,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "1195f80d24e47d27f10c79522c9943eaef5d32a1",
+    "size": 5508,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/telefon-kulubesi/index.html": {
-    "sha": "04a3ee3a917c29bb55f484b06cd06fc7cd96d452",
-    "size": 5364,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "67a40bf70ab3708e21df7cb7678436193a351dba",
+    "size": 5480,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/temizlik-benim-isim/index.html": {
-    "sha": "340c939e8c42ecd7b87b0be401952acfa5b3f2e9",
-    "size": 4938,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "d173dbfa8d90815921d7c7857928090efcf283fd",
+    "size": 5054,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/the-taste-turkiye/index.html": {
-    "sha": "cbc23869a6d339ae2d817c73f5e22eabc11b4690",
-    "size": 5190,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "c3ecbabd4fdabc7155d4ebef0209167ef1d87832",
+    "size": 5306,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/tuhaf-taksi/index.html": {
-    "sha": "ecf838a396e68d2b2d520a41886d38ddba007e55",
-    "size": 6146,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "b330d74c286d4a8be5f23aee80a02783010f5919",
+    "size": 6262,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/turnike/index.html": {
-    "sha": "3a25c63d82d438277b04fbf29537d305edc3544d",
-    "size": 5397,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "dd6cf225e4dd25e7cd3ac6da783e90c82eb42ab0",
+    "size": 5513,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/ucte-uc/index.html": {
-    "sha": "0a18c8fed2ce2f15806a4e8aa41f945d93feceec",
-    "size": 5642,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "b98ab9e212020433d0e703a97b946ca6d4d40bf3",
+    "size": 5758,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/utopya/index.html": {
-    "sha": "76402a6dadfc9dc15a5d5c65382015941e37b9a4",
-    "size": 5229,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "0c4933ae3b38c9f4d7d4502f567d0c1187998770",
+    "size": 5345,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/yaparsin-askim/index.html": {
-    "sha": "d7000c136ce54397fa1eb7c9d32d2286fb669689",
-    "size": 5014,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "e575c9eae84f50e48a22d6fb209e73169427d258",
+    "size": 5130,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/yasim-kac/index.html": {
-    "sha": "ee715f50e7bda393c49000abbd7984c01b57fe78",
-    "size": 4822,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "5e25a3303d8a88b5ef57aa9f7471d0e4239168fa",
+    "size": 4938,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/yetenek-sahnesi/index.html": {
-    "sha": "c3d56c1738808ecf87fcb864fb28ab01e97d3c28",
-    "size": 5955,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "f6ed8ed2baa990e20ddaeb700cb5a140aa2646d4",
+    "size": 6071,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "hub-profile568.js": {
     "sha": "e206567a170e3df03f894589ac2ea8e1579ff924",
     "size": 3240,
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/eyvah-dusuyorum/knowledge516.js": {
+    "sha": "c4180a00057f966390bce4f3813efab9cd2df26b",
+    "size": 28963,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "games/kutu-karari/app.js": {
+    "sha": "465829f5d92818071b5e153796077f0afff3d136",
+    "size": 31774,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "games/milyoner-aile/app.js": {
+    "sha": "04e7703b7ce3e0d17b84888f50ab988327d8918d",
+    "size": 18573,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "games/milyoner-aile/engine.js": {
+    "sha": "82c009f91e0bce95c5a76dc2394205ba6b788196",
+    "size": 11149,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "question-memory-v33.js": {
+    "sha": "f63f9969924f4c7f753830b8447729196f7085e1",
+    "size": 3362,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "studios211/integration.js": {
+    "sha": "f2c2af769e790271d9560550b5c0e9f7a55de56f",
+    "size": 4314,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "studios211/scene.js": {
+    "sha": "42058829d7eb68e8386ffdffd91aee4ffcb48024",
+    "size": 21404,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   }
 }

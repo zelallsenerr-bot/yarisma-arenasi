@@ -48,5 +48,25 @@
     "sha": "2b9660f3726b12bbd1e3d88274c1015d26f640a7",
     "size": 1142,
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "camera577.js": {
+    "sha": "403f8ad1c7c31ebe85acc57677f6c7c021782f15",
+    "size": 200,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "gameplay577.css": {
+    "sha": "4b83f349d285cb0b2a0ef7b1a95586e91b952934",
+    "size": 1837,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "question-wording577.js": {
+    "sha": "5531d2a4bab46c93b8902f0784178ea595772ee5",
+    "size": 1593,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "tutorial577.js": {
+    "sha": "bae5ef7963be3c055dfa1e5f80d5c2c4bf508243",
+    "size": 6068,
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   }
 }

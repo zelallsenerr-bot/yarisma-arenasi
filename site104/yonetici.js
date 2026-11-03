@@ -61,6 +61,25 @@
   catch(e){say(e.status===429?'E-posta gönderim kotası doldu. Şifreyle giriş yapabilir veya kota yenilenince tekrar deneyebilirsin.':'Giriş e-postası gönderilemedi.')}
   finally{setTimeout(()=>{$('emailLogin').disabled=false},60000)}
  };
+ $('setPasswordForm').addEventListener('submit',async e=>{
+  e.preventDefault();const a=$('newPassword'),b=$('repeatPassword'),status=$('passwordStatus');
+  if(a.value.length<12||a.value!==b.value){status.textContent='En az 12 karakter kullan ve iki alana aynı şifreyi yaz.';return}
+  if(!token||expires<=Date.now()){status.textContent='Önce yönetici hesabına giriş yapmalısın.';return}
+  $('setPasswordButton').disabled=true;status.textContent='Şifre kaydediliyor…';
+  try{
+   const res=await fetch(c.supabaseUrl+'/auth/v1/user',{method:'PUT',headers:{apikey:c.publishableKey,Authorization:'Bearer '+token,'Content-Type':'application/json'},body:JSON.stringify({password:a.value}),credentials:'omit',cache:'no-store',referrerPolicy:'no-referrer'});
+   if(!res.ok)throw new Error('Password update failed');
+   status.textContent='Yeni yönetici şifren kaydedildi. Sonraki girişlerde bu şifreyi kullanabilirsin.';
+  }catch(_){status.textContent='Şifre kaydedilemedi. Oturumun dolmuş veya yeniden doğrulama gerekmiş olabilir. Yeni bir şifre belirleme bağlantısıyla tekrar dene.'}
+  finally{a.value='';b.value='';$('setPasswordButton').disabled=false}
+ });
+ $('recoverPassword').onclick=async()=>{
+  if(!configured||!$('email').checkValidity()){$('email').reportValidity();return}
+  $('recoverPassword').disabled=true;
+  try{await request('/auth/v1/recover?redirect_to='+encodeURIComponent(location.origin+'/yonetici.html'),{email:$('email').value.trim()});say('Adres kayıtlıysa şifre belirleme bağlantısı gönderildi. E-postadan açıp panelde yeni şifreni belirle.')}
+  catch(e){say(e.status===429?'Supabase e-posta kotası henüz yenilenmedi. Doğrulama bağlantısıyla açtığın sekmede oturumun açıksa oradaki Şifre belirle alanını kullan. Oturum yoksa kota yenilenene kadar yeni bağlantı gönderilemez.':'Şifre belirleme e-postası gönderilemedi.')}
+  finally{setTimeout(()=>{$('recoverPassword').disabled=false},60000)}
+ };
  $('refresh').onclick=load;$('range').onchange=load;
  $('logout').onclick=async()=>{const t=token;clearSession();say('Çıkış yapıldı.');if(t)try{await fetch(c.supabaseUrl+'/auth/v1/logout',{method:'POST',headers:{apikey:c.publishableKey,Authorization:'Bearer '+t},credentials:'omit',referrerPolicy:'no-referrer'})}catch(_){}};
  function exclusion(){try{const on=localStorage.getItem('arena-metrics-exclude-v1')==='yes';$('excludeStatus').textContent=on?'Bu tarayıcı sayılmıyor. Başka cihazlarda ayrıca ayarlamalısın.':'Bu tarayıcı, izin verilirse sayılır.';$('exclude').textContent=on?'Bu tarayıcıyı yeniden say':'Bu tarayıcıyı sayma'}catch(_){$('excludeStatus').textContent='Tarayıcı tercihleri saklanamıyor.'}}

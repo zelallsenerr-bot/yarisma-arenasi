@@ -10,9 +10,9 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.html": {
-    "sha": "19486abe622a4c252cec6adbe3638320eb7287b4",
-    "size": 3848,
-    "reason": "Add password login so email delivery quota is not required for normal owner login"
+    "sha": "f9cb45f49ed555eba479cb26ac3f290fcb647d5e",
+    "size": 4584,
+    "reason": "Let authenticated owner set their own password; add recovery email option"
   },
   "yonetici.css": {
     "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",
@@ -20,8 +20,8 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.js": {
-    "sha": "4da76819cbb6fceb3cc274913d44d1f9ef0bfaa0",
-    "size": 7319,
-    "reason": "Add password login so email delivery quota is not required for normal owner login"
+    "sha": "2f4df011f433f871bd37940a2399bb1bf79834ff",
+    "size": 9288,
+    "reason": "Let authenticated owner set their own password; add recovery email option"
   }
 }

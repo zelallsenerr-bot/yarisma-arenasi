@@ -68,5 +68,25 @@
     "sha": "bae5ef7963be3c055dfa1e5f80d5c2c4bf508243",
     "size": 6068,
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "assets/family578/clips578.js": {
+    "sha": "add8948b5067a0921a8cfaba049ef943e5f368d7",
+    "size": 59299,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+  },
+  "assets/family578/manifest.json": {
+    "sha": "234a52391846725da1ba88ffa7fd36ce4c3eb203",
+    "size": 78792,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+  },
+  "assets/family578/sources.html": {
+    "sha": "c802ae1487dd3dde3620b465e37918e42fe052f7",
+    "size": 2659,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+  },
+  "family-media578.js": {
+    "sha": "00ba5b6959c5831896ee0a6c7a31d05388c35f73",
+    "size": 2173,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   }
 }

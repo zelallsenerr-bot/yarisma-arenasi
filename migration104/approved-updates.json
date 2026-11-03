@@ -1,13 +1,13 @@
 {
   "index.html": {
-    "sha": "dba26037c2882b04596de73e79e6a69c9f43743a",
+    "sha": "8c56570ccf5560490dfd91a81a364d1a82950b68",
     "size": 6103,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "app.js": {
-    "sha": "884fcc02d10dda68903a1ca2e9dbc3849a0ea75b",
+    "sha": "4aa93181673016954e5251f61b2981d5c81f0b83",
     "size": 16301,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "privacy.html": {
     "sha": "b7fee227a51d3397e6cc0e7c13c63de221ec013e",
@@ -30,9 +30,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "online/index.html": {
-    "sha": "c4ba5a3ea0c0b9242ce38802f9d25fa0ca0430f7",
-    "size": 5918,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "019680b30af03544eefa7c4ee888b1d4ac48ed5c",
+    "size": 6008,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "studio322.js": {
     "sha": "3e6d47f1439a90b1ed7e1b0a93c3b40ae4f18424",
@@ -260,9 +260,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/index.html": {
-    "sha": "2afe818de06a9311852213ac3a1ae1bd7e93cb01",
-    "size": 5625,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "91d6d0788003bfd600779e685e0489e02e78d2e1",
+    "size": 5743,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "games/milyonluk-resim/index.html": {
     "sha": "4b10d41f2b070347420a563da74ece1d4c6ef19a",
@@ -435,14 +435,14 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/app.js": {
-    "sha": "04e7703b7ce3e0d17b84888f50ab988327d8918d",
-    "size": 18573,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "0477a7bc278d948891a9d76e3b0a8864a34bf813",
+    "size": 20038,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "games/milyoner-aile/engine.js": {
-    "sha": "82c009f91e0bce95c5a76dc2394205ba6b788196",
-    "size": 11149,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "6f6523a974c8aa5ff7c63629d31318e4a642d324",
+    "size": 11132,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "question-memory-v33.js": {
     "sha": "f63f9969924f4c7f753830b8447729196f7085e1",
@@ -458,5 +458,15 @@
     "sha": "42058829d7eb68e8386ffdffd91aee4ffcb48024",
     "size": 21404,
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+  },
+  "online/client.js": {
+    "sha": "e949816da2288d69809167b7c0a23b4ee21d47ae",
+    "size": 31905,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+  },
+  "online/session.js": {
+    "sha": "35cf23443851b94643661a7bcfb6491bff753e97",
+    "size": 7222,
+    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   }
 }

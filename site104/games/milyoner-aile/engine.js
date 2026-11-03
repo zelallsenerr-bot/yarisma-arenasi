@@ -28,8 +28,13 @@ function deck(clips,rng=Math.random,excludeFiles=[]){
  // Planning a week must not consume its fourteen unplayed videos.
  return out;
 }
-function upgrade571(s,clips){if(!s||s.mediaRevision===573)return s;const live=clips.find(c=>c.id===s.deck?.[s.index]?.id),retired=!live||live.active573===false;const replaceCurrent=s.phase==='clipready'||(s.phase==='clip'&&retired);if(s.phase==='clip'&&retired){s.phase='clipready';s.clipTime=0;}const from=s.index+(replaceCurrent?0:1),exclude=s.deck.slice(0,from).map(mediaKey571),fresh=deck(clips,Math.random,exclude);for(let i=from;i<QUESTION_COUNT;i++)if(fresh[i-from])s.deck[i]=fresh[i-from];s.mediaRevision=573;return s;}
-function create(clips,teams=defaultTeams(),mode='bot',rng=Math.random){if(teams.length!==4||teams.some(t=>t.members.length!==4))throw Error('Dörder kişilik dört aile gerekli');return{version:363,mediaRevision:573,active:true,phase:'clipready',mode,week:1,index:0,deck:deck(clips,rng),teams:JSON.parse(JSON.stringify(teams)),clipTime:0,elapsed:0,records:[],plans:[],selectedTeam:0,paused:false,history:[],seasons:[],awardWeek:0}}
+function upgrade571(s,clips){if(!s||s.mediaRevision===578)return s;if(!s.deck?.length)return s;
+ if(['question','clip','clipready'].includes(s.phase)){s.phase='clipready';s.clipTime=0;s.elapsed=0;s.records=[];s.plans=[];}
+ const from=s.index+(s.phase==='result'?1:0),exclude=s.deck.slice(0,from).map(mediaKey571),fresh=deck(clips,Math.random,exclude);
+ if(s.phase!=='weekend')for(let i=from;i<QUESTION_COUNT;i++)if(fresh[i-from])s.deck[i]=fresh[i-from];
+ s.mediaRevision=578;s.turkishNotice578=true;return s;}
+
+function create(clips,teams=defaultTeams(),mode='bot',rng=Math.random){if(teams.length!==4||teams.some(t=>t.members.length!==4))throw Error('Dörder kişilik dört aile gerekli');return{version:363,mediaRevision:578,active:true,phase:'clipready',mode,week:1,index:0,deck:deck(clips,rng),teams:JSON.parse(JSON.stringify(teams)),clipTime:0,elapsed:0,records:[],plans:[],selectedTeam:0,paused:false,history:[],seasons:[],awardWeek:0}}
 const current=s=>s.deck[s.index];const isHuman=(s,t)=>s.mode==='local'||t===0;
 function startClip(s){if(s.phase!=='clipready'||s.paused)return false;s.phase='clip';s.clipTime=0;remember571(s);return true}
 function finishClip(s,mediaTime,rng=Math.random){if(s.phase!=='clip'||s.paused||mediaTime<29.8)return false;s.clipTime=30;s.phase='question';s.elapsed=0;s.selectedTeam=0;s.records=s.teams.map(()=>({choices:[null,null,null,null],memberTimes:[null,null,null,null],lockedAt:null,answer:null,correct:null}));s.plans=s.teams.map((_,t)=>{if(s.mode==='local')return null;if(t===0){let lead=rng()<.85?null:8+rng()*8;let q=current(s).question,option=rng()<.72?q.answer:(q.answer+1+Math.floor(rng()*3))%4;return{option,delays:[0,.25+rng()*.45,.8+rng()*.5,1.5+rng()*.5],at:[null,lead,null,null]}}let base=AI176.speed(3+rng()*10+s.index*.18),correct=rng()<AI176.chance(Math.max(.58,.84-s.index*.009)),q=current(s).question,option=correct?q.answer:shuffle([0,1,2,3].filter(i=>i!==q.answer),rng)[0];return{option,at:[base,base+.35+rng(),base+1+rng(),base+1.6+rng()*1.5]}});return true}

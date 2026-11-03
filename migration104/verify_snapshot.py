@@ -26,3 +26,14 @@ bank = json.loads((root / 'assets/family573/manifest.json').read_text())
 assert len(bank) == 100 and sum(len(c['questions']) for c in bank) == 300
 print(f'PASS: Sites version {snapshot["version"]}; {len(actual)} verified files ({len(updates)} reviewed updates); 100 new videos / 300 new questions')
 
+
+# Current Turkish pool: archived foreign assets remain intact for rollback.
+turkish = json.loads((root / 'assets/family578/manifest.json').read_text())
+assert turkish['clipCount'] == 30 and turkish['originalSourceCount'] == 3
+assert len(turkish['clips']) == 30 and sum(len(c['questions']) for c in turkish['clips']) == 90
+assert len({c['mediaKey571'] for c in turkish['clips']}) == 30
+for c in turkish['clips']:
+    assert c['language'] == 'tr' and c['duration'] == 30 and c['mediaStart578'] >= 0
+    assert c['file'].startswith('https://upload.wikimedia.org/')
+    assert len(c['questions']) == 3
+print('PASS: active Turkish pool — 30 source intervals / 3 original sources / 90 questions')

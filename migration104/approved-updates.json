@@ -10,8 +10,8 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "privacy.html": {
-    "sha": "855f2185f21376d6bcb5cb8e88904b4e3e9c13f9",
-    "size": 12269,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "cbf8a4fae614ad55fb5308b949c8febfb8db2d38",
+    "size": 12127,
+    "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
   }
 }

@@ -1,8 +1,8 @@
 {
   "metrics-config.js": {
-    "sha": "49569d8af1566a5c9bfac708db28e5ee131ec3d0",
-    "size": 304,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "0a56037c0a4aac908db3c0e4bd2e66df5f3cbd23",
+    "size": 302,
+    "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
   },
   "metrics.js": {
     "sha": "aaec0d6e467e160683b595bc4a30a0001e2e7e6c",
@@ -10,9 +10,9 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.html": {
-    "sha": "f971c62b1ad477f16d5d8709addd5987afda4a34",
-    "size": 3583,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "51166134370ffcccd544bda65fa0e4b181b745aa",
+    "size": 3587,
+    "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
   },
   "yonetici.css": {
     "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",

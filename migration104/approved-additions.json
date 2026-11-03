@@ -15,13 +15,13 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.css": {
-    "sha": "3c1b57ddf91c7a626832b910e5091f6c72fb6ad4",
-    "size": 3805,
+    "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",
+    "size": 3804,
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.js": {
-    "sha": "b1da0b72286a215bb8e754f8ba8c41f7db4eebbc",
-    "size": 6427,
+    "sha": "35dd80d8758d9d1646cc8e4462cfd86f86529860",
+    "size": 6426,
     "reason": "Private owner statistics with optional consent; backend activation pending"
   }
 }

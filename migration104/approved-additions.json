@@ -1,0 +1,22 @@
+{
+  "analytics.js": {
+    "sha": "ab202da16610aef45cdbd80f0a5c6185bf8e23a5",
+    "size": 7770,
+    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+  },
+  "analytics-config.js": {
+    "sha": "032c267d4c0a0c58a54541d0394aa3a5597f40d9",
+    "size": 263,
+    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+  },
+  "yonetici.html": {
+    "sha": "43448fe676b032d5ef52c37651ae9506b43a6210",
+    "size": 1890,
+    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+  },
+  "yonetici.js": {
+    "sha": "75b6b8791709a505ffb027858345ffad706cc378",
+    "size": 1234,
+    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+  }
+}

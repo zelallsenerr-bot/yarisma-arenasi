@@ -1,7 +1,17 @@
 {
   "privacy.html": {
-    "sha": "6145c2c3805c579accc4d552876a1b6a383c6a1b",
-    "size": 9959,
-    "reason": "2 November 2026: disclose Android 1.0 online loading, permissions, hosting and retention accurately"
+    "sha": "cce964e25ed530137dd94651d8407db171197b96",
+    "size": 12105,
+    "reason": "3 November 2026: prepare opt-in web statistics; collector remains disabled until owner configures GA4"
+  },
+  "index.html": {
+    "sha": "63936313e5b82d157c3361c566cdd79b5f0b2c34",
+    "size": 5766,
+    "reason": "3 November 2026: prepare opt-in web statistics; collector remains disabled until owner configures GA4"
+  },
+  "app.js": {
+    "sha": "ec4946495a31bf33bbdcbd70089d76fabf8caf21",
+    "size": 16137,
+    "reason": "3 November 2026: prepare opt-in web statistics; collector remains disabled until owner configures GA4"
   }
 }

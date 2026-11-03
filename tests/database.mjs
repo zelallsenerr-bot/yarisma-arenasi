@@ -1,0 +1,34 @@
+import { PGlite } from '@electric-sql/pglite';
+import { readFileSync } from 'node:fs';
+import assert from 'node:assert/strict';
+const db=new PGlite(); let passed=0;
+await db.exec(`create role anon; create role authenticated; create schema auth; create table auth.users(id uuid primary key,email_confirmed_at timestamptz); create function auth.uid() returns uuid language sql stable as $$ select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid $$;`);
+for(const name of ['202611030001_private_statistics.sql','202611030002_game_catalog.sql'])await db.exec(readFileSync(new URL('../supabase/migrations/'+name,import.meta.url),'utf8'));
+const owner='11111111-1111-4111-8111-111111111111', other='22222222-2222-4222-8222-222222222222', visitor='33333333-3333-4333-8333-333333333333', session='44444444-4444-4444-8444-444444444444';
+async function check(name,fn){await fn();passed++;console.log('PASS '+name)}
+async function denied(sql,code='42501'){await assert.rejects(()=>db.exec(sql),e=>e.code===code)}
+await db.exec(`insert into auth.users values('${owner}',now()),('${other}',now()); set role authenticated; select set_config('request.jwt.claim.sub','${owner}',false);`);
+await check('unconfigured owner denied',()=>denied('select public.arena_read_stats(7)'));
+await db.exec(`reset role; update arena_private.settings set owner_user_id='${owner}'; set role anon;`);
+await check('anonymous report denied',()=>denied('select public.arena_read_stats(7)'));
+await check('anonymous raw events denied',()=>denied('select * from arena_private.events'));
+await db.exec(`set role authenticated;select set_config('request.jwt.claim.sub','${other}',false);`);
+await check('other verified account denied',()=>denied('select public.arena_read_stats(7)'));
+await check('authenticated raw events denied',()=>denied('select * from arena_private.events'));
+await db.exec(`reset role;select set_config('request.headers','{"origin":"https://evil.example"}',false);set role anon;`);
+const record=(id,kind,game='null',seconds=0)=>`select public.arena_record_event('${id}','${visitor}','${session}','${kind}',${game},${seconds})`;
+await check('foreign origin denied',()=>denied(record('55555555-5555-4555-8555-555555555555','site_visit')));
+await db.exec(`select set_config('request.headers','{"origin":"https://yarismaatolyesi.com"}',false);`);
+await check('unknown game rejected',()=>denied(record('55555555-5555-4555-8555-555555555555','game_open',"'unknown-game'"),'22023'));
+await db.exec('reset role');const game=(await db.query('select id from arena_private.games limit 1')).rows[0].id;await db.exec('set role anon');
+await db.exec(record('55555555-5555-4555-8555-555555555555','site_visit'));
+await db.exec(record('55555555-5555-4555-8555-555555555555','site_visit'));
+await db.exec(record('66666666-6666-4666-8666-666666666666','game_open',`'${game}'`));
+await db.exec(record('77777777-7777-4777-8777-777777777777','game_engagement',`'${game}'`,30));
+await check('invalid duration rejected',()=>denied(record('88888888-8888-4888-8888-888888888888','game_engagement',`'${game}'`,61),'22023'));
+await db.exec(`set role authenticated;select set_config('request.jwt.claim.sub','${owner}',false)`);
+await check('owner receives accurate aggregates and 76 games',async()=>{const r=(await db.query('select public.arena_read_stats(7) as data')).rows[0].data;assert.deepEqual(r.summary,{visitors:1,sessions:1,visits:1,game_opens:1,active_seconds:30});assert.equal(r.daily.length,7);assert.equal(r.games.length,76);assert.equal(JSON.stringify(r).includes(visitor),false)});
+await check('unsupported date range denied',()=>denied('select public.arena_read_stats(365)','22023'));
+await db.exec(`reset role;update auth.users set email_confirmed_at=null where id='${owner}';set role authenticated`);
+await check('unverified owner denied',()=>denied('select public.arena_read_stats(7)'));
+console.log(`${passed} database security/aggregation checks passed`);await db.close();

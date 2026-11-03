@@ -1,17 +1,17 @@
 {
-  "privacy.html": {
-    "sha": "cce964e25ed530137dd94651d8407db171197b96",
-    "size": 12105,
-    "reason": "3 November 2026: prepare opt-in web statistics; collector remains disabled until owner configures GA4"
-  },
   "index.html": {
-    "sha": "63936313e5b82d157c3361c566cdd79b5f0b2c34",
-    "size": 5766,
-    "reason": "3 November 2026: prepare opt-in web statistics; collector remains disabled until owner configures GA4"
+    "sha": "637bf0210125861e5af5e845c10b7a3ef6613fbd",
+    "size": 5809,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "app.js": {
-    "sha": "ec4946495a31bf33bbdcbd70089d76fabf8caf21",
-    "size": 16137,
-    "reason": "3 November 2026: prepare opt-in web statistics; collector remains disabled until owner configures GA4"
+    "sha": "65ca65601beecc2ba52482443dd7fde008ea6d1b",
+    "size": 16126,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  },
+  "privacy.html": {
+    "sha": "855f2185f21376d6bcb5cb8e88904b4e3e9c13f9",
+    "size": 12269,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
   }
 }

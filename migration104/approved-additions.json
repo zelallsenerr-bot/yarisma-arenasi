@@ -1,22 +1,27 @@
 {
-  "analytics.js": {
-    "sha": "ab202da16610aef45cdbd80f0a5c6185bf8e23a5",
-    "size": 7770,
-    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+  "metrics-config.js": {
+    "sha": "204796ccadd8dec830c5726ae126ffc3f753c6ba",
+    "size": 193,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
   },
-  "analytics-config.js": {
-    "sha": "032c267d4c0a0c58a54541d0394aa3a5597f40d9",
-    "size": 263,
-    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+  "metrics.js": {
+    "sha": "defd8950e6cd4eb1b3620ed95bd3ac95f08b18c0",
+    "size": 5985,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.html": {
-    "sha": "43448fe676b032d5ef52c37651ae9506b43a6210",
-    "size": 1890,
-    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+    "sha": "dfb388b60c8a43cd9577c52bd919f4bd4d85563d",
+    "size": 3429,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  },
+  "yonetici.css": {
+    "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",
+    "size": 3804,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.js": {
-    "sha": "75b6b8791709a505ffb027858345ffad706cc378",
-    "size": 1234,
-    "reason": "3 November 2026: opt-in analytics and owner report entry, without public report data or credentials"
+    "sha": "35dd80d8758d9d1646cc8e4462cfd86f86529860",
+    "size": 6426,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
   }
 }

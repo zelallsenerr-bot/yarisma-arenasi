@@ -23,5 +23,20 @@
     "sha": "710c2ce540e5b551cbbab33ad6f06e39521af46b",
     "size": 8606,
     "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+  },
+  "discovery574.css": {
+    "sha": "5d032f7d1abab9cf16012eb63fd2007dee6744f9",
+    "size": 1654,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "discovery574.js": {
+    "sha": "00d9d1083dccd2687a209f56cbb6ec162b66102e",
+    "size": 2910,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "online/check574.js": {
+    "sha": "0e6f2c4abd17a2cbeeb9b7f7fd5df719bd63b18e",
+    "size": 1393,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
   }
 }

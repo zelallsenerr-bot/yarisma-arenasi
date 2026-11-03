@@ -1,0 +1,14 @@
+(()=>{'use strict';
+const profiles={
+ 'Bilgi & Strateji':['10–20 dk','Giderek zorlaşır'],
+ 'Kelime':['5–15 dk','Kelime becerisi'],
+ 'Mutfak':['5–15 dk','Beceri ve seçim'],
+ 'Parkur & Cesaret':['5–15 dk','Refleks ve beceri'],
+ 'Sahne & Eşli':['5–15 dk','Karar ve eğlence']
+};
+const overrides={'son-karar':['10–20 dk','Kolay → Zor'],'kutu-karari':['10–15 dk','Şans ve strateji'],'on-dokuz':['3–8 dk','Hızlı cevap'],'milyoner-aile':['10–20 dk','Dikkat ve hafıza']};
+const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+window.ArenaDiscovery574={tags(g){const p=overrides[g.id]||profiles[g.category]||['5–15 dk','Değişken zorluk'];return '<p class="game-tags574" aria-label="Tahmini süre ve oynama biçimi"><span title="Tahmini süre; oynayışına göre değişir">≈ '+esc(p[0])+'</span><span>'+esc(p[1])+'</span><span>Tek kişilik</span></p>'}};
+async function boot(){const C=window.ArenaCare566,main=document.querySelector('#home main');if(!C||!main)return;const section=document.createElement('section');section.className='player-overview574';section.setAttribute('aria-labelledby','overviewTitle574');section.innerHTML='<div class="overview-head574"><div><small>BU CİHAZDAKİ İLERLEMEN</small><h2 id="overviewTitle574">Bugün arenada</h2></div><button type="button" data-overview="summary">Karnemi aç →</button></div><div id="overviewStats574" role="status">Kayıtların yükleniyor…</div><div id="overviewTasks574"></div><button type="button" data-overview="daily">Tüm günlük görevler →</button>';main.insertBefore(section,document.querySelector('.care-hub566')||document.querySelector('#recentSection'));section.addEventListener('click',e=>{const b=e.target.closest('[data-overview]');if(b)window.ArenaCareUI574?.open(b.dataset.overview)});let revision=0;async function draw(){const n=++revision;try{const s=await C.snapshot();if(n!==revision)return;const m=C.summary(s),d=C.daily(s);section.querySelector('#overviewStats574').innerHTML='<div class="overview-stats574"><span><b>'+m.started+'</b> yarışma</span><span><b>'+m.answered+'</b> cevap</span><span><b>'+(m.accuracy===null?'—':m.accuracy+'%')+'</b> doğruluk</span></div>';section.querySelector('#overviewTasks574').innerHTML=d.tasks.map(t=>'<div class="overview-task574"><label>'+esc(t.label)+' <strong>'+t.progress+'/'+t.target+'</strong><progress max="'+t.target+'" value="'+t.progress+'">'+t.progress+'/'+t.target+'</progress></label></div>').join('')}catch(e){section.querySelector('#overviewStats574').textContent='Kayıt özeti şu anda açılamadı. Oyuncu merkezinden tekrar deneyebilirsin.'}}C.subscribe(draw);await C.ready;await draw();document.addEventListener('visibilitychange',()=>{if(!document.hidden)draw()});setInterval(()=>{if(!document.hidden)draw()},60000)}
+document.addEventListener('DOMContentLoaded',boot);
+})();

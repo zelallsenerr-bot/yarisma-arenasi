@@ -1,17 +1,42 @@
 {
   "index.html": {
-    "sha": "58b29742bfba7b0444c859d630331bd4ab1628ea",
-    "size": 5751,
-    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+    "sha": "15b2ba5f74ff193641024ed24422bd929862ca95",
+    "size": 6006,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
   },
   "app.js": {
-    "sha": "65ca65601beecc2ba52482443dd7fde008ea6d1b",
-    "size": 16126,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "02fb330883a3d063f4d9ee4119d6067edc30a9f1",
+    "size": 16179,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
   },
   "privacy.html": {
     "sha": "c7350005947fedd8e25fa519299f08d807f1946a",
     "size": 11858,
     "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+  },
+  "arena-care-ui566.js": {
+    "sha": "3312cfcee2a1d4bcaae8c101c813109fec84f1e7",
+    "size": 16671,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "games/son-karar/app.js": {
+    "sha": "2ec7504b1ff123dc3bdb2a661a13b9a0e3048f6b",
+    "size": 52324,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "games/son-karar/index.html": {
+    "sha": "6b8d73757c85f07b9503abd344af62d3a0bf256b",
+    "size": 6439,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "online/index.html": {
+    "sha": "c4ba5a3ea0c0b9242ce38802f9d25fa0ca0430f7",
+    "size": 5918,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "studio322.js": {
+    "sha": "3e6d47f1439a90b1ed7e1b0a93c3b40ae4f18424",
+    "size": 1522,
+    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
   }
 }

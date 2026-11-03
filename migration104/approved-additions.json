@@ -10,9 +10,9 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.html": {
-    "sha": "51166134370ffcccd544bda65fa0e4b181b745aa",
-    "size": 3587,
-    "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
+    "sha": "19486abe622a4c252cec6adbe3638320eb7287b4",
+    "size": 3848,
+    "reason": "Add password login so email delivery quota is not required for normal owner login"
   },
   "yonetici.css": {
     "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",
@@ -20,8 +20,8 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.js": {
-    "sha": "35dd80d8758d9d1646cc8e4462cfd86f86529860",
-    "size": 6426,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "4da76819cbb6fceb3cc274913d44d1f9ef0bfaa0",
+    "size": 7319,
+    "reason": "Add password login so email delivery quota is not required for normal owner login"
   }
 }

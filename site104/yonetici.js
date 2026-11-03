@@ -42,12 +42,25 @@
   finally{$('refresh').disabled=false;$('range').disabled=false}
  }
  $('loginForm').addEventListener('submit',async e=>{
-  e.preventDefault();if(!configured)return;const email=$('email').value.trim();if(!$('email').checkValidity())return;
-  $('loginButton').disabled=true;say('Giriş bağlantısı isteniyor…');
-  try{await request('/auth/v1/otp?redirect_to='+encodeURIComponent(location.origin+'/yonetici.html'),{email,create_user:false});say('Adres yetkili hesapta kayıtlıysa giriş bağlantısı gönderildi. E-postanı ve spam klasörünü kontrol et.')}
-  catch(e){say(e.status===429?'Çok sık denendi. Bir süre bekleyip tekrar dene.':'Giriş bağlantısı gönderilemedi. Yetkili adresini ve bağlantıyı kontrol et.')}
-  finally{$('loginButton').disabled=false}
+  e.preventDefault();if(!configured)return;
+  const email=$('email').value.trim(),password=$('password').value;
+  if(!$('email').checkValidity()||!password)return;
+  $('loginButton').disabled=true;say('Giriş yapılıyor…');
+  try{
+   const data=await request('/auth/v1/token?grant_type=password',{email,password});
+   if(!data.access_token||!Number.isFinite(Number(data.expires_in)))throw new Error('Invalid session');
+   storeSession(data.access_token,Date.now()+Math.min(Number(data.expires_in),3600)*1000);
+   $('password').value='';await load();
+  }catch(e){say(e.status===400||e.status===401?'E-posta veya yönetici şifresi hatalı.':e.status===429?'Çok sayıda giriş denemesi yapıldı. Güvenlik için bir süre bekle.':'Giriş yapılamadı. Bağlantını kontrol et.')}
+  finally{$('password').value='';$('loginButton').disabled=false}
  });
+ $('emailLogin').onclick=async()=>{
+  if(!configured||!$('email').checkValidity()){$('email').reportValidity();return}
+  $('emailLogin').disabled=true;say('Giriş bağlantısı isteniyor…');
+  try{await request('/auth/v1/otp?redirect_to='+encodeURIComponent(location.origin+'/yonetici.html'),{email:$('email').value.trim(),create_user:false});say('Adres yetkili hesapta kayıtlıysa bağlantı gönderildi. E-posta ve spam klasörünü kontrol et.')}
+  catch(e){say(e.status===429?'E-posta gönderim kotası doldu. Şifreyle giriş yapabilir veya kota yenilenince tekrar deneyebilirsin.':'Giriş e-postası gönderilemedi.')}
+  finally{setTimeout(()=>{$('emailLogin').disabled=false},60000)}
+ };
  $('refresh').onclick=load;$('range').onchange=load;
  $('logout').onclick=async()=>{const t=token;clearSession();say('Çıkış yapıldı.');if(t)try{await fetch(c.supabaseUrl+'/auth/v1/logout',{method:'POST',headers:{apikey:c.publishableKey,Authorization:'Bearer '+t},credentials:'omit',referrerPolicy:'no-referrer'})}catch(_){}};
  function exclusion(){try{const on=localStorage.getItem('arena-metrics-exclude-v1')==='yes';$('excludeStatus').textContent=on?'Bu tarayıcı sayılmıyor. Başka cihazlarda ayrıca ayarlamalısın.':'Bu tarayıcı, izin verilirse sayılır.';$('exclude').textContent=on?'Bu tarayıcıyı yeniden say':'Bu tarayıcıyı sayma'}catch(_){$('excludeStatus').textContent='Tarayıcı tercihleri saklanamıyor.'}}

@@ -1,23 +1,23 @@
 {
   "index.html": {
-    "sha": "15b2ba5f74ff193641024ed24422bd929862ca95",
-    "size": 6006,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "e292116b5f7542fef8b1effb5781f64e74548ba8",
+    "size": 6103,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "app.js": {
-    "sha": "02fb330883a3d063f4d9ee4119d6067edc30a9f1",
-    "size": 16179,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "23a40c57e4520ae750e3b621837afcecb6f018e4",
+    "size": 16234,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "privacy.html": {
-    "sha": "c7350005947fedd8e25fa519299f08d807f1946a",
-    "size": 11858,
-    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+    "sha": "b7fee227a51d3397e6cc0e7c13c63de221ec013e",
+    "size": 12418,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "arena-care-ui566.js": {
-    "sha": "3312cfcee2a1d4bcaae8c101c813109fec84f1e7",
-    "size": 16671,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "dbabbc47b957eefe42634e1554078669d6ca1784",
+    "size": 18260,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "games/son-karar/app.js": {
     "sha": "2ec7504b1ff123dc3bdb2a661a13b9a0e3048f6b",
@@ -25,9 +25,9 @@
     "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
   },
   "games/son-karar/index.html": {
-    "sha": "6b8d73757c85f07b9503abd344af62d3a0bf256b",
+    "sha": "f1d27c04f3ef5c0b3b07d5b077a6220660c5041a",
     "size": 6439,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "online/index.html": {
     "sha": "c4ba5a3ea0c0b9242ce38802f9d25fa0ca0430f7",
@@ -38,5 +38,390 @@
     "sha": "3e6d47f1439a90b1ed7e1b0a93c3b40ae4f18424",
     "size": 1522,
     "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "games/ada-mucadelesi/index.html": {
+    "sha": "1519d6195ac50fa3d4b429f07f1b1cd94c0cc775",
+    "size": 6029,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/aile-meydani/index.html": {
+    "sha": "17de52a498da8a2b720bacd6e6a047f4f33f38f3",
+    "size": 5218,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/alan-hakimi/index.html": {
+    "sha": "01dcbc0a89b314882d0c7d75d58bc68b83e5f317",
+    "size": 5642,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/altin-petek/index.html": {
+    "sha": "e29f71173489c7b3ebcd3cdefe6b90633324eb38",
+    "size": 5126,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/altin-sofra/index.html": {
+    "sha": "0a5e31e83b96a8c291b7e3a93523877eca91fb07",
+    "size": 5389,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/altmis-saniye/index.html": {
+    "sha": "3ade6b1cb22b748ee84e284da8c3f96e61f6270a",
+    "size": 5245,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/anlasma/index.html": {
+    "sha": "1d7aa517dc7319a7c6e2f08ef494844e30d131b6",
+    "size": 5215,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/arkandayiz/index.html": {
+    "sha": "874e7455d35fee046fa076c7361cb5a050f77be7",
+    "size": 5249,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/bak-su-duvara/index.html": {
+    "sha": "685829bb2bcdb2e62b2e111463b31ce5ecc9f66e",
+    "size": 4929,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/ben-bilirim/index.html": {
+    "sha": "908a44d74ac550bbf0eec22b9767f6687b1df58e",
+    "size": 5178,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/beyazla-joker/index.html": {
+    "sha": "7362760f9d2e3d5151c8080334bbc5cffcd37f0f",
+    "size": 5251,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/bir-iceri-bir-disari/index.html": {
+    "sha": "7663af58ad7161807973c0df1e2e400deefbbadd",
+    "size": 4689,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/cember/index.html": {
+    "sha": "52a4d73689a2ccaae77bd35c11136f69691e3959",
+    "size": 5068,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/cevap-sende/index.html": {
+    "sha": "68d70b286190414ae4cc5b8d7a293dbf7b159661",
+    "size": 5560,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/cevap-soruda/index.html": {
+    "sha": "08c3196406512a49ce8050c02a4bf1c73c2e21ae",
+    "size": 5380,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/cifte-milyon/index.html": {
+    "sha": "c26d33e153128b6eb811863a00bf854bc57a0da9",
+    "size": 5452,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/donen-koltuklar/index.html": {
+    "sha": "24dbaeef326db62f397e14962a9c14782a00e47a",
+    "size": 5565,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/elli-sarisin/index.html": {
+    "sha": "6216c1e8d4c3678543607bcc76050a4e596c6d43",
+    "size": 5490,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/esim-yapar/index.html": {
+    "sha": "3f85df03bf016ce8b9d0c02aee2fceb8d111da52",
+    "size": 5533,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/evim-sahane/index.html": {
+    "sha": "db2bbba97523c2202b4ac807edf63ad4c62db328",
+    "size": 5165,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/eyvah-dusuyorum/index.html": {
+    "sha": "a153ac33707c99469319dc4c79b05410138becdb",
+    "size": 6195,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/gel-hemserim/index.html": {
+    "sha": "0934fd5634a3bbb62fbbf0fb03d808f0046cbaf8",
+    "size": 4943,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/gonder-gitsin/index.html": {
+    "sha": "7286fc7beb1206090edbfb8ea2bf587e6d0942b7",
+    "size": 5037,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/goz6/index.html": {
+    "sha": "7addfac832756a4b0ff7badc1a624435405f3646",
+    "size": 4873,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/guven-cizgisi/index.html": {
+    "sha": "68618dce19644dcb47a7d8be53527f16fc8a3c43",
+    "size": 5444,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/halka-mucadelesi/index.html": {
+    "sha": "fd38139d0982178899aa80f336b8d96a8fb3e7d9",
+    "size": 5395,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/harf-cemberi/index.html": {
+    "sha": "023775781cc72d838c9ec1205d8cf4c9b8c0f6a0",
+    "size": 5368,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/hepsi-benim/index.html": {
+    "sha": "6bd15601e822f92fe2aed31c705a880eafce22ca",
+    "size": 5020,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/herkes-kazanir/index.html": {
+    "sha": "9027328d63b0c356e580f6cbfc3ab97b9bd8c6b6",
+    "size": 5176,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/ilk-bulusma/index.html": {
+    "sha": "c997e136167f1bd3963980fa4f980ff4af9b26fb",
+    "size": 5251,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/iste-benim-stilim/index.html": {
+    "sha": "8176ce460c0095db06853768e558f7cf9f3e221e",
+    "size": 5028,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kapi-kapanmadan/index.html": {
+    "sha": "7626ef2a39595ec62f474e810faed86288caa551",
+    "size": 5177,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kapis-kapis/index.html": {
+    "sha": "6083eaaf3ddeaea990d24d8f2ae4d992b81db46e",
+    "size": 4902,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kelime-carki/app.js": {
+    "sha": "593927990a65f7f8173261101440d71a709c82ca",
+    "size": 22999,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kelime-carki/index.html": {
+    "sha": "158dcbc1318afe0cd13ea92741516b2c411befe0",
+    "size": 5305,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kelime-islem/index.html": {
+    "sha": "d831e5bc058f946d2f78d82fafe47f0d97e728ce",
+    "size": 5384,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kelime-meydani/index.html": {
+    "sha": "8cfab33715de13578bd1824c02f00c4916b0643f",
+    "size": 5361,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kendi-dusen-aglamaz/index.html": {
+    "sha": "d16bae2268b0ac74b8e4706012919c028682fbb1",
+    "size": 5775,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kismet-locasi/index.html": {
+    "sha": "9f897a1e83a8ce6df1193dfa9edac5e0ce4cbe13",
+    "size": 5126,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kizlar-ve-anneleri/index.html": {
+    "sha": "503b2fc407f5cdf887a6ffe6da47cd7b092a70ec",
+    "size": 5065,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kizma-kazan/index.html": {
+    "sha": "d755cf744fc842c438087ec5b1cf3189ff18e35f",
+    "size": 4986,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kumbara/index.html": {
+    "sha": "ac3d43b6756207f2927c165c483b9c75e044509b",
+    "size": 5465,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/kutu-karari/index.html": {
+    "sha": "dffc03d9ca7b50c224ea28b6d935789bdc514c6a",
+    "size": 5906,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/lingo-meydani/index.html": {
+    "sha": "45bdd3dc874370eb7d51af09a245a0be82456e05",
+    "size": 5041,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/milyoner-aile/index.html": {
+    "sha": "99483bab0d85fdf5a4b382db42c9662654ca329b",
+    "size": 5421,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/milyonluk-resim/index.html": {
+    "sha": "735dc7b1df218eb4a3d8fa3e6605c4cd4bcd71d6",
+    "size": 5045,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/on-dokuz/index.html": {
+    "sha": "70fc5e3c4f0a783eff4a1323cb008d85b59b7455",
+    "size": 5284,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/ortak-kasa/index.html": {
+    "sha": "a0330bd51910600d4efcc02c5c0919f1d0e7839a",
+    "size": 5311,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/para-bende/index.html": {
+    "sha": "01e1ece21673838ebcebd62559e23d2d5d4c2422",
+    "size": 4983,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/para-kapani/index.html": {
+    "sha": "65b19bb29387e7338f5f2b6d63ae3302e51854e1",
+    "size": 6119,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/para-odasi/index.html": {
+    "sha": "19d2276d2ec916848b235f06e77e02882fbce10c",
+    "size": 5237,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/password/index.html": {
+    "sha": "325281d9c608b4b48e5391d2a10246506c88827f",
+    "size": 5338,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/piramit/index.html": {
+    "sha": "9e06e6049ff908327a0c6e20c0dee38ee00beb94",
+    "size": 5157,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/risk-meydani/index.html": {
+    "sha": "b587868351b5aaa084e51bfb162fc4b8018b503b",
+    "size": 5218,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/saba-ile-oyuna-geldik/index.html": {
+    "sha": "6dcdbfe75269ecc0963565f0d4c939d2e839918c",
+    "size": 4964,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sahane-pazar/index.html": {
+    "sha": "112c6a2965a28811e3ea122e16fe6ecf4d75433e",
+    "size": 5720,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sans-kapida/index.html": {
+    "sha": "70de96a2386e9ba8a6705b65012fd5f41dd61aad",
+    "size": 5158,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sans-kapiyi-calinca/index.html": {
+    "sha": "cda42d9bde61bb5c904332910e6fa6f94e35922d",
+    "size": 4781,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sansli-masa/index.html": {
+    "sha": "e6eaa7f604e04b64b7705087e3510ffd4a8bf7af",
+    "size": 5008,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sebeke/index.html": {
+    "sha": "42523084c66e82d0e204a0c9ae7469bd2f8e9674",
+    "size": 5118,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sefler-arenasi/index.html": {
+    "sha": "152ff3a00a55650508fb44306ca868c22d71904f",
+    "size": 5538,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sepetini-koru/index.html": {
+    "sha": "51cd71c367bb9cc1b885992cebab776b4091c687",
+    "size": 5884,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/siradaki-gelsin/index.html": {
+    "sha": "d307bfe7e69029071e02931b68b98097aac47742",
+    "size": 5239,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/sofra-rekabeti/index.html": {
+    "sha": "13a99be1b5becb5cdcce88eed2bd1a06a1c72cf7",
+    "size": 5605,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/super-bulmaca/index.html": {
+    "sha": "d6d3da4d2709ff8fdec11213eca9010d92bfc706",
+    "size": 5166,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/takip/index.html": {
+    "sha": "9e143091a261a9fa6dcd1bddfd625a0cd17c7027",
+    "size": 5392,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/telefon-kulubesi/index.html": {
+    "sha": "04a3ee3a917c29bb55f484b06cd06fc7cd96d452",
+    "size": 5364,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/temizlik-benim-isim/index.html": {
+    "sha": "340c939e8c42ecd7b87b0be401952acfa5b3f2e9",
+    "size": 4938,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/the-taste-turkiye/index.html": {
+    "sha": "cbc23869a6d339ae2d817c73f5e22eabc11b4690",
+    "size": 5190,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/tuhaf-taksi/index.html": {
+    "sha": "ecf838a396e68d2b2d520a41886d38ddba007e55",
+    "size": 6146,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/turnike/index.html": {
+    "sha": "3a25c63d82d438277b04fbf29537d305edc3544d",
+    "size": 5397,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/ucte-uc/index.html": {
+    "sha": "0a18c8fed2ce2f15806a4e8aa41f945d93feceec",
+    "size": 5642,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/utopya/index.html": {
+    "sha": "76402a6dadfc9dc15a5d5c65382015941e37b9a4",
+    "size": 5229,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/yaparsin-askim/index.html": {
+    "sha": "d7000c136ce54397fa1eb7c9d32d2286fb669689",
+    "size": 5014,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/yasim-kac/index.html": {
+    "sha": "ee715f50e7bda393c49000abbd7984c01b57fe78",
+    "size": 4822,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "games/yetenek-sahnesi/index.html": {
+    "sha": "c3d56c1738808ecf87fcb864fb28ab01e97d3c28",
+    "size": 5955,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "hub-profile568.js": {
+    "sha": "e206567a170e3df03f894589ac2ea8e1579ff924",
+    "size": 3240,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   }
 }

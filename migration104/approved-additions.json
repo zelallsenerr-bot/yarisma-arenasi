@@ -10,33 +10,43 @@
     "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
   },
   "yonetici.html": {
-    "sha": "c51bbb583034b2101340b162c39055fd8ddd51ad",
-    "size": 4392,
-    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+    "sha": "c153977ad89ec509ce21529b882aaa5a875d95f9",
+    "size": 4652,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "yonetici.css": {
-    "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",
-    "size": 3804,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "3c55abf0fcf0518aa0f80b994c97c6cae23c8378",
+    "size": 4000,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "yonetici.js": {
-    "sha": "710c2ce540e5b551cbbab33ad6f06e39521af46b",
-    "size": 8606,
-    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+    "sha": "f97f3280c4e3705bb6f2b351c4656bcc2647af1d",
+    "size": 10451,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "discovery574.css": {
-    "sha": "5d032f7d1abab9cf16012eb63fd2007dee6744f9",
-    "size": 1654,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "c6d677f223c834113c5172a4f68a01b847161ca4",
+    "size": 2749,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "discovery574.js": {
-    "sha": "00d9d1083dccd2687a209f56cbb6ec162b66102e",
-    "size": 2910,
-    "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+    "sha": "2afd81e9a4c63409de571373eaa82d07b15581ec",
+    "size": 3409,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "online/check574.js": {
     "sha": "0e6f2c4abd17a2cbeeb9b7f7fd5df719bd63b18e",
     "size": 1393,
     "reason": "Reviewed usability improvements: fast entry, player overview, game hints, online guidance and accurate connectivity information"
+  },
+  "player-tools575.js": {
+    "sha": "253074755bdef10cac0e3684de7f02ecfca8b7ac",
+    "size": 4611,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+  },
+  "report-client575.js": {
+    "sha": "2b9660f3726b12bbd1e3d88274c1015d26f640a7",
+    "size": 1142,
+    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   }
 }

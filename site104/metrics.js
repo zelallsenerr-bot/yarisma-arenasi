@@ -5,7 +5,7 @@
  const save=(k,v,session=false)=>{try{(session?sessionStorage:localStorage).setItem(k,v)}catch(_){}};
  const remove=k=>{try{localStorage.removeItem(k)}catch(_){}};
  const uuid=()=>crypto.randomUUID();
- const configured=/^https:\/\/[a-z0-9-]+\.supabase\.co$/.test(c.supabaseUrl||'')&&/^(sb_publishable_|eyJ)/.test(c.publishableKey||'');
+ const configured=c.collectionEnabled===true&&/^https:\/\/[a-z0-9-]+\.supabase\.co$/.test(c.supabaseUrl||'')&&/^(sb_publishable_|eyJ)/.test(c.publishableKey||'');
  const isWebView=/;\s*wv\)|\bVersion\/\d.*Chrome\/.*Mobile Safari\//i.test(navigator.userAgent||'');
  const blocked=()=>!['yarismaatolyesi.com','www.yarismaatolyesi.com'].includes(location.hostname)||read(X)==='yes'||navigator.doNotTrack==='1'||navigator.globalPrivacyControl===true||(isWebView&&!c.collectInWebView);
  let choice=read(K),enabled=false,current=null,activeSince=null,elapsed=0,visitor,session,panel;
@@ -50,3 +50,4 @@
  function ready(){const trigger=document.getElementById('metricsPreferences');if(trigger){trigger.hidden=!configured||blocked();trigger.addEventListener('click',preferences)}if(!configured||blocked())return;if(choice==='yes')enable();else if(choice!=='no')preferences()}
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',ready);else ready();
 })();
+

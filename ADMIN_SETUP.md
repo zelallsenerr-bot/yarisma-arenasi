@@ -23,3 +23,8 @@ The Android wrapper is excluded by default. Do not change its data-safety declar
 ## Validation
 
 `node --check site104/metrics.js` and `node --check site104/yonetici.js` check syntax. `tests/database.mjs` runs the real SQL in PGlite and checks anonymous, non-owner and unverified-owner denial, raw-table denial, event validation, deduplication, calendar results and aggregate correctness. Run `npm install` and `npm test` to execute the database and collector checks. Run `python3 migration104/verify_snapshot.py` from this project root to verify every imported site file and the approved changes/additions.
+
+
+## Deployment progress — 3 November 2026
+
+Project jwshiopvzadefmvmjpwv is on the Free plan. The two migrations and 76-game catalog are deployed. The designated owner account was invited; its UUID is bound in private settings but reports continue to require actual email confirmation. Public signup is disabled. Site URL and exact redirect URLs point to /yonetici.html on the primary/www site. Public configuration is set, with collectionEnabled:false so visiting the public site cannot collect statistics yet. Retention scheduling remains blocked pending explicit permission to delete events older than 90 days. Do not enable collection until the owner confirms the invitation, the login round trip is verified and retention/notice are resolved.

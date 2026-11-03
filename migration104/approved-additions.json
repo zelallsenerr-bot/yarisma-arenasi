@@ -5,9 +5,9 @@
     "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
   },
   "metrics.js": {
-    "sha": "aaec0d6e467e160683b595bc4a30a0001e2e7e6c",
-    "size": 6014,
-    "reason": "Private owner statistics with optional consent; backend activation pending"
+    "sha": "1a044e800bdfe71a9ca2fb515039cca65eb23766",
+    "size": 5977,
+    "reason": "Do not automatically display optional statistics prompt on entry; keep explicit footer preference and prior consent behavior"
   },
   "yonetici.html": {
     "sha": "f9cb45f49ed555eba479cb26ac3f290fcb647d5e",

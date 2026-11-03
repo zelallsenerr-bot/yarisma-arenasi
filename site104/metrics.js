@@ -47,7 +47,6 @@
  addEventListener('pagehide',()=>{flush();activeSince=null});addEventListener('pageshow',()=>{activeSince=enabled&&current&&!document.hidden?performance.now():null});
  addEventListener('storage',e=>{if((e.key===K&&e.newValue!=='yes')||(e.key===X&&e.newValue==='yes')){enabled=false;activeSince=null;elapsed=0}});
  setInterval(flush,30000);
- function ready(){const trigger=document.getElementById('metricsPreferences');if(trigger){trigger.hidden=!configured||blocked();trigger.addEventListener('click',preferences)}if(!configured||blocked())return;if(choice==='yes')enable();else if(choice!=='no')preferences()}
+ function ready(){const trigger=document.getElementById('metricsPreferences');if(trigger){trigger.hidden=!configured||blocked();trigger.addEventListener('click',preferences)}if(!configured||blocked())return;if(choice==='yes')enable()}
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',ready);else ready();
 })();
-

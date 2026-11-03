@@ -5,14 +5,14 @@
     "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
   },
   "metrics.js": {
-    "sha": "1a044e800bdfe71a9ca2fb515039cca65eb23766",
-    "size": 5977,
-    "reason": "Do not automatically display optional statistics prompt on entry; keep explicit footer preference and prior consent behavior"
+    "sha": "3b590dd4ffc8a27336f600bfd239f115ee90d5dc",
+    "size": 1757,
+    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
   },
   "yonetici.html": {
-    "sha": "f9cb45f49ed555eba479cb26ac3f290fcb647d5e",
-    "size": 4584,
-    "reason": "Let authenticated owner set their own password; add recovery email option"
+    "sha": "c51bbb583034b2101340b162c39055fd8ddd51ad",
+    "size": 4392,
+    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
   },
   "yonetici.css": {
     "sha": "5dc4f030744301b1aac19f236f7600bd85e914e6",
@@ -20,8 +20,8 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "yonetici.js": {
-    "sha": "2f4df011f433f871bd37940a2399bb1bf79834ff",
-    "size": 9288,
-    "reason": "Let authenticated owner set their own password; add recovery email option"
+    "sha": "710c2ce540e5b551cbbab33ad6f06e39521af46b",
+    "size": 8606,
+    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
   }
 }

@@ -1,8 +1,8 @@
 {
   "index.html": {
-    "sha": "7c15502ad4525990516be2d118ba47dce02c25f4",
-    "size": 5829,
-    "reason": "Refresh metrics asset URL to load removal of automatic consent popup"
+    "sha": "58b29742bfba7b0444c859d630331bd4ab1628ea",
+    "size": 5751,
+    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
   },
   "app.js": {
     "sha": "65ca65601beecc2ba52482443dd7fde008ea6d1b",
@@ -10,8 +10,8 @@
     "reason": "Private owner statistics with optional consent; backend activation pending"
   },
   "privacy.html": {
-    "sha": "cbf8a4fae614ad55fb5308b949c8febfb8db2d38",
-    "size": 12127,
-    "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
+    "sha": "c7350005947fedd8e25fa519299f08d807f1946a",
+    "size": 11858,
+    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
   }
 }

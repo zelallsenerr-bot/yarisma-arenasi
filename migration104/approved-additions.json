@@ -1,0 +1,27 @@
+{
+  "metrics-config.js": {
+    "sha": "49569d8af1566a5c9bfac708db28e5ee131ec3d0",
+    "size": 304,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  },
+  "metrics.js": {
+    "sha": "aaec0d6e467e160683b595bc4a30a0001e2e7e6c",
+    "size": 6014,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  },
+  "yonetici.html": {
+    "sha": "f971c62b1ad477f16d5d8709addd5987afda4a34",
+    "size": 3583,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  },
+  "yonetici.css": {
+    "sha": "3c1b57ddf91c7a626832b910e5091f6c72fb6ad4",
+    "size": 3805,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  },
+  "yonetici.js": {
+    "sha": "b1da0b72286a215bb8e754f8ba8c41f7db4eebbc",
+    "size": 6427,
+    "reason": "Private owner statistics with optional consent; backend activation pending"
+  }
+}

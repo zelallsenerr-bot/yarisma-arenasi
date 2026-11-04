@@ -1,0 +1,1553 @@
+[
+  {
+    "id": "unique579-culture-tulum",
+    "category": "Karadeniz tulumu",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/karadeniz-den-diyarbakir-a-bir-tulum-oykusu/4554022.html",
+    "title": "Karadeniz’den Diyarbakır’a Bir Tulum Öyküsü",
+    "author": "VOA Türkçe · Mahmut Bozarslan",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2018/09/a/a3/a31cbcb0-da0f-4694-8f99-9a5862c1d9ce.mp4?cb=ed31d09ee",
+    "mediaStart578": 35,
+    "duration": 30,
+    "originalKey579": "voa:a31cbcb0-da0f-4694-8f99-9a5862c1d9ce",
+    "mediaKey571": "voa:a31cbcb0-da0f-4694-8f99-9a5862c1d9ce",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-tulum-q",
+        "category181": "sequence",
+        "question": "Tulum çalmaya başlarken erkeğin yaptığı hareketlerin sırası hangisiydi?",
+        "options": [
+          "Alttaki boruyu söktü, sonra tulumu kolundan çıkardı",
+          "Parmaklarını üstteki torbaya vurdu, sonra ağızlığı yere bıraktı",
+          "Önce tulumu yere koydu, sonra boruyu iki eliyle üfledi",
+          "Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi"
+        ],
+        "answer": 3,
+        "evidence573": "10 sn ve 15 sn ve 25 sn: Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi.",
+        "explanation": "10 sn ve 15 sn ve 25 sn: Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2018/09/a/a3/a31cbcb0-da0f-4694-8f99-9a5862c1d9ce_mobile.mp4?cb=ed31d09ee",
+      "evidenceFrames": [
+        35,
+        40,
+        45,
+        50,
+        55,
+        60
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-rhythm",
+    "category": "Bakır ritim orkestrası",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/baki%CC%87r-mutfak-esyalari%CC%87yla-ri%CC%87ati%CC%87m-orkestrasi%CC%87-kuruldu-gazi%CC%87antep/6709704.html",
+    "title": "Bakır Mutfak Eşyalarıyla Ritim Orkestrası Kuruldu",
+    "author": "VOA Türkçe · Orhan Erkılıç",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/08/0/01/01a10000-0aff-0242-8979-08da81d7559c_480p.mp4?cb=eda930bb1",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:01a10000-0aff-0242-8979-08da81d7559c",
+    "mediaKey571": "voa:01a10000-0aff-0242-8979-08da81d7559c",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-rhythm-q",
+        "category181": "sequence",
+        "question": "Atölye ve avlu görüntülerinin ardından, ritim çalışmasının yakın çekiminde hangi nesneler görülüyordu?",
+        "options": [
+          "Tahta kasalar ve cam şişeler",
+          "Deri davullar ve zil takımı",
+          "Plastik kovalar ve ahşap kaşıklar",
+          "Farklı boy metal mutfak kapları ve kapakları"
+        ],
+        "answer": 3,
+        "evidence573": "0 sn ve 15 sn ve 25 sn: Farklı boy metal mutfak kapları ve kapakları.",
+        "explanation": "0 sn ve 15 sn ve 25 sn: Farklı boy metal mutfak kapları ve kapakları."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2022/08/0/01/01a10000-0aff-0242-8979-08da81d7559c_240p.mp4?cb=eda930bb1",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-miasin",
+    "category": "Kadın müzik grubu",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/kadinlarin-notalarindan-anadolu-ezgileri/7203212.html",
+    "title": "Kadınların notalarından Anadolu ezgileri",
+    "author": "VOA Türkçe · Mahmut Bozarslan",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2023/07/0/01/01000000-0a00-0242-0bc0-08db903de356_480p.mp4?cb=edc571ff7",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:01000000-0a00-0242-0bc0-08db903de356",
+    "mediaKey571": "voa:01000000-0a00-0242-0bc0-08db903de356",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-miasin-q",
+        "category181": "action",
+        "question": "İlk yakın çalgı görüntüsünde yuvarlak vurmalı çalgı nasıl çalınıyordu?",
+        "options": [
+          "İki uzun bagetle kenarına vurularak",
+          "Tek tokmakla alt kısmına vurularak",
+          "Ayak pedalıyla ritim verilerek",
+          "Avuç ve parmaklarla yüzeyine vurularak"
+        ],
+        "answer": 3,
+        "evidence573": "0 sn ve 5 sn: Avuç ve parmaklarla yüzeyine vurularak.",
+        "explanation": "0 sn ve 5 sn: Avuç ve parmaklarla yüzeyine vurularak."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2023/07/0/01/01000000-0a00-0242-0bc0-08db903de356_240p.mp4?cb=edc571ff7",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-mosaic",
+    "category": "Mozaik atölyesi",
+    "group": "Görsel sanatlar",
+    "source": "https://www.voaturkce.com/a/yabanc%C4%B1-sanatseverlere-iki-bin-y%C4%B1ll%C4%B1k-mozaik-egitimi/7223131.html",
+    "title": "Yabancı sanatseverlere 2 bin yıllık mozaik eğitimi",
+    "author": "VOA Türkçe · Orhan Erkılıç",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-ca38-08db9c237d4a_480p.mp4?cb=edc6b0c49",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:01000000-0aff-0242-ca38-08db9c237d4a",
+    "mediaKey571": "voa:01000000-0aff-0242-ca38-08db9c237d4a",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-mosaic-q",
+        "category181": "action",
+        "question": "Mozaik yapımında parçalara şekil veren araç ile parçaların yerleştirildiği alan hangi çiftti?",
+        "options": [
+          "Küçük zımpara ve oyulmuş ahşap figür",
+          "Pense benzeri kesici ve çerçeve içindeki desen",
+          "İnce fırça ve dönen çömlek yüzeyi",
+          "Uzun iğne ve gergefteki kumaş"
+        ],
+        "answer": 1,
+        "evidence573": "15 sn ve 20 sn ve 25 sn: Pense benzeri kesici ve çerçeve içindeki desen.",
+        "explanation": "15 sn ve 20 sn ve 25 sn: Pense benzeri kesici ve çerçeve içindeki desen."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-ca38-08db9c237d4a_240p.mp4?cb=edc6b0c49",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-hidrellez",
+    "category": "Hıdırellez",
+    "group": "Gelenekler",
+    "source": "https://www.voaturkce.com/a/izmirde-hidrellez-atesi/4905633.html",
+    "title": "İzmir’de Hıdırellez Ateşi",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/05/3/3f/3f591c27-b5f4-46eb-a9f2-3a4f0d007ec1.mp4?cb=ed462744c",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:3f591c27-b5f4-46eb-a9f2-3a4f0d007ec1",
+    "mediaKey571": "voa:3f591c27-b5f4-46eb-a9f2-3a4f0d007ec1",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-hidrellez-q",
+        "category181": "sequence",
+        "question": "Kalabalığın yürüyüşü gösterilmeden önce görülen kostümlü ikilide erkek figür hangi çalgıyı taşıyordu?",
+        "options": [
+          "Akordeon",
+          "Klarnet",
+          "Davul",
+          "Bağlama"
+        ],
+        "answer": 0,
+        "evidence573": "0 sn ve 25 sn: Akordeon.",
+        "explanation": "0 sn ve 25 sn: Akordeon."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/05/3/3f/3f591c27-b5f4-46eb-a9f2-3a4f0d007ec1_mobile.mp4?cb=ed462744c",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-painting",
+    "category": "Resim atölyesi",
+    "group": "Görsel sanatlar",
+    "source": "https://www.voaturkce.com/a/hem-multec-hem-sanatci-olmak/5935722.html",
+    "title": "Hem Mülteci Hem Sanatçı Olmak",
+    "author": "VOA Türkçe · Orhan Erkılıç",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2021/06/3/3a/3a25c82e-e7f3-408b-acb0-8376c468dc9c_480p.mp4?cb=ed86280d9",
+    "mediaStart578": 55,
+    "duration": 30,
+    "originalKey579": "voa:3a25c82e-e7f3-408b-acb0-8376c468dc9c",
+    "mediaKey571": "voa:3a25c82e-e7f3-408b-acb0-8376c468dc9c",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-painting-q",
+        "category181": "sequence",
+        "question": "Ressamın çalışması yakın planda gösterilirken hangi işlem sırası görülüyordu?",
+        "options": [
+          "Paletten boya alıp tuvaldeki resme uyguluyordu",
+          "Tuvali ıslatıp fırçayı temiz suyla yıkıyordu",
+          "Resmi çerçeveleyip camını siliyordu",
+          "Tuvaldeki boyayı kazıyıp palete aktarıyordu"
+        ],
+        "answer": 0,
+        "evidence573": "5 sn ve 10 sn ve 20 sn: Paletten boya alıp tuvaldeki resme uyguluyordu.",
+        "explanation": "5 sn ve 10 sn ve 20 sn: Paletten boya alıp tuvaldeki resme uyguluyordu."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/06/3/3a/3a25c82e-e7f3-408b-acb0-8376c468dc9c_240p.mp4?cb=ed86280d9",
+      "evidenceFrames": [
+        55,
+        60,
+        65,
+        70,
+        75,
+        80
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-leonardo",
+    "category": "Mekanik düzenek modelleri sergisi",
+    "group": "Müzeler",
+    "source": "https://www.voaturkce.com/a/turk-sanatcilar-leonardo-da-vincinin-izinde-/5115128.html",
+    "title": "Türk Sanatçılar Leonardo da Vinci'nin İzinde",
+    "author": "VOA Türkçe · Arzu Çakır",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/10/7/76/768d8a29-f57f-44ad-9dcd-9067de02cede.mp4?cb=ed533c75f",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:768d8a29-f57f-44ad-9dcd-9067de02cede",
+    "mediaKey571": "voa:768d8a29-f57f-44ad-9dcd-9067de02cede",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-leonardo-q",
+        "category181": "sequence",
+        "question": "Mekan gezisinde büyük şöminenin bulunduğu odadan sonra hangi nesneler yakın planda gösterildi?",
+        "options": [
+          "Çerçevelenmiş aile portreleri",
+          "Cam vitrinlerdeki seramik tabaklar",
+          "Masa üzerinde açık duran eski kitaplar",
+          "Ahşap mekanik düzenek modelleri"
+        ],
+        "answer": 3,
+        "evidence573": "5 sn ve 10 sn ve 20 sn: Ahşap mekanik düzenek modelleri.",
+        "explanation": "5 sn ve 10 sn ve 20 sn: Ahşap mekanik düzenek modelleri."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/10/7/76/768d8a29-f57f-44ad-9dcd-9067de02cede_mobile.mp4?cb=ed533c75f",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-puppetopera",
+    "category": "Kukla operası",
+    "group": "Sahne sanatları",
+    "source": "https://www.voaturkce.com/a/turkiye-de-bir-ilk-kukla-operasi/6490940.html",
+    "title": "Türkiye'de Bir İlk: Kukla Operası",
+    "author": "VOA Türkçe",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/03/0/02/02660000-0aff-0242-743e-08da08dc68bf_480p.mp4?cb=ed9c7c795",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:02660000-0aff-0242-743e-08da08dc68bf",
+    "mediaKey571": "voa:02660000-0aff-0242-743e-08da08dc68bf",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-puppetopera-q",
+        "category181": "position",
+        "question": "Sahnedeki kuklalar ile onları hareket ettiren kişiler hangi düzende görünüyordu?",
+        "options": [
+          "Oynatıcılar tamamen perdenin arkasında gizleniyordu",
+          "Kuklalar tavandan sarkan uzun iplerle yönetiliyordu",
+          "Oynatıcıların yalnızca elleri sahnenin altından çıkıyordu",
+          "Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu"
+        ],
+        "answer": 3,
+        "evidence573": "5 sn ve 10 sn ve 20 sn: Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu.",
+        "explanation": "5 sn ve 10 sn ve 20 sn: Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2022/03/0/02/02660000-0aff-0242-743e-08da08dc68bf_240p.mp4?cb=ed9c7c795",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-chess",
+    "category": "Canlı satranç",
+    "group": "Gösteriler",
+    "source": "https://www.voaturkce.com/a/halk-oyunlariyla-canli-satranc-performansi/5011675.html",
+    "title": "Halk Oyunlarıyla Canlı Satranç Performansı",
+    "author": "VOA Türkçe · Murat Karabulut",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/07/2/26/265f351d-3276-4690-8a13-ae962e579351.mp4?cb=ed4d10592",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:265f351d-3276-4690-8a13-ae962e579351",
+    "mediaKey571": "voa:265f351d-3276-4690-8a13-ae962e579351",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-chess-q",
+        "category181": "position",
+        "question": "Canlı satranç gösterisinde oyuncular hangi düzenin üzerinde hareket ediyordu?",
+        "options": [
+          "Kumun üzerine çizilmiş bir dairede",
+          "Siyah beyaz kareli büyük zeminde",
+          "Renkli dairelerle işaretlenmiş parkurda",
+          "Düz kırmızı halının iki yanında"
+        ],
+        "answer": 1,
+        "evidence573": "0 sn ve 10 sn ve 20 sn: Siyah beyaz kareli büyük zeminde.",
+        "explanation": "0 sn ve 10 sn ve 20 sn: Siyah beyaz kareli büyük zeminde."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/07/2/26/265f351d-3276-4690-8a13-ae962e579351_mobile.mp4?cb=ed4d10592",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-amal",
+    "category": "Dev sokak kuklası",
+    "group": "Sahne sanatları",
+    "source": "https://www.voaturkce.com/a/kucuk-amalin-turkiye-yolculugunun-son-duragi-izmir/5994944.html",
+    "title": "Küçük Amal’ın Türkiye Yolculuğunun Son Durağı İzmir",
+    "author": "VOA Türkçe · Soner Kızılkaya; Oğulcan Bakiler",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2021/08/3/3c/3c0e0a92-18ec-4af4-a99b-1cf581f29e7c_480p.mp4?cb=ed8a1eb5a",
+    "mediaStart578": 125,
+    "duration": 30,
+    "originalKey579": "voa:3c0e0a92-18ec-4af4-a99b-1cf581f29e7c",
+    "mediaKey571": "voa:3c0e0a92-18ec-4af4-a99b-1cf581f29e7c",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-amal-q",
+        "category181": "sequence",
+        "question": "Dev kuklanın eli kalabalığa yaklaştırıldığında çocuklar ne yaptı?",
+        "options": [
+          "Oldukları yerde durup yalnızca alkışladı",
+          "Kuklanın önünde birbirlerinin ellerini tuttu",
+          "Ellerini uzatıp kuklanın eline dokundu",
+          "Ellerindeki kağıtları kuklaya uzattı"
+        ],
+        "answer": 2,
+        "evidence573": "0 sn ve 5 sn ve 10 sn: Ellerini uzatıp kuklanın eline dokundu.",
+        "explanation": "0 sn ve 5 sn ve 10 sn: Ellerini uzatıp kuklanın eline dokundu."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/08/3/3c/3c0e0a92-18ec-4af4-a99b-1cf581f29e7c_240p.mp4?cb=ed8a1eb5a",
+      "evidenceFrames": [
+        125,
+        130,
+        135,
+        140,
+        145,
+        150
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-toylibrary",
+    "category": "Oyuncak kütüphanesi",
+    "group": "Çocuk etkinlikleri",
+    "source": "https://www.voaturkce.com/a/surlu-cocuklara-oyuncak-kutuphanesi/4583712.html",
+    "title": "Sur’da Çocuklara Oyuncak Kütüphanesi",
+    "author": "VOA Türkçe · Mahmut Bozarslan",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2018/09/d/df/df4f335e-a0fe-4d9c-bd06-66d91aa99957.mp4?cb=ed339c405",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:df4f335e-a0fe-4d9c-bd06-66d91aa99957",
+    "mediaKey571": "voa:df4f335e-a0fe-4d9c-bd06-66d91aa99957",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-toylibrary-q",
+        "category181": "position",
+        "question": "Elindeki kırmızı oyuncağı yere doğru uzatan çocuk, onu hangi yüzeyin üzerinde oynatıyordu?",
+        "options": [
+          "Ahşap tren raylarının döşendiği masa",
+          "Tek renk mavi minder",
+          "Siyah beyaz kareli oyun zemini",
+          "Yol ve bina desenli oyun halısı"
+        ],
+        "answer": 3,
+        "evidence573": "10 sn ve 20 sn: Yol ve bina desenli oyun halısı.",
+        "explanation": "10 sn ve 20 sn: Yol ve bina desenli oyun halısı."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2018/09/d/df/df4f335e-a0fe-4d9c-bd06-66d91aa99957_mobile.mp4?cb=ed339c405",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-toymuseum",
+    "category": "Tarihi oyuncaklar ve köy eşyaları",
+    "group": "Müzeler",
+    "source": "https://www.voaturkce.com/a/tarihin-taniklari-oyuncaklar/4759114.html",
+    "title": "Tarihin Tanıkları Oyuncaklar",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/8/8d/8d8c0ed2-5ee4-4972-bf11-6936c7bcb296.mp4?cb=ed3deefda",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:8d8c0ed2-5ee4-4972-bf11-6936c7bcb296",
+    "mediaKey571": "voa:8d8c0ed2-5ee4-4972-bf11-6936c7bcb296",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-toymuseum-q",
+        "category181": "position",
+        "question": "Müze turunda camlı dolapların yanı sıra doğrudan duvara asılı gösterilen eşya grubu hangisiydi?",
+        "options": [
+          "Uzun saplı eski aletler",
+          "Minyatür çay takımları",
+          "Küçük seramik hayvanlar",
+          "Oyuncak tren vagonları"
+        ],
+        "answer": 0,
+        "evidence573": "5 sn ve 10 sn ve 25 sn: Uzun saplı eski aletler.",
+        "explanation": "5 sn ve 10 sn ve 25 sn: Uzun saplı eski aletler."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/8/8d/8d8c0ed2-5ee4-4972-bf11-6936c7bcb296_mobile.mp4?cb=ed3deefda",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-bookfair",
+    "category": "Kitap fuarı",
+    "group": "Edebiyat",
+    "source": "https://www.voaturkce.com/a/diyarbak%C4%B1r-kitap-fuar%C4%B1-na-b%C3%BCy%C3%BCk-i%CC%87lgi/5102408.html",
+    "title": "Diyarbakır Kitap Fuarı'na Büyük İlgi",
+    "author": "VOA Türkçe",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/09/2/2c/2c6a17c3-3750-41ea-ac79-894de46b0c9a.mp4?cb=ed5216991",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:2c6a17c3-3750-41ea-ac79-894de46b0c9a",
+    "mediaKey571": "voa:2c6a17c3-3750-41ea-ac79-894de46b0c9a",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-bookfair-q",
+        "category181": "sequence",
+        "question": "Fuar binasının dışından içeriye geçilen görüntüde, masada oturan kadının çevresinde hangi düzen vardı?",
+        "options": [
+          "Önünde biletler, çevresinde turnikeden geçen ziyaretçiler",
+          "Önünde kitaplar, çevresinde ayakta bekleyen okurlar",
+          "Önünde mikrofonlar, karşısında sıra sıra boş sandalyeler",
+          "Önünde oyuncaklar, yanında sıraya giren çocuklar"
+        ],
+        "answer": 1,
+        "evidence573": "5 sn ve 15 sn: Önünde kitaplar, çevresinde ayakta bekleyen okurlar.",
+        "explanation": "5 sn ve 15 sn: Önünde kitaplar, çevresinde ayakta bekleyen okurlar."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/09/2/2c/2c6a17c3-3750-41ea-ac79-894de46b0c9a_mobile.mp4?cb=ed5216991",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-crochet",
+    "category": "Örgü oyuncaklar",
+    "group": "Hobiler",
+    "source": "https://www.voaturkce.com/a/hobi-olarak-ba%C5%9Flad%C4%B1-gelir-kap%C4%B1s%C4%B1-oldu/5740836.html",
+    "title": "Hobi Olarak Başladı Gelir Kapısı Oldu",
+    "author": "VOA Türkçe · Mahmut Bozarslan",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2021/01/2/2c/2c40e0e8-1766-4010-81ba-42c7abad8690_480p.mp4?cb=ed7965645",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:2c40e0e8-1766-4010-81ba-42c7abad8690",
+    "mediaKey571": "voa:2c40e0e8-1766-4010-81ba-42c7abad8690",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-crochet-q",
+        "category181": "action",
+        "question": "Kadın sarı ipliği işlerken hangi araç ve yöntem görülüyordu?",
+        "options": [
+          "Dikiş makinesinde ip geçiriyordu",
+          "Tahta tezgahta ipleri dokuyordu",
+          "Tek tığla ilmek oluşturuyordu",
+          "İki uzun şişle örgü örüyordu"
+        ],
+        "answer": 2,
+        "evidence573": "5 sn ve 15 sn: Tek tığla ilmek oluşturuyordu.",
+        "explanation": "5 sn ve 15 sn: Tek tığla ilmek oluşturuyordu."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/01/2/2c/2c40e0e8-1766-4010-81ba-42c7abad8690_240p.mp4?cb=ed7965645",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-photography",
+    "category": "Fotoğraf sergisi",
+    "group": "Görsel sanatlar",
+    "source": "https://www.voaturkce.com/a/foto-muhabir-fatih-pinar-goz-gore-gore-25-yillik-taniklik-sergi/7627382.html",
+    "title": "Foto muhabir Fatih Pınar'dan \"Göz Göre Göre 25 Yıllık Tanıklık\" sergisi",
+    "author": "VOA Türkçe · Fatma Yörür; Umut Çolak",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-8b4f-08dc7d6f5a3b_480p.mp4?cb=edde67926",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:01000000-0aff-0242-8b4f-08dc7d6f5a3b",
+    "mediaKey571": "voa:01000000-0aff-0242-8b4f-08dc7d6f5a3b",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-photography-q",
+        "category181": "sequence",
+        "question": "Galeri röportajından önce yakın çekimle gösterilen büyük fotoğrafın ana konusu neydi?",
+        "options": [
+          "Liman önünde yan yana duran tekneler",
+          "Tren istasyonundaki yolcular",
+          "Balkonları ve pencereleri görülen bir bina",
+          "Kalabalık bir sokakta yürüyen insanlar"
+        ],
+        "answer": 2,
+        "evidence573": "0 sn ve 5 sn: Balkonları ve pencereleri görülen bir bina.",
+        "explanation": "0 sn ve 5 sn: Balkonları ve pencereleri görülen bir bina."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-8b4f-08dc7d6f5a3b_240p.mp4?cb=edde67926",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-antiques",
+    "category": "Antika pazarı",
+    "group": "Koleksiyon",
+    "source": "https://www.voaturkce.com/a/tarih-kokan-pazar/4780765.html",
+    "title": "Tarih Kokan Pazar",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/02/1/19/1907737e-fe0f-4c63-89c5-4ac2f59ae4bb.mp4?cb=ed3f28f0b",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:1907737e-fe0f-4c63-89c5-4ac2f59ae4bb",
+    "mediaKey571": "voa:1907737e-fe0f-4c63-89c5-4ac2f59ae4bb",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-antiques-q",
+        "category181": "sequence",
+        "question": "İlk tezgah turunda cam eşyalardan sonraki masa yakın çekiminde hangi eşya grubu öne çıktı?",
+        "options": [
+          "Eski kitaplar, zarflar ve kartpostallar",
+          "Kumaş çantalar, danteller ve şapkalar",
+          "Metal bıçaklar, çakılar ve küçük saatler",
+          "Vinil plaklar, kasetler ve pikaplar"
+        ],
+        "answer": 2,
+        "evidence573": "5 sn ve 10 sn: Metal bıçaklar, çakılar ve küçük saatler.",
+        "explanation": "5 sn ve 10 sn: Metal bıçaklar, çakılar ve küçük saatler."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/02/1/19/1907737e-fe0f-4c63-89c5-4ac2f59ae4bb_mobile.mp4?cb=ed3f28f0b",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-phones",
+    "category": "Telefon koleksiyonu",
+    "group": "Koleksiyon",
+    "source": "https://www.voaturkce.com/a/iki-bin-779-telefon-ile-guinnesse-rekor-basvurusu-onaylandi/6402989.html",
+    "title": "2 bin 779 Telefon ile Guinness’e Rekor Başvurusu",
+    "author": "VOA Türkçe · Umut Çolak",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/01/5/5e/5ee4fdba-5655-4f01-b117-0e0e3529afdf_480p.mp4?cb=ed97a05af",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:5ee4fdba-5655-4f01-b117-0e0e3529afdf",
+    "mediaKey571": "voa:5ee4fdba-5655-4f01-b117-0e0e3529afdf",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-phones-q",
+        "category181": "sequence",
+        "question": "Koleksiyoncu büyük siyah telefonu elinde gösterdikten sonra ne yaptı?",
+        "options": [
+          "Ahizesini kulağına götürdü",
+          "Antenini çıkarıp uzattı",
+          "Arka kapağını açıp pilini gösterdi",
+          "Tuş takımını çıkarıp masaya koydu"
+        ],
+        "answer": 0,
+        "evidence573": "20 sn ve 25 sn: Ahizesini kulağına götürdü.",
+        "explanation": "20 sn ve 25 sn: Ahizesini kulağına götürdü."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2022/01/5/5e/5ee4fdba-5655-4f01-b117-0e0e3529afdf_240p.mp4?cb=ed97a05af",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-kites",
+    "category": "Uçurtma şenliği",
+    "group": "Çocuk etkinlikleri",
+    "source": "https://www.voaturkce.com/a/depremzede-cocuklar-ucurtmalarini-gokyuzuyle-bulusturdu/7064057.html",
+    "title": "Depremzede Çocuklar Uçurtmalarını Gökyüzüyle Buluşturdu",
+    "author": "VOA Türkçe · Orhan Erkılıç",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2023/04/0/01/01000000-0a00-0242-0f08-08db44f1b732_480p.mp4?cb=edbd8c68b",
+    "mediaStart578": 55,
+    "duration": 30,
+    "originalKey579": "voa:01000000-0a00-0242-0f08-08db44f1b732",
+    "mediaKey571": "voa:01000000-0a00-0242-0f08-08db44f1b732",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-kites-q",
+        "category181": "background",
+        "question": "Uçurtma yapımı görüntülerinden sonra geçilen okul bahçesinde hangi spor ekipmanı da görünüyordu?",
+        "options": [
+          "Tenis filesi",
+          "Basketbol potası",
+          "Voleybol filesi",
+          "Futbol kalesi"
+        ],
+        "answer": 1,
+        "evidence573": "10 sn ve 15 sn ve 25 sn: Basketbol potası.",
+        "explanation": "10 sn ve 15 sn ve 25 sn: Basketbol potası."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2023/04/0/01/01000000-0a00-0242-0f08-08db44f1b732_240p.mp4?cb=edbd8c68b",
+      "evidenceFrames": [
+        55,
+        60,
+        65,
+        70,
+        75,
+        80
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-wedding",
+    "category": "Düğün salonu hazırlığı",
+    "group": "Gelenekler",
+    "source": "https://www.voaturkce.com/a/dugun-salonlari-acilmayi-bekliyor/5908244.html",
+    "title": "Düğün Salonları Açılmayı Bekliyor",
+    "author": "VOA Türkçe · Soner Kızılkaya; Kamera: Oğulcan Bakiler",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2021/05/b/bf/bf1f799e-41b3-4978-9cb3-43180e346462_480p.mp4?cb=ed84319e7",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:bf1f799e-41b3-4978-9cb3-43180e346462",
+    "mediaKey571": "voa:bf1f799e-41b3-4978-9cb3-43180e346462",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-wedding-q",
+        "category181": "background",
+        "question": "Bahçedeki masa düzenine geçişi çerçeveleyen büyük yapı hangisiydi?",
+        "options": [
+          "Beyaz tüllerle sarılmış ahşap kapı",
+          "Çiçeklerle kaplı metal çember",
+          "Düz çatılı camlı giriş",
+          "Koyu renk taşlardan yapılmış kemer"
+        ],
+        "answer": 3,
+        "evidence573": "5 sn ve 10 sn: Koyu renk taşlardan yapılmış kemer.",
+        "explanation": "5 sn ve 10 sn: Koyu renk taşlardan yapılmış kemer."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/05/b/bf/bf1f799e-41b3-4978-9cb3-43180e346462_240p.mp4?cb=ed84319e7",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-face",
+    "category": "Geleneksel gelin süslemesi",
+    "group": "Gelenekler",
+    "source": "https://www.voaturkce.com/a/karaburun-un-son-yuz-yazmacisi/4754468.html",
+    "title": "Karaburun’un Son Yüz Yazmacısı",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/5/5d/5df66e43-9b5c-46a0-805e-1f42cc143bbb.mp4?cb=ed3deeb00",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:5df66e43-9b5c-46a0-805e-1f42cc143bbb",
+    "mediaKey571": "voa:5df66e43-9b5c-46a0-805e-1f42cc143bbb",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-face-q",
+        "category181": "position",
+        "question": "Kadın süsleme malzemelerini küçük masada hazırlarken gelin adayı nerede bekliyordu?",
+        "options": [
+          "Masanın karşısındaki ahşap sandalyede",
+          "Yerde minderlerle çevrili bir köşede",
+          "Desenli açık renk bir kanepede",
+          "Aynanın önündeki yüksek kuaför koltuğunda"
+        ],
+        "answer": 2,
+        "evidence573": "15 sn ve 20 sn ve 25 sn: Desenli açık renk bir kanepede.",
+        "explanation": "15 sn ve 20 sn ve 25 sn: Desenli açık renk bir kanepede."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/5/5d/5df66e43-9b5c-46a0-805e-1f42cc143bbb_mobile.mp4?cb=ed3deeb00",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-sign",
+    "category": "İşaret dili tercümanlığı",
+    "group": "Erişilebilirlik",
+    "source": "https://www.voaturkce.com/a/isitme-engelliler-icin-goruntulu-destek-hatti/5008675.html",
+    "title": "İşitme Engelliler İçin Görüntülü Destek Hattı",
+    "author": "VOA Türkçe · Onur Erdoğan",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/07/9/9a/9adb43a8-66f0-4202-acdb-f93cd5707410.mp4?cb=ed4c56be3",
+    "mediaStart578": 110,
+    "duration": 30,
+    "originalKey579": "voa:9adb43a8-66f0-4202-acdb-f93cd5707410",
+    "mediaKey571": "voa:9adb43a8-66f0-4202-acdb-f93cd5707410",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-sign-q",
+        "category181": "sequence",
+        "question": "Telefonla görüntülü görüşme yapan kıvırcık saçlı kişi, sonraki röportajda hangi görevle tanıtıldı?",
+        "options": [
+          "İşaret dili tercümanı",
+          "Çağrı merkezi operatörü",
+          "Sosyal hizmet uzmanı",
+          "Engelliler Daire Başkanı"
+        ],
+        "answer": 0,
+        "evidence573": "10 sn ve 15 sn ve 25 sn: İşaret dili tercümanı.",
+        "explanation": "10 sn ve 15 sn ve 25 sn: İşaret dili tercümanı."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/07/9/9a/9adb43a8-66f0-4202-acdb-f93cd5707410_mobile.mp4?cb=ed4c56be3",
+      "evidenceFrames": [
+        110,
+        115,
+        120,
+        125,
+        130,
+        135
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-choir",
+    "category": "Çocuk korosu",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/siginmaci-cocuklar-izmir-de-23-nisani-kutladi/6542273.html",
+    "title": "Sığınmacı Çocuklar İzmir’de 23 Nisan’ı Kutladı",
+    "author": "VOA Türkçe · Soner Kızılkaya; Oğulcan Bakiler",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/04/0/02/02210000-0aff-0242-754c-08da2571ef7c_480p.mp4?cb=ed9f6719f",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:02210000-0aff-0242-754c-08da2571ef7c",
+    "mediaKey571": "voa:02210000-0aff-0242-754c-08da2571ef7c",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-choir-q",
+        "category181": "position",
+        "question": "Koroyu yöneten yetişkin, şarkı söyleyen çocuklara göre nerede duruyordu?",
+        "options": [
+          "Sahnenin en arkasında, çocuklarla aynı hizada",
+          "Sahnenin solunda oturarak",
+          "Çocukların önünde, sırtı kameraya dönük",
+          "Çocukların arasında, kameraya dönük"
+        ],
+        "answer": 2,
+        "evidence573": "0 sn ve 5 sn ve 15 sn: Çocukların önünde, sırtı kameraya dönük.",
+        "explanation": "0 sn ve 5 sn ve 15 sn: Çocukların önünde, sırtı kameraya dönük."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2022/04/0/02/02210000-0aff-0242-754c-08da2571ef7c_240p.mp4?cb=ed9f6719f",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-cartoon",
+    "category": "Karikatür festivali",
+    "group": "Görsel sanatlar",
+    "source": "https://www.voaturkce.com/a/istanbul-da-cizgi-ve-karikatur-festivali-duzenlendi/7281702.html",
+    "title": "İstanbul’da Çizgi ve Karikatür Festivali düzenlendi",
+    "author": "VOA Türkçe · Umut Çolak",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2023/09/0/01/01000000-0aff-0242-2390-08dbbd00b288_480p.mp4?cb=edca22e93",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:01000000-0aff-0242-2390-08dbbd00b288",
+    "mediaKey571": "voa:01000000-0aff-0242-2390-08dbbd00b288",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-cartoon-q",
+        "category181": "position",
+        "question": "Çizerin kalemi ve kağıdı yakından gösterildiğinde turuncu kılıflı ekranlı cihaz neredeydi?",
+        "options": [
+          "Kağıdın altına yerleştirilmişti",
+          "Çizim kağıdının üst kenarına dayalıydı",
+          "Çizerin arkasındaki masanın üzerindeydi",
+          "Çizerin boynunda asılıydı"
+        ],
+        "answer": 1,
+        "evidence573": "10 sn ve 15 sn: Çizim kağıdının üst kenarına dayalıydı.",
+        "explanation": "10 sn ve 15 sn: Çizim kağıdının üst kenarına dayalıydı."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2023/09/0/01/01000000-0aff-0242-2390-08dbbd00b288_240p.mp4?cb=edca22e93",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-tango",
+    "category": "İleri yaşta tango",
+    "group": "Dans",
+    "source": "https://www.voaturkce.com/a/yaslanan-turk%C4%B1yede-sagl%C4%B1kl%C4%B1-yas-alman%C4%B1n-yollar%C4%B1/4836274.html",
+    "title": "Yaşlanan Türkiye’de Sağlıklı Yaş Alma Yolları",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/03/8/82/823487aa-762b-4e89-b3d0-dcf2e670edd1.mp4?cb=ed422c6a5",
+    "mediaStart578": 40,
+    "duration": 30,
+    "originalKey579": "voa:823487aa-762b-4e89-b3d0-dcf2e670edd1",
+    "mediaKey571": "voa:823487aa-762b-4e89-b3d0-dcf2e670edd1",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-tango-q",
+        "category181": "sequence",
+        "question": "Bu kesitte etkinlik görüntüleri hangi sırayla geldi?",
+        "options": [
+          "Oturarak esneme, röportaj, eşli dans",
+          "Oturarak esneme, eşli dans, röportaj",
+          "Eşli dans, röportaj, oturarak esneme",
+          "Röportaj, oturarak esneme, eşli dans"
+        ],
+        "answer": 1,
+        "evidence573": "0 sn ve 5 sn ve 15 sn: Oturarak esneme, eşli dans, röportaj.",
+        "explanation": "0 sn ve 5 sn ve 15 sn: Oturarak esneme, eşli dans, röportaj."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/03/8/82/823487aa-762b-4e89-b3d0-dcf2e670edd1_mobile.mp4?cb=ed422c6a5",
+      "evidenceFrames": [
+        40,
+        45,
+        50,
+        55,
+        60,
+        65
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-streetmusic",
+    "category": "Sokak müzisyenliği",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/corona-gunlerinde-sokak-muzisyenleri-ne-yapiyor-istanbul/5377950.html",
+    "title": "Sokak Müzisyenleri Salgın Nedeniyle Zor Günler Geçiriyor",
+    "author": "VOA Türkçe",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2020/04/7/7b/7bd9cd9d-6974-4e36-90fe-fc7985568a43_480p.mp4?cb=ed62d3e40",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:7bd9cd9d-6974-4e36-90fe-fc7985568a43",
+    "mediaKey571": "voa:7bd9cd9d-6974-4e36-90fe-fc7985568a43",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-streetmusic-q",
+        "category181": "position",
+        "question": "Geniş sokak planında müzisyenin oturduğu nesne ile önünde yerde duran nesne hangi çiftti?",
+        "options": [
+          "Katlanır sandalye ve kırmızı çanta",
+          "Küçük plastik tabure ve beyaz kap",
+          "Ahşap sandalye ve açık keman kutusu",
+          "Metal bank ve siyah valiz"
+        ],
+        "answer": 1,
+        "evidence573": "5 sn ve 15 sn: Küçük plastik tabure ve beyaz kap.",
+        "explanation": "5 sn ve 15 sn: Küçük plastik tabure ve beyaz kap."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2020/04/7/7b/7bd9cd9d-6974-4e36-90fe-fc7985568a43_mobile.mp4?cb=ed62d3e40",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-records",
+    "category": "Taş plak sergisi",
+    "group": "Müzeler",
+    "source": "https://www.voaturkce.com/a/baltimore-yahudi-muzesi-turkce-sarkilarla-sergi/8002691.html",
+    "title": "Baltimore’daki Yahudi Müzesi’nde Türkçe şarkılarla sergi",
+    "author": "VOA Türkçe · Ezel Şahinkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2025/03/9/99/99776bb9-040c-418f-02f9-08dd5c8b1668_480p.mp4?cb=edf5ea167",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:99776bb9-040c-418f-02f9-08dd5c8b1668",
+    "mediaKey571": "voa:99776bb9-040c-418f-02f9-08dd5c8b1668",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-records-q",
+        "category181": "object",
+        "question": "Sergi salonundaki duvar panolarından sonra yakın planda gösterilen yuvarlak siyah nesne neydi?",
+        "options": [
+          "Ortası etiketli eski bir plak",
+          "Dairesel bir fotoğraf çerçevesi",
+          "Siyah bir duvar saati",
+          "Metal bir film kutusu kapağı"
+        ],
+        "answer": 0,
+        "evidence573": "0 sn ve 5 sn ve 25 sn: Ortası etiketli eski bir plak.",
+        "explanation": "0 sn ve 5 sn ve 25 sn: Ortası etiketli eski bir plak."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2025/03/9/99/99776bb9-040c-418f-02f9-08dd5c8b1668_240p.mp4?cb=edf5ea167",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-barber",
+    "category": "Seyyar berber",
+    "group": "Kişisel bakım",
+    "source": "https://www.voaturkce.com/a/izmir-seyyar-berber-dukkan-musteri-ayagina-tasiyor/7656687.html",
+    "title": "İzmir’in seyyar berberi dükkanını müşterilerinin ayağına taşıyor",
+    "author": "VOA Türkçe · Soner Kızılkaya; Oğulcan Bakiler",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2024/06/0/01/01000000-0aff-0242-1c10-08dc8c945222_480p.mp4?cb=eddfea04f",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:01000000-0aff-0242-1c10-08dc8c945222",
+    "mediaKey571": "voa:01000000-0aff-0242-1c10-08dc8c945222",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-barber-q",
+        "category181": "position",
+        "question": "Berber röportaj verirken arkasında beyaz gömlekli ikinci bir kişi gibi görünen görüntü aslında neydi?",
+        "options": [
+          "Duvardaki büyük bir fotoğraf",
+          "Aynadaki kendi yansıması",
+          "Saçı kesilen müşterinin yansıması",
+          "Kapıda bekleyen başka bir çalışan"
+        ],
+        "answer": 1,
+        "evidence573": "10 sn ve 15 sn: Aynadaki kendi yansıması.",
+        "explanation": "10 sn ve 15 sn: Aynadaki kendi yansıması."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2024/06/0/01/01000000-0aff-0242-1c10-08dc8c945222_240p.mp4?cb=eddfea04f",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-violin",
+    "category": "Çocuk orkestrası",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/bir-semtin-cocuklarinin-kaderi-muzikle-degisti/6639947.html",
+    "title": "Bir Semtin Çocuklarının Kaderi Müzikle Değişti",
+    "author": "VOA Türkçe · Soner Kızılkaya; Oğulcan Bakiler",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10060000-0aff-0242-41dc-08da5abe3c50_480p.mp4?cb=eda4fd7c3",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:10060000-0aff-0242-41dc-08da5abe3c50",
+    "mediaKey571": "voa:10060000-0aff-0242-41dc-08da5abe3c50",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-violin-q",
+        "category181": "sequence",
+        "question": "Şefin görüldüğü genel plandan sonra yakın çekime gelen iki öğrenci hangi enstrümanları çalıyordu?",
+        "options": [
+          "Bir trompet ve bir keman",
+          "Bir saksafon ve bir flüt",
+          "İki trompet",
+          "İki klarnet"
+        ],
+        "answer": 2,
+        "evidence573": "0 sn ve 5 sn: İki trompet.",
+        "explanation": "0 sn ve 5 sn: İki trompet."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10060000-0aff-0242-41dc-08da5abe3c50_240p.mp4?cb=eda4fd7c3",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-piano",
+    "category": "Piyano performansı",
+    "group": "Müzik",
+    "source": "https://www.voaturkce.com/a/piyanist-dalk%C4%B1l%C4%B1c-ve-kanun-sanatc%C4%B1s%C4%B1-gultaydan-miami-konseri/4847224.html",
+    "title": "Piyanist Dalkılıç ve Kanun Sanatçısı Gültay'ın Miami Konseri",
+    "author": "VOA Türkçe · Handan Güçyılmaz Günay",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/03/5/53/5345d246-d77d-45da-bd76-9e1029c096e5.mp4?cb=ed42c7e62",
+    "mediaStart578": 180,
+    "duration": 30,
+    "originalKey579": "voa:5345d246-d77d-45da-bd76-9e1029c096e5",
+    "mediaKey571": "voa:5345d246-d77d-45da-bd76-9e1029c096e5",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-piano-q",
+        "category181": "position",
+        "question": "Röportajın ardından gösterilen performansta piyano ve büyük boş ekran nasıl konumlanmıştı?",
+        "options": [
+          "Ekran piyanistin hemen arkasında ortadaydı",
+          "Piyano ekranın önünde, sahnenin tam ortasındaydı",
+          "Piyano solda, ekran sağdaydı",
+          "Piyano sağda, ekran soldaydı"
+        ],
+        "answer": 2,
+        "evidence573": "15 sn ve 20 sn ve 25 sn: Piyano solda, ekran sağdaydı.",
+        "explanation": "15 sn ve 20 sn ve 25 sn: Piyano solda, ekran sağdaydı."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/03/5/53/5345d246-d77d-45da-bd76-9e1029c096e5_mobile.mp4?cb=ed42c7e62",
+      "evidenceFrames": [
+        180,
+        185,
+        190,
+        195,
+        200,
+        205
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-village",
+    "category": "Köy tiyatrosu provası",
+    "group": "Sahne sanatları",
+    "source": "https://www.voaturkce.com/a/bademler-koyu-nun-90-yillik-tiyatro-sevdasi/4759141.html",
+    "title": "Bademler Köyü’nün 90 Yıllık Tiyatro Sevdası",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/a/a5/a5ebdb7c-c4a7-4e2a-8d22-c74a7636b181.mp4?cb=ed42d8665",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:a5ebdb7c-c4a7-4e2a-8d22-c74a7636b181",
+    "mediaKey571": "voa:a5ebdb7c-c4a7-4e2a-8d22-c74a7636b181",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-village-q",
+        "category181": "text",
+        "question": "Provada yakından gösterilen metnin kapağındaki yazar–oyun eşleştirmesi hangisiydi?",
+        "options": [
+          "Haluk Işık – Hoşgeldin Amerika",
+          "Haluk Işık – Teneke",
+          "Yaşar Kemal – Hoşgeldin Amerika",
+          "Yaşar Kemal – Teneke"
+        ],
+        "answer": 0,
+        "evidence573": "10 sn: Haluk Işık – Hoşgeldin Amerika.",
+        "explanation": "10 sn: Haluk Işık – Hoşgeldin Amerika."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/a/a5/a5ebdb7c-c4a7-4e2a-8d22-c74a7636b181_mobile.mp4?cb=ed42d8665",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-ceramics",
+    "category": "Sanat okulu mezuniyet sergisi",
+    "group": "Görsel sanatlar",
+    "source": "https://www.voaturkce.com/a/dunyaca-unlu-sanat-okulundan-mezun-3-turk/5974816.html",
+    "title": "Dünyaca Ünlü Sanat Okulundan Mezun Üç Türk",
+    "author": "VOA Türkçe · Barış Çimen",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2021/07/8/83/83377a29-fe0e-4caf-92a0-cb357acc2017_480p.mp4?cb=ed88b6114",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:83377a29-fe0e-4caf-92a0-cb357acc2017",
+    "mediaKey571": "voa:83377a29-fe0e-4caf-92a0-cb357acc2017",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-ceramics-q",
+        "category181": "object",
+        "question": "Sergide yan yana duran üç heykelsi kabın ortak özelliği neydi?",
+        "options": [
+          "Duvara asılarak sergilenmeleri",
+          "Saplarının aynı biçimde halka olması",
+          "Gövdelerinin aynı büyüklükte olması",
+          "İnce ayakların üzerinde yükselmeleri"
+        ],
+        "answer": 3,
+        "evidence573": "20 sn: İnce ayakların üzerinde yükselmeleri.",
+        "explanation": "20 sn: İnce ayakların üzerinde yükselmeleri."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2021/07/8/83/83377a29-fe0e-4caf-92a0-cb357acc2017_240p.mp4?cb=ed88b6114",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-ebru",
+    "category": "Ebru ressamlığı",
+    "group": "Görsel sanatlar",
+    "source": "https://www.voaturkce.com/a/turk-ebru-sanatcisi-dikkatleri-uzerinde-topladi/3545577.html",
+    "title": "Türk Ebru Sanatçısı Dikkatleri Üzerinde Topladı",
+    "author": "VOA Türkçe · Tan Çetin",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2016/10/d/d5/d5a7631c-0376-4077-993d-cd30c1f63f7f.mp4?cb=ecf901105",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:d5a7631c-0376-4077-993d-cd30c1f63f7f",
+    "mediaKey571": "voa:d5a7631c-0376-4077-993d-cd30c1f63f7f",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-ebru-q",
+        "category181": "sequence",
+        "question": "Son yakın çekimlerde beyaz yuvarlak alanın üzerine hangi işlem uygulandı?",
+        "options": [
+          "Merkezine kırmızı boya bırakıldı",
+          "Kenarlarına siyah çizgiler çekildi",
+          "Üzerine kağıt kapatılıp kaldırıldı",
+          "Ortası yeşil boyayla dolduruldu"
+        ],
+        "answer": 0,
+        "evidence573": "20 sn ve 25 sn: Merkezine kırmızı boya bırakıldı.",
+        "explanation": "20 sn ve 25 sn: Merkezine kırmızı boya bırakıldı."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2016/10/d/d5/d5a7631c-0376-4077-993d-cd30c1f63f7f_mobile.mp4?cb=ecf901105",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  },
+  {
+    "id": "unique579-culture-filmmaking",
+    "category": "Mahallede film çekimi",
+    "group": "Sinema",
+    "source": "https://www.voaturkce.com/a/mahallemzde-flm-cekyoruz/4713752.html",
+    "title": "'Mahallemizde Film Çekiyoruz'",
+    "author": "VOA Türkçe · Soner Kızılkaya",
+    "license": "Public domain — exclusively VOA production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/3/38/387634bf-ff19-4ddb-9350-bb2d4518eb41.mp4?cb=ed3b2da12",
+    "mediaStart578": 10,
+    "duration": 30,
+    "originalKey579": "voa:387634bf-ff19-4ddb-9350-bb2d4518eb41",
+    "mediaKey571": "voa:387634bf-ff19-4ddb-9350-bb2d4518eb41",
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-culture-filmmaking-q",
+        "category181": "object",
+        "question": "Çocuklar kameranın çevresinde toplandığında görüntü almak için kullanılan düzenek hangisiydi?",
+        "options": [
+          "Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera",
+          "Omuzda taşınan büyük yayın kamerası",
+          "Elle tutulan küçük cep telefonu",
+          "Tavana sabitlenmiş güvenlik kamerası"
+        ],
+        "answer": 0,
+        "evidence573": "0 sn ve 15 sn ve 20 sn: Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera.",
+        "explanation": "0 sn ve 15 sn ve 20 sn: Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera."
+      }
+    ],
+    "review579": {
+      "method": "Six video frames at 0/5/10/15/20/25 seconds visually inspected before executor reset; reviewer findings faithfully retained; source metadata re-fetched after reset",
+      "sourceAudio": "original Turkish report / performance audio; no English-only interview selected",
+      "thirdPartyCreditIndicators": [],
+      "downloadUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/3/38/387634bf-ff19-4ddb-9350-bb2d4518eb41_mobile.mp4?cb=ed3b2da12",
+      "evidenceFrames": [
+        10,
+        15,
+        20,
+        25,
+        30,
+        35
+      ],
+      "selectedBeforeReset": true
+    }
+  }
+]

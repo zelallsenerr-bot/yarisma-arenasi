@@ -1,0 +1,187 @@
+[
+  {
+    "name": "water",
+    "sourceStart": 0,
+    "language": "tr",
+    "probability": 0.9924218058586121,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 14.56,
+        "text": " Türkiye zaten yarı korak bir ülke, yaa ıştarı çok değişken, o yüzden bazenler de bazı yıllarda bir önceki yıllı ayakları yaşlar az olabiliyor."
+      },
+      {
+        "start": 14.56,
+        "end": 19.22,
+        "text": " Yaşların azlı barajlarda toprakta kendini gösteribiliyor."
+      },
+      {
+        "start": 19.22,
+        "end": 29.94,
+        "text": " Bir de Türkiye'nin yaşlara az olmasa bile bazı yelirdin ufız ve sana ise yoğunlaşmış durumda."
+      }
+    ]
+  },
+  {
+    "name": "train",
+    "sourceStart": 40,
+    "language": "tr",
+    "probability": 0.9852584004402161,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " Toplök'ün yeni bir sistem gerektiğiniz."
+      },
+      {
+        "start": 4.0,
+        "end": 9.0,
+        "text": " Son yirmi senedeki yüksek hızlı toplu taşımacılık konusunda"
+      },
+      {
+        "start": 9.0,
+        "end": 15.0,
+        "text": " bu değişimler manyatık hızlı tren teknolojileri sayesinde mümkünü olmuştur."
+      },
+      {
+        "start": 15.0,
+        "end": 20.0,
+        "text": " Manyatık hızlı trenler hiçbir yere değmeden havada süzüler eksiyat ederler."
+      },
+      {
+        "start": 20.0,
+        "end": 24.0,
+        "text": " Bu süzülmez sayesinde hiçbir aşım olmaz."
+      },
+      {
+        "start": 24.0,
+        "end": 28.0,
+        "text": " Bu minimal bakım masrafı demektir."
+      },
+      {
+        "start": 28.0,
+        "end": 30.0,
+        "text": " Tekerleklerin uraylarınızı"
+      }
+    ]
+  },
+  {
+    "name": "art",
+    "sourceStart": 30,
+    "language": "tr",
+    "probability": 0.9964749217033386,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Hayali bir selaryoyu koyuyor."
+      },
+      {
+        "start": 3.5,
+        "end": 6.8,
+        "text": " İleri bir adım attığınızda sanki kızın gözleri"
+      },
+      {
+        "start": 6.8,
+        "end": 10.3,
+        "text": " sizi takip ediyormuş hissini veren portralardan biri bu."
+      },
+      {
+        "start": 11.3,
+        "end": 14.3,
+        "text": " İster istemez, kıza gözlerinize dikip bakıyorsunuz."
+      },
+      {
+        "start": 15.5,
+        "end": 18.3,
+        "text": " Çünkü resim ve pek defa zayıken cilun sur bulamıyor."
+      },
+      {
+        "start": 19.3,
+        "end": 20.8,
+        "text": " Küçük bir arkaplanımız var."
+      },
+      {
+        "start": 21.5,
+        "end": 27.5,
+        "text": " Yani pencere de ki kızın nerede olduğunu veya ortamın soğuk mu olduğunu gerçekten bilemiyoruz."
+      },
+      {
+        "start": 27.5,
+        "end": 30.5,
+        "text": " Bir çıkın teyaf."
+      }
+    ]
+  },
+  {
+    "name": "language",
+    "sourceStart": 5,
+    "language": "tr",
+    "probability": 0.990892767906189,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 11.8,
+        "text": " 1 kokol ve orta okulumu pişine de 1 çikap ve samyfraşırı"
+      },
+      {
+        "start": 11.8,
+        "end": 15.8,
+        "text": " tamamladım daha sonra üniversite için Ankara'ya gittim Ankara'da"
+      },
+      {
+        "start": 15.8,
+        "end": 19.8,
+        "text": " iletişim faküttesi gazetecilik bölümünü kazandım ve onu bitirdim."
+      },
+      {
+        "start": 19.8,
+        "end": 23.4,
+        "text": " Daha sonra döndüğümde gazetecilik hayatına başladım."
+      },
+      {
+        "start": 23.4,
+        "end": 27.4,
+        "text": " Öncelikle dadyo da özel bir adıyor da gazeteç olarak çalışmaya başladım."
+      },
+      {
+        "start": 27.4,
+        "end": 30.1,
+        "text": " Daha sonra ise şu anda bulunduğumuz kusura televizyondan"
+      }
+    ]
+  },
+  {
+    "name": "software",
+    "sourceStart": 25,
+    "language": "tr",
+    "probability": 0.9943926334381104,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 7.76,
+        "text": " Yada hesapsız gezin, giriş, vikime diyanın kendi sayfasında yapılır, uygulama şifrenizi hiç bir zaman görmez."
+      },
+      {
+        "start": 8.76,
+        "end": 13.04,
+        "text": " Uygulama'ya ne yapmak istediğinizi ve ne kadar vaktiniz olduğunu söyleyin."
+      },
+      {
+        "start": 14.0,
+        "end": 18.56,
+        "text": " Anay ekran vikinizin durumunu gösterir ve birkaç takika süren görevler önerir."
+      },
+      {
+        "start": 19.56,
+        "end": 27.64,
+        "text": " İlk görev, vikinizde henüz olmayan bir maddenin giriş cümlesini çevirin, başlığı ve cümleyi kendi dilinizde yazın."
+      },
+      {
+        "start": 27.64,
+        "end": 30.2,
+        "text": " Klavenizde olmayan harfiler, bir do."
+      }
+    ]
+  }
+]

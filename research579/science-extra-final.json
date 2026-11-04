@@ -1,0 +1,217 @@
+[
+  {
+    "category": "Curling",
+    "group": "Spor",
+    "source": "https://www.voaturkce.com/a/buzun-satranci-curling-sporu-her-yasa-hitap-ediyor/4779026.html",
+    "title": "Buzun Satrançı ‘Curling’ Sporu Her Yaşa Hitap Ediyor",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/02/b/ba/ba72d65c-d9ec-4ece-875e-0b05af1a5238.mp4?cb=ed3f0ee2e",
+    "mediaStart578": 75,
+    "originalKey579": "ba72d65c-d9ec-4ece-875e-0b05af1a5238",
+    "mediaKey571": "ba72d65c-d9ec-4ece-875e-0b05af1a5238",
+    "id": "unique579-extra-curling",
+    "author": "Murat Karabulut",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "duration": 30,
+    "language": "tr",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "human-visual-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-extra-curling-q",
+        "category181": "action",
+        "question": "Taşı kaydıran oyuncunun ellerinin konumu hangi seçenekte doğru verilmiş?",
+        "options": [
+          "Bir eli taşın kulpunda, diğer eli siyah üçgen destekteydi",
+          "İki eli taşın kulpunda, siyah destek dizinin altındaydı",
+          "Bir eli buzda, diğer eli uzun fırçanın sapındaydı",
+          "İki eli fırçanın sapında, taş ayaklarının önündeydi"
+        ],
+        "answer": 0,
+        "evidence573": "15 sn: Bir eli taşın kulpunda, diğer eli siyah üçgen destekteydi.",
+        "explanation": "15 sn: Bir eli taşın kulpunda, diğer eli siyah üçgen destekteydi."
+      }
+    ]
+  },
+  {
+    "category": "Güvercin oteli",
+    "group": "Hayvanlar",
+    "source": "https://www.voaturkce.com/a/6633848.html",
+    "title": "İstanbul’u Bırakıp Diyarbakır’da Güvercin Oteli Açtı",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10060000-0aff-0242-c966-08da57a4ad21_480p.mp4?cb=eda4aa540",
+    "mediaStart578": 5,
+    "originalKey579": "10060000-0aff-0242-c966-08da57a4ad21",
+    "mediaKey571": "10060000-0aff-0242-c966-08da57a4ad21",
+    "id": "unique579-extra-guvercin",
+    "author": "Mahmut Bozarslan",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "duration": 30,
+    "language": "tr",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "human-visual-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-extra-guvercin-q",
+        "category181": "position",
+        "question": "Dışarıdaki güvercinlerden sonra içeri girildiğinde yuvaların düzeni nasıldı?",
+        "options": [
+          "Dar dikey raflarda üst üste plastik kaplar vardı",
+          "Duvara asılı yuvarlak sepetler ve altlarında uzanan raflar vardı",
+          "Yere yan yana dizilmiş kapaklı ahşap kutular vardı",
+          "Tavandan tek tek sarkan tel kafesler vardı"
+        ],
+        "answer": 1,
+        "evidence573": "10 ve 20 sn: Duvara asılı yuvarlak sepetler ve altlarında uzanan raflar vardı.",
+        "explanation": "10 ve 20 sn: Duvara asılı yuvarlak sepetler ve altlarında uzanan raflar vardı."
+      }
+    ]
+  },
+  {
+    "category": "Satranç müzesi",
+    "group": "Zeka oyunları",
+    "source": "https://www.voaturkce.com/a/satranc-muzesi-ankara-/4737800.html",
+    "title": "Türkiye’nin İlk ve Tek Satranç Müzesi Ankara’da",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/01/9/93/936c9be6-4c24-46b7-aa5c-86df54acdea0.mp4?cb=ed3cc72c9",
+    "mediaStart578": 115,
+    "originalKey579": "936c9be6-4c24-46b7-aa5c-86df54acdea0",
+    "mediaKey571": "936c9be6-4c24-46b7-aa5c-86df54acdea0",
+    "id": "unique579-extra-satranc",
+    "author": "Murat Karabulut",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "duration": 30,
+    "language": "tr",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "human-visual-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-extra-satranc-q",
+        "category181": "object",
+        "question": "İlk bilgi kartının teması ile hemen ardından gösterilen taşlar birlikte hangi seçenekte doğru verilmiş?",
+        "options": [
+          "Doğa teması; hayvan ve ağaç figürleri",
+          "Mimarlık teması; kule ve kubbe figürleri",
+          "Savaş ve barış teması; insan ve asker figürleri",
+          "Denizcilik teması; gemi ve çapa figürleri"
+        ],
+        "answer": 2,
+        "evidence573": "0 ve 5 sn: Savaş ve barış teması; insan ve asker figürleri.",
+        "explanation": "0 ve 5 sn: Savaş ve barış teması; insan ve asker figürleri."
+      }
+    ]
+  },
+  {
+    "category": "Ejderha teknesi yarışı",
+    "group": "Spor",
+    "source": "https://www.voaturkce.com/a/rumkale-de-uluslararasi-su-sporlari-festivali/6762521.html",
+    "title": "Rumkale’de Uluslararası Su Sporları Festivali ",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/09/0/09/095c0000-0a00-0242-6d11-08da9f2b7978_480p.mp4?cb=edac37e7a",
+    "mediaStart578": 0,
+    "originalKey579": "095c0000-0a00-0242-6d11-08da9f2b7978",
+    "mediaKey571": "095c0000-0a00-0242-6d11-08da9f2b7978",
+    "id": "unique579-extra-kano",
+    "author": "Orhan Erkılıç",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "duration": 30,
+    "language": "tr",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "human-visual-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-extra-kano-q",
+        "category181": "action",
+        "question": "Yarış teknesindeki ekibin hareket düzeni nasıldı?",
+        "options": [
+          "Kürekçiler teknenin yalnız bir yanında oturup diğer tarafı boş bırakıyordu",
+          "Tek kişinin kürek çektiği teknede diğerleri arka bölümde ayakta duruyordu",
+          "Öndeki iki kişi ayakta kürek çekerken diğerleri kıç bölümde oturuyordu",
+          "Kürekçiler teknenin iki yanında sıralar halinde oturup birlikte kürek çekiyordu"
+        ],
+        "answer": 3,
+        "evidence573": "10 ve 20 sn: Kürekçiler teknenin iki yanında sıralar halinde oturup birlikte kürek çekiyordu.",
+        "explanation": "10 ve 20 sn: Kürekçiler teknenin iki yanında sıralar halinde oturup birlikte kürek çekiyordu."
+      }
+    ]
+  },
+  {
+    "category": "Karagül yetiştirme",
+    "group": "Bitkiler",
+    "source": "https://www.voaturkce.com/a/sadece-halfetide-yetisen-karagulu-daha-cok-uretme-cabasi/4916753.html",
+    "title": "Sadece Halfeti'de Yetişen Karagül'ü Daha Çok Üretme Çabası",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/05/e/ef/efd98ba1-db14-4340-861e-6a55b5131801.mp4?cb=ed46cd2e0",
+    "mediaStart578": 50,
+    "originalKey579": "efd98ba1-db14-4340-861e-6a55b5131801",
+    "mediaKey571": "efd98ba1-db14-4340-861e-6a55b5131801",
+    "id": "unique579-extra-karagul",
+    "author": "VOA",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "duration": 30,
+    "language": "tr",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "human-visual-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-extra-karagul-q",
+        "category181": "sequence",
+        "question": "Eldivenle gül toplama görüntüsünün hemen ardından ne gösterildi?",
+        "options": [
+          "Elde tutulan, koyu renk güllerden oluşan bir buket",
+          "Seranın içinde konuşan bıyıklı bir görevli",
+          "Yukarıdaki dallara iki eliyle uzanan bir çalışan",
+          "Toprakta yetişen güllerin yanında eğilen bir çalışan"
+        ],
+        "answer": 0,
+        "evidence573": "0 ve 5 sn: Elde tutulan, koyu renk güllerden oluşan bir buket.",
+        "explanation": "0 ve 5 sn: Elde tutulan, koyu renk güllerden oluşan bir buket."
+      }
+    ]
+  }
+]

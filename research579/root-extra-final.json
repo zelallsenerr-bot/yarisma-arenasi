@@ -1,0 +1,178 @@
+[
+  {
+    "id": "unique579-root-train",
+    "category": "Manyetik tren belgeseli",
+    "group": "Ulaşım",
+    "title": "Manyetik Hızlı Tren",
+    "source": "https://commons.wikimedia.org/wiki/File:Manyetik_H%C4%B1zl%C4%B1_Tren.ogv",
+    "author": "Michael Dittmer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "file": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d3/Manyetik_H%C4%B1zl%C4%B1_Tren.ogv/Manyetik_H%C4%B1zl%C4%B1_Tren.ogv.240p.vp9.webm",
+    "mediaStart578": 40,
+    "duration": 30,
+    "originalKey579": "commons:Manyetik Hızlı Tren",
+    "language": "tr",
+    "audioKind579": "Turkish speech verified by local audio transcription",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "localFile": "/workspace/scratch/03d73096e4db/variety579/root-extra/train.webm",
+      "audioLanguageProbability": 0.985
+    },
+    "questions": [
+      {
+        "id": "unique579-root-train-q",
+        "category181": "sequence",
+        "question": "Teknik çizimlerden sonra trenin gösterildiği görüntülerin sırası hangisiydi?",
+        "options": [
+          "Önden görüntü → yandan geçiş → çoklu görüntü ekranı",
+          "Yandan geçiş → önden görüntü → çoklu görüntü ekranı",
+          "Çoklu görüntü ekranı → yandan geçiş → önden görüntü",
+          "Önden görüntü → çoklu görüntü ekranı → yandan geçiş"
+        ],
+        "answer": 0,
+        "evidence573": "15 sn: Trenin önü. 20 sn: Trenin yandan geçişi. 25 sn: Birden fazla görüntüye bölünmüş ekran.",
+        "explanation": "15 sn: Trenin önü. 20 sn: Trenin yandan geçişi. 25 sn: Birden fazla görüntüye bölünmüş ekran."
+      }
+    ]
+  },
+  {
+    "id": "unique579-root-art",
+    "category": "Rembrandt portresinde duruş",
+    "group": "Görsel sanatlar",
+    "title": "Rembrandt'ın \"Açık Pencere Önündeki Kız\" İsimli Tablosu (Girl at a Window)",
+    "source": "https://commons.wikimedia.org/wiki/File:Rembrandt%27%C4%B1n_%22A%C3%A7%C4%B1k_Pencere_%C3%96n%C3%BCndeki_K%C4%B1z%22_%C4%B0simli_Tablosu_(Girl_at_a_Window).webm",
+    "author": "KhanAcademyTurkce",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Rembrandt%27%C4%B1n_%22A%C3%A7%C4%B1k_Pencere_%C3%96n%C3%BCndeki_K%C4%B1z%22_%C4%B0simli_Tablosu_%28Girl_at_a_Window%29.webm/Rembrandt%27%C4%B1n_%22A%C3%A7%C4%B1k_Pencere_%C3%96n%C3%BCndeki_K%C4%B1z%22_%C4%B0simli_Tablosu_%28Girl_at_a_Window%29.webm.480p.vp9.webm",
+    "mediaStart578": 30,
+    "duration": 30,
+    "originalKey579": "commons:Rembrandt'ın \"Açık Pencere Önündeki Kız\" İsimli Tablosu (Girl at a Window)",
+    "language": "tr",
+    "audioKind579": "Turkish speech verified by local audio transcription",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "localFile": "/workspace/scratch/03d73096e4db/variety579/root-extra/art.webm",
+      "audioLanguageProbability": 0.996
+    },
+    "questions": [
+      {
+        "id": "unique579-root-art-q",
+        "category181": "position",
+        "question": "Tablodaki figürün eli ve diğer önkolu nasıl konumlanmıştı?",
+        "options": [
+          "Bir eli alnında, diğer önkolu pencerenin dik kenarında",
+          "Bir eli yaka/boyun hizasında, diğer önkolu pencere eşiğinin üstünde",
+          "Bir eli alnında, diğer önkolu pencere eşiğinin üstünde",
+          "Bir eli yaka/boyun hizasında, diğer önkolu pencerenin dik kenarında"
+        ],
+        "answer": 1,
+        "evidence573": "5 sn: Kızın bir eli yaka ve boyun hizasında, diğer önkolu pencerenin yatay eşiği üzerindedir.",
+        "explanation": "5 sn: Kızın bir eli yaka ve boyun hizasında, diğer önkolu pencerenin yatay eşiği üzerindedir."
+      }
+    ]
+  },
+  {
+    "id": "unique579-root-software",
+    "category": "Mobil vikiye katkı",
+    "group": "Teknoloji",
+    "title": "Incubator app walkthrough (Turkish)",
+    "source": "https://commons.wikimedia.org/wiki/File:Incubator_app_walkthrough_(Turkish).webm",
+    "author": "HakanIST",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Incubator_app_walkthrough_%28Turkish%29.webm/Incubator_app_walkthrough_%28Turkish%29.webm.480p.vp9.webm",
+    "mediaStart578": 25,
+    "duration": 30,
+    "originalKey579": "commons:Incubator app walkthrough (Turkish)",
+    "language": "tr",
+    "audioKind579": "Turkish speech verified by local audio transcription",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "localFile": "/workspace/scratch/03d73096e4db/variety579/root-extra/software.webm",
+      "audioLanguageProbability": 0.994
+    },
+    "questions": [
+      {
+        "id": "unique579-root-software-q",
+        "category181": "sequence",
+        "question": "Cümle çevirme aşamasından hemen önce hangi ekran vardı ve metin hangi araçla düzenlendi?",
+        "options": [
+          "Dil seçimi ekranı ve ekran klavyesi",
+          "Bugünün görevleri ekranı ve ses kayıt aracı",
+          "Bugünün görevleri ekranı ve ekran klavyesi",
+          "Dil seçimi ekranı ve ses kayıt aracı"
+        ],
+        "answer": 2,
+        "evidence573": "15 sn: Bugünün görevleri ekranı. 20 sn: Bir cümle çevirin aşamasında ekran klavyesiyle yazma.",
+        "explanation": "15 sn: Bugünün görevleri ekranı. 20 sn: Bir cümle çevirin aşamasında ekran klavyesiyle yazma."
+      }
+    ]
+  },
+  {
+    "id": "unique579-root-language",
+    "category": "Gazetecilik ve dil belgeseli",
+    "group": "Eğitim",
+    "title": "WIKITONGUES- Ela speaking Turkish",
+    "source": "https://commons.wikimedia.org/wiki/File:WIKITONGUES-_Ela_speaking_Turkish.webm",
+    "author": "Wikitongues",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "file": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/WIKITONGUES-_Ela_speaking_Turkish.webm/WIKITONGUES-_Ela_speaking_Turkish.webm.480p.vp9.webm",
+    "mediaStart578": 5,
+    "duration": 30,
+    "originalKey579": "commons:WIKITONGUES- Ela speaking Turkish",
+    "language": "tr",
+    "audioKind579": "Turkish speech verified by local audio transcription",
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "localFile": "/workspace/scratch/03d73096e4db/variety579/root-extra/language.webm",
+      "audioLanguageProbability": 0.991
+    },
+    "questions": [
+      {
+        "id": "unique579-root-language-q",
+        "category181": "sequence",
+        "question": "Konuşmacının anlattığı üniversite eğitimi ve ilk gazetecilik işi hangi sırayla eşleşiyordu?",
+        "options": [
+          "Priştine’de gazetecilik eğitimi → özel radyoda çalışma",
+          "Ankara’da gazetecilik eğitimi → önce televizyonda çalışma",
+          "Priştine’de gazetecilik eğitimi → önce televizyonda çalışma",
+          "Ankara’da gazetecilik eğitimi → özel radyoda çalışma"
+        ],
+        "answer": 3,
+        "evidence573": "16 sn: Ankara’da iletişim fakültesi gazetecilik bölümünü bitirdiğini anlatır. 25 sn: Öncelikle özel bir radyoda gazeteci olarak çalışmaya başladığını söyler.",
+        "explanation": "16 sn: Ankara’da iletişim fakültesi gazetecilik bölümünü bitirdiğini anlatır. 25 sn: Öncelikle özel bir radyoda gazeteci olarak çalışmaya başladığını söyler."
+      }
+    ]
+  }
+]

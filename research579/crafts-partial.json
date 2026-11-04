@@ -1,0 +1,1622 @@
+[
+  {
+    "key": "iplik",
+    "category": "Kendir ipliği",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/asirlik-magarada-geleneksel-iplik-uretimi/5252429.html",
+    "id": "unique579-crafts-iplik",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-iplik-q",
+        "category181": "position",
+        "question": "İpliğin hem depolanmış hem de üretim sırasında gerilmiş hali hangi iki görüntüyle gösterildi?",
+        "options": [
+          "Yerdeki bobinler ve mağarada yatay uzanan ipler",
+          "Tavandaki bobinler ve zeminde daire oluşturan ipler",
+          "Sepetteki yumaklar ve duvarda dikine asılı ipler",
+          "Raftaki makaralar ve masada çapraz duran ipler"
+        ],
+        "answer": 0,
+        "evidence573": "15 ve 25 sn: Yerdeki bobinler ve mağarada yatay uzanan ipler.",
+        "explanation": "15 ve 25 sn: Yerdeki bobinler ve mağarada yatay uzanan ipler."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Asırlık Mağarada Geleneksel Yöntemlerle İplik Üretimi",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_mobile.mp4?cb=ed5b7b63b",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_mobile.mp4?cb=ed5b7b63b",
+        "Type": "video/mp4",
+        "DataInfo": "270p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2.mp4?cb=ed5b7b63b",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2.mp4?cb=ed5b7b63b",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_480p.mp4?cb=ed5b7b63b",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_480p.mp4?cb=ed5b7b63b",
+        "Type": "video/mp4",
+        "DataInfo": "404p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_720p.mp4?cb=ed5b7b63b",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_720p.mp4?cb=ed5b7b63b",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_1080p.mp4?cb=ed5b7b63b",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_1080p.mp4?cb=ed5b7b63b",
+        "Type": "video/mp4",
+        "DataInfo": "1080p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2.mp4?cb=ed5b7b63b",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2020/01/3/3c/3cd64d20-bdec-4711-9031-fd0f8a69f8b2_mobile.mp4?cb=ed5b7b63b",
+    "author": "VOA",
+    "originalKey579": "3cd64d20-bdec-4711-9031-fd0f8a69f8b2",
+    "mediaKey571": "3cd64d20-bdec-4711-9031-fd0f8a69f8b2",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "kilim",
+    "category": "Kilim dokumacılığı",
+    "group": "Zanaat",
+    "mediaStart578": 130.0,
+    "source": "https://www.voaturkce.com/a/olecegime-degil-meslegin-kaybolacagina-uzuluyorum/4702157.html",
+    "id": "unique579-crafts-kilim",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-kilim-q",
+        "category181": "action",
+        "question": "Ustanın eliyle çalıştığı renkli bölüm, gerilmiş açık renk iplerin neresindeydi?",
+        "options": [
+          "İplerden tamamen bağımsız olarak yerdeydi",
+          "İplerin bir ucunda oluşan dokunmuş şerit bölümündeydi",
+          "İplerin ortasına asılı ayrı bir kumaş parçasıydı",
+          "Tezgâhın arkasında sarkan bir perdeydi"
+        ],
+        "answer": 1,
+        "evidence573": "5 ve 15 sn: İplerin bir ucunda oluşan dokunmuş şerit bölümündeydi.",
+        "explanation": "5 ve 15 sn: İplerin bir ucunda oluşan dokunmuş şerit bölümündeydi."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "‘Öleceğime Değil Mesleğin Kaybolacağına Üzülüyorum’",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674_mobile.mp4?cb=ed3a77728",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674_mobile.mp4?cb=ed3a77728",
+        "Type": "video/mp4",
+        "DataInfo": "270p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674.mp4?cb=ed3a77728",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674.mp4?cb=ed3a77728",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674_hq.mp4?cb=ed3a77728",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674_hq.mp4?cb=ed3a77728",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674.mp4?cb=ed3a77728",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/9/9c/9c088f57-bc13-45b4-8374-3a4995d51674_mobile.mp4?cb=ed3a77728",
+    "author": "VOA",
+    "originalKey579": "9c088f57-bc13-45b4-8374-3a4995d51674",
+    "mediaKey571": "9c088f57-bc13-45b4-8374-3a4995d51674",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "tespih",
+    "category": "Tespih ustalığı",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/ekmegini-tespihten-cikariyor/3831180.html",
+    "id": "unique579-crafts-tespih",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-tespih-q",
+        "category181": "action",
+        "question": "Tespih tanesinin işleniş biçimini hangi seçenek doğru anlatıyor?",
+        "options": [
+          "Serbest taneler dönen zımpara bandına birlikte bastırılıyordu",
+          "Mengeneye sıkıştırılan taneden uzun bir ip geçiriliyordu",
+          "Dönen mile bağlı parçaya ince uçlu bir alet dayanıyordu",
+          "Sabit tutulan taneye dönen matkap ucu yukarıdan indiriliyordu"
+        ],
+        "answer": 2,
+        "evidence573": "5 ve 15 sn: Dönen mile bağlı parçaya ince uçlu bir alet dayanıyordu.",
+        "explanation": "5 ve 15 sn: Dönen mile bağlı parçaya ince uçlu bir alet dayanıyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Ekmeğini Tespihten Çıkarıyor",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882_mobile.mp4?cb=ed096cac5",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882_mobile.mp4?cb=ed096cac5",
+        "Type": "video/mp4",
+        "DataInfo": "264p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882.mp4?cb=ed096cac5",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882.mp4?cb=ed096cac5",
+        "Type": "video/mp4",
+        "DataInfo": "352p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882_hq.mp4?cb=ed096cac5",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882_hq.mp4?cb=ed096cac5",
+        "Type": "video/mp4",
+        "DataInfo": "480p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882_hq.mp4?cb=ed096cac5",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2017/04/5/57/57da66e4-2dde-4c30-b468-6e9575b9c882_mobile.mp4?cb=ed096cac5",
+    "author": "VOA",
+    "originalKey579": "57da66e4-2dde-4c30-b468-6e9575b9c882",
+    "mediaKey571": "57da66e4-2dde-4c30-b468-6e9575b9c882",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "pide",
+    "category": "Pide fırını",
+    "group": "Mutfak",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/kayseri-pide-ustasi-ingiltere-ozel-davet-vize/7207517.html",
+    "id": "unique579-crafts-pide",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-pide-q",
+        "category181": "sequence",
+        "question": "Fırına verilmeden önce pidenin biçimi ve taşındığı araç hangisiydi?",
+        "options": [
+          "Uzun dar hamur ve kenarlı dikdörtgen fırın tepsisi",
+          "Yuvarlak hamur ve uzun saplı düz fırın küreği",
+          "Yuvarlak hamur ve kenarlı dikdörtgen fırın tepsisi",
+          "Uzun dar hamur ve uzun saplı düz fırın küreği"
+        ],
+        "answer": 3,
+        "evidence573": "20 ve 25 sn: Uzun dar hamur ve uzun saplı düz fırın küreği.",
+        "explanation": "20 ve 25 sn: Uzun dar hamur ve uzun saplı düz fırın küreği."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Kayseri pidesi ustasına İngiltere'den özel yetenek vizesi",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_240p.mp4?cb=edc609f1b",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_240p.mp4?cb=edc609f1b",
+        "Type": "video/mp4",
+        "DataInfo": "240p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5.mp4?cb=edc609f1b",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5.mp4?cb=edc609f1b",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_480p.mp4?cb=edc609f1b",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_480p.mp4?cb=edc609f1b",
+        "Type": "video/mp4",
+        "DataInfo": "480p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_720p.mp4?cb=edc609f1b",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_720p.mp4?cb=edc609f1b",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_1080p.mp4?cb=edc609f1b",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_1080p.mp4?cb=edc609f1b",
+        "Type": "video/mp4",
+        "DataInfo": "1080p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_480p.mp4?cb=edc609f1b",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2023/08/0/01/01000000-0aff-0242-138e-08db92de60b5_240p.mp4?cb=edc609f1b",
+    "author": "Barış Çimen",
+    "originalKey579": "01000000-0aff-0242-138e-08db92de60b5",
+    "mediaKey571": "01000000-0aff-0242-138e-08db92de60b5",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "sabun",
+    "category": "Sabun üretimi",
+    "group": "Üretim",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/geleneksel-yontemlerle-uretilen-nizip-sabunu-dunyanin-dort-bir-yanina-ihrac-ediliyor/7618161.html",
+    "id": "unique579-crafts-sabun",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-sabun-q",
+        "category181": "action",
+        "question": "Büyük kazandaki karışımı hareket ettiren düzenek nasıldı?",
+        "options": [
+          "Ortadaki mile bağlı, kazanın içine uzanan bir kol",
+          "Karışımın üstünde asılı duran küçük el mikseri",
+          "Kazanın kenarına dizilmiş ayrı ayrı kepçeler",
+          "Kazana dışarıdan uzatılan uzun tahta oklava"
+        ],
+        "answer": 0,
+        "evidence573": "0 ve 20 sn: Ortadaki mile bağlı, kazanın içine uzanan bir kol.",
+        "explanation": "0 ve 20 sn: Ortadaki mile bağlı, kazanın içine uzanan bir kol."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Geleneksel yöntemlerle üretilen Nizip Sabunu dünyanın dört bir yanına ihraç ediliyor",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_240p.mp4?cb=edddc0926",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_240p.mp4?cb=edddc0926",
+        "Type": "video/mp4",
+        "DataInfo": "240p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641.mp4?cb=edddc0926",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641.mp4?cb=edddc0926",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_480p.mp4?cb=edddc0926",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_480p.mp4?cb=edddc0926",
+        "Type": "video/mp4",
+        "DataInfo": "480p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_720p.mp4?cb=edddc0926",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_720p.mp4?cb=edddc0926",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_1080p.mp4?cb=edddc0926",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_1080p.mp4?cb=edddc0926",
+        "Type": "video/mp4",
+        "DataInfo": "1080p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_480p.mp4?cb=edddc0926",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2024/05/0/01/01000000-0aff-0242-d008-08dc77fc4641_240p.mp4?cb=edddc0926",
+    "author": "Orhan Erkılıç",
+    "originalKey579": "01000000-0aff-0242-d008-08dc77fc4641",
+    "mediaKey571": "01000000-0aff-0242-d008-08dc77fc4641",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "baklava",
+    "category": "Baklava açma",
+    "group": "Mutfak",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/gaziantep-baklava-bayram/4943827.html",
+    "id": "unique579-crafts-baklava",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-baklava-q",
+        "category181": "sequence",
+        "question": "Yan görüntülerde üretimin hangi iki aşaması peş peşe gösterildi?",
+        "options": [
+          "Tepsinin fırına verilmesi ve kutuya yerleştirilmesi",
+          "Hamur parçalarının hazırlanması ve oklavayla ince açılması",
+          "Hazır baklavanın kesilmesi ve şerbet dökülmesi",
+          "Fıstığın öğütülmesi ve tepsilere yağ sürülmesi"
+        ],
+        "answer": 1,
+        "evidence573": "15 ve 25 sn: Hamur parçalarının hazırlanması ve oklavayla ince açılması.",
+        "explanation": "15 ve 25 sn: Hamur parçalarının hazırlanması ve oklavayla ince açılması."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Avrupa Birliği Tescilli Türk Tatlısı 'Antep Baklavası'",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_mobile.mp4?cb=ed4877ebc",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_mobile.mp4?cb=ed4877ebc",
+        "Type": "video/mp4",
+        "DataInfo": "270p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41.mp4?cb=ed4877ebc",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41.mp4?cb=ed4877ebc",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_hq.mp4?cb=ed4877ebc",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_hq.mp4?cb=ed4877ebc",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_fullhd.mp4?cb=ed4877ebc",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_fullhd.mp4?cb=ed4877ebc",
+        "Type": "video/mp4",
+        "DataInfo": "810p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41.mp4?cb=ed4877ebc",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/a/a2/a2c1003c-062f-4f48-9b37-5f8c111b8c41_mobile.mp4?cb=ed4877ebc",
+    "author": "Orhan Erkılıç",
+    "originalKey579": "a2c1003c-062f-4f48-9b37-5f8c111b8c41",
+    "mediaKey571": "a2c1003c-062f-4f48-9b37-5f8c111b8c41",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "sarimsak",
+    "category": "Sarımsak toplama",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/sarimsak-hasadi-basladi-uretici-ve-isci-zor-durumda/4942518.html",
+    "id": "unique579-crafts-sarimsak",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-sarimsak-q",
+        "category181": "action",
+        "question": "Sarımsakların hasat sırasında ele alınış biçimi nasıldı?",
+        "options": [
+          "Tek tek soyulup küçük kaselere ayrılıyordu",
+          "Makine bandından geçip çuvallara dökülüyordu",
+          "Uzun saplarıyla demet halinde tutuluyordu",
+          "Kökleri kesilmiş halde kapalı poşetlere dolduruluyordu"
+        ],
+        "answer": 2,
+        "evidence573": "5 ve 25 sn: Uzun saplarıyla demet halinde tutuluyordu.",
+        "explanation": "5 ve 25 sn: Uzun saplarıyla demet halinde tutuluyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Sarımsak Hasadı Başladı Üretici ve İşçi Zor Durumda",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_mobile.mp4?cb=ed48722be",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_mobile.mp4?cb=ed48722be",
+        "Type": "video/mp4",
+        "DataInfo": "270p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d.mp4?cb=ed48722be",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d.mp4?cb=ed48722be",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_hq.mp4?cb=ed48722be",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_hq.mp4?cb=ed48722be",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_fullhd.mp4?cb=ed48722be",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_fullhd.mp4?cb=ed48722be",
+        "Type": "video/mp4",
+        "DataInfo": "810p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d.mp4?cb=ed48722be",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2019/06/4/4c/4cd4042c-a568-4a91-a713-f030f440162d_mobile.mp4?cb=ed48722be",
+    "author": "VOA",
+    "originalKey579": "4cd4042c-a568-4a91-a713-f030f440162d",
+    "mediaKey571": "4cd4042c-a568-4a91-a713-f030f440162d",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "bal",
+    "category": "Arıcılık",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/g%C3%BCneydo%C4%9Fulu-kad%C4%B1nlar%C4%B1n-bal-mesaisi/6632965.html",
+    "id": "unique579-crafts-bal",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-bal-q",
+        "category181": "sequence",
+        "question": "Arıcılar çadırın yanından ayrıldıktan sonra ne yaparken gösterildi?",
+        "options": [
+          "Çadırda balı kavanozlara doldururken",
+          "Kovanları bir kamyonete yüklerken",
+          "Petekleri açık ateşte eritirken",
+          "Arazideki kovanların kapaklarını açarken"
+        ],
+        "answer": 3,
+        "evidence573": "0 ve 25 sn: Arazideki kovanların kapaklarını açarken.",
+        "explanation": "0 ve 25 sn: Arazideki kovanların kapaklarını açarken."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Güneydoğulu Kadınların Bal Mesaisi",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_240p.mp4?cb=eda492ab5",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_240p.mp4?cb=eda492ab5",
+        "Type": "video/mp4",
+        "DataInfo": "240p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0.mp4?cb=eda492ab5",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0.mp4?cb=eda492ab5",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_480p.mp4?cb=eda492ab5",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_480p.mp4?cb=eda492ab5",
+        "Type": "video/mp4",
+        "DataInfo": "480p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_720p.mp4?cb=eda492ab5",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_720p.mp4?cb=eda492ab5",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_1080p.mp4?cb=eda492ab5",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_1080p.mp4?cb=eda492ab5",
+        "Type": "video/mp4",
+        "DataInfo": "1080p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_480p.mp4?cb=eda492ab5",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2022/06/1/10/10070000-0aff-0242-34d0-08da56c358e0_240p.mp4?cb=eda492ab5",
+    "author": "Mahmut Bozarslan",
+    "originalKey579": "10070000-0aff-0242-34d0-08da56c358e0",
+    "mediaKey571": "10070000-0aff-0242-34d0-08da56c358e0",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "biber",
+    "category": "Kırmızı biber işleme",
+    "group": "Üretim",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/deprem-bolgesinden-dunyanin-dort-bir-yanina-islahiye-biberi/7322186.html",
+    "id": "unique579-crafts-biber",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-biber-q",
+        "category181": "sequence",
+        "question": "Biberin gösterildiği ortamların sırası hangisiydi?",
+        "options": [
+          "Asılı kurutmalıklar, depodaki kırmızı yığınlar, yeşil tarla",
+          "Yeşil tarla, asılı kurutmalıklar, depodaki kırmızı yığınlar",
+          "Depodaki kırmızı yığınlar, yeşil tarla, asılı kurutmalıklar",
+          "Asılı kurutmalıklar, yeşil tarla, depodaki kırmızı yığınlar"
+        ],
+        "answer": 0,
+        "evidence573": "0 ve 20 sn: Asılı kurutmalıklar, depodaki kırmızı yığınlar, yeşil tarla.",
+        "explanation": "0 ve 20 sn: Asılı kurutmalıklar, depodaki kırmızı yığınlar, yeşil tarla."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetched",
+    "title": "Deprem bölgesinden dünyanın dört bir yanına \"İslahiye biberi\"",
+    "derivatives": [
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_240p.mp4?cb=edcc858fb",
+        "FilePurpose": 2,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_240p.mp4?cb=edcc858fb",
+        "Type": "video/mp4",
+        "DataInfo": "240p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4.mp4?cb=edcc858fb",
+        "FilePurpose": 17,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4.mp4?cb=edcc858fb",
+        "Type": "video/mp4",
+        "DataInfo": "360p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_480p.mp4?cb=edcc858fb",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_480p.mp4?cb=edcc858fb",
+        "Type": "video/mp4",
+        "DataInfo": "480p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_720p.mp4?cb=edcc858fb",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_720p.mp4?cb=edcc858fb",
+        "Type": "video/mp4",
+        "DataInfo": "720p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      },
+      {
+        "AmpSrc": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_1080p.mp4?cb=edcc858fb",
+        "FilePurpose": 1,
+        "Src": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_1080p.mp4?cb=edcc858fb",
+        "Type": "video/mp4",
+        "DataInfo": "1080p",
+        "Url": null,
+        "BlockAutoTo": null,
+        "BlockAutoFrom": null
+      }
+    ],
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_480p.mp4?cb=edcc858fb",
+    "download": "https://voa-video-ns.akamaized.net/pangeavideo/2023/10/0/01/01000000-0aff-0242-7784-08dbd323eee4_240p.mp4?cb=edcc858fb",
+    "author": "Orhan Erkılıç",
+    "originalKey579": "01000000-0aff-0242-7784-08dbd323eee4",
+    "mediaKey571": "01000000-0aff-0242-7784-08dbd323eee4",
+    "license": "Public domain — exclusively VOA-produced footage",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html"
+  },
+  {
+    "key": "zeytin",
+    "category": "Zeytin hasadı",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/gaziantep-in-%C3%BCnl%C3%BC-zeytini-i%CC%87%C3%A7in-hasat-vakti/5194034.html",
+    "id": "unique579-crafts-zeytin",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-zeytin-q",
+        "category181": "position",
+        "question": "Hasatta ağacın altındaki örtüyle ağacın içindeki kişi birlikte neyi gösteriyordu?",
+        "options": [
+          "Örtü ağacın gövdesine sarılarak kökler korunuyordu",
+          "Dallardan düşürülen ürünler alttaki örtüde toplanıyordu",
+          "Örtü dallara gerilerek ağacın üstü kapatılıyordu",
+          "Ürünler tek tek dalda torbalanıp saklanıyordu"
+        ],
+        "answer": 1,
+        "evidence573": "5 ve 20 sn: Dallardan düşürülen ürünler alttaki örtüde toplanıyordu.",
+        "explanation": "5 ve 20 sn: Dallardan düşürülen ürünler alttaki örtüde toplanıyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "uzum",
+    "category": "Üzüm toplama",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/kilis-te-uzum-hasadinda-ciftci-umdugunu-bulamad%C4%B1/6729847.html",
+    "id": "unique579-crafts-uzum",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-uzum-q",
+        "category181": "sequence",
+        "question": "Bağdan alınan üzümler hangi haliyle kasaya yerleştirildi?",
+        "options": [
+          "İkiye bölünmüş salkımların kurutulmuş haliyle",
+          "Suyu sıkılıp kaplara doldurulmuş halde",
+          "Saplarıyla bütün salkımlar halinde",
+          "Taneleri sapından ayrılmış halde"
+        ],
+        "answer": 2,
+        "evidence573": "0 ve 5 sn: Saplarıyla bütün salkımlar halinde.",
+        "explanation": "0 ve 5 sn: Saplarıyla bütün salkımlar halinde."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "sut",
+    "category": "Süt çiftliği",
+    "group": "Hayvancılık",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/s%C3%BCt-ureticisi-uretemez-duruma-geldi-/6347985.html",
+    "id": "unique579-crafts-sut",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-sut-q",
+        "category181": "position",
+        "question": "Ahırda inekler yem yerken hangi düzende görülüyordu?",
+        "options": [
+          "Yem kovalarıyla tek tek dışarıdaki çayıra çıkarılıyordu",
+          "Orta koridorda serbestçe dolaşıp yüksek raflardan yiyordu",
+          "Yemler hayvanların önüne kapalı torbalar halinde bırakılıyordu",
+          "Başlarını metal ayırıcıların arasından yem koridoruna uzatıyordu"
+        ],
+        "answer": 3,
+        "evidence573": "0 ve 15 sn: Başlarını metal ayırıcıların arasından yem koridoruna uzatıyordu.",
+        "explanation": "0 ve 15 sn: Başlarını metal ayırıcıların arasından yem koridoruna uzatıyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "comlek",
+    "category": "Çömlek yapımı",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/kapadokya-nin-toprak-sanati/4801419.html",
+    "id": "unique579-crafts-comlek",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-comlek-q",
+        "category181": "action",
+        "question": "Dönen tabla üzerindeki kaba usta nasıl biçim veriyordu?",
+        "options": [
+          "Bir elini kabın içinden, diğerini dış yüzeyinden destekleyerek",
+          "Her iki elini yalnız kabın dışından bastırarak",
+          "Kabı tabladan kaldırıp zemine vurarak",
+          "Kabın içine kalın bir tahta kalıp yerleştirerek"
+        ],
+        "answer": 0,
+        "evidence573": "0 ve 10 sn: Bir elini kabın içinden, diğerini dış yüzeyinden destekleyerek.",
+        "explanation": "0 ve 10 sn: Bir elini kabın içinden, diğerini dış yüzeyinden destekleyerek."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "marangoz",
+    "category": "Marangozluk",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/geri-donusum-atolyesinin-kadin-marangozu/5637653.html",
+    "id": "unique579-crafts-marangoz",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-marangoz-q",
+        "category181": "position",
+        "question": "Elektrikli aletle çalışılan tahtanın ucu tezgâha göre hangi konumdaydı?",
+        "options": [
+          "Zemindeki iki kütüğün arasına yerleştirilmişti",
+          "Bir bölümü tezgâhın kenarından dışarı taşıyordu",
+          "Tamamı dikey olarak duvara sabitlenmişti",
+          "İki ucundan tavana asılı duruyordu"
+        ],
+        "answer": 1,
+        "evidence573": "0 ve 25 sn: Bir bölümü tezgâhın kenarından dışarı taşıyordu.",
+        "explanation": "0 ve 25 sn: Bir bölümü tezgâhın kenarından dışarı taşıyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "demir",
+    "category": "Demir dövme",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/ermeniler-gitti-ciraklari-kaldi/4889908.html",
+    "id": "unique579-crafts-demir",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-demir-q",
+        "category181": "action",
+        "question": "İki usta birlikte çalışırken, kızgın parçayı sabit tutmak ve vurmak için hangi araçlar birlikte kullanılıyordu?",
+        "options": [
+          "Zımpara taşı ve pense",
+          "Tahta tokmak ve keser",
+          "Uzun maşa ve çekiç",
+          "El testeresi ve mengene"
+        ],
+        "answer": 2,
+        "evidence573": "5 ve 10 sn: Uzun maşa ve çekiç.",
+        "explanation": "5 ve 10 sn: Uzun maşa ve çekiç."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "boyaci",
+    "category": "Ayakkabı boyacılığı",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/ayakkab%C4%B1-boyacilari-krize-yenik-dustu/6746120.html",
+    "id": "unique579-crafts-boyaci",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-boyaci-q",
+        "category181": "position",
+        "question": "Fırçalanan ayakkabı müşteri ve boya sandığına göre nasıl duruyordu?",
+        "options": [
+          "Müşterinin elindeydi ve sandığın kapağına dayanıyordu",
+          "Ayağından çıkarılmıştı ve ustanın avucunda tutuluyordu",
+          "Sandığın içine yerleştirilmişti ve müşteri yan tarafta bekliyordu",
+          "Müşterinin ayağındaydı ve sandığın küçük metal desteğine basıyordu"
+        ],
+        "answer": 3,
+        "evidence573": "10 ve 25 sn: Müşterinin ayağındaydı ve sandığın küçük metal desteğine basıyordu.",
+        "explanation": "10 ve 25 sn: Müşterinin ayağındaydı ve sandığın küçük metal desteğine basıyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "fidan",
+    "category": "Kozalaktan fidan",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/agaclardan-dusen-kozalaklardan-binlerce-fidan-uretiliyor/7929273.html",
+    "id": "unique579-crafts-fidan",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-fidan-q",
+        "category181": "sequence",
+        "question": "Kozalak toplama görüntülerinden sonra hangi hazırlık aşaması gösterildi?",
+        "options": [
+          "Serada kurutulmak üzere dizilen kozalaklar",
+          "Kozalakların doğrudan toprağa gömülmesi",
+          "Kozalakların çuvallarla tarlaya taşınması",
+          "Dalların bir kazanda kaynatılması"
+        ],
+        "answer": 0,
+        "evidence573": "15 ve 20 sn: Serada kurutulmak üzere dizilen kozalaklar.",
+        "explanation": "15 ve 20 sn: Serada kurutulmak üzere dizilen kozalaklar."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "tire",
+    "category": "Urgan yapımı",
+    "group": "Zanaat",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/tire-nin-yasayan-muzesi/4976363.html",
+    "id": "unique579-crafts-tire",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-tire-q",
+        "category181": "sequence",
+        "question": "Hasır örme ve deri işçiliği görüntülerinin ardından hangi zanaatın düzeneği gösterildi?",
+        "options": [
+          "Kumaş üzerine makine nakışı",
+          "Gerilmiş iplerle urgan yapımı",
+          "Dönen çarkla çömlek yapımı",
+          "Metal levhayla bakır kabartma"
+        ],
+        "answer": 1,
+        "evidence573": "0 ve 20 sn: Gerilmiş iplerle urgan yapımı.",
+        "explanation": "0 ve 20 sn: Gerilmiş iplerle urgan yapımı."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "kiraz",
+    "category": "Kiraz bahçesi",
+    "group": "Tarım",
+    "mediaStart578": 30.0,
+    "source": "https://www.voaturkce.com/a/turkiye-maliyetler-tarimin-sonunu-mu-getiriyor/7603000.html",
+    "id": "unique579-crafts-kiraz",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-kiraz-q",
+        "category181": "sequence",
+        "question": "Bahçedeki toplama görüntüsünden sonra, son yakın çekimde kirazlar hangi kaplarda sergileniyordu?",
+        "options": [
+          "Yuvarlak hasır sepetler içinde",
+          "Geniş beyaz tabaklar içinde",
+          "Saplı metal kovalar içinde",
+          "Alçak ahşap kasalar içinde"
+        ],
+        "answer": 2,
+        "evidence573": "0 ve 25 sn: Saplı metal kovalar içinde.",
+        "explanation": "0 ve 25 sn: Saplı metal kovalar içinde."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "pamuk",
+    "category": "Pamuk toplama",
+    "group": "Tarım",
+    "mediaStart578": 100.0,
+    "source": "https://www.voaturkce.com/a/sava%C5%9F%C4%B1n-g%C3%B6lgesinde-pamuk-hasad%C4%B1/5120393.html",
+    "id": "unique579-crafts-pamuk",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-pamuk-q",
+        "category181": "action",
+        "question": "Toplanan pamukları biriktirmek için hangi yöntem gösterildi?",
+        "options": [
+          "Dalları kesilen bitkiler metal kasalara üst üste konuyordu",
+          "Pamuklar bir makine bandından küçük torbalara aktarılıyordu",
+          "Bitkiler köküyle sökülüp bir el arabasına yükleniyordu",
+          "Elde toplanan pamuklar büyük bir çuvalda biriktiriliyordu"
+        ],
+        "answer": 3,
+        "evidence573": "10 ve 20 sn: Elde toplanan pamuklar büyük bir çuvalda biriktiriliyordu.",
+        "explanation": "10 ve 20 sn: Elde toplanan pamuklar büyük bir çuvalda biriktiriliyordu."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "pamukseker",
+    "category": "Pamuk şeker yapımı",
+    "group": "Mutfak",
+    "mediaStart578": 60.0,
+    "source": "https://www.voaturkce.com/a/mersin-in-pamuk-dedesi/4789845.html",
+    "id": "unique579-crafts-pamukseker",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-pamukseker-q",
+        "category181": "action",
+        "question": "Pamuk şeker hazırlanırken ince çubuk nerede gezdiriliyordu?",
+        "options": [
+          "Geniş metal haznenin iç kenarı boyunca",
+          "Ortadaki siyah motor kapağının üstünde",
+          "Haznenin altındaki dar çıkış deliğinde",
+          "Tezgâhın üzerindeki ayrı bir ahşap kalıpta"
+        ],
+        "answer": 0,
+        "evidence573": "10 ve 15 sn: Geniş metal haznenin iç kenarı boyunca.",
+        "explanation": "10 ve 15 sn: Geniş metal haznenin iç kenarı boyunca."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "zeugma",
+    "category": "Mozaik restorasyonu",
+    "group": "Arkeoloji",
+    "mediaStart578": 75.0,
+    "source": "https://www.voaturkce.com/a/zeugma-kenti-tarihe-isik-tutuyor/6797713.html",
+    "id": "unique579-crafts-zeugma",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-zeugma-q",
+        "category181": "action",
+        "question": "Mozaik temizliğinde çalışanların konumu ve kullandığı gereç hangisiydi?",
+        "options": [
+          "Ayakta duruyorlardı; hortumla uzaktan su püskürtüyorlardı",
+          "Yere yakın çömelmişlerdi; yüzeyi süngerle siliyorlardı",
+          "Ayakta duruyorlardı; uzun saplı fırçayla süpürüyorlardı",
+          "Yere yakın çömelmişlerdi; yüzeyi metal spatulayla kazıyorlardı"
+        ],
+        "answer": 1,
+        "evidence573": "0 ve 25 sn: Yere yakın çömelmişlerdi; yüzeyi süngerle siliyorlardı.",
+        "explanation": "0 ve 25 sn: Yere yakın çömelmişlerdi; yüzeyi süngerle siliyorlardı."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "pizza",
+    "category": "Taş fırında pizza",
+    "group": "Mutfak",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/mardi%CC%87n-suryani%CC%87-koyleri%CC%87nde-pi%CC%87zza-turizmi/7636233.html",
+    "id": "unique579-crafts-pizza",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-pizza-q",
+        "category181": "background",
+        "question": "Müşterilerin oturduğu salonun arka duvarında hangi düzen görülüyordu?",
+        "options": [
+          "Boydan boya cam duvar ve dışarı bakan masa sırası",
+          "Tek parça ahşap duvar ve önündeki yüksek bar tabureleri",
+          "Kemerli açıklıklar ve içlerindeki raflar",
+          "Düz dikdörtgen pencereler ve kapalı perdeler"
+        ],
+        "answer": 2,
+        "evidence573": "10 ve 15 sn: Kemerli açıklıklar ve içlerindeki raflar.",
+        "explanation": "10 ve 15 sn: Kemerli açıklıklar ve içlerindeki raflar."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "fistik",
+    "category": "Traktör konvoyu",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/antep-fistigi-ureticilerinden-dusuk-fiyatlara-traktorlu-protesto/7729432.html",
+    "id": "unique579-crafts-fistik",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-fistik-q",
+        "category181": "action",
+        "question": "Traktörlerin o anda tarla sürmediğini hangi iki ayrıntı birlikte gösteriyordu?",
+        "options": [
+          "Toprak yolun kenarında motorsuz halde beklemeleri",
+          "Römorklarına açık renk çuvallar yüklenmesi",
+          "Ağaçların arasında tek sıra halinde park etmeleri",
+          "Bayrak taşıyarak asfalt yolda arka arkaya ilerlemeleri"
+        ],
+        "answer": 3,
+        "evidence573": "0 ve 20 sn: Bayrak taşıyarak asfalt yolda arka arkaya ilerlemeleri.",
+        "explanation": "0 ve 20 sn: Bayrak taşıyarak asfalt yolda arka arkaya ilerlemeleri."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "balik",
+    "category": "Tatlısu balıkçılığı",
+    "group": "Hayvancılık",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/ciftciydiler-balikci-oldular/4737673.html",
+    "id": "unique579-crafts-balik",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-balik-q",
+        "category181": "background",
+        "question": "Teknelerin bulunduğu durgun suyun karşı kıyısında hangi büyük yapı vardı?",
+        "options": [
+          "Uzun, düz bir baraj seti",
+          "Ayakları suya inen kemerli bir köprü",
+          "Kıyı boyunca sıralanmış yüksek iskele vinçleri",
+          "Suya uzanan dar bir ahşap yaya iskelesi"
+        ],
+        "answer": 0,
+        "evidence573": "0 ve 5 sn: Uzun, düz bir baraj seti.",
+        "explanation": "0 ve 5 sn: Uzun, düz bir baraj seti."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "amida",
+    "category": "Arkeolojik kazı",
+    "group": "Arkeoloji",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/diyarbakir-amida-hoyuk-yangin-tarih/7747067.html",
+    "id": "unique579-crafts-amida",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-amida-q",
+        "category181": "background",
+        "question": "Kazı alanındaki çalışanların hemen üstünde neyle gölgelik oluşturulmuştu?",
+        "options": [
+          "Kazı duvarına yaslanmış dikey hasır panolarla",
+          "Büyük, açık renk şemsiyelerle",
+          "Beton kolonlara bağlı sabit bir çatıyla",
+          "Ağaçların arasına gerilmiş küçük bir hamakla"
+        ],
+        "answer": 1,
+        "evidence573": "5 ve 10 sn: Büyük, açık renk şemsiyelerle.",
+        "explanation": "5 ve 10 sn: Büyük, açık renk şemsiyelerle."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "pazar",
+    "category": "Üretici pazarı",
+    "group": "Günlük yaşam",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/mersinin-kadin-ureticileri/4664752.html",
+    "id": "unique579-crafts-pazar",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-pazar-q",
+        "category181": "position",
+        "question": "Yakın çekimdeki turp ve havuçların konumu hangisiydi?",
+        "options": [
+          "Turplar alttaki sepette, havuçlar üst raftaydı",
+          "Havuçlar turpların önünde, turplar kapalı kasadaydı",
+          "Yuvarlak kırmızı turplar solda, turuncu havuçlar sağdaydı",
+          "Turuncu havuçlar solda, yuvarlak kırmızı turplar sağdaydı"
+        ],
+        "answer": 2,
+        "evidence573": "15 sn: Yuvarlak kırmızı turplar solda, turuncu havuçlar sağdaydı.",
+        "explanation": "15 sn: Yuvarlak kırmızı turplar solda, turuncu havuçlar sağdaydı."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "ipek",
+    "category": "Kozadan ipek",
+    "group": "Üretim",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/turkiye-diyarbakir-ipek-koza-ipek-bocegi-fabrika-%C3%BCretim/7647198.html",
+    "id": "unique579-crafts-ipek",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-ipek-q",
+        "category181": "action",
+        "question": "İpek üretim hattında çalışan kadınların müdahale ettiği parçalar hangi düzende görülüyordu?",
+        "options": [
+          "Ortada tek başına duran büyük bir kumaş rulosu",
+          "Yerde daire halinde dizilmiş bağımsız çileler",
+          "Duvara dikey asılmış büyük dokuma çerçeveleri",
+          "Uzun makine boyunca sıralı küçük makaralar ve ipler"
+        ],
+        "answer": 3,
+        "evidence573": "0 ve 10 sn: Uzun makine boyunca sıralı küçük makaralar ve ipler.",
+        "explanation": "0 ve 10 sn: Uzun makine boyunca sıralı küçük makaralar ve ipler."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "mantar",
+    "category": "İstiridye mantarı yetiştirme",
+    "group": "Tarım",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/karanlik-odada-aydinlik-gelecek/4740699.html",
+    "id": "unique579-crafts-mantar",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-mantar-q",
+        "category181": "position",
+        "question": "Mantarların yetiştiği yerin düzeni hangi seçenekte doğru anlatılmış?",
+        "options": [
+          "Raflardaki siyah torbaların yanlarından kümeler halinde çıkıyorlardı",
+          "Yerdeki açık toprak yataklarında aralıklı sıralar halinde büyüyorlardı",
+          "Dik duran çıplak kütüklerin yalnız üst yüzeylerinde çıkıyorlardı",
+          "Beyaz kovaların içine tamamen gömülü halde tutuluyorlardı"
+        ],
+        "answer": 0,
+        "evidence573": "0 ve 10 sn: Raflardaki siyah torbaların yanlarından kümeler halinde çıkıyorlardı.",
+        "explanation": "0 ve 10 sn: Raflardaki siyah torbaların yanlarından kümeler halinde çıkıyorlardı."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  },
+  {
+    "key": "recel",
+    "category": "Reçel yapımı",
+    "group": "Mutfak",
+    "mediaStart578": 10.0,
+    "source": "https://www.voaturkce.com/a/diyarbakirli-kadinlar-kendi-koy-unu-kurdu-/6473949.html",
+    "id": "unique579-crafts-recel",
+    "duration": 30,
+    "language": "tr",
+    "questions": [
+      {
+        "id": "unique579-crafts-recel-q",
+        "category181": "sequence",
+        "question": "Meyve hazırlama sırasında hangi ayrım yapılıyordu?",
+        "options": [
+          "Doğranan parçalar kurutma tellerine, bütün meyveler su kazanına alınıyordu",
+          "Sarı kabuklu bütün meyvelerle soyulmuş açık renk parçalar ayrı kasalardaydı",
+          "Soyulan kabuklarla doğranan meyveler aynı tencereye aktarılıyordu",
+          "Bütün meyveler kapalı poşetlere, çekirdekler cam kavanozlara konuyordu"
+        ],
+        "answer": 1,
+        "evidence573": "5 ve 25 sn: Sarı kabuklu bütün meyvelerle soyulmuş açık renk parçalar ayrı kasalardaydı.",
+        "explanation": "5 ve 25 sn: Sarı kabuklu bütün meyvelerle soyulmuş açık renk parçalar ayrı kasalardaydı."
+      }
+    ],
+    "review579": {
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25
+      ],
+      "status": "recovered-prior-human-visual-review"
+    },
+    "metadataStatus": "refetch-pending"
+  }
+]

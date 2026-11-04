@@ -1,0 +1,909 @@
+{
+  "revision": 579,
+  "videoCount": 100,
+  "categoryCount": 100,
+  "groupCount": 26,
+  "questionCount": 100,
+  "sources": [
+    {
+      "id": "unique579-crafts-iplik",
+      "topic": "Kendir ipliği",
+      "group": "Zanaat",
+      "production": "production579:3cd64d20-bdec-4711-9031-fd0f8a69f8b2.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-iplik-q",
+      "evidence": "15 ve 25 sn: Yerdeki bobinler ve mağarada yatay uzanan ipler."
+    },
+    {
+      "id": "unique579-crafts-kilim",
+      "topic": "Kilim dokumacılığı",
+      "group": "Zanaat",
+      "production": "production579:9c088f57-bc13-45b4-8374-3a4995d51674.mp4",
+      "start": 130.0,
+      "question": "unique579-crafts-kilim-q",
+      "evidence": "5 ve 15 sn: İplerin bir ucunda oluşan dokunmuş şerit bölümündeydi."
+    },
+    {
+      "id": "unique579-crafts-tespih",
+      "topic": "Tespih ustalığı",
+      "group": "Zanaat",
+      "production": "production579:57da66e4-2dde-4c30-b468-6e9575b9c882_hq.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-tespih-q",
+      "evidence": "5 ve 15 sn: Dönen mile bağlı parçaya ince uçlu bir alet dayanıyordu."
+    },
+    {
+      "id": "unique579-crafts-pide",
+      "topic": "Pide fırını",
+      "group": "Mutfak",
+      "production": "production579:01000000-0aff-0242-138e-08db92de60b5.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-pide-q",
+      "evidence": "20 ve 25 sn: Uzun dar hamur ve uzun saplı düz fırın küreği."
+    },
+    {
+      "id": "unique579-crafts-sabun",
+      "topic": "Sabun üretimi",
+      "group": "Üretim",
+      "production": "production579:01000000-0aff-0242-d008-08dc77fc4641.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-sabun-q",
+      "evidence": "0 ve 20 sn: Ortadaki mile bağlı kol karışımın içine uzanıyordu."
+    },
+    {
+      "id": "unique579-crafts-baklava",
+      "topic": "Baklava açma",
+      "group": "Mutfak",
+      "production": "production579:a2c1003c-062f-4f48-9b37-5f8c111b8c41.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-baklava-q",
+      "evidence": "15 ve 25 sn: Hamur parçalarının hazırlanması ve oklavayla ince açılması."
+    },
+    {
+      "id": "unique579-crafts-sarimsak",
+      "topic": "Sarımsak toplama",
+      "group": "Tarım",
+      "production": "production579:4cd4042c-a568-4a91-a713-f030f440162d.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-sarimsak-q",
+      "evidence": "5 ve 25 sn: Uzun saplarıyla demet halinde tutuluyordu."
+    },
+    {
+      "id": "unique579-crafts-bal",
+      "topic": "Arıcılık",
+      "group": "Tarım",
+      "production": "production579:10070000-0aff-0242-34d0-08da56c358e0.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-bal-q",
+      "evidence": "0 ve 25 sn: Arazideki kovanların kapaklarını açarken."
+    },
+    {
+      "id": "unique579-crafts-biber",
+      "topic": "Kırmızı biber işleme",
+      "group": "Üretim",
+      "production": "production579:01000000-0aff-0242-7784-08dbd323eee4.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-biber-q",
+      "evidence": "0 ve 20 sn: Asılı kurutmalıklar, depodaki kırmızı yığınlar, yeşil tarla."
+    },
+    {
+      "id": "unique579-crafts-zeytin",
+      "topic": "Zeytin hasadı",
+      "group": "Tarım",
+      "production": "production579:7700a1b5-69f7-4e0a-9534-35a38c4e8c9f.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-zeytin-q",
+      "evidence": "5 ve 20 sn: Dallardan düşürülen ürünler alttaki örtüde toplanıyordu."
+    },
+    {
+      "id": "unique579-crafts-uzum",
+      "topic": "Üzüm toplama",
+      "group": "Tarım",
+      "production": "production579:06400000-0aff-0242-b4c6-08da8dc5fbb8.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-uzum-q",
+      "evidence": "0 ve 5 sn: Saplarıyla bütün salkımlar halinde."
+    },
+    {
+      "id": "unique579-crafts-sut",
+      "topic": "Süt çiftliği",
+      "group": "Hayvancılık",
+      "production": "production579:a0beb372-bc4d-4999-97c1-b2d09315fe34.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-sut-q",
+      "evidence": "0 ve 15 sn: Başlarını metal ayırıcıların arasından yem koridoruna uzatıyordu."
+    },
+    {
+      "id": "unique579-crafts-comlek",
+      "topic": "Çömlek yapımı",
+      "group": "Zanaat",
+      "production": "production579:613e00bb-1234-433b-95fb-35aaf31f7060.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-comlek-q",
+      "evidence": "0 ve 10 sn: Bir elini kabın içinden, diğerini dış yüzeyinden destekleyerek."
+    },
+    {
+      "id": "unique579-crafts-marangoz",
+      "topic": "Marangozluk",
+      "group": "Zanaat",
+      "production": "production579:24a45cb5-de40-4e77-a2cd-1c0c4d339efd.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-marangoz-q",
+      "evidence": "0 ve 25 sn: Bir bölümü tezgâhın kenarından dışarı taşıyordu."
+    },
+    {
+      "id": "unique579-crafts-demir",
+      "topic": "Demir dövme",
+      "group": "Zanaat",
+      "production": "production579:58a45629-f50d-406e-9741-d7a09891ca02.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-demir-q",
+      "evidence": "5 ve 10 sn: Uzun maşa ve çekiç."
+    },
+    {
+      "id": "unique579-crafts-boyaci",
+      "topic": "Ayakkabı boyacılığı",
+      "group": "Zanaat",
+      "production": "production579:09860000-0aff-0242-29a5-08da9595697b.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-boyaci-q",
+      "evidence": "10 ve 25 sn: Müşterinin ayağındaydı ve sandığın küçük metal desteğine basıyordu."
+    },
+    {
+      "id": "unique579-crafts-fidan",
+      "topic": "Kozalaktan fidan",
+      "group": "Tarım",
+      "production": "production579:1fb5d062-f824-4396-b785-1672050f2ef7.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-fidan-q",
+      "evidence": "15 ve 20 sn: Serada kurutulmak üzere dizilen kozalaklar."
+    },
+    {
+      "id": "unique579-crafts-tire",
+      "topic": "Urgan yapımı",
+      "group": "Zanaat",
+      "production": "production579:979ae887-244f-46e4-a138-40f82637840a.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-tire-q",
+      "evidence": "0 ve 20 sn: Gerilmiş iplerle urgan yapımı."
+    },
+    {
+      "id": "unique579-crafts-kiraz",
+      "topic": "Kiraz bahçesi",
+      "group": "Tarım",
+      "production": "production579:01000000-0aff-0242-9d67-08dc6f765969.mp4",
+      "start": 30.0,
+      "question": "unique579-crafts-kiraz-q",
+      "evidence": "0 ve 25 sn: Saplı metal kovalar içinde."
+    },
+    {
+      "id": "unique579-crafts-pamuk",
+      "topic": "Pamuk toplama",
+      "group": "Tarım",
+      "production": "production579:bd878ef0-253a-4c04-a9b6-318f873839af.mp4",
+      "start": 100.0,
+      "question": "unique579-crafts-pamuk-q",
+      "evidence": "10 ve 20 sn: Elde toplanan pamuklar büyük bir çuvalda biriktiriliyordu."
+    },
+    {
+      "id": "unique579-crafts-pamukseker",
+      "topic": "Pamuk şeker yapımı",
+      "group": "Mutfak",
+      "production": "production579:38e1fd41-3e7d-4a40-8fe7-cf513441a167.mp4",
+      "start": 60.0,
+      "question": "unique579-crafts-pamukseker-q",
+      "evidence": "10 ve 15 sn: Geniş metal haznenin iç kenarı boyunca."
+    },
+    {
+      "id": "unique579-crafts-zeugma",
+      "topic": "Mozaik restorasyonu",
+      "group": "Arkeoloji",
+      "production": "production579:03990000-0aff-0242-68a3-08dab2740139.mp4",
+      "start": 75.0,
+      "question": "unique579-crafts-zeugma-q",
+      "evidence": "0 ve 25 sn: Yere yakın çömelmişlerdi; yüzeyi süngerle siliyorlardı."
+    },
+    {
+      "id": "unique579-crafts-pizza",
+      "topic": "Taş fırında pizza",
+      "group": "Mutfak",
+      "production": "production579:01000000-0aff-0242-f260-08dc80c7bf93.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-pizza-q",
+      "evidence": "10 ve 15 sn: Kemerli açıklıklar ve içlerindeki raflar."
+    },
+    {
+      "id": "unique579-crafts-fistik",
+      "topic": "Traktör konvoyu",
+      "group": "Tarım",
+      "production": "production579:01000000-0aff-0242-b900-08dcb49f355c.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-fistik-q",
+      "evidence": "0 ve 20 sn: Bayrak taşıyarak asfalt yolda arka arkaya ilerlemeleri."
+    },
+    {
+      "id": "unique579-crafts-balik",
+      "topic": "Tatlısu balıkçılığı",
+      "group": "Hayvancılık",
+      "production": "production579:aafcb117-3f88-43ed-a419-fa236f314415.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-balik-q",
+      "evidence": "0 ve 5 sn: Uzun, düz bir baraj seti."
+    },
+    {
+      "id": "unique579-crafts-amida",
+      "topic": "Arkeolojik kazı",
+      "group": "Arkeoloji",
+      "production": "production579:01000000-0aff-0242-bded-08dcbf5929ff.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-amida-q",
+      "evidence": "5 ve 10 sn: Büyük, açık renk şemsiyelerle."
+    },
+    {
+      "id": "unique579-crafts-pazar",
+      "topic": "Üretici pazarı",
+      "group": "Günlük yaşam",
+      "production": "production579:4fe83cf9-a894-4500-a140-566a60486273.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-pazar-q",
+      "evidence": "15 sn: Yuvarlak kırmızı turplar solda, turuncu havuçlar sağdaydı."
+    },
+    {
+      "id": "unique579-crafts-ipek",
+      "topic": "Kozadan ipek",
+      "group": "Üretim",
+      "production": "production579:01000000-0aff-0242-4275-08dc87141e33.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-ipek-q",
+      "evidence": "0 ve 10 sn: Uzun makine boyunca sıralı küçük makaralar ve ipler."
+    },
+    {
+      "id": "unique579-crafts-mantar",
+      "topic": "İstiridye mantarı yetiştirme",
+      "group": "Tarım",
+      "production": "production579:60b084d7-47fe-4486-850a-0ec7c3a760a8.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-mantar-q",
+      "evidence": "0 ve 10 sn: Raflardaki siyah torbaların yanlarından kümeler halinde çıkıyorlardı."
+    },
+    {
+      "id": "unique579-crafts-recel",
+      "topic": "Reçel yapımı",
+      "group": "Mutfak",
+      "production": "production579:02090000-0aff-0242-8371-08da006ce3bb.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-recel-q",
+      "evidence": "5 ve 25 sn: Sarı kabuklu bütün meyvelerle soyulmuş açık renk parçalar ayrı kasalardaydı."
+    },
+    {
+      "id": "unique579-crafts-lahmacun",
+      "topic": "Lahmacun hazırlama",
+      "group": "Mutfak",
+      "production": "production579:c5380469-5dd3-472c-bbb4-e3fe21696f2b.mp4",
+      "start": 10.0,
+      "question": "unique579-crafts-lahmacun-q",
+      "evidence": "15 ve 25 sn: Sebze ve yeşillikler ince doğranıp birbirine karıştırılmıştı."
+    },
+    {
+      "id": "unique579-crafts-nalin",
+      "topic": "Nalın ustalığı",
+      "group": "Zanaat",
+      "production": "production579:61168fcd-8995-408f-a00f-ba5354c57865.mp4",
+      "start": 50.0,
+      "question": "unique579-crafts-nalin-q",
+      "evidence": "5 ve 15 sn: Parlak boncuklar ve ince açık renk ip."
+    },
+    {
+      "id": "unique579-crafts-badem",
+      "topic": "Badem şekerlemesi",
+      "group": "Üretim",
+      "production": "production579:dc0f457e-f9a2-4c5c-acfc-fb39831d09db.mp4",
+      "start": 90.0,
+      "question": "unique579-crafts-badem-q",
+      "evidence": "5 ve 10 sn: Mor şekerlemeler aynı beyaz yığının üzerine eklendi."
+    },
+    {
+      "id": "unique579-crafts-bakiregitim",
+      "topic": "Bakır işleme eğitimi",
+      "group": "Zanaat",
+      "production": "production579:7a9afdde-5edc-44f9-b96b-f99492c7a239.mp4",
+      "start": 115.0,
+      "question": "unique579-crafts-bakiregitim-q",
+      "evidence": "10 ve 20 sn: Bakıra dayanan ince uçlu bir aletin üstüne vurularak."
+    },
+    {
+      "id": "unique579-culture-tulum",
+      "topic": "Karadeniz tulumu",
+      "group": "Müzik",
+      "production": "production579:a31cbcb0-da0f-4694-8f99-9a5862c1d9ce.mp4",
+      "start": 35,
+      "question": "unique579-culture-tulum-q",
+      "evidence": "10 sn: Ağızlığı ağzına götürür; 15 sn ve 25 sn: Parmakları alttaki boru üzerinde hareket eder."
+    },
+    {
+      "id": "unique579-culture-rhythm",
+      "topic": "Mutfak gereçleriyle ritim deneyi",
+      "group": "Müzik",
+      "production": "production579:01a10000-0aff-0242-8979-08da81d7559c.mp4",
+      "start": 10,
+      "question": "unique579-culture-rhythm-q",
+      "evidence": "0 sn ve 15 sn ve 25 sn: Farklı boy metal mutfak kapları ve kapakları."
+    },
+    {
+      "id": "unique579-culture-miasin",
+      "topic": "Kadın müzik grubu",
+      "group": "Müzik",
+      "production": "production579:01000000-0a00-0242-0bc0-08db903de356.mp4",
+      "start": 10,
+      "question": "unique579-culture-miasin-q",
+      "evidence": "0 sn ve 5 sn: Avuç ve parmaklarla yüzeyine vurularak."
+    },
+    {
+      "id": "unique579-culture-mosaic",
+      "topic": "Mozaik atölyesi",
+      "group": "Görsel sanatlar",
+      "production": "production579:01000000-0aff-0242-ca38-08db9c237d4a.mp4",
+      "start": 10,
+      "question": "unique579-culture-mosaic-q",
+      "evidence": "15 sn ve 25 sn: Pense tipi kesiciyle küçük parçalar biçimlendirilir; 20 sn: Parçaların ahşap çerçeve içindeki düz desene yerleştirildiği görülür."
+    },
+    {
+      "id": "unique579-culture-hidrellez",
+      "topic": "Hıdırellez",
+      "group": "Gelenekler",
+      "production": "production579:3f591c27-b5f4-46eb-a9f2-3a4f0d007ec1.mp4",
+      "start": 10,
+      "question": "unique579-culture-hidrellez-q",
+      "evidence": "0 sn ve 25 sn: Akordeon."
+    },
+    {
+      "id": "unique579-culture-painting",
+      "topic": "Resim atölyesi",
+      "group": "Görsel sanatlar",
+      "production": "production579:3a25c82e-e7f3-408b-acb0-8376c468dc9c.mp4",
+      "start": 55,
+      "question": "unique579-culture-painting-q",
+      "evidence": "5 sn ve 10 sn ve 20 sn: Paletten boya alıp tuvaldeki resme uyguluyordu."
+    },
+    {
+      "id": "unique579-culture-leonardo",
+      "topic": "Mekanik düzenek modelleri sergisi",
+      "group": "Müzeler",
+      "production": "production579:768d8a29-f57f-44ad-9dcd-9067de02cede.mp4",
+      "start": 10,
+      "question": "unique579-culture-leonardo-q",
+      "evidence": "5 sn ve 10 sn ve 20 sn: Ahşap mekanik düzenek modelleri."
+    },
+    {
+      "id": "unique579-culture-puppetopera",
+      "topic": "Kukla operası",
+      "group": "Sahne sanatları",
+      "production": "production579:02660000-0aff-0242-743e-08da08dc68bf.mp4",
+      "start": 10,
+      "question": "unique579-culture-puppetopera-q",
+      "evidence": "5 sn ve 10 sn ve 20 sn: Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu."
+    },
+    {
+      "id": "unique579-culture-chess",
+      "topic": "Canlı satranç",
+      "group": "Sahne sanatları",
+      "production": "production579:265f351d-3276-4690-8a13-ae962e579351.mp4",
+      "start": 10,
+      "question": "unique579-culture-chess-q",
+      "evidence": "0 sn ve 5 sn: Kostümlü ekipler büyük kareli zeminin karşılıklı kenarlarında sıralanmıştır."
+    },
+    {
+      "id": "unique579-culture-amal",
+      "topic": "Dev sokak kuklası",
+      "group": "Sahne sanatları",
+      "production": "production579:3c0e0a92-18ec-4af4-a99b-1cf581f29e7c.mp4",
+      "start": 125,
+      "question": "unique579-culture-amal-q",
+      "evidence": "0 sn ve 5 sn ve 10 sn: Ellerini uzatıp kuklanın eline dokundu."
+    },
+    {
+      "id": "unique579-culture-toylibrary",
+      "topic": "Oyuncak kütüphanesi",
+      "group": "Çocuk etkinlikleri",
+      "production": "production579:df4f335e-a0fe-4d9c-bd06-66d91aa99957.mp4",
+      "start": 10,
+      "question": "unique579-culture-toylibrary-q",
+      "evidence": "10 sn ve 20 sn: Yol ve bina desenli oyun halısı."
+    },
+    {
+      "id": "unique579-culture-toymuseum",
+      "topic": "Tarihi oyuncaklar ve köy eşyaları",
+      "group": "Müzeler",
+      "production": "production579:8d8c0ed2-5ee4-4972-bf11-6936c7bcb296.mp4",
+      "start": 10,
+      "question": "unique579-culture-toymuseum-q",
+      "evidence": "5 sn ve 10 sn ve 25 sn: Uzun saplı eski aletler."
+    },
+    {
+      "id": "unique579-culture-bookfair",
+      "topic": "Kitap fuarı",
+      "group": "Edebiyat",
+      "production": "production579:2c6a17c3-3750-41ea-ac79-894de46b0c9a.mp4",
+      "start": 10,
+      "question": "unique579-culture-bookfair-q",
+      "evidence": "5 sn ve 15 sn: Önünde kitaplar, çevresinde ayakta bekleyen okurlar."
+    },
+    {
+      "id": "unique579-culture-crochet",
+      "topic": "Örgü oyuncaklar",
+      "group": "Hobiler",
+      "production": "production579:2c40e0e8-1766-4010-81ba-42c7abad8690.mp4",
+      "start": 10,
+      "question": "unique579-culture-crochet-q",
+      "evidence": "5 sn ve 15 sn: Sarı iplik parmağın çevresinden geçirilmiş; tek tığla ilmek oluşturuluyor."
+    },
+    {
+      "id": "unique579-culture-photography",
+      "topic": "Fotoğraf sergisi",
+      "group": "Görsel sanatlar",
+      "production": "production579:01000000-0aff-0242-8b4f-08dc7d6f5a3b.mp4",
+      "start": 10,
+      "question": "unique579-culture-photography-q",
+      "evidence": "0 sn ve 5 sn: Balkonları ve pencereleri görülen bir bina."
+    },
+    {
+      "id": "unique579-culture-antiques",
+      "topic": "Antika pazarı",
+      "group": "Koleksiyon",
+      "production": "production579:1907737e-fe0f-4c63-89c5-4ac2f59ae4bb.mp4",
+      "start": 10,
+      "question": "unique579-culture-antiques-q",
+      "evidence": "5 sn ve 10 sn: Metal bıçaklar, çakılar ve küçük saatler."
+    },
+    {
+      "id": "unique579-culture-phones",
+      "topic": "Telefon koleksiyonu",
+      "group": "Koleksiyon",
+      "production": "production579:5ee4fdba-5655-4f01-b117-0e0e3529afdf.mp4",
+      "start": 10,
+      "question": "unique579-culture-phones-q",
+      "evidence": "20 sn ve 25 sn: Ahizesini kulağına götürdü."
+    },
+    {
+      "id": "unique579-culture-kites",
+      "topic": "Uçurtma şenliği",
+      "group": "Çocuk etkinlikleri",
+      "production": "production579:01000000-0a00-0242-0f08-08db44f1b732.mp4",
+      "start": 55,
+      "question": "unique579-culture-kites-q",
+      "evidence": "10 sn ve 15 sn ve 25 sn: Basketbol potası."
+    },
+    {
+      "id": "unique579-culture-wedding",
+      "topic": "Düğün salonu hazırlığı",
+      "group": "Gelenekler",
+      "production": "production579:bf1f799e-41b3-4978-9cb3-43180e346462.mp4",
+      "start": 10,
+      "question": "unique579-culture-wedding-q",
+      "evidence": "5 sn ve 10 sn: Koyu renk taşlardan yapılmış kemer."
+    },
+    {
+      "id": "unique579-culture-face",
+      "topic": "Geleneksel gelin süslemesi",
+      "group": "Gelenekler",
+      "production": "production579:5df66e43-9b5c-46a0-805e-1f42cc143bbb.mp4",
+      "start": 10,
+      "question": "unique579-culture-face-q",
+      "evidence": "15 sn ve 20 sn ve 25 sn: Desenli açık renk bir kanepede."
+    },
+    {
+      "id": "unique579-culture-sign",
+      "topic": "İşaret dili tercümanlığı",
+      "group": "Erişilebilirlik",
+      "production": "production579:9adb43a8-66f0-4202-acdb-f93cd5707410.mp4",
+      "start": 110,
+      "question": "unique579-culture-sign-q",
+      "evidence": "10 sn ve 15 sn ve 25 sn: İşaret dili tercümanı."
+    },
+    {
+      "id": "unique579-culture-choir",
+      "topic": "Çocuk korosu",
+      "group": "Müzik",
+      "production": "production579:02210000-0aff-0242-754c-08da2571ef7c.mp4",
+      "start": 10,
+      "question": "unique579-culture-choir-q",
+      "evidence": "0 sn ve 5 sn ve 15 sn: Çocukların önünde, sırtı kameraya dönük."
+    },
+    {
+      "id": "unique579-culture-cartoon",
+      "topic": "Karikatür festivali",
+      "group": "Görsel sanatlar",
+      "production": "production579:01000000-0aff-0242-2390-08dbbd00b288.mp4",
+      "start": 10,
+      "question": "unique579-culture-cartoon-q",
+      "evidence": "10 sn ve 15 sn: Çizim kağıdının üst kenarına dayalıydı."
+    },
+    {
+      "id": "unique579-culture-tango",
+      "topic": "İleri yaşta tango",
+      "group": "Dans",
+      "production": "production579:823487aa-762b-4e89-b3d0-dcf2e670edd1.mp4",
+      "start": 40,
+      "question": "unique579-culture-tango-q",
+      "evidence": "0 sn ve 5 sn ve 15 sn: Oturarak esneme, eşli dans, röportaj."
+    },
+    {
+      "id": "unique579-culture-streetmusic",
+      "topic": "Sokak müzisyenliği",
+      "group": "Müzik",
+      "production": "production579:7bd9cd9d-6974-4e36-90fe-fc7985568a43.mp4",
+      "start": 10,
+      "question": "unique579-culture-streetmusic-q",
+      "evidence": "5 sn ve 15 sn: Küçük plastik tabure ve beyaz kap."
+    },
+    {
+      "id": "unique579-culture-records",
+      "topic": "Taş plak sergisi",
+      "group": "Müzeler",
+      "production": "production579:99776bb9-040c-418f-02f9-08dd5c8b1668.mp4",
+      "start": 10,
+      "question": "unique579-culture-records-q",
+      "evidence": "0 sn ve 5 sn: Dik panoda tek plak; 25 sn: Yatay vitrinde birden çok plak görülür."
+    },
+    {
+      "id": "unique579-culture-barber",
+      "topic": "Seyyar berber",
+      "group": "Kişisel bakım",
+      "production": "production579:01000000-0aff-0242-1c10-08dc8c945222.mp4",
+      "start": 10,
+      "question": "unique579-culture-barber-q",
+      "evidence": "10 sn ve 15 sn: Aynadaki kendi yansıması."
+    },
+    {
+      "id": "unique579-culture-violin",
+      "topic": "Çocuk orkestrası",
+      "group": "Müzik",
+      "production": "production579:10060000-0aff-0242-41dc-08da5abe3c50.mp4",
+      "start": 10,
+      "question": "unique579-culture-violin-q",
+      "evidence": "0 sn ve 5 sn: İki trompet."
+    },
+    {
+      "id": "unique579-culture-piano",
+      "topic": "Piyano performansı",
+      "group": "Müzik",
+      "production": "production579:5345d246-d77d-45da-bd76-9e1029c096e5.mp4",
+      "start": 180,
+      "question": "unique579-culture-piano-q",
+      "evidence": "15 sn ve 20 sn ve 25 sn: Piyano solda, ekran sağdaydı."
+    },
+    {
+      "id": "unique579-culture-village",
+      "topic": "Köy tiyatrosu provası",
+      "group": "Sahne sanatları",
+      "production": "production579:a5ebdb7c-c4a7-4e2a-8d22-c74a7636b181.mp4",
+      "start": 10,
+      "question": "unique579-culture-village-q",
+      "evidence": "10 sn: Haluk Işık – Hoşgeldin Amerika."
+    },
+    {
+      "id": "unique579-culture-ceramics",
+      "topic": "Sanat okulu mezuniyet sergisi",
+      "group": "Görsel sanatlar",
+      "production": "production579:83377a29-fe0e-4caf-92a0-cb357acc2017.mp4",
+      "start": 10,
+      "question": "unique579-culture-ceramics-q",
+      "evidence": "20 sn: İnce ayakların üzerinde yükselmeleri."
+    },
+    {
+      "id": "unique579-culture-ebru",
+      "topic": "Ebru ressamlığı",
+      "group": "Görsel sanatlar",
+      "production": "production579:d5a7631c-0376-4077-993d-cd30c1f63f7f.mp4",
+      "start": 10,
+      "question": "unique579-culture-ebru-q",
+      "evidence": "20 sn ve 25 sn: Merkezine kırmızı boya bırakıldı."
+    },
+    {
+      "id": "unique579-culture-filmmaking",
+      "topic": "Mahallede film çekimi",
+      "group": "Sinema",
+      "production": "production579:387634bf-ff19-4ddb-9350-bb2d4518eb41.mp4",
+      "start": 10,
+      "question": "unique579-culture-filmmaking-q",
+      "evidence": "0 sn ve 15 sn ve 20 sn: Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera."
+    },
+    {
+      "id": "unique579-science-6234826",
+      "topic": "Bisiklet süsleme",
+      "group": "Spor",
+      "production": "production579:dc445aae-28fe-49d9-9ac0-d6d4489131a7.mp4",
+      "start": 0,
+      "question": "unique579-science-6234826-q",
+      "evidence": "15 sn ve 20 sn: Sepette çiçekler, gidon çevresinde balonlar."
+    },
+    {
+      "id": "unique579-science-5995741",
+      "topic": "Kaplumbağa bakımı",
+      "group": "Doğa ve hayvanlar",
+      "production": "production579:bc26889f-c764-4f3b-94f8-9d642c43b9e2.mp4",
+      "start": 0,
+      "question": "unique579-science-5995741-q",
+      "evidence": "0 sn ve 15 sn: Karton kutu ve yeşil yapraklar."
+    },
+    {
+      "id": "unique579-science-6247576",
+      "topic": "Tekerlekli sandalye basketbolu",
+      "group": "Spor",
+      "production": "production579:4d64ea1a-b6b7-4e15-9394-f1b02fcf09b8.mp4",
+      "start": 0,
+      "question": "unique579-science-6247576-q",
+      "evidence": "5 sn ve 10 sn: Basketbol potası ve filesine."
+    },
+    {
+      "id": "unique579-science-7283486",
+      "topic": "Voleybol takımı karşılama",
+      "group": "Spor",
+      "production": "production579:01000000-0a00-0242-2e83-08dbbe0cbf2f.mp4",
+      "start": 0,
+      "question": "unique579-science-7283486-q",
+      "evidence": "10 sn ve 15 sn: Buketler sporcuların kollarında, konfetiler zemindeydi."
+    },
+    {
+      "id": "unique579-science-7756482",
+      "topic": "Açık su yüzme yarışı",
+      "group": "Spor",
+      "production": "production579:01000000-0aff-0242-01dc-08dcc540c5c0.mp4",
+      "start": 0,
+      "question": "unique579-science-7756482-q",
+      "evidence": "10 sn ve 15 sn: Deniz yüzeyine yayılmış yüzücüler."
+    },
+    {
+      "id": "unique579-science-7690871",
+      "topic": "Yelken mürettebatı",
+      "group": "Spor",
+      "production": "production579:01000000-0aff-0242-8b7e-08dca0268054.mp4",
+      "start": 0,
+      "question": "unique579-science-7690871-q",
+      "evidence": "20 sn: Eldivenli el, yeşil halat ve siyah vinç parçası."
+    },
+    {
+      "id": "unique579-science-6590243",
+      "topic": "Çocuklar için atletizm",
+      "group": "Spor",
+      "production": "production579:03180000-0aff-0242-a652-08da3ef9ae24.mp4",
+      "start": 0,
+      "question": "unique579-science-6590243-q",
+      "evidence": "0 sn ve 25 sn: Başta sahaya yayılarak otururken sonda antrenörün yanında ayakta toplandılar."
+    },
+    {
+      "id": "unique579-science-6861762",
+      "topic": "Geleneksel okçuluk",
+      "group": "Spor",
+      "production": "production579:022a0000-0aff-0242-f1bd-08dad6166d68.mp4",
+      "start": 0,
+      "question": "unique579-science-6861762-q",
+      "evidence": "15 sn ve 25 sn: Hedeflerin üstünde ayrı levhalar hâlinde."
+    },
+    {
+      "id": "unique579-science-5749179",
+      "topic": "Alp disiplini kayak",
+      "group": "Spor",
+      "production": "production579:f6d063f4-8edd-40ef-8d4e-6bbfe96fac67.mp4",
+      "start": 0,
+      "question": "unique579-science-5749179-q",
+      "evidence": "15 sn ve 20 sn ve 25 sn: Dönüş yaparken yana eğilen tek bir kayakçıya."
+    },
+    {
+      "id": "unique579-science-6568861",
+      "topic": "Depozito iade makinesi",
+      "group": "Çevre ve enerji",
+      "production": "production579:031a0000-0aff-0242-1f6f-08da34458c19.mp4",
+      "start": 0,
+      "question": "unique579-science-6568861-q",
+      "evidence": "15 sn ve 20 sn ve 25 sn: Ambalajın girişe verilmesi → yuvarlak iç bölümün yakın çekimi → para tutarının ekranda gösterilmesi."
+    },
+    {
+      "id": "unique579-science-7558894",
+      "topic": "Robotla el yazısı",
+      "group": "Bilim ve teknoloji",
+      "production": "production579:01000000-0aff-0242-4751-08dc55bb4cf6.mp4",
+      "start": 0,
+      "question": "unique579-science-7558894-q",
+      "evidence": "0 sn ve 5 sn ve 10 sn ve 15 sn: Kalemle kâğıda yazma, ardından dizüstü bilgisayarın klavyesini kullanma."
+    },
+    {
+      "id": "unique579-science-4972916",
+      "topic": "Güneş paneli kurulumu",
+      "group": "Çevre ve enerji",
+      "production": "production579:85dbe6bc-d211-420a-9e0c-dfa0c9d64808.mp4",
+      "start": 0,
+      "question": "unique579-science-4972916-q",
+      "evidence": "10 sn ve 20 sn ve 25 sn: Açık arazide metal ayaklar üzerinde sıralar hâlindeydi."
+    },
+    {
+      "id": "unique579-science-7490802",
+      "topic": "Elektrikli araç şarjı",
+      "group": "Ulaşım",
+      "production": "production579:01000000-0a00-0242-ebcc-08dc2f1e8114.mp4",
+      "start": 0,
+      "question": "unique579-science-7490802-q",
+      "evidence": "15 sn ve 20 sn: Otomobilin farı ve yanındaki dikey şarj ünitesi."
+    },
+    {
+      "id": "unique579-science-7481550",
+      "topic": "Uzay kapsülü dönüşü",
+      "group": "Bilim ve teknoloji",
+      "production": "production579:01000000-0a00-0242-7ca6-08dc29acdbb8.mp4",
+      "start": 0,
+      "question": "unique579-science-7481550-q",
+      "evidence": "0 sn ve 10 sn ve 20 sn ve 25 sn: Astronotlar tutunarak ve süzülerek yer değiştiriyordu."
+    },
+    {
+      "id": "unique579-science-6613213",
+      "topic": "Teleskopla gökyüzü gözlemi",
+      "group": "Bilim ve teknoloji",
+      "production": "production579:09470000-0a00-0242-f822-08da4bb68676.mp4",
+      "start": 0,
+      "question": "unique579-science-6613213-q",
+      "evidence": "0 sn ve 20 sn: Üç ayaklı teleskop ve taşlık açık alan."
+    },
+    {
+      "id": "unique579-science-7714445",
+      "topic": "Hayvan barınağı bakımı",
+      "group": "Doğa ve hayvanlar",
+      "production": "production579:01000000-0aff-0242-3159-08dcad9e238b.mp4",
+      "start": 0,
+      "question": "unique579-science-7714445-q",
+      "evidence": "0 sn ve 10 sn ve 20 sn: Üstü örtülü, tel bölmeli ve çakıllı zeminliydi."
+    },
+    {
+      "id": "unique579-science-4701419",
+      "topic": "Destekli buz pateni",
+      "group": "Spor",
+      "production": "production579:c9b80a06-da2e-430f-9376-252d92ff1443.mp4",
+      "start": 0,
+      "question": "unique579-science-4701419-q",
+      "evidence": "15 sn ve 20 sn ve 25 sn: Yürüteç benzeri çerçeve ve buzda kaydırılan sandalye."
+    },
+    {
+      "id": "unique579-science-4789706",
+      "topic": "Aikido salonu",
+      "group": "Spor",
+      "production": "production579:fcded3b8-e74a-4d7a-b13e-a9e5e85d13c7.mp4",
+      "start": 0,
+      "question": "unique579-science-4789706-q",
+      "evidence": "10 sn: Türk bayrağı solda, Japon bayrağı sağda; portre aşağıdaydı."
+    },
+    {
+      "id": "unique579-science-5103233",
+      "topic": "Engelli spor gösterisi",
+      "group": "Spor",
+      "production": "production579:9378fa0e-788a-4c61-81a0-34a145dbe786.mp4",
+      "start": 0,
+      "question": "unique579-science-5103233-q",
+      "evidence": "20 sn ve 25 sn: Bisiklet ve tekerlekli sandalye."
+    },
+    {
+      "id": "unique579-science-7684948",
+      "topic": "Leylek yuvaları",
+      "group": "Doğa ve hayvanlar",
+      "production": "production579:01000000-0a00-0242-df30-08dc9c23f46a.mp4",
+      "start": 0,
+      "question": "unique579-science-7684948-q",
+      "evidence": "15 sn ve 20 sn ve 25 sn: Yuva elektrik direğinin tepesindeydi; leylek üzerinde ayakta duruyordu."
+    },
+    {
+      "id": "unique579-science-5186860",
+      "topic": "Kentte atık toplama",
+      "group": "Çevre ve enerji",
+      "production": "production579:83c7b385-4b73-467b-af9b-c44f4f31ea6d.mp4",
+      "start": 0,
+      "question": "unique579-science-5186860-q",
+      "evidence": "20 sn ve 25 sn: Çadır altındaki kişiler → büyük dijital reklam ekranlarının bulunduğu meydan."
+    },
+    {
+      "id": "unique579-science-7757292",
+      "topic": "Şantiye denetim robotu",
+      "group": "Bilim ve teknoloji",
+      "production": "production579:01000000-0aff-0242-7c7c-08dcc5daf040.mp4",
+      "start": 0,
+      "question": "unique579-science-7757292-q",
+      "evidence": "10 sn ve 20 sn ve 25 sn: Tekerlekli alçak bir taban üzerinde uzun ve ince dikey direk."
+    },
+    {
+      "id": "unique579-science-4709304",
+      "topic": "Video oyunu tasarımı",
+      "group": "Bilim ve teknoloji",
+      "production": "production579:e6fdd824-cb9a-4f39-a878-b26a154a0ddb.mp4",
+      "start": 0,
+      "question": "unique579-science-4709304-q",
+      "evidence": "0 sn ve 20 sn: Erkeğin arkasında mavi görüntülü ekran, kadının yanında sarı halkalı hoparlör."
+    },
+    {
+      "id": "unique579-science-5755528",
+      "topic": "Yağış ve su talebi",
+      "group": "Çevre ve enerji",
+      "production": "production579:5ea108a4-28e2-4f3b-9685-26bc62af9cfa.mp4",
+      "start": 0,
+      "question": "unique579-science-5755528-q",
+      "evidence": "0–14 sn: Yağışların değişkenliği ve Türkiye’nin yarı kurak yapısı anlatılıyor. 14–19 sn: Azlığın baraj ve toprakta görüldüğü söyleniyor. 19–29 sn: Yağış az olmasa da bazı yerlerde nüfus ve sanayinin yoğunlaştığı belirtiliyor. Birlikte değerlendirme, mevcut su ile bölgesel talebin farklı etkenlere bağlı olabileceğini gösterir."
+    },
+    {
+      "id": "unique579-extra-curling",
+      "topic": "Curling",
+      "group": "Spor",
+      "production": "production579:ba72d65c-d9ec-4ece-875e-0b05af1a5238.mp4",
+      "start": 75,
+      "question": "unique579-extra-curling-q",
+      "evidence": "15 sn: Bir eli taşın kulpunda, diğer eli siyah üçgen destekteydi."
+    },
+    {
+      "id": "unique579-extra-guvercin",
+      "topic": "Güvercin oteli",
+      "group": "Doğa ve hayvanlar",
+      "production": "production579:10060000-0aff-0242-c966-08da57a4ad21.mp4",
+      "start": 5,
+      "question": "unique579-extra-guvercin-q",
+      "evidence": "10 ve 20 sn: Duvara asılı yuvarlak sepetler ve altlarında uzanan raflar vardı."
+    },
+    {
+      "id": "unique579-extra-satranc",
+      "topic": "Satranç müzesi",
+      "group": "Müzeler",
+      "production": "production579:936c9be6-4c24-46b7-aa5c-86df54acdea0.mp4",
+      "start": 115,
+      "question": "unique579-extra-satranc-q",
+      "evidence": "0 ve 5 sn: Savaş ve barış teması; insan ve asker figürleri."
+    },
+    {
+      "id": "unique579-extra-kano",
+      "topic": "Ejderha teknesi yarışı",
+      "group": "Spor",
+      "production": "production579:095c0000-0a00-0242-6d11-08da9f2b7978.mp4",
+      "start": 0,
+      "question": "unique579-extra-kano-q",
+      "evidence": "10 ve 20 sn: Kürekçiler teknenin iki yanında sıralar halinde oturup birlikte kürek çekiyordu."
+    },
+    {
+      "id": "unique579-extra-karagul",
+      "topic": "Karagül yetiştirme",
+      "group": "Tarım",
+      "production": "production579:efd98ba1-db14-4340-861e-6a55b5131801.mp4",
+      "start": 50,
+      "question": "unique579-extra-karagul-q",
+      "evidence": "0 ve 5 sn: Elde tutulan, koyu renk güllerden oluşan bir buket."
+    },
+    {
+      "id": "unique579-root-train",
+      "topic": "Manyetik tren belgeseli",
+      "group": "Ulaşım",
+      "production": "production579:Manyetik_H%C4%B1zl%C4%B1_Tren.ogv.webm",
+      "start": 40,
+      "question": "unique579-root-train-q",
+      "evidence": "15 sn: Trenin önü. 20 sn: Trenin yandan geçişi. 25 sn: Birden fazla görüntüye bölünmüş ekran."
+    },
+    {
+      "id": "unique579-root-art",
+      "topic": "Rembrandt portresinde duruş",
+      "group": "Görsel sanatlar",
+      "production": "production579:Rembrandt%27%C4%B1n_%22A%C3%A7%C4%B1k_Pencere_%C3%96n%C3%BCndeki_K%C4%B1z%22_%C4%B0simli_Tablosu_%28Girl_at_a_Window%29.webm.webm",
+      "start": 30,
+      "question": "unique579-root-art-q",
+      "evidence": "5 sn: Kızın bir eli yaka ve boyun hizasında, diğer önkolu pencerenin yatay eşiği üzerindedir."
+    },
+    {
+      "id": "unique579-root-software",
+      "topic": "Mobil vikiye katkı",
+      "group": "Bilim ve teknoloji",
+      "production": "production579:Incubator_app_walkthrough_%28Turkish%29.webm.webm",
+      "start": 25,
+      "question": "unique579-root-software-q",
+      "evidence": "15 sn: Bugünün görevleri ekranı. 20 sn: Bir cümle çevirin aşamasında ekran klavyesiyle yazma."
+    },
+    {
+      "id": "unique579-root-language",
+      "topic": "Gazetecilik ve dil belgeseli",
+      "group": "Eğitim",
+      "production": "production579:WIKITONGUES-_Ela_speaking_Turkish.webm.webm",
+      "start": 5,
+      "question": "unique579-root-language-q",
+      "evidence": "16 sn: Ankara’da iletişim fakültesi gazetecilik bölümünü bitirdiğini anlatır. 25 sn: Öncelikle özel bir radyoda gazeteci olarak çalışmaya başladığını söyler."
+    }
+  ]
+}

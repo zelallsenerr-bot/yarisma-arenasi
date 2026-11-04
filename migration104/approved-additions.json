@@ -85,8 +85,18 @@
     "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
   },
   "family-media578.js": {
-    "sha": "00ba5b6959c5831896ee0a6c7a31d05388c35f73",
-    "size": 2173,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "sha": "da9fc90f8ad7250a6f7c6f3d7eb2c33738208562",
+    "size": 2226,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+  },
+  "assets/family579/clips579.js": {
+    "sha": "abf7e861a8c5b716528e28c53b038d9160faaf8d",
+    "size": 139057,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+  },
+  "assets/family579/manifest.json": {
+    "sha": "0b88640d65032951386336700c2e6c1bba96676d",
+    "size": 171328,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   }
 }

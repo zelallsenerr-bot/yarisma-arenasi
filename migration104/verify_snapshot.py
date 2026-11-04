@@ -24,7 +24,7 @@ for name, row in expected.items():
     assert len(data) == row['size'] and digest == row['sha'], 'Snapshot mismatch: ' + name
 bank = json.loads((root / 'assets/family573/manifest.json').read_text())
 assert len(bank) == 100 and sum(len(c['questions']) for c in bank) == 300
-print(f'PASS: Sites version {snapshot["version"]}; {len(actual)} verified files ({len(updates)} reviewed updates); 100 new videos / 300 new questions')
+print(f'PASS: Sites version {snapshot["version"]}; {len(actual)} verified files ({len(updates)} reviewed updates); archived media retained')
 
 
 # Current Turkish pool: archived foreign assets remain intact for rollback.
@@ -36,4 +36,16 @@ for c in turkish['clips']:
     assert c['language'] == 'tr' and c['duration'] == 30 and c['mediaStart578'] >= 0
     assert c['file'].startswith('https://upload.wikimedia.org/')
     assert len(c['questions']) == 3
-print('PASS: active Turkish pool — 30 source intervals / 3 original sources / 90 questions')
+print('PASS: archived Turkish pool — 30 source intervals / 3 original sources / 90 questions')
+
+# Current variety pool: never count multiple cuts of the same original as new videos.
+variety = json.loads((root / 'assets/family579/manifest.json').read_text())
+clips = variety['clips']
+assert len(clips) == 100 and variety['categoryCount'] == 100 and variety['questionCount'] == 100
+assert len({c['originalKey579'] for c in clips}) == len(clips)
+assert len({c['category579'].casefold() for c in clips}) == len(clips)
+assert all(len(c['questions']) == 1 and c['language'] == 'tr' and c['duration'] == 30 for c in clips)
+for c in clips:
+    q = c['questions'][0]
+    assert len(q['options']) == 4 and len(set(q['options'])) == 4 and 0 <= q['answer'] < 4
+print('PASS: active family pool — 100 original videos / 100 different topics / 100 single questions')

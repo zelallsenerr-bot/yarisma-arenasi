@@ -1,18 +1,18 @@
 {
   "index.html": {
-    "sha": "8c56570ccf5560490dfd91a81a364d1a82950b68",
+    "sha": "53f2f9524eba51ed8ae11b98abc8e095c886191d",
     "size": 6103,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "app.js": {
-    "sha": "4aa93181673016954e5251f61b2981d5c81f0b83",
+    "sha": "657b167518f6a306fba2a820a07ccb1521c8c115",
     "size": 16301,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "privacy.html": {
-    "sha": "b7fee227a51d3397e6cc0e7c13c63de221ec013e",
-    "size": 12418,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "fd389be7dcf74187dbc019f283e611144bbe9e8e",
+    "size": 14468,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "arena-care-ui566.js": {
     "sha": "dbabbc47b957eefe42634e1554078669d6ca1784",
@@ -30,9 +30,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "online/index.html": {
-    "sha": "019680b30af03544eefa7c4ee888b1d4ac48ed5c",
-    "size": 6008,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "sha": "b87e8ebe1650ef223a6dda107b08aaebb768ad80",
+    "size": 6069,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "studio322.js": {
     "sha": "3e6d47f1439a90b1ed7e1b0a93c3b40ae4f18424",
@@ -260,9 +260,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/index.html": {
-    "sha": "91d6d0788003bfd600779e685e0489e02e78d2e1",
-    "size": 5743,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "sha": "bda703085e75b036b6bb1784c97464e7719e2a6e",
+    "size": 5807,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "games/milyonluk-resim/index.html": {
     "sha": "4b10d41f2b070347420a563da74ece1d4c6ef19a",
@@ -435,14 +435,14 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/app.js": {
-    "sha": "0477a7bc278d948891a9d76e3b0a8864a34bf813",
-    "size": 20038,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "sha": "7d626e4fe9c9ebc5e2c62634a79931cf94dbd5b8",
+    "size": 19517,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "games/milyoner-aile/engine.js": {
-    "sha": "6f6523a974c8aa5ff7c63629d31318e4a642d324",
-    "size": 11132,
-    "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+    "sha": "1f951f59a7c44a0be13ba6ef06ea5343f5b86849",
+    "size": 11305,
+    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "question-memory-v33.js": {
     "sha": "f63f9969924f4c7f753830b8447729196f7085e1",

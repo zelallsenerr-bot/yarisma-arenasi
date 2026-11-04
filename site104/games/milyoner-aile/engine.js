@@ -3,38 +3,38 @@ globalThis.AI176??={chance:p=>p,speed:t=>t,score:v=>Math.round(v),estimate:(v,sp
 const shuffle=(a,r=Math.random)=>a.map(x=>[r(),x]).sort((a,b)=>a[0]-b[0]).map(x=>x[1]);
 function time(sec){let n=Math.max(0,Math.floor(sec*100+1e-6));return String(Math.floor(n/6000)).padStart(2,'0')+':'+String(Math.floor(n/100)%60).padStart(2,'0')+'.'+String(n%100).padStart(2,'0')}
 function defaultTeams(){return [['Şener','Bursa',['Mustafa','Zelal','Emre','Aylin']],['Yılmaz','İstanbul',['Murat','Derya','Berk','Ece']],['Aksoy','İzmir',['Hakan','Seda','Can','İpek']],['Demir','Ankara',['Oğuz','Selin','Arda','Nehir']]].map(([name,city,members],i)=>({id:'family363-'+i,name,city,members:members.map((name,j)=>({id:'family363-'+i+'-'+j,name,gender:j%2?'female':'male',age:[38,36,25,23][j]})),bank:0,wins:0,correct:0,totalTime:0}))}
-const mediaKey571=c=>c?.mediaKey571||String(c?.file||c?.id||'').split('?')[0].split('/').pop();
+const mediaKey571=c=>c?.originalKey579||c?.mediaKey571||String(c?.file||c?.id||'').split('?')[0].split('/').pop();
 function seen571(){let seen={};try{seen=JSON.parse(root.localStorage?.getItem('family363-seen')||'{}')}catch{}for(const key of ['clips','questions','media'])seen[key]=Array.isArray(seen[key])?seen[key]:[];seen.last=seen.last&&typeof seen.last==='object'?seen.last:{};return seen;}
 function remember571(s){const clip=current(s);if(!clip)return;const token=s.week+':'+s.index+':'+clip.id;s.watched571??={};if(s.watched571[token])return;const seen=seen571(),key=mediaKey571(clip);seen.media=[...seen.media.filter(x=>x!==key),key];seen.clips=[...seen.clips.filter(x=>x!==clip.id),clip.id];seen.questions=[...seen.questions.filter(x=>x!==clip.question.id),clip.question.id];seen.last[clip.id]=clip.question.id;try{root.localStorage?.setItem('family363-seen',JSON.stringify(seen));s.watched571[token]=true}catch{s.memoryWarning571=true}}
 function deck(clips,rng=Math.random,excludeFiles=[]){
- const seen=seen571(),out=[],picked=new Set(excludeFiles),themes=new Map(),categories=new Map();let lastCategory=null;
+ const seen=seen571(),out=[],picked=new Set(excludeFiles),pickedTopics=new Set(),themes=new Map(),categories=new Map();let lastCategory=null;
  // Import the original ID history by actual media identity, including old saved games.
  for(const id of seen.clips){const c=clips.find(x=>x.id===id);if(c&&!seen.media.includes(mediaKey571(c)))seen.media.push(mediaKey571(c));}
  const cat=q=>q.category181||root.FamilyQuestions181?.category(q)||'object';
  const eligible=c=>{let qs=c.questions.filter(q=>q.id!==seen.last[c.id]);return qs.length?qs:c.questions};
  for(let i=0;i<QUESTION_COUNT;i++){
-  const unique=new Map();for(const c of clips)if(c.active573!==false&&!c.parts&&!picked.has(mediaKey571(c))&&c.questions?.length&&!unique.has(mediaKey571(c)))unique.set(mediaKey571(c),c);
+  const unique=new Map();for(const c of clips)if(c.active573!==false&&!c.parts&&!picked.has(mediaKey571(c))&&(!c.category579||!pickedTopics.has(c.category579))&&c.questions?.length&&!unique.has(mediaKey571(c)))unique.set(mediaKey571(c),c);
   let pool=[...unique.values()];if(!pool.length)break;const fresh=pool.filter(c=>!seen.media.includes(mediaKey571(c)));if(fresh.length)pool=fresh;
   else{const age=new Map(seen.media.map((key,j)=>[key,j])),oldest=Math.min(...pool.map(c=>age.get(mediaKey571(c))??-1));pool=pool.filter(c=>(age.get(mediaKey571(c))??-1)===oldest);}
   const options=c=>{let qs=eligible(c),freshQs=qs.filter(q=>!seen.questions.includes(q.id));if(freshQs.length)return freshQs;const age=new Map(seen.questions.map((id,j)=>[id,j]));return [...qs].sort((a,b)=>(age.get(a.id)??-1)-(age.get(b.id)??-1));};
   const allowed=q=>cat(q)!==lastCategory&&(cat(q)!=='clothing'||!(categories.get('clothing')||0))&&(cat(q)!=='color'||(categories.get('color')||0)<2);
   let candidates=pool.flatMap(c=>options(c).filter(allowed).map(q=>({c,q})));if(!candidates.length)candidates=pool.flatMap(c=>options(c).map(q=>({c,q})));
-  const minCat=Math.min(...candidates.map(x=>categories.get(cat(x.q))||0));candidates=candidates.filter(x=>(categories.get(cat(x.q))||0)===minCat);
   const minTheme=Math.min(...candidates.map(x=>themes.get(x.c.theme)||0));candidates=candidates.filter(x=>(themes.get(x.c.theme)||0)===minTheme);
+  const minCat=Math.min(...candidates.map(x=>categories.get(cat(x.q))||0));candidates=candidates.filter(x=>(categories.get(cat(x.q))||0)===minCat);
   const {c:clip,q}=shuffle(candidates,rng)[0],order=shuffle([0,1,2,3],rng);
   out.push({...clip,duration:VIDEO_SECONDS,mediaKey571:mediaKey571(clip),parts:null,questions:undefined,question:{...q,options:order.map(j=>q.options[j]),answer:order.indexOf(q.answer)}});
-  picked.add(mediaKey571(clip));themes.set(clip.theme,(themes.get(clip.theme)||0)+1);lastCategory=cat(q);categories.set(lastCategory,(categories.get(lastCategory)||0)+1);
+  picked.add(mediaKey571(clip));if(clip.category579)pickedTopics.add(clip.category579);themes.set(clip.theme,(themes.get(clip.theme)||0)+1);lastCategory=cat(q);categories.set(lastCategory,(categories.get(lastCategory)||0)+1);
  }
  // Planning a week must not consume its fourteen unplayed videos.
  return out;
 }
-function upgrade571(s,clips){if(!s||s.mediaRevision===578)return s;if(!s.deck?.length)return s;
+function upgrade571(s,clips){if(!s||s.mediaRevision===579)return s;if(!s.deck?.length)return s;
  if(['question','clip','clipready'].includes(s.phase)){s.phase='clipready';s.clipTime=0;s.elapsed=0;s.records=[];s.plans=[];}
  const from=s.index+(s.phase==='result'?1:0),exclude=s.deck.slice(0,from).map(mediaKey571),fresh=deck(clips,Math.random,exclude);
  if(s.phase!=='weekend')for(let i=from;i<QUESTION_COUNT;i++)if(fresh[i-from])s.deck[i]=fresh[i-from];
- s.mediaRevision=578;s.turkishNotice578=true;return s;}
+ s.mediaRevision=579;s.turkishNotice578=true;s.varietyNotice579=true;return s;}
 
-function create(clips,teams=defaultTeams(),mode='bot',rng=Math.random){if(teams.length!==4||teams.some(t=>t.members.length!==4))throw Error('Dörder kişilik dört aile gerekli');return{version:363,mediaRevision:578,active:true,phase:'clipready',mode,week:1,index:0,deck:deck(clips,rng),teams:JSON.parse(JSON.stringify(teams)),clipTime:0,elapsed:0,records:[],plans:[],selectedTeam:0,paused:false,history:[],seasons:[],awardWeek:0}}
+function create(clips,teams=defaultTeams(),mode='bot',rng=Math.random){if(teams.length!==4||teams.some(t=>t.members.length!==4))throw Error('Dörder kişilik dört aile gerekli');return{version:363,mediaRevision:579,active:true,phase:'clipready',mode,week:1,index:0,deck:deck(clips,rng),teams:JSON.parse(JSON.stringify(teams)),clipTime:0,elapsed:0,records:[],plans:[],selectedTeam:0,paused:false,history:[],seasons:[],awardWeek:0}}
 const current=s=>s.deck[s.index];const isHuman=(s,t)=>s.mode==='local'||t===0;
 function startClip(s){if(s.phase!=='clipready'||s.paused)return false;s.phase='clip';s.clipTime=0;remember571(s);return true}
 function finishClip(s,mediaTime,rng=Math.random){if(s.phase!=='clip'||s.paused||mediaTime<29.8)return false;s.clipTime=30;s.phase='question';s.elapsed=0;s.selectedTeam=0;s.records=s.teams.map(()=>({choices:[null,null,null,null],memberTimes:[null,null,null,null],lockedAt:null,answer:null,correct:null}));s.plans=s.teams.map((_,t)=>{if(s.mode==='local')return null;if(t===0){let lead=rng()<.85?null:8+rng()*8;let q=current(s).question,option=rng()<.72?q.answer:(q.answer+1+Math.floor(rng()*3))%4;return{option,delays:[0,.25+rng()*.45,.8+rng()*.5,1.5+rng()*.5],at:[null,lead,null,null]}}let base=AI176.speed(3+rng()*10+s.index*.18),correct=rng()<AI176.chance(Math.max(.58,.84-s.index*.009)),q=current(s).question,option=correct?q.answer:shuffle([0,1,2,3].filter(i=>i!==q.answer),rng)[0];return{option,at:[base,base+.35+rng(),base+1+rng(),base+1.6+rng()*1.5]}});return true}

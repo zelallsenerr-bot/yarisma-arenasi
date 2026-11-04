@@ -1,0 +1,464 @@
+{
+  "ebru": {
+    "id": "unique579-culture-ebru-q",
+    "category181": "sequence",
+    "question": "Son yakın çekimlerde beyaz yuvarlak alanın üzerine hangi işlem uygulandı?",
+    "options": [
+      "Merkezine kırmızı boya bırakıldı",
+      "Kenarlarına siyah çizgiler çekildi",
+      "Üzerine kağıt kapatılıp kaldırıldı",
+      "Ortası yeşil boyayla dolduruldu"
+    ],
+    "answer": 0,
+    "evidence573": "20 sn ve 25 sn: Merkezine kırmızı boya bırakıldı.",
+    "explanation": "20 sn ve 25 sn: Merkezine kırmızı boya bırakıldı."
+  },
+  "barber": {
+    "id": "unique579-culture-barber-q",
+    "category181": "position",
+    "question": "Berber röportaj verirken arkasında beyaz gömlekli ikinci bir kişi gibi görünen görüntü aslında neydi?",
+    "options": [
+      "Duvardaki büyük bir fotoğraf",
+      "Aynadaki kendi yansıması",
+      "Saçı kesilen müşterinin yansıması",
+      "Kapıda bekleyen başka bir çalışan"
+    ],
+    "answer": 1,
+    "evidence573": "10 sn ve 15 sn: Aynadaki kendi yansıması.",
+    "explanation": "10 sn ve 15 sn: Aynadaki kendi yansıması."
+  },
+  "violin": {
+    "id": "unique579-culture-violin-q",
+    "category181": "sequence",
+    "question": "Şefin görüldüğü genel plandan sonra yakın çekime gelen iki öğrenci hangi enstrümanları çalıyordu?",
+    "options": [
+      "Bir trompet ve bir keman",
+      "Bir saksafon ve bir flüt",
+      "İki trompet",
+      "İki klarnet"
+    ],
+    "answer": 2,
+    "evidence573": "0 sn ve 5 sn: İki trompet.",
+    "explanation": "0 sn ve 5 sn: İki trompet."
+  },
+  "wedding": {
+    "id": "unique579-culture-wedding-q",
+    "category181": "background",
+    "question": "Bahçedeki masa düzenine geçişi çerçeveleyen büyük yapı hangisiydi?",
+    "options": [
+      "Beyaz tüllerle sarılmış ahşap kapı",
+      "Çiçeklerle kaplı metal çember",
+      "Düz çatılı camlı giriş",
+      "Koyu renk taşlardan yapılmış kemer"
+    ],
+    "answer": 3,
+    "evidence573": "5 sn ve 10 sn: Koyu renk taşlardan yapılmış kemer.",
+    "explanation": "5 sn ve 10 sn: Koyu renk taşlardan yapılmış kemer."
+  },
+  "hidrellez": {
+    "id": "unique579-culture-hidrellez-q",
+    "category181": "sequence",
+    "question": "Kalabalığın yürüyüşü gösterilmeden önce görülen kostümlü ikilide erkek figür hangi çalgıyı taşıyordu?",
+    "options": [
+      "Akordeon",
+      "Klarnet",
+      "Davul",
+      "Bağlama"
+    ],
+    "answer": 0,
+    "evidence573": "0 sn ve 25 sn: Akordeon.",
+    "explanation": "0 sn ve 25 sn: Akordeon."
+  },
+  "cartoon": {
+    "id": "unique579-culture-cartoon-q",
+    "category181": "position",
+    "question": "Çizerin kalemi ve kağıdı yakından gösterildiğinde turuncu kılıflı ekranlı cihaz neredeydi?",
+    "options": [
+      "Kağıdın altına yerleştirilmişti",
+      "Çizim kağıdının üst kenarına dayalıydı",
+      "Çizerin arkasındaki masanın üzerindeydi",
+      "Çizerin boynunda asılıydı"
+    ],
+    "answer": 1,
+    "evidence573": "10 sn ve 15 sn: Çizim kağıdının üst kenarına dayalıydı.",
+    "explanation": "10 sn ve 15 sn: Çizim kağıdının üst kenarına dayalıydı."
+  },
+  "photography": {
+    "id": "unique579-culture-photography-q",
+    "category181": "sequence",
+    "question": "Galeri röportajından önce yakın çekimle gösterilen büyük fotoğrafın ana konusu neydi?",
+    "options": [
+      "Liman önünde yan yana duran tekneler",
+      "Tren istasyonundaki yolcular",
+      "Balkonları ve pencereleri görülen bir bina",
+      "Kalabalık bir sokakta yürüyen insanlar"
+    ],
+    "answer": 2,
+    "evidence573": "0 sn ve 5 sn: Balkonları ve pencereleri görülen bir bina.",
+    "explanation": "0 sn ve 5 sn: Balkonları ve pencereleri görülen bir bina."
+  },
+  "toylibrary": {
+    "id": "unique579-culture-toylibrary-q",
+    "category181": "position",
+    "question": "Elindeki kırmızı oyuncağı yere doğru uzatan çocuk, onu hangi yüzeyin üzerinde oynatıyordu?",
+    "options": [
+      "Ahşap tren raylarının döşendiği masa",
+      "Tek renk mavi minder",
+      "Siyah beyaz kareli oyun zemini",
+      "Yol ve bina desenli oyun halısı"
+    ],
+    "answer": 3,
+    "evidence573": "10 sn ve 20 sn: Yol ve bina desenli oyun halısı.",
+    "explanation": "10 sn ve 20 sn: Yol ve bina desenli oyun halısı."
+  },
+  "village": {
+    "id": "unique579-culture-village-q",
+    "category181": "text",
+    "question": "Provada yakından gösterilen metnin kapağındaki yazar–oyun eşleştirmesi hangisiydi?",
+    "options": [
+      "Haluk Işık – Hoşgeldin Amerika",
+      "Haluk Işık – Teneke",
+      "Yaşar Kemal – Hoşgeldin Amerika",
+      "Yaşar Kemal – Teneke"
+    ],
+    "answer": 0,
+    "evidence573": "10 sn: Haluk Işık – Hoşgeldin Amerika.",
+    "explanation": "10 sn: Haluk Işık – Hoşgeldin Amerika."
+  },
+  "streetmusic": {
+    "id": "unique579-culture-streetmusic-q",
+    "category181": "position",
+    "question": "Geniş sokak planında müzisyenin oturduğu nesne ile önünde yerde duran nesne hangi çiftti?",
+    "options": [
+      "Katlanır sandalye ve kırmızı çanta",
+      "Küçük plastik tabure ve beyaz kap",
+      "Ahşap sandalye ve açık keman kutusu",
+      "Metal bank ve siyah valiz"
+    ],
+    "answer": 1,
+    "evidence573": "5 sn ve 15 sn: Küçük plastik tabure ve beyaz kap.",
+    "explanation": "5 sn ve 15 sn: Küçük plastik tabure ve beyaz kap."
+  },
+  "crochet": {
+    "id": "unique579-culture-crochet-q",
+    "category181": "action",
+    "question": "Kadın sarı ipliği işlerken hangi araç ve yöntem görülüyordu?",
+    "options": [
+      "Dikiş makinesinde ip geçiriyordu",
+      "Tahta tezgahta ipleri dokuyordu",
+      "Tek tığla ilmek oluşturuyordu",
+      "İki uzun şişle örgü örüyordu"
+    ],
+    "answer": 2,
+    "evidence573": "5 sn ve 15 sn: Tek tığla ilmek oluşturuyordu.",
+    "explanation": "5 sn ve 15 sn: Tek tığla ilmek oluşturuyordu."
+  },
+  "rhythm": {
+    "id": "unique579-culture-rhythm-q",
+    "category181": "sequence",
+    "question": "Atölye ve avlu görüntülerinin ardından, ritim çalışmasının yakın çekiminde hangi nesneler görülüyordu?",
+    "options": [
+      "Tahta kasalar ve cam şişeler",
+      "Deri davullar ve zil takımı",
+      "Plastik kovalar ve ahşap kaşıklar",
+      "Farklı boy metal mutfak kapları ve kapakları"
+    ],
+    "answer": 3,
+    "evidence573": "0 sn ve 15 sn ve 25 sn: Farklı boy metal mutfak kapları ve kapakları.",
+    "explanation": "0 sn ve 15 sn ve 25 sn: Farklı boy metal mutfak kapları ve kapakları."
+  },
+  "records": {
+    "id": "unique579-culture-records-q",
+    "category181": "object",
+    "question": "Sergi salonundaki duvar panolarından sonra yakın planda gösterilen yuvarlak siyah nesne neydi?",
+    "options": [
+      "Ortası etiketli eski bir plak",
+      "Dairesel bir fotoğraf çerçevesi",
+      "Siyah bir duvar saati",
+      "Metal bir film kutusu kapağı"
+    ],
+    "answer": 0,
+    "evidence573": "0 sn ve 5 sn ve 25 sn: Ortası etiketli eski bir plak.",
+    "explanation": "0 sn ve 5 sn ve 25 sn: Ortası etiketli eski bir plak."
+  },
+  "chess": {
+    "id": "unique579-culture-chess-q",
+    "category181": "position",
+    "question": "Canlı satranç gösterisinde oyuncular hangi düzenin üzerinde hareket ediyordu?",
+    "options": [
+      "Kumun üzerine çizilmiş bir dairede",
+      "Siyah beyaz kareli büyük zeminde",
+      "Renkli dairelerle işaretlenmiş parkurda",
+      "Düz kırmızı halının iki yanında"
+    ],
+    "answer": 1,
+    "evidence573": "0 sn ve 10 sn ve 20 sn: Siyah beyaz kareli büyük zeminde.",
+    "explanation": "0 sn ve 10 sn ve 20 sn: Siyah beyaz kareli büyük zeminde."
+  },
+  "choir": {
+    "id": "unique579-culture-choir-q",
+    "category181": "position",
+    "question": "Koroyu yöneten yetişkin, şarkı söyleyen çocuklara göre nerede duruyordu?",
+    "options": [
+      "Sahnenin en arkasında, çocuklarla aynı hizada",
+      "Sahnenin solunda oturarak",
+      "Çocukların önünde, sırtı kameraya dönük",
+      "Çocukların arasında, kameraya dönük"
+    ],
+    "answer": 2,
+    "evidence573": "0 sn ve 5 sn ve 15 sn: Çocukların önünde, sırtı kameraya dönük.",
+    "explanation": "0 sn ve 5 sn ve 15 sn: Çocukların önünde, sırtı kameraya dönük."
+  },
+  "leonardo": {
+    "id": "unique579-culture-leonardo-q",
+    "category181": "sequence",
+    "question": "Mekan gezisinde büyük şöminenin bulunduğu odadan sonra hangi nesneler yakın planda gösterildi?",
+    "options": [
+      "Çerçevelenmiş aile portreleri",
+      "Cam vitrinlerdeki seramik tabaklar",
+      "Masa üzerinde açık duran eski kitaplar",
+      "Ahşap mekanik düzenek modelleri"
+    ],
+    "answer": 3,
+    "evidence573": "5 sn ve 10 sn ve 20 sn: Ahşap mekanik düzenek modelleri.",
+    "explanation": "5 sn ve 10 sn ve 20 sn: Ahşap mekanik düzenek modelleri."
+  },
+  "painting": {
+    "id": "unique579-culture-painting-q",
+    "category181": "sequence",
+    "question": "Ressamın çalışması yakın planda gösterilirken hangi işlem sırası görülüyordu?",
+    "options": [
+      "Paletten boya alıp tuvaldeki resme uyguluyordu",
+      "Tuvali ıslatıp fırçayı temiz suyla yıkıyordu",
+      "Resmi çerçeveleyip camını siliyordu",
+      "Tuvaldeki boyayı kazıyıp palete aktarıyordu"
+    ],
+    "answer": 0,
+    "evidence573": "5 sn ve 10 sn ve 20 sn: Paletten boya alıp tuvaldeki resme uyguluyordu.",
+    "explanation": "5 sn ve 10 sn ve 20 sn: Paletten boya alıp tuvaldeki resme uyguluyordu."
+  },
+  "tango": {
+    "id": "unique579-culture-tango-q",
+    "category181": "sequence",
+    "question": "Bu kesitte etkinlik görüntüleri hangi sırayla geldi?",
+    "options": [
+      "Oturarak esneme, röportaj, eşli dans",
+      "Oturarak esneme, eşli dans, röportaj",
+      "Eşli dans, röportaj, oturarak esneme",
+      "Röportaj, oturarak esneme, eşli dans"
+    ],
+    "answer": 1,
+    "evidence573": "0 sn ve 5 sn ve 15 sn: Oturarak esneme, eşli dans, röportaj.",
+    "explanation": "0 sn ve 5 sn ve 15 sn: Oturarak esneme, eşli dans, röportaj."
+  },
+  "piano": {
+    "id": "unique579-culture-piano-q",
+    "category181": "position",
+    "question": "Röportajın ardından gösterilen performansta piyano ve büyük boş ekran nasıl konumlanmıştı?",
+    "options": [
+      "Ekran piyanistin hemen arkasında ortadaydı",
+      "Piyano ekranın önünde, sahnenin tam ortasındaydı",
+      "Piyano solda, ekran sağdaydı",
+      "Piyano sağda, ekran soldaydı"
+    ],
+    "answer": 2,
+    "evidence573": "15 sn ve 20 sn ve 25 sn: Piyano solda, ekran sağdaydı.",
+    "explanation": "15 sn ve 20 sn ve 25 sn: Piyano solda, ekran sağdaydı."
+  },
+  "tulum": {
+    "id": "unique579-culture-tulum-q",
+    "category181": "sequence",
+    "question": "Tulum çalmaya başlarken erkeğin yaptığı hareketlerin sırası hangisiydi?",
+    "options": [
+      "Alttaki boruyu söktü, sonra tulumu kolundan çıkardı",
+      "Parmaklarını üstteki torbaya vurdu, sonra ağızlığı yere bıraktı",
+      "Önce tulumu yere koydu, sonra boruyu iki eliyle üfledi",
+      "Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi"
+    ],
+    "answer": 3,
+    "evidence573": "10 sn ve 15 sn ve 25 sn: Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi.",
+    "explanation": "10 sn ve 15 sn ve 25 sn: Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi."
+  },
+  "sign": {
+    "id": "unique579-culture-sign-q",
+    "category181": "sequence",
+    "question": "Telefonla görüntülü görüşme yapan kıvırcık saçlı kişi, sonraki röportajda hangi görevle tanıtıldı?",
+    "options": [
+      "İşaret dili tercümanı",
+      "Çağrı merkezi operatörü",
+      "Sosyal hizmet uzmanı",
+      "Engelliler Daire Başkanı"
+    ],
+    "answer": 0,
+    "evidence573": "10 sn ve 15 sn ve 25 sn: İşaret dili tercümanı.",
+    "explanation": "10 sn ve 15 sn ve 25 sn: İşaret dili tercümanı."
+  },
+  "kites": {
+    "id": "unique579-culture-kites-q",
+    "category181": "background",
+    "question": "Uçurtma yapımı görüntülerinden sonra geçilen okul bahçesinde hangi spor ekipmanı da görünüyordu?",
+    "options": [
+      "Tenis filesi",
+      "Basketbol potası",
+      "Voleybol filesi",
+      "Futbol kalesi"
+    ],
+    "answer": 1,
+    "evidence573": "10 sn ve 15 sn ve 25 sn: Basketbol potası.",
+    "explanation": "10 sn ve 15 sn ve 25 sn: Basketbol potası."
+  },
+  "amal": {
+    "id": "unique579-culture-amal-q",
+    "category181": "sequence",
+    "question": "Dev kuklanın eli kalabalığa yaklaştırıldığında çocuklar ne yaptı?",
+    "options": [
+      "Oldukları yerde durup yalnızca alkışladı",
+      "Kuklanın önünde birbirlerinin ellerini tuttu",
+      "Ellerini uzatıp kuklanın eline dokundu",
+      "Ellerindeki kağıtları kuklaya uzattı"
+    ],
+    "answer": 2,
+    "evidence573": "0 sn ve 5 sn ve 10 sn: Ellerini uzatıp kuklanın eline dokundu.",
+    "explanation": "0 sn ve 5 sn ve 10 sn: Ellerini uzatıp kuklanın eline dokundu."
+  },
+  "miasin": {
+    "id": "unique579-culture-miasin-q",
+    "category181": "action",
+    "question": "İlk yakın çalgı görüntüsünde yuvarlak vurmalı çalgı nasıl çalınıyordu?",
+    "options": [
+      "İki uzun bagetle kenarına vurularak",
+      "Tek tokmakla alt kısmına vurularak",
+      "Ayak pedalıyla ritim verilerek",
+      "Avuç ve parmaklarla yüzeyine vurularak"
+    ],
+    "answer": 3,
+    "evidence573": "0 sn ve 5 sn: Avuç ve parmaklarla yüzeyine vurularak.",
+    "explanation": "0 sn ve 5 sn: Avuç ve parmaklarla yüzeyine vurularak."
+  },
+  "phones": {
+    "id": "unique579-culture-phones-q",
+    "category181": "sequence",
+    "question": "Koleksiyoncu büyük siyah telefonu elinde gösterdikten sonra ne yaptı?",
+    "options": [
+      "Ahizesini kulağına götürdü",
+      "Antenini çıkarıp uzattı",
+      "Arka kapağını açıp pilini gösterdi",
+      "Tuş takımını çıkarıp masaya koydu"
+    ],
+    "answer": 0,
+    "evidence573": "20 sn ve 25 sn: Ahizesini kulağına götürdü.",
+    "explanation": "20 sn ve 25 sn: Ahizesini kulağına götürdü."
+  },
+  "bookfair": {
+    "id": "unique579-culture-bookfair-q",
+    "category181": "sequence",
+    "question": "Fuar binasının dışından içeriye geçilen görüntüde, masada oturan kadının çevresinde hangi düzen vardı?",
+    "options": [
+      "Önünde biletler, çevresinde turnikeden geçen ziyaretçiler",
+      "Önünde kitaplar, çevresinde ayakta bekleyen okurlar",
+      "Önünde mikrofonlar, karşısında sıra sıra boş sandalyeler",
+      "Önünde oyuncaklar, yanında sıraya giren çocuklar"
+    ],
+    "answer": 1,
+    "evidence573": "5 sn ve 15 sn: Önünde kitaplar, çevresinde ayakta bekleyen okurlar.",
+    "explanation": "5 sn ve 15 sn: Önünde kitaplar, çevresinde ayakta bekleyen okurlar."
+  },
+  "antiques": {
+    "id": "unique579-culture-antiques-q",
+    "category181": "sequence",
+    "question": "İlk tezgah turunda cam eşyalardan sonraki masa yakın çekiminde hangi eşya grubu öne çıktı?",
+    "options": [
+      "Eski kitaplar, zarflar ve kartpostallar",
+      "Kumaş çantalar, danteller ve şapkalar",
+      "Metal bıçaklar, çakılar ve küçük saatler",
+      "Vinil plaklar, kasetler ve pikaplar"
+    ],
+    "answer": 2,
+    "evidence573": "5 sn ve 10 sn: Metal bıçaklar, çakılar ve küçük saatler.",
+    "explanation": "5 sn ve 10 sn: Metal bıçaklar, çakılar ve küçük saatler."
+  },
+  "ceramics": {
+    "id": "unique579-culture-ceramics-q",
+    "category181": "object",
+    "question": "Sergide yan yana duran üç heykelsi kabın ortak özelliği neydi?",
+    "options": [
+      "Duvara asılarak sergilenmeleri",
+      "Saplarının aynı biçimde halka olması",
+      "Gövdelerinin aynı büyüklükte olması",
+      "İnce ayakların üzerinde yükselmeleri"
+    ],
+    "answer": 3,
+    "evidence573": "20 sn: İnce ayakların üzerinde yükselmeleri.",
+    "explanation": "20 sn: İnce ayakların üzerinde yükselmeleri."
+  },
+  "toymuseum": {
+    "id": "unique579-culture-toymuseum-q",
+    "category181": "position",
+    "question": "Müze turunda camlı dolapların yanı sıra doğrudan duvara asılı gösterilen eşya grubu hangisiydi?",
+    "options": [
+      "Uzun saplı eski aletler",
+      "Minyatür çay takımları",
+      "Küçük seramik hayvanlar",
+      "Oyuncak tren vagonları"
+    ],
+    "answer": 0,
+    "evidence573": "5 sn ve 10 sn ve 25 sn: Uzun saplı eski aletler.",
+    "explanation": "5 sn ve 10 sn ve 25 sn: Uzun saplı eski aletler."
+  },
+  "mosaic": {
+    "id": "unique579-culture-mosaic-q",
+    "category181": "action",
+    "question": "Mozaik yapımında parçalara şekil veren araç ile parçaların yerleştirildiği alan hangi çiftti?",
+    "options": [
+      "Küçük zımpara ve oyulmuş ahşap figür",
+      "Pense benzeri kesici ve çerçeve içindeki desen",
+      "İnce fırça ve dönen çömlek yüzeyi",
+      "Uzun iğne ve gergefteki kumaş"
+    ],
+    "answer": 1,
+    "evidence573": "15 sn ve 20 sn ve 25 sn: Pense benzeri kesici ve çerçeve içindeki desen.",
+    "explanation": "15 sn ve 20 sn ve 25 sn: Pense benzeri kesici ve çerçeve içindeki desen."
+  },
+  "face": {
+    "id": "unique579-culture-face-q",
+    "category181": "position",
+    "question": "Kadın süsleme malzemelerini küçük masada hazırlarken gelin adayı nerede bekliyordu?",
+    "options": [
+      "Masanın karşısındaki ahşap sandalyede",
+      "Yerde minderlerle çevrili bir köşede",
+      "Desenli açık renk bir kanepede",
+      "Aynanın önündeki yüksek kuaför koltuğunda"
+    ],
+    "answer": 2,
+    "evidence573": "15 sn ve 20 sn ve 25 sn: Desenli açık renk bir kanepede.",
+    "explanation": "15 sn ve 20 sn ve 25 sn: Desenli açık renk bir kanepede."
+  },
+  "puppetopera": {
+    "id": "unique579-culture-puppetopera-q",
+    "category181": "position",
+    "question": "Sahnedeki kuklalar ile onları hareket ettiren kişiler hangi düzende görünüyordu?",
+    "options": [
+      "Oynatıcılar tamamen perdenin arkasında gizleniyordu",
+      "Kuklalar tavandan sarkan uzun iplerle yönetiliyordu",
+      "Oynatıcıların yalnızca elleri sahnenin altından çıkıyordu",
+      "Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu"
+    ],
+    "answer": 3,
+    "evidence573": "5 sn ve 10 sn ve 20 sn: Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu.",
+    "explanation": "5 sn ve 10 sn ve 20 sn: Oynatıcılar kuklaların arkasında aynı sahnede görünüyordu."
+  },
+  "filmmaking": {
+    "id": "unique579-culture-filmmaking-q",
+    "category181": "object",
+    "question": "Çocuklar kameranın çevresinde toplandığında görüntü almak için kullanılan düzenek hangisiydi?",
+    "options": [
+      "Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera",
+      "Omuzda taşınan büyük yayın kamerası",
+      "Elle tutulan küçük cep telefonu",
+      "Tavana sabitlenmiş güvenlik kamerası"
+    ],
+    "answer": 0,
+    "evidence573": "0 sn ve 15 sn ve 20 sn: Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera.",
+    "explanation": "0 sn ve 15 sn ve 20 sn: Tripod üzerine yerleştirilmiş fotoğraf makinesi tipi kamera."
+  }
+}

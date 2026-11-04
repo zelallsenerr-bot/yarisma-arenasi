@@ -661,5 +661,87 @@
         "explanation": "0 sn ve 10 sn ve 20 sn: Üstü örtülü, tel bölmeli ve çakıllı zeminliydi."
       }
     ]
+  },
+  {
+    "id": "unique579-science-4701419",
+    "category": "Destekli buz pateni",
+    "group": "Spor",
+    "group579": "Spor",
+    "source": "https://www.voaturkce.com/a/buz-üstünde-engelsiz-eğlence/4701419.html",
+    "title": "Buz Üstünde Engelsiz Eğlence",
+    "author": "VOA",
+    "license": "Public domain — VOA original production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2018/12/c/c9/c9b80a06-da2e-430f-9376-252d92ff1443.mp4?cb=ed3a992a4",
+    "mediaStart578": 0,
+    "duration": 30,
+    "originalKey579": "c9b80a06-da2e-430f-9376-252d92ff1443",
+    "language": "tr",
+    "audioType579": "Turkish-speech",
+    "review579": {
+      "frames": [
+        15,
+        20,
+        25
+      ],
+      "visualStatus": "observed-six-frame-review",
+      "audioStatus": "prior-session-ASR-or-production-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-science-4701419-q",
+        "category181": "combination",
+        "question": "Buz üzerinde hareket etmeyi kolaylaştırmak için hangi iki destek aracı görülüyordu?",
+        "options": [
+          "Yürüteç benzeri çerçeve ve buzda kaydırılan sandalye",
+          "Yürüteç benzeri çerçeve ve bir snowboard",
+          "Tekerlekli sandalye ve tavandan sarkan halat",
+          "Kayak kızağı ve pedallı bir bisiklet"
+        ],
+        "answer": 0,
+        "evidence573": "15 sn ve 20 sn ve 25 sn: Yürüteç benzeri çerçeve ve buzda kaydırılan sandalye.",
+        "explanation": "15 sn ve 20 sn ve 25 sn: Yürüteç benzeri çerçeve ve buzda kaydırılan sandalye."
+      }
+    ]
+  },
+  {
+    "id": "unique579-science-4789706",
+    "category": "Aikido salonu",
+    "group": "Spor",
+    "group579": "Spor",
+    "source": "https://www.voaturkce.com/a/engellilerin-yasam-gucu-aikido/4789706.html",
+    "title": "Engellilerin Yaşam Gücü: Aikido",
+    "author": "Soner Kızılkaya",
+    "license": "Public domain — VOA original production",
+    "licenseUrl": "https://learningenglish.voanews.com/p/6021.html",
+    "file": "https://voa-video-ns.akamaized.net/pangeavideo/2019/02/f/fc/fcded3b8-e74a-4d7a-b13e-a9e5e85d13c7.mp4?cb=ed3fa8ada",
+    "mediaStart578": 0,
+    "duration": 30,
+    "originalKey579": "fcded3b8-e74a-4d7a-b13e-a9e5e85d13c7",
+    "language": "tr",
+    "audioType579": "Turkish-speech",
+    "review579": {
+      "frames": [
+        10
+      ],
+      "visualStatus": "observed-six-frame-review",
+      "audioStatus": "prior-session-ASR-or-production-review"
+    },
+    "questions": [
+      {
+        "id": "unique579-science-4789706-q",
+        "category181": "position",
+        "question": "Ahşap duvar panosundaki bayraklar ile portrenin yerleşimi nasıldı?",
+        "options": [
+          "İki bayrak yan yana değil üst üsteydi; portre sağdaydı",
+          "Türk bayrağı solda, Japon bayrağı sağda; portre aşağıdaydı",
+          "Japon bayrağı solda, Türk bayrağı sağda; portre yukarıdaydı",
+          "İki bayrak alt sırada, portre tam üstlerindeydi"
+        ],
+        "answer": 1,
+        "evidence573": "10 sn: Türk bayrağı solda, Japon bayrağı sağda; portre aşağıdaydı.",
+        "explanation": "10 sn: Türk bayrağı solda, Japon bayrağı sağda; portre aşağıdaydı."
+      }
+    ]
   }
 ]

@@ -18,16 +18,16 @@
       {
         "id": "unique579-culture-tulum-q",
         "category181": "sequence",
-        "question": "Tulum çalmaya başlarken erkeğin yaptığı hareketlerin sırası hangisiydi?",
+        "question": "Tulum çalmaya başlarken hangi hareket sırası görüldü?",
         "options": [
-          "Alttaki boruyu söktü, sonra tulumu kolundan çıkardı",
-          "Parmaklarını üstteki torbaya vurdu, sonra ağızlığı yere bıraktı",
-          "Önce tulumu yere koydu, sonra boruyu iki eliyle üfledi",
-          "Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi"
+          "Önce parmaklarını alttaki boruda hareket ettirdi, sonra ağızlığı ağzına götürdü",
+          "Önce ağızlığı ağzına götürdü, sonra parmaklarını üstteki torbanın üzerinde gezdirdi",
+          "Önce parmaklarını üstteki torbada gezdirdi, sonra ağızlığı ağzına götürdü",
+          "Önce ağızlığı ağzına götürdü, sonra parmaklarını alttaki boruda hareket ettirdi"
         ],
         "answer": 3,
-        "evidence573": "10 sn ve 15 sn ve 25 sn: Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi.",
-        "explanation": "10 sn ve 15 sn ve 25 sn: Ağızlığı ağzına götürdü, sonra alttaki boruda parmaklarını hareket ettirdi."
+        "evidence573": "10 sn: Ağızlığı ağzına götürür; 15 sn ve 25 sn: Parmakları alttaki boru üzerinde hareket eder.",
+        "explanation": "10 sn: Ağızlığı ağzına götürür; 15 sn ve 25 sn: Parmakları alttaki boru üzerinde hareket eder."
       }
     ],
     "review579": {
@@ -48,7 +48,7 @@
   },
   {
     "id": "unique579-culture-rhythm",
-    "category": "Bakır ritim orkestrası",
+    "category": "Mutfak gereçleriyle ritim deneyi",
     "group": "Müzik",
     "source": "https://www.voaturkce.com/a/baki%CC%87r-mutfak-esyalari%CC%87yla-ri%CC%87ati%CC%87m-orkestrasi%CC%87-kuruldu-gazi%CC%87antep/6709704.html",
     "title": "Bakır Mutfak Eşyalarıyla Ritim Orkestrası Kuruldu",
@@ -159,16 +159,16 @@
       {
         "id": "unique579-culture-mosaic-q",
         "category181": "action",
-        "question": "Mozaik yapımında parçalara şekil veren araç ile parçaların yerleştirildiği alan hangi çiftti?",
+        "question": "Mozaik çalışmasında parçaları biçimlendiren araç ile desenin yerleştirildiği yüzey hangi çiftti?",
         "options": [
-          "Küçük zımpara ve oyulmuş ahşap figür",
-          "Pense benzeri kesici ve çerçeve içindeki desen",
-          "İnce fırça ve dönen çömlek yüzeyi",
-          "Uzun iğne ve gergefteki kumaş"
+          "Makas – yuvarlak çömlek yüzeyi",
+          "Pense tipi kesici – ahşap çerçeve içindeki düz zemin",
+          "Makas – ahşap çerçeve içindeki düz zemin",
+          "Pense tipi kesici – yuvarlak çömlek yüzeyi"
         ],
         "answer": 1,
-        "evidence573": "15 sn ve 20 sn ve 25 sn: Pense benzeri kesici ve çerçeve içindeki desen.",
-        "explanation": "15 sn ve 20 sn ve 25 sn: Pense benzeri kesici ve çerçeve içindeki desen."
+        "evidence573": "15 sn ve 25 sn: Pense tipi kesiciyle küçük parçalar biçimlendirilir; 20 sn: Parçaların ahşap çerçeve içindeki düz desene yerleştirildiği görülür.",
+        "explanation": "15 sn ve 25 sn: Pense tipi kesiciyle küçük parçalar biçimlendirilir; 20 sn: Parçaların ahşap çerçeve içindeki düz desene yerleştirildiği görülür."
       }
     ],
     "review579": {
@@ -394,16 +394,16 @@
       {
         "id": "unique579-culture-chess-q",
         "category181": "position",
-        "question": "Canlı satranç gösterisinde oyuncular hangi düzenin üzerinde hareket ediyordu?",
+        "question": "Canlı satranç gösterisinin başında iki kostümlü ekip nerede dizilmişti?",
         "options": [
-          "Kumun üzerine çizilmiş bir dairede",
-          "Siyah beyaz kareli büyük zeminde",
-          "Renkli dairelerle işaretlenmiş parkurda",
-          "Düz kırmızı halının iki yanında"
+          "Kareli alanın ortasında iki küçük dairede",
+          "Kareli alanın karşılıklı iki kenarında",
+          "Kareli alanın aynı kenarında art arda",
+          "Kareli alanın çevresinde tek bir çemberde"
         ],
         "answer": 1,
-        "evidence573": "0 sn ve 10 sn ve 20 sn: Siyah beyaz kareli büyük zeminde.",
-        "explanation": "0 sn ve 10 sn ve 20 sn: Siyah beyaz kareli büyük zeminde."
+        "evidence573": "0 sn ve 5 sn: Kostümlü ekipler büyük kareli zeminin karşılıklı kenarlarında sıralanmıştır.",
+        "explanation": "0 sn ve 5 sn: Kostümlü ekipler büyük kareli zeminin karşılıklı kenarlarında sıralanmıştır."
       }
     ],
     "review579": {
@@ -629,16 +629,16 @@
       {
         "id": "unique579-culture-crochet-q",
         "category181": "action",
-        "question": "Kadın sarı ipliği işlerken hangi araç ve yöntem görülüyordu?",
+        "question": "Sarı iplikle çalışılan yakın çekimde iplik ve araç nasıl kullanılıyordu?",
         "options": [
-          "Dikiş makinesinde ip geçiriyordu",
-          "Tahta tezgahta ipleri dokuyordu",
-          "Tek tığla ilmek oluşturuyordu",
-          "İki uzun şişle örgü örüyordu"
+          "İplik iğnenin deliğinden geçirilip kumaşa batırılıyordu",
+          "İplikler tahta bir çerçeveye gerilip aralarından mekik geçiriliyordu",
+          "İplik bir parmağa dolanmışken tek tığla ilmek çekiliyordu",
+          "İplik iki şişin arasında çapraz geçirilerek örülüyordu"
         ],
         "answer": 2,
-        "evidence573": "5 sn ve 15 sn: Tek tığla ilmek oluşturuyordu.",
-        "explanation": "5 sn ve 15 sn: Tek tığla ilmek oluşturuyordu."
+        "evidence573": "5 sn ve 15 sn: Sarı iplik parmağın çevresinden geçirilmiş; tek tığla ilmek oluşturuluyor.",
+        "explanation": "5 sn ve 15 sn: Sarı iplik parmağın çevresinden geçirilmiş; tek tığla ilmek oluşturuluyor."
       }
     ],
     "review579": {
@@ -1193,16 +1193,16 @@
       {
         "id": "unique579-culture-records-q",
         "category181": "object",
-        "question": "Sergi salonundaki duvar panolarından sonra yakın planda gösterilen yuvarlak siyah nesne neydi?",
+        "question": "Plakların sergileniş biçimini doğru anlatan seçenek hangisi?",
         "options": [
-          "Ortası etiketli eski bir plak",
-          "Dairesel bir fotoğraf çerçevesi",
-          "Siyah bir duvar saati",
-          "Metal bir film kutusu kapağı"
+          "Tek bir plak dikey panoda, birkaç plak yatay vitrinde gösterildi",
+          "Tek bir plak yatay vitrinde, birkaç plak duvara asılı gösterildi",
+          "Bütün plaklar dikey panolarda üst üste sıralandı",
+          "Plakların hepsi kapaklı kutuların içinde gösterildi"
         ],
         "answer": 0,
-        "evidence573": "0 sn ve 5 sn ve 25 sn: Ortası etiketli eski bir plak.",
-        "explanation": "0 sn ve 5 sn ve 25 sn: Ortası etiketli eski bir plak."
+        "evidence573": "0 sn ve 5 sn: Dik panoda tek plak; 25 sn: Yatay vitrinde birden çok plak görülür.",
+        "explanation": "0 sn ve 5 sn: Dik panoda tek plak; 25 sn: Yatay vitrinde birden çok plak görülür."
       }
     ],
     "review579": {

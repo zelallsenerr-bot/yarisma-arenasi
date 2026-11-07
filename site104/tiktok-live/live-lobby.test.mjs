@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {LiveLobby} from './live-lobby.mjs';
+const events=[];const lobby=new LiveLobby({onEvent:e=>events.push(e)});
+assert.equal(lobby.ingest({id:'1',type:'gift',userId:'u0',username:'Ali',giftName:'Gül'}),true);
+assert.equal(lobby.ingest({id:'1',type:'gift',userId:'u0',giftName:'Gül'}),false);
+assert.equal(lobby.ingest({id:'2',type:'comment',userId:'u1',username:'Ayşe',text:'katıl'}),true);
+assert.equal(lobby.ingest({id:'3',type:'gift',userId:'u2',giftName:'Çay'}),true);
+assert.equal(lobby.ingest({id:'4',type:'gift',userId:'u3',giftName:'Diamond'}),false);
+for(let i=4;i<11;i++)assert.equal(lobby.ingest({id:'free'+i,type:'comment',userId:'u'+i,text:'katil'}),true);
+assert.equal(lobby.start('u0'),null);
+for(let i=0;i<11;i++)assert.equal(lobby.approve('u'+i),true);
+const start=lobby.start('u0');assert.equal(start.players.length,11);
+assert.equal(lobby.ingest({id:'late',type:'gift',userId:'u12',giftName:'Gül'}),false);
+assert.equal(events.filter(e=>e.type==='join_request').length,11);
+console.log('Optional gift and free join lobby tests passed');

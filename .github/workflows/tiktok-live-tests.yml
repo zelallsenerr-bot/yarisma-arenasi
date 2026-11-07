@@ -20,4 +20,4 @@ jobs:
         with:
           node-version: '22'
       - name: Test LIVE engine and 11 player mapping
-        run: node site104/tiktok-live/live-round.test.mjs
+        run: |\n          node site104/tiktok-live/live-round.test.mjs\n          node site104/tiktok-live/eyvah-live-game.test.mjs

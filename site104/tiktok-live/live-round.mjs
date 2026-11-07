@@ -3,7 +3,7 @@
 // Integrate a provider adapter only after verifying platform terms and reliability.
 export class LiveRound {
   constructor({players,questions,onEvent=()=>{}}) {
-    if (!Array.isArray(players)||players.length!==10||new Set(players.map(p=>p.id)).size!==10) throw Error('10 unique player IDs required');
+    if (!Array.isArray(players)||players.length!==11||new Set(players.map(p=>p.id)).size!==10) throw Error('11 unique player IDs required');
     if (!Array.isArray(questions)||!questions.length) throw Error('Questions required');
     this.players=players;this.questions=questions;this.onEvent=onEvent;
     this.active=0;this.index=0;this.state='idle';this.seen=new Set();

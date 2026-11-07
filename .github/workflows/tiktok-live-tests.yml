@@ -1,0 +1,23 @@
+name: TikTok LIVE prototype tests
+on:
+  push:
+    branches: [feature/tiktok-live]
+    paths:
+      - 'site104/tiktok-live/**'
+      - '.github/workflows/tiktok-live-tests.yml'
+  pull_request:
+    paths:
+      - 'site104/tiktok-live/**'
+      - '.github/workflows/tiktok-live-tests.yml'
+permissions:
+  contents: read
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test LIVE engine and 11 player mapping
+        run: node site104/tiktok-live/live-round.test.mjs

@@ -1,0 +1,24 @@
+import assert from 'node:assert/strict';
+import {LiveRound} from './live-round.mjs';
+import {assignPositions,validateWrittenAnswer} from './eyvah-adapter.mjs';
+
+const players=Array.from({length:11},(_,i)=>({id:'user-'+i,name:'Oyuncu '+i}));
+const positions=assignPositions(players,'user-0');
+assert.equal(positions.center.id,'user-0');
+assert.equal(positions.opponents.length,10);
+assert.deepEqual(positions.opponents.map(p=>p.number),[1,2,3,4,5,6,7,8,9,10]);
+assert.equal(validateWrittenAnswer('İSTANBUL',['İstanbul']).correct,true);
+assert.equal(validateWrittenAnswer('  istanbul! ',['İstanbul']).correct,true);
+assert.equal(validateWrittenAnswer('Ankara',['İstanbul']).correct,false);
+assert.throws(()=>new LiveRound({players:players.slice(0,10),questions:[{answer:'A'}]}));
+assert.throws(()=>new LiveRound({players:[...players.slice(0,10),players[0]],questions:[{answer:'A'}]}));
+const events=[];
+const round=new LiveRound({players,questions:[{answer:'A'},{answer:'B'}],onEvent:e=>events.push(e)});
+round.start('user-0');
+assert.equal(round.receiveComment({id:'1',userId:'user-1',text:'A'}),false);
+assert.equal(round.receiveComment({id:'2',userId:'user-0',text:'X'}),false);
+assert.equal(round.receiveComment({id:'3',userId:'user-0',text:'A'}),true);
+assert.equal(round.receiveComment({id:'3',userId:'user-0',text:'A'}),false);
+assert.equal(events.find(e=>e.type==='answer').correct,true);
+round.stop();
+console.log('TikTok LIVE isolated tests passed');

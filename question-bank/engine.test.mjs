@@ -1,0 +1,25 @@
+import {readFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+import {validateBank,selectQuestions,selectMilyonerRound,markSeen,difficultyForMilyoner} from './engine.js';
+const bank=JSON.parse(readFileSync(new URL('./questions.json',import.meta.url),'utf8'));
+const check=validateBank(bank);
+assert.equal(check.valid,true,check.errors.join('\n'));
+assert.equal(check.total,60);
+assert.equal(check.approved,0);
+const preview=selectQuestions(bank,{count:20,approvedOnly:false});
+assert.equal(preview.length,20);
+assert.equal(new Set(preview.map(q=>q.id)).size,20);
+for(const q of preview){const source=bank.questions.find(x=>x.id===q.id);assert.equal(q.options[q.answerIndex],source.options[source.answerIndex]);}
+assert.equal(selectQuestions(bank,{count:20}).length,0,'Taslak sorular canlıya çıkmamalı');
+assert.equal(selectQuestions(bank,{count:5,seenIds:bank.questions.map(q=>q.id),approvedOnly:false}).length,0);
+const plan=selectMilyonerRound(bank,{approvedOnly:false});
+assert.equal(plan.questions.length+plan.missing.length,15);
+assert.equal(new Set(plan.questions.map(q=>q.id)).size,plan.questions.length);
+assert.equal(difficultyForMilyoner(1),1);assert.equal(difficultyForMilyoner(6),2);assert.equal(difficultyForMilyoner(11),3);
+assert.throws(()=>difficultyForMilyoner(16));
+const memory=new Map();const storage={getItem:key=>memory.get(key)||null,setItem:(key,value)=>memory.set(key,value)};
+markSeen(storage,'seen','A',2);markSeen(storage,'seen','B',2);markSeen(storage,'seen','A',2);
+assert.deepEqual(JSON.parse(memory.get('seen')),['B','A']);
+const bad=structuredClone(bank);bad.questions[1].question=bad.questions[0].question;
+assert.equal(validateBank(bad).valid,false,'Aynı soru tespit edilmeli');
+console.log('Tüm kontroller geçti. Toplam:',check.total,'taslak, onaylı:',check.approved);

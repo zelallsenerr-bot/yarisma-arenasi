@@ -1,13 +1,13 @@
 {
   "index.html": {
-    "sha": "c24b56b1bdc9ec4de8df3f36869751094c4cead9",
-    "size": 6104,
-    "reason": "Reset game counters and count each browser once per game, with owner exclusion"
+    "sha": "c3a451d6e4f76ebe0ec952f3801605ff72aa5dcb",
+    "size": 6506,
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "app.js": {
-    "sha": "657b167518f6a306fba2a820a07ccb1521c8c115",
-    "size": 16301,
-    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+    "sha": "91e3d5373a921e0aad3cf806c25c4a67c0ad97bb",
+    "size": 16333,
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "privacy.html": {
     "sha": "59bb518aad8b16130ed3db259ecd564c05565296",
@@ -260,9 +260,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/index.html": {
-    "sha": "bda703085e75b036b6bb1784c97464e7719e2a6e",
+    "sha": "60531622e86dbf72609fa11746b1dcd45ab4bde2",
     "size": 5807,
-    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "games/milyonluk-resim/index.html": {
     "sha": "4b10d41f2b070347420a563da74ece1d4c6ef19a",
@@ -435,9 +435,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/app.js": {
-    "sha": "7d626e4fe9c9ebc5e2c62634a79931cf94dbd5b8",
-    "size": 19517,
-    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+    "sha": "0d8d215f45d25b505b7a09b58bae2bb71669d9ff",
+    "size": 20141,
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "games/milyoner-aile/engine.js": {
     "sha": "1f951f59a7c44a0be13ba6ef06ea5343f5b86849",
@@ -468,5 +468,10 @@
     "sha": "35cf23443851b94643661a7bcfb6491bff753e97",
     "size": 7222,
     "reason": "Replace active family videos with original Turkish speech, reviewed visual questions, bounded source intervals and score-preserving migration (578)"
+  },
+  "vitrine323.css": {
+    "sha": "4478e6ffda331eb928713818fd7b4cb096395460",
+    "size": 9866,
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   }
 }

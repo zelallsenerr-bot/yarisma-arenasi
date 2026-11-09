@@ -1,11 +1,11 @@
 {
   "index.html": {
-    "sha": "c3a451d6e4f76ebe0ec952f3801605ff72aa5dcb",
+    "sha": "204f5c27ea26be3916229d1c123829dcc9412814",
     "size": 6506,
     "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "app.js": {
-    "sha": "91e3d5373a921e0aad3cf806c25c4a67c0ad97bb",
+    "sha": "855df161983300bcb8881febbdf097e7735e99a7",
     "size": 16333,
     "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
@@ -260,7 +260,7 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/index.html": {
-    "sha": "60531622e86dbf72609fa11746b1dcd45ab4bde2",
+    "sha": "41779b661fee3f9cb2d1a103be0ccfc5805addaf",
     "size": 5807,
     "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
@@ -450,9 +450,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "studios211/integration.js": {
-    "sha": "f2c2af769e790271d9560550b5c0e9f7a55de56f",
-    "size": 4314,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "b4d4f6d3ed740d50d5499ee6ee5e29eb11d08187",
+    "size": 4330,
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "studios211/scene.js": {
     "sha": "42058829d7eb68e8386ffdffd91aee4ffcb48024",

@@ -98,5 +98,20 @@
     "sha": "0b88640d65032951386336700c2e6c1bba96676d",
     "size": 171328,
     "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+  },
+  "canli-milyoner.html": {
+    "sha": "4646893340cfe849541468e4afa9bf9a5638ea1e",
+    "size": 2175,
+    "reason": "Add opt-in Milyoner broadcast panel and TikFinity chat answer selection"
+  },
+  "canli-milyoner.css": {
+    "sha": "e84477526965388ca66da5da7646fab36ab20236",
+    "size": 1524,
+    "reason": "Add opt-in Milyoner broadcast panel and TikFinity chat answer selection"
+  },
+  "canli-milyoner.js": {
+    "sha": "73eaeb27883e8a5bfd09fe977c131c9e2e3a94d0",
+    "size": 4202,
+    "reason": "Add opt-in Milyoner broadcast panel and TikFinity chat answer selection"
   }
 }

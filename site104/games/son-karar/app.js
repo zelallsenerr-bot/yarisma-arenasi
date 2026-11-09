@@ -70,6 +70,19 @@ function confetti(){const layer=document.createElement('div');layer.className='c
 function stats(){let st=data.stats;let acc=st.answered?Math.round(st.correct/st.answered*100):0;openModal('Yarışma karnen',`<div class="stats-grid"><div class="stat"><b>${st.games}</b><span>Tamamlanan yarışma</span></div><div class="stat"><b>${tl(st.best)}</b><span>En yüksek ödül</span></div><div class="stat"><b>%${acc}</b><span>${st.answered} yanıtta doğruluk</span></div><div class="stat"><b>${st.jackpots}</b><span>Büyük ödül</span></div></div><h3>Tekrar bakabileceğin sorular</h3>${reviewHTML(st.mistakes.slice().reverse())}`);}
 function updateSound(){$('#soundButton').classList.toggle('on',data.sound);$('#soundButton').setAttribute('aria-label',data.sound?'Sesi kapat':'Müzik ve efektleri aç');$('#soundButton').textContent=data.sound?'♫':'♪';}
 app.addEventListener('click',e=>{let a=e.target.closest('[data-answer]');if(a&&s&&s.stage==='ask'&&!busy){let n=Number(a.dataset.answer);if(!s.removed.includes(n)&&!s.firstWrong.includes(n)){s.chosen=n;save();cue('select');renderGame();}return;}let j=e.target.closest('[data-joker]');if(j){help(j.dataset.joker);return;}let b=e.target.closest('[data-action]');if(!b)return;switch(b.dataset.action){case'new':start();break;case'continue':captureName();view='game';renderGame();musicStart();break;case'home':if(!busy){save();renderHome();}break;case'confirm':confirmAnswer();break;case'withdraw':withdraw();break;case'next':E.next(s);save();renderGame();if(s.stage==='ask')musicStart();break;case'rules':showRules();break;case'stats':stats();break;case'roundReview':openModal('Bu turun cevapları',`<div class="review-list">${s.history.map(h=>{let q=B.find(x=>x.id===h.id);return `<div class="review-item"><b>${h.correct?'✓':'×'} ${esc(window.ArenaQuestionText577?.text(q.question)||q.question)}</b><span class="right">${esc(q.options[q.answer])}</span><br>${esc(q.explanation)}</div>`;}).join('')}</div>`);break;}});
+if (window.parent !== window && new URLSearchParams(location.search).get('canli') === '1') {
+ window.ArenaMilyonerCanli = {
+  choose(letter) {
+   const index = letters.indexOf(letter);
+   if (index < 0 || paused || dialog.open || view !== 'game' || busy ||
+       s?.stage !== 'ask' || s.chosen !== null) return false;
+   const button = $(`[data-answer="${index}"]`);
+   if (!button || button.disabled) return false;
+   button.click();
+   return s.chosen === index;
+  }
+ };
+}
 $('#soundButton').onclick=()=>{data.sound=!data.sound;updateSound();save();if(data.sound){soundStart();cue('select');musicStart();}else{musicStop();if(audio)audio.suspend();}};
 $('#rulesButton').onclick=showRules;
 $('#homeButton').onclick=()=>{if(busy){toast('Son kararın açıklanıyor.');return;}if(view==='game'){openModal('Yarışma kaydedildi','<p>Ana menüye dönüp daha sonra kaldığın sorudan devam edebilirsin.</p>',[{label:'Devam et'},{label:'Ana menü',class:'primary',action:()=>{save();renderHome();}}]);}else renderHome();};

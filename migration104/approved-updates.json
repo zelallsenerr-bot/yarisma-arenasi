@@ -20,14 +20,14 @@
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "games/son-karar/app.js": {
-    "sha": "5be1187348e71190c1683f84318c1aff2260fbba",
-    "size": 52588,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "2b596d51f1d0570f6f0d318e9cf41753cb6b87e4",
+    "size": 53064,
+    "reason": "Add opt-in Milyoner broadcast panel and TikFinity chat answer selection"
   },
   "games/son-karar/index.html": {
-    "sha": "11137cccb84ab1ba253eec3344dc7e304a1a1381",
+    "sha": "ba678d7c7d6b9b5f49df71180d4be44325a4c9ea",
     "size": 6653,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Add opt-in Milyoner broadcast panel and TikFinity chat answer selection"
   },
   "online/index.html": {
     "sha": "b87e8ebe1650ef223a6dda107b08aaebb768ad80",

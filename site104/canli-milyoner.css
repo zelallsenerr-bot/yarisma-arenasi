@@ -1,0 +1,25 @@
+:root { color-scheme: dark; font: 16px/1.45 system-ui, sans-serif; background: #0e0a24; color: #f5edff; }
+* { box-sizing: border-box; }
+body { margin: 0; display: grid; grid-template-columns: minmax(260px, 320px) minmax(0, 1fr); min-height: 100dvh; }
+aside { padding: 20px; background: #20163b; border-right: 1px solid #574470; max-height: 100dvh; overflow: auto; }
+h1 { font-size: 1.4rem; margin: 16px 0 8px; }
+h2 { font-size: 1rem; margin: 0 0 6px; }
+p { margin: 6px 0 12px; overflow-wrap: anywhere; }
+section, details { padding: 14px 0; border-top: 1px solid #574470; }
+a, summary { color: #ffd688; }
+summary { cursor: pointer; }
+button { font: inherit; border: 1px solid #8e77ac; border-radius: 8px; padding: 8px 11px; background: #332350; color: inherit; cursor: pointer; }
+button:disabled { opacity: .55; cursor: default; }
+button:focus-visible, summary:focus-visible { outline: 2px solid #ffd688; outline-offset: 2px; }
+#connect { background: #f4cf85; color: #241636; font-weight: 700; }
+.controls { display: flex; gap: 7px; flex-wrap: wrap; margin: 7px 0; }
+#connection, #answer { color: #f1d49f; min-height: 1.45em; }
+#queue { padding-inline-start: 23px; max-height: 270px; overflow: auto; }
+#queue li { margin-bottom: 7px; }
+#queue button { text-align: left; overflow-wrap: anywhere; max-width: 100%; }
+iframe { width: 100%; height: 100dvh; border: 0; display: block; }
+@media (max-width: 720px) {
+  body { grid-template-columns: 1fr; }
+  aside { max-height: none; border-right: 0; }
+  iframe { height: 88dvh; }
+}

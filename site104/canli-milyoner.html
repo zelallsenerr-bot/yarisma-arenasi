@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Milyoner Canlı Yayın Paneli · Yarışma Arenası</title>
+<link rel="stylesheet" href="canli-milyoner.css?v=1">
+<script defer src="canli-milyoner.js?v=1"></script>
+</head>
+<body>
+<aside aria-labelledby="panel-title">
+  <a href="index.html">← Yarışma Arenası</a>
+  <h1 id="panel-title">Milyoner Canlı Yayın</h1>
+  <p>İzleyiciler sohbete <b>KATIL</b> yazar. Yarışmacıyı sen seçersin. Seçtiğin kişinin A/B/C/D yorumu şıkkı işaretler. Son kararı oyunda sen onaylarsın.</p>
+  <div class="controls">
+    <button id="connect" type="button">TikFinity’ye bağlan</button>
+    <button id="disconnect" type="button" disabled>Bağlantıyı kes</button>
+  </div>
+  <p id="connection" role="status">Windows’ta TikFinity Desktop’u yayınına bağla. Sonra bu paneli aynı bilgisayarda aç.</p>
+  <section aria-labelledby="player-title">
+    <h2 id="player-title">Yarışmacı</h2>
+    <p id="player" role="status">Henüz seçilmedi.</p>
+    <button id="release" type="button" disabled>Yarışmacıyı bırak</button>
+    <p id="answer" role="status"></p>
+  </section>
+  <section aria-labelledby="queue-title">
+    <h2 id="queue-title">Katılım sırası</h2>
+    <p id="queue-empty">Sohbete KATIL yazanlar burada görünür.</p>
+    <ol id="queue"></ol>
+    <button id="clear" type="button" disabled>Sırayı temizle</button>
+  </section>
+  <details id="demo">
+    <summary>Yayın açmadan prova</summary>
+    <p>Örnek kullanıcıyı sıradan seç, oyunda soru aç ve prova şıkkına bas.</p>
+    <button id="demo-join" type="button">Örnek KATIL</button>
+    <div id="demo-answers" class="controls">
+      <button type="button" data-letter="A">A</button>
+      <button type="button" data-letter="B">B</button>
+      <button type="button" data-letter="C">C</button>
+      <button type="button" data-letter="D">D</button>
+    </div>
+  </details>
+</aside>
+<main>
+  <iframe id="game" title="Kim Milyoner Olmak İster?" src="games/son-karar/index.html?canli=1" allow="autoplay; fullscreen"></iframe>
+</main>
+</body>
+</html>

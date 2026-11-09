@@ -28,7 +28,7 @@
  function render(data){
   if(!data||!data.summary||!Array.isArray(data.games)||!Array.isArray(data.daily))throw new Error('Invalid report');
   const s=data.summary;$('visitors').textContent=number(s.played_games);$('visits').textContent=number(s.visits);$('opens').textContent=number(s.game_opens);$('minutes').textContent='—';
-  $('periodText').textContent='Son '+data.days+' gün · Türkiye saati';$('empty').hidden=Number(s.visits)>0||Number(s.game_opens)>0;
+  $('periodText').textContent='Son '+data.days+' gün · Türkiye saati';$('empty').hidden=data.daily.some(row=>Number(row.visits)>0)||Number(s.game_opens)>0;
   const max=Math.max(1,...data.daily.map(x=>Number(x.visits)||0));$('daily').replaceChildren();
   for(const row of data.daily){const div=document.createElement('div');div.className='day';const date=document.createElement('span');date.textContent=String(row.day).slice(5).split('-').reverse().join('.');const bar=document.createElement('b');bar.style.width=(100*(Number(row.visits)||0)/max)+'%';const count=document.createElement('span');count.textContent=number(row.visits);div.append(date,bar,count);$('daily').appendChild(div)}
   $('games').replaceChildren();
@@ -38,7 +38,7 @@
  async function load(){
   if(!configured)return;if(!token||expires<=Date.now()){clearSession();say('Devam etmek için e-postanla giriş yap.');return}
   const seq=++loadNumber;$('refresh').disabled=true;$('range').disabled=true;say('İstatistikler yükleniyor…');
-  try{const data=await request('/rest/v1/rpc/arena_read_counts',{p_days:Number($('range').value)},true);if(seq!==loadNumber)return;render(data);await loadReports575(seq);if(seq!==loadNumber)return;$('loginPanel').hidden=true;$('dashboard').hidden=false;say('Rapor güncellendi. Yalnızca yetkili yönetici hesabına gösterilir.')}
+  try{const excluded=await window.ArenaMetrics?.excludeAdminBrowser(token);if(seq!==loadNumber)return;const data=await request('/rest/v1/rpc/arena_read_counts',{p_days:Number($('range').value)},true);if(seq!==loadNumber)return;render(data);await loadReports575(seq);if(seq!==loadNumber)return;$('loginPanel').hidden=true;$('dashboard').hidden=false;say(excluded?'Rapor güncellendi. Bu tarayıcı ziyaret sayısına dahil edilmez.':'Rapor güncellendi. Bu tarayıcının sayaçtan çıkarıldığı doğrulanamadı.')}
   catch(e){if(seq!==loadNumber)return;clearSession();say(e.status===401?'Oturum süresi doldu. Yeni giriş bağlantısı iste.':e.status===403?'Bu hesap raporları görmeye yetkili değil.':'Rapor alınamadı. Bağlantıyı kontrol edip yeniden giriş yap.')}
   finally{$('refresh').disabled=false;$('range').disabled=false}
  }

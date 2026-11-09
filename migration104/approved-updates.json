@@ -1,8 +1,8 @@
 {
   "index.html": {
-    "sha": "53f2f9524eba51ed8ae11b98abc8e095c886191d",
-    "size": 6103,
-    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+    "sha": "bfcb520f3e135b1567ec45a9a5bcdb89d1a4c133",
+    "size": 6098,
+    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
   },
   "app.js": {
     "sha": "657b167518f6a306fba2a820a07ccb1521c8c115",
@@ -10,9 +10,9 @@
     "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "privacy.html": {
-    "sha": "fd389be7dcf74187dbc019f283e611144bbe9e8e",
-    "size": 14468,
-    "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
+    "sha": "52158d9743794ac76777369de96df368e7dafbcc",
+    "size": 13925,
+    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
   },
   "arena-care-ui566.js": {
     "sha": "dbabbc47b957eefe42634e1554078669d6ca1784",

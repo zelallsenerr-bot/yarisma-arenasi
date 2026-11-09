@@ -5,14 +5,14 @@
     "reason": "Enable consented web statistics after owner verification and approved daily 90-day retention"
   },
   "metrics.js": {
-    "sha": "3b590dd4ffc8a27336f600bfd239f115ee90d5dc",
-    "size": 1757,
-    "reason": "Identifier-free daily visit/game totals; no automatic permission prompt or new persistent IDs"
+    "sha": "9f400d1ffcb9ae321b69fe8fe8aefd075a1daa09",
+    "size": 3360,
+    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
   },
   "yonetici.html": {
-    "sha": "c153977ad89ec509ce21529b882aaa5a875d95f9",
-    "size": 4652,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "a705ebbeefa9e163939b49bb3cb646b4f7a0720d",
+    "size": 4733,
+    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
   },
   "yonetici.css": {
     "sha": "3c55abf0fcf0518aa0f80b994c97c6cae23c8378",
@@ -20,9 +20,9 @@
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "yonetici.js": {
-    "sha": "f97f3280c4e3705bb6f2b351c4656bcc2647af1d",
-    "size": 10451,
-    "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
+    "sha": "64925d35097625713e6634569ea48e3d075b9648",
+    "size": 10662,
+    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
   },
   "discovery574.css": {
     "sha": "c6d677f223c834113c5172a4f68a01b847161ca4",

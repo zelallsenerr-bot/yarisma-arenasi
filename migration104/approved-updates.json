@@ -1,8 +1,8 @@
 {
   "index.html": {
-    "sha": "bfcb520f3e135b1567ec45a9a5bcdb89d1a4c133",
-    "size": 6098,
-    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
+    "sha": "c24b56b1bdc9ec4de8df3f36869751094c4cead9",
+    "size": 6104,
+    "reason": "Reset game counters and count each browser once per game, with owner exclusion"
   },
   "app.js": {
     "sha": "657b167518f6a306fba2a820a07ccb1521c8c115",
@@ -10,9 +10,9 @@
     "reason": "100 independent Turkish video topics, one question per original, balanced non-repeating rounds, clean source-free game UI and progress-preserving migration (579)"
   },
   "privacy.html": {
-    "sha": "52158d9743794ac76777369de96df368e7dafbcc",
-    "size": 13925,
-    "reason": "Count each browser once from a fresh ledger and exclude authenticated owner browsers from visits"
+    "sha": "59bb518aad8b16130ed3db259ecd564c05565296",
+    "size": 13967,
+    "reason": "Reset game counters and count each browser once per game, with owner exclusion"
   },
   "arena-care-ui566.js": {
     "sha": "dbabbc47b957eefe42634e1554078669d6ca1784",

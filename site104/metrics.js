@@ -44,13 +44,13 @@
     return response.ok;
   }
 
-  async function recordVisit() {
+  async function recordBrowserActivity(name, fields = {}) {
     if (!configured || blocked()) return;
     const id = await browserId();
     if (!id) return;
     try {
       if (localStorage.getItem(excludedKey) === id) return;
-      await rpc('arena_record_browser_visit', { p_browser_id: id });
+      await rpc(name, { p_browser_id: id, ...fields });
     } catch (_) {}
   }
 
@@ -70,12 +70,13 @@
     const game = (window.ARENA_GAMES || []).find(g => g.id === candidate?.id);
     if (!game || current === game.id) return;
     current = game.id;
-    if (configured && !blocked()) rpc('arena_record_count', { p_kind: 'game_open', p_game_id: game.id }).catch(() => {});
+    recordBrowserActivity('arena_record_browser_game', { p_game_id: game.id });
   }
 
   window.ArenaMetrics = Object.freeze({ gameLoaded, excludeAdminBrowser,
     leave() { current = null; }, get configured() { return configured; } });
   if (!isAdmin) {
+    const recordVisit = () => recordBrowserActivity('arena_record_browser_visit');
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', recordVisit, { once: true });
     else recordVisit();
   }

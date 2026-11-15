@@ -1,8 +1,8 @@
 {
   "index.html": {
-    "sha": "204f5c27ea26be3916229d1c123829dcc9412814",
+    "sha": "1318c2eb81421032750a731b6e1fb555a24e306a",
     "size": 6506,
-    "reason": "Simplify mobile play modes and recover from slow game or video loads"
+    "reason": "Restore the Anlaşma card cover with matching gold and purple studio artwork"
   },
   "app.js": {
     "sha": "855df161983300bcb8881febbdf097e7735e99a7",
@@ -600,8 +600,13 @@
     "reason": "Improve mobile Harf Çemberi controls and letter status visibility"
   },
   "assets/covers400/anlasma.webp": {
-    "sha": "a8f514f9fe1397a395fc327e98db789e423200c7",
-    "size": 43040,
-    "reason": "Restore the empty Anlaşma cover using the existing programme artwork"
+    "sha": "0834583e70653090bc3b443f858866a0ab266486",
+    "size": 82268,
+    "reason": "Restore the Anlaşma card cover with matching gold and purple studio artwork"
+  },
+  "catalog.js": {
+    "sha": "1d09da5db9dff6c73d469efd9c782afea466851a",
+    "size": 55888,
+    "reason": "Restore the Anlaşma card cover with matching gold and purple studio artwork"
   }
 }

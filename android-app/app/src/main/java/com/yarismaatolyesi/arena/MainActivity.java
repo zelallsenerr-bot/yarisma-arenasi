@@ -1,8 +1,10 @@
 package com.yarismaatolyesi.arena;
 
 import android.app.Activity;
+import java.io.IOException;
+import java.io.ByteArrayInputStream;
+import java.util.Collections;
 import android.app.AlertDialog;
-import android.content.Intent;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
@@ -13,7 +15,8 @@ import android.webkit.*;
 import android.widget.*;
 
 public class MainActivity extends Activity {
- private static final String HOME = "https://yarismaatolyesi.com/";
+ private static final String HOST = "appassets.androidplatform.net";
+ private static final String HOME = "https://" + HOST + "/";
  private WebView web;
  private FrameLayout root;
  private LinearLayout error;
@@ -51,20 +54,27 @@ public class MainActivity extends Activity {
   error = new LinearLayout(this); error.setOrientation(LinearLayout.VERTICAL);
   error.setGravity(android.view.Gravity.CENTER); error.setPadding(40,40,40,40);
   error.setBackgroundColor(Color.rgb(23,16,47));
-  TextView title = new TextView(this); title.setText("Bağlantı kurulamadı"); title.setTextColor(Color.WHITE); title.setTextSize(23);
-  TextView hint = new TextView(this); hint.setText("İnternet bağlantını kontrol edip yeniden dene."); hint.setTextColor(Color.LTGRAY); hint.setPadding(0,24,0,32);
+  TextView title = new TextView(this); title.setText("Oyun açılamadı"); title.setTextColor(Color.WHITE); title.setTextSize(23);
+  TextView hint = new TextView(this); hint.setText("Oyun dosyası açılamadı. Yeniden dene."); hint.setTextColor(Color.LTGRAY); hint.setPadding(0,24,0,32);
   Button retry = new Button(this); retry.setText("Yeniden dene"); retry.setOnClickListener(v -> web.loadUrl(HOME));
   error.addView(title); error.addView(hint); error.addView(retry);
   root.addView(error,new FrameLayout.LayoutParams(-1,-1)); error.setVisibility(View.GONE);
   web.setWebViewClient(new WebViewClient() {
-   @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest req) {
-    Uri uri=req.getUrl();
-    if ("https".equals(uri.getScheme()) && ("yarismaatolyesi.com".equals(uri.getHost()) || "www.yarismaatolyesi.com".equals(uri.getHost()))) return false;
-    if (!req.isForMainFrame()) return false;
-    if ("https".equals(uri.getScheme()) || "http".equals(uri.getScheme()) || "mailto".equals(uri.getScheme()) || "tel".equals(uri.getScheme())) {
-     try { startActivity(new Intent(Intent.ACTION_VIEW,uri)); } catch (android.content.ActivityNotFoundException ignored) { Toast.makeText(MainActivity.this,"Bağlantıyı açacak uygulama bulunamadı.",Toast.LENGTH_SHORT).show(); }
+   @Override public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
+    Uri uri = request.getUrl();
+    if (!isGameOrigin(uri)) return missingAsset();
+    String path = uri.getPath();
+    if ("/".equals(path)) path = "/index.html";
+    if (path == null || !path.matches("/[a-z]+[.](html|css|js)")) return missingAsset();
+    String mime = path.endsWith(".js") ? "text/javascript" : path.endsWith(".css") ? "text/css" : "text/html";
+    try {
+     return new WebResourceResponse(mime, "UTF-8", getAssets().open(path.substring(1)));
+    } catch (IOException error) {
+     return missingAsset();
     }
-    return true;
+   }
+   @Override public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest req) {
+    return !isGameOrigin(req.getUrl());
    }
    @Override public void onPageStarted(WebView view,String url,android.graphics.Bitmap icon) { failed=false; error.setVisibility(View.GONE); progress.setVisibility(View.VISIBLE); }
    @Override public void onPageFinished(WebView view,String url) { progress.setVisibility(View.GONE); if(!failed) error.setVisibility(View.GONE); }
@@ -86,6 +96,13 @@ public class MainActivity extends Activity {
   }
   if(state==null || web.restoreState(state)==null) web.loadUrl(HOME);
  }
+ private static boolean isGameOrigin(Uri uri) {
+  return "https".equals(uri.getScheme()) && HOST.equals(uri.getHost()) && uri.getPort() == -1;
+ }
+ private static WebResourceResponse missingAsset() {
+  return new WebResourceResponse("text/plain", "UTF-8", 404, "Not Found",
+   Collections.emptyMap(), new ByteArrayInputStream(new byte[0]));
+ }
  private void showError() { failed=true; progress.setVisibility(View.GONE); error.setVisibility(View.VISIBLE); }
  private void closeFullscreen() {
   if(fullscreen==null) return;
@@ -97,7 +114,7 @@ public class MainActivity extends Activity {
  private void handleBack() {
   if(fullscreen!=null) { closeFullscreen(); return; }
   if(web.canGoBack()) { web.goBack(); return; }
-  new AlertDialog.Builder(this).setMessage("Yarışma Arenası kapatılsın mı?").setPositiveButton("Çık",(d,w)->finish()).setNegativeButton("Devam et",null).show();
+  new AlertDialog.Builder(this).setMessage("Yarışma Atölyesi kapatılsın mı?").setPositiveButton("Çık",(d,w)->finish()).setNegativeButton("Devam et",null).show();
  }
  @Override protected void onSaveInstanceState(Bundle state) { web.saveState(state); super.onSaveInstanceState(state); }
  @Override protected void onPause() { web.onPause(); super.onPause(); }

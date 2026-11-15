@@ -29,7 +29,55 @@ function type(s,text){if(s.phase!=='duel'||s.duel.turn!=='you')return;s.duel.dra
 function submit(s,clues,text){if(s.phase!=='duel'||s.duel.turn!=='you')throw Error('Sıra sende değil');let d=s.duel,c=current(s,clues);d.typing=false;if(accepted(c,text)){d.youCorrect++;nextClue(s,clues);d.turn='bot';prepareBot(s);return {correct:true,answer:c.answer};}d.youWrong++;return {correct:false};}
 function pass(s,clues){if(s.phase!=='duel'||s.duel.turn!=='you')throw Error('Şimdi pas geçemezsin');let d=s.duel,c=current(s,clues);d.typing=false;d.youPass++;d.youMs=Math.max(0,d.youMs-3000);if(d.youMs===0)finish(s,false);else nextClue(s,clues);return c.answer;}
 function tick(s,clues,delta){let events=[];if(s.phase!=='duel'||!Number.isFinite(delta)||delta<=0)return events;let remaining=delta,guard=0;while(remaining>0&&s.phase==='duel'&&guard++<100){let d=s.duel;if(d.turn==='you'){if(d.typing)break;let time=Math.min(remaining,d.youMs);d.youMs-=time;remaining-=time;if(d.youMs<=0){finish(s,false);events.push({type:'lost'});}break;}let step=Math.min(remaining,d.botWait,d.botMs);d.botMs-=step;d.botWait-=step;remaining-=step;if(d.botMs<=0){finish(s,true);events.push({type:'won'});break;}if(d.botWait<=.001){let c=current(s,clues);if(d.botAction==='correct'){d.botCorrect++;events.push({type:'botCorrect',answer:c.answer});nextClue(s,clues);d.turn='you';}else if(d.botAction==='pass'){d.botPass++;d.botMs=Math.max(0,d.botMs-3000);events.push({type:'botPass',answer:c.answer});if(d.botMs===0){finish(s,true);break;}nextClue(s,clues);prepareBot(s);}else{d.botWrong++;events.push({type:'botWrong'});prepareBot(s);}}}return events;}
-function world(s,clues,limit=6){if(s.phase!=='victory'&&s.phase!=='choose')throw Error('Şimdi kura çekilemez');s.phase='world';let news=[];for(let i=0;i<limit;i++){let people=alive(s);if(people.length<=1){s.phase='champion';return news;}let a=people[Math.floor(rand(s)*people.length)].id;if(a===0){s.phase='choose';return news;}let neighbors=borders(s,a),b=neighbors[Math.floor(rand(s)*neighbors.length)];if(b===0){begin(s,clues,a,0);return news;}let advantage=.48+(s.players[a].skill-s.players[b].skill)*.28,w=rand(s)<advantage?a:b,l=w===a?b:a;news.push(merge(s,w,l,s.players[b].category));}s.phase='choose';return news;}
-function valid(s,categories,clues){try{if(!s||s.version!==1||!['easy','normal','hard'].includes(s.difficulty)||!['start','choose','ready','duel','victory','champion','eliminated'].includes(s.phase)||!Array.isArray(s.floor)||s.floor.length!==100||!s.floor.every(n=>Number.isInteger(n)&&n>=0&&n<100)||!Array.isArray(s.players)||s.players.length!==100||!Array.isArray(s.history)||s.history.length>99||!Number.isFinite(s.seed)||!Number.isFinite(s.bonus)||!s.seen||!Array.isArray(s.dayReports))return false;for(let p of s.players)if(!categories.some(c=>c.id===p.category)||Boolean(area(s,p.id))!==p.alive)return false;if(['ready','duel'].includes(s.phase)){let d=s.duel;if(!d||!['you','bot'].includes(d.turn)||d.youMs<0||d.youMs>45000||d.botMs<0||d.botMs>45000||!Array.isArray(d.deck)||!d.deck.length||!Number.isInteger(d.position)||d.position<0||d.position>=d.deck.length||!d.deck.every(id=>clues.some(c=>c.id===id&&c.category===d.category))||!borders(s,d.attacker).includes(d.defender))return false;}return true;}catch{return false;}}
-const api={rand,create,area,alive,borders,place,leaders,merge,begin,current,start,submit,type,pass,tick,world,normalize,accepted,valid,contentKey570,deck570};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.FloorEngine=api;
+function world(s,clues,limit=6){if(s.phase!=='victory'&&s.phase!=='choose')throw Error('Şimdi kura çekilemez');s.phase='world';let news=[];for(let i=0;i<limit;i++){let people=alive(s);if(people.length<=1){s.phase='champion';return news;}if(people.length===3&&s.players[0].alive){s.phase='choose';return news;}let a=people[Math.floor(rand(s)*people.length)].id;if(a===0){s.phase='choose';return news;}let neighbors=borders(s,a),b=neighbors[Math.floor(rand(s)*neighbors.length)];if(b===0){begin(s,clues,a,0);return news;}let advantage=.48+(s.players[a].skill-s.players[b].skill)*.28,w=rand(s)<advantage?a:b,l=w===a?b:a;news.push(merge(s,w,l,s.players[b].category));}s.phase='choose';return news;}
+const finalDuration=120000;
+function startFinal(s,clues){
+ if(!['choose','victory'].includes(s.phase)||!s.players[0].alive||alive(s).length!==3)return false;
+ const finalists=leaders(s);
+ const ordered=shuffle(s,clues).sort((a,b)=>Number(finalists.some(p=>s.players[p.id].category===b.category))-Number(finalists.some(p=>s.players[p.id].category===a.category)));
+ const unique=new Map();
+ for(const clue of ordered){const key=contentKey570(clue);if(key&&!unique.has(key))unique.set(key,clue.id);}
+ if(!unique.size)return false;
+ s.final={ids:[0,...finalists.filter(p=>p.id!==0).map(p=>p.id)],areas:finalists.map(p=>[p.id,p.area]),scores:[0,0,0],turn:0,deck:[...unique.values()],position:0,left:finalDuration,botWait:0,winner:null};
+ s.phase='final';
+ return true;
+}
+function finalClue(s,clues){return clues.find(clue=>clue.id===s.final.deck[s.final.position]);}
+function finishFinal(s){
+ const f=s.final,areas=new Map(f.areas);
+ const rank=f.ids.map((id,index)=>({id,score:f.scores[index]})).sort((a,b)=>b.score-a.score||areas.get(b.id)-areas.get(a.id)||a.id-b.id);
+ f.winner=rank[0].id;
+ s.floor=s.floor.map(()=>f.winner);
+ for(const id of f.ids)if(id!==f.winner)s.players[id].alive=false;
+ s.phase=f.winner===0?'champion':'eliminated';
+}
+function nextFinal(s,correct){
+ const f=s.final;
+ if(correct)f.scores[f.turn]++;
+ f.position++;
+ if(f.position===f.deck.length){finishFinal(s);return;}
+ f.turn=(f.turn+1)%f.ids.length;
+ f.botWait=f.turn===0?0:2200+rand(s)*1800;
+}
+function finalAnswer(s,clues,text,skip=false){
+ if(s.phase!=='final'||s.final.turn!==0)return null;
+ if(!skip&&!normalize(text))return null;
+ const clue=finalClue(s,clues);
+ const correct=!skip&&accepted(clue,text);
+ nextFinal(s,correct);
+ return {correct,answer:clue.answer};
+}
+function finalTick(s,delta){
+ if(s.phase!=='final'||!Number.isFinite(delta)||delta<=0)return;
+ const f=s.final;
+ f.left=Math.max(0,f.left-delta);
+ if(!f.left){finishFinal(s);return;}
+ if(f.turn===0)return;
+ f.botWait-=delta;
+ if(f.botWait>0)return;
+ const rival=s.players[f.ids[f.turn]],base=s.difficulty==='easy'?.48:s.difficulty==='hard'?.72:.60;
+ nextFinal(s,rand(s)<base+rival.skill*.12);
+}
+function valid(s,categories,clues){try{if(!s||s.version!==1||!['easy','normal','hard'].includes(s.difficulty)||!['start','choose','ready','duel','victory','final','champion','eliminated'].includes(s.phase)||!Array.isArray(s.floor)||s.floor.length!==100||!s.floor.every(n=>Number.isInteger(n)&&n>=0&&n<100)||!Array.isArray(s.players)||s.players.length!==100||!Array.isArray(s.history)||s.history.length>99||!Number.isFinite(s.seed)||!Number.isFinite(s.bonus)||!s.seen||!Array.isArray(s.dayReports))return false;for(let p of s.players)if(!categories.some(c=>c.id===p.category)||Boolean(area(s,p.id))!==p.alive)return false;if(s.phase==='final'){const f=s.final;if(!f||f.ids.length!==3||f.ids[0]!==0||new Set(f.ids).size!==3||!f.ids.every(id=>s.players[id]?.alive)||!Array.isArray(f.areas)||!Array.isArray(f.scores)||f.scores.length!==3||!Number.isFinite(f.left)||f.left<=0||f.left>finalDuration||![0,1,2].includes(f.turn)||!Number.isInteger(f.position)||f.position<0||!Array.isArray(f.deck)||f.position>=f.deck.length||!f.deck.every(id=>clues.some(c=>c.id===id)))return false;}if(['ready','duel'].includes(s.phase)){let d=s.duel;if(!d||!['you','bot'].includes(d.turn)||d.youMs<0||d.youMs>45000||d.botMs<0||d.botMs>45000||!Array.isArray(d.deck)||!d.deck.length||!Number.isInteger(d.position)||d.position<0||d.position>=d.deck.length||!d.deck.every(id=>clues.some(c=>c.id===id&&c.category===d.category))||!borders(s,d.attacker).includes(d.defender))return false;}return true;}catch{return false;}}
+const api={rand,create,area,alive,borders,place,leaders,merge,begin,current,start,submit,type,pass,tick,world,normalize,accepted,valid,contentKey570,deck570,startFinal,finalClue,finalAnswer,finalTick};if(typeof module!=='undefined'&&module.exports)module.exports=api;else root.FloorEngine=api;
 })(typeof window==='undefined'?globalThis:window);

@@ -50,9 +50,9 @@
     "reason": "Improve Family Feud buzzer and current answer turn display"
   },
   "games/alan-hakimi/index.html": {
-    "sha": "7c86f0e6892ee2235d03ea519109ac9ae93fe108",
-    "size": 5758,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "5b629e6dff0fcc8221b01e04e8d86048b7df02bb",
+    "size": 5745,
+    "reason": "Add a timed three-contestant Alan final with unique questions"
   },
   "games/altin-petek/index.html": {
     "sha": "85e0fb30cf0eab5ab1650620b86ba18a842e9ff3",
@@ -523,5 +523,20 @@
     "sha": "aaf17e9894fda635b0c0b46537b44c09b8da2919",
     "size": 10450,
     "reason": "Improve Family Feud buzzer and current answer turn display"
+  },
+  "games/alan-hakimi/app.js": {
+    "sha": "7e9972416795ef270b24eb767ed895b119680605",
+    "size": 36084,
+    "reason": "Add a timed three-contestant Alan final with unique questions"
+  },
+  "games/alan-hakimi/engine.js": {
+    "sha": "acc8b04e1c4d8def95b4c7054c92e785293d9baf",
+    "size": 14558,
+    "reason": "Add a timed three-contestant Alan final with unique questions"
+  },
+  "games/alan-hakimi/style.css": {
+    "sha": "8dc4cc39c4dc7b416dd6a9581d8e06e0452e0202",
+    "size": 29920,
+    "reason": "Add a timed three-contestant Alan final with unique questions"
   }
 }

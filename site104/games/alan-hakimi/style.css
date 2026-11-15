@@ -10,3 +10,16 @@
 .floor-board .tile.neighbor{box-shadow:inset 0 0 0 2px var(--rival353,#ffca65);background-image:repeating-linear-gradient(135deg,transparent 0 9px,#ffffff10 9px 12px)}.floor-board .tile.neighbor.selected{box-shadow:inset 0 0 0 3px #fff2bd,0 0 15px #ffdc7d77}.floor-board .tile .cell-number{font-size:clamp(13px,2vw,22px)!important;line-height:1;color:#fff!important;font-weight:800;text-shadow:0 1px 3px #000}.neighbor-card{border:2px solid var(--rival353,#8aa)!important;background:#162641!important}.neighbor-numbers353{font-size:22px;line-height:1.5;color:var(--rival353)!important;display:block;overflow-wrap:anywhere}.neighbor-card.selected{outline:3px solid #fff0be;outline-offset:2px}.rival-squares353{color:#f1e6b7!important;line-height:1.7;font-size:16px}.typing-paused353{outline:2px solid #8febd3}.typing-paused353 .time{color:#8febd3!important}#typingStatus353{font-size:13px;color:#b7f2e3!important;font-weight:700}.location328 span{overflow-wrap:anywhere}
 @media(max-width:500px){.neighbor-numbers353{font-size:19px}.floor-board .tile .cell-number{font-size:14px!important}.floor-board .tile{min-height:36px!important}.clue-top{gap:10px;flex-wrap:wrap}}
 .chess-puzzle353{width:min(330px,100%);margin:auto}.chess-puzzle353 svg{width:100%;max-height:32dvh;display:block}.clue-picture:has(.chess-puzzle353){display:block;padding:15px!important}.chess-prompt353{font-size:clamp(15px,2vw,20px);line-height:1.5;color:#fff!important;margin:8px auto;max-width:600px}
+
+.final585{max-width:840px;margin-inline:auto}
+.finalists585{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(5px,2vw,16px);margin:12px auto;max-width:720px}
+.finalist585{min-width:0;display:grid;justify-items:center;align-content:start;gap:4px;text-align:center;padding:7px 3px;border:2px solid #465c69;border-radius:12px;background:#132735;color:#f9faff;overflow-wrap:anywhere}
+.finalist585.active585{border-color:#87f0cd;background:#14453f}
+.finalist585 strong{font-size:clamp(.78rem,2.9vw,1.06rem)}
+.finalist585 small{color:#cbdde4}
+.final-avatar585{width:74%;max-width:100px;height:clamp(48px,14vw,90px);overflow:hidden}
+.final-avatar585 img,.final-avatar585 svg{display:block;width:100%;height:100%;object-fit:contain}
+.final-clock585{font-size:clamp(2.6rem,9vw,4.8rem);font-weight:850;font-variant-numeric:tabular-nums;text-align:center;line-height:1.12;color:#fff}
+.final-turn585,.final-note585{text-align:center}
+.final-turn585{margin:6px 0 14px;color:#9af5d6;font-size:clamp(1.1rem,4vw,1.5rem)}
+.final585 .pass{margin:8px auto 12px;min-height:44px}

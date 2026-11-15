@@ -598,5 +598,10 @@
     "sha": "8e07f8308087dadc7361503ae94871b3bee631f8",
     "size": 13536,
     "reason": "Improve mobile Harf Çemberi controls and letter status visibility"
+  },
+  "assets/covers400/anlasma.webp": {
+    "sha": "a8f514f9fe1397a395fc327e98db789e423200c7",
+    "size": 43040,
+    "reason": "Restore the empty Anlaşma cover using the existing programme artwork"
   }
 }

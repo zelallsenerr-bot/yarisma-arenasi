@@ -75,9 +75,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/arkandayiz/index.html": {
-    "sha": "8b498fbdfe0c6dac7bfbc5bf35fa7dc74cf73bdb",
+    "sha": "8c33be9225b5b59dfaf913eedb0096050a448a2f",
     "size": 5365,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
+    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/bak-su-duvara/index.html": {
     "sha": "4bb52282191efc370297b0a7ef3669714cb088bd",
@@ -170,9 +170,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/harf-cemberi/index.html": {
-    "sha": "b655cf8f51ea7282342e3681d452d0859da9245b",
-    "size": 5484,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "199ea007530330fbac427f622b420f26e6349ef1",
+    "size": 5490,
+    "reason": "Improve mobile Harf Çemberi controls and letter status visibility"
   },
   "games/hepsi-benim/index.html": {
     "sha": "194781311060ce90db8d8efac1fde892c39b165b",
@@ -569,24 +569,14 @@
     "size": 3071,
     "reason": "Bring the Gönder Gitsin cast together and prioritize questions on phones"
   },
-  "games/arkandayiz/platform517.css": {
-    "sha": "849c30ebcaa0d68bb094d8cdd27f14a01c8077de",
-    "size": 1138,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
+  "games/harf-cemberi/style.css": {
+    "sha": "2b90696a66fa93743ae0f5c3ab3bc835af2a47ab",
+    "size": 10022,
+    "reason": "Improve mobile Harf Çemberi controls and letter status visibility"
   },
-  "games/arkandayiz/platform.css": {
-    "sha": "cf100cb6a7c00c37fe05d80aebde5d3ef41ba66c",
-    "size": 7522,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
-  },
-  "games/arkandayiz/platform.js": {
-    "sha": "63fb6710c9c142c6493c7cad4684531cffcd0dc8",
-    "size": 3787,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
-  },
-  "games/arkandayiz/platform519.css": {
-    "sha": "edf7be9cc5734addae6c8aeaaa0775dfad23975d",
-    "size": 2131,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
+  "games/harf-cemberi/app.js": {
+    "sha": "8e07f8308087dadc7361503ae94871b3bee631f8",
+    "size": 13536,
+    "reason": "Improve mobile Harf Çemberi controls and letter status visibility"
   }
 }

@@ -45,9 +45,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/aile-meydani/index.html": {
-    "sha": "bd8e069aab88cc701a45231b3b57b2d36d6cf24b",
-    "size": 5334,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "eaf403522d8b85fd7915bb748bb87403c92ca990",
+    "size": 5340,
+    "reason": "Improve Family Feud buzzer and current answer turn display"
   },
   "games/alan-hakimi/index.html": {
     "sha": "7c86f0e6892ee2235d03ea519109ac9ae93fe108",
@@ -513,5 +513,15 @@
     "sha": "c298cd10acdc6426068ea3e381afe1fede83a4e1",
     "size": 16704,
     "reason": "Improve contestant selection and two-player decision framing"
+  },
+  "games/aile-meydani/app.js": {
+    "sha": "82e3f7b03a9caca2b234201324252857c9f519d8",
+    "size": 25817,
+    "reason": "Improve Family Feud buzzer and current answer turn display"
+  },
+  "games/aile-meydani/style.css": {
+    "sha": "aaf17e9894fda635b0c0b46537b44c09b8da2919",
+    "size": 10450,
+    "reason": "Improve Family Feud buzzer and current answer turn display"
   }
 }

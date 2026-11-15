@@ -110,9 +110,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/cevap-soruda/index.html": {
-    "sha": "9d4524dd7e919ea39b95bc3993f81fc3cc01b0ae",
+    "sha": "aa6e0e0e96b53fea2fbfc65aae644f6d505f61a7",
     "size": 5496,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Show the Cevap Soruda presenter and answer review on the question screen"
   },
   "games/cifte-milyon/index.html": {
     "sha": "1a6b34e78d370139a48d3db6a216461ef6f6fdba",
@@ -548,5 +548,15 @@
     "sha": "b61c584d6a5f889faf41035de185d1d61ba5b68f",
     "size": 10892,
     "reason": "Make joker effects and spent states clear on the question screen"
+  },
+  "games/cevap-soruda/app.js": {
+    "sha": "c84c4f884f094af7253b186ad9221c2f1825fdb0",
+    "size": 13283,
+    "reason": "Show the Cevap Soruda presenter and answer review on the question screen"
+  },
+  "games/cevap-soruda/style.css": {
+    "sha": "3fefeef4205f1fdcb7353692d2f1e5cca5b31cf8",
+    "size": 8986,
+    "reason": "Show the Cevap Soruda presenter and answer review on the question screen"
   }
 }

@@ -7,3 +7,18 @@ html[data-arena-game="cevap-soruda"] body .intro>img.programme.programme-photo33
 
 /* User-supplied Ersin Düzen programme photo, preserved without cropping. */
 html[data-arena-game="cevap-soruda"] body .intro>img.programme.programme-photo331{aspect-ratio:596/335!important;object-fit:contain!important;height:auto!important}
+
+.question-host587{display:flex;align-items:center;gap:12px;margin:0 0 14px;padding:8px 12px;border:1px solid #6b92c4;border-radius:12px;background:#193562;color:#f5faff}
+.question-host587 small,.question-host587 strong{display:block}
+.question-host587 small{color:#b9d9ff}
+.question-host-portrait587{display:grid;place-items:center;flex:0 0 60px;height:60px;overflow:hidden;border-radius:9px;background:#132744;color:#e1f6ff;font-weight:750}
+.question-host-portrait587 svg{display:block;width:100%;height:100%}
+.review-question587{font-weight:650}
+.question-screen587 .answer-reveal p{margin:.5em 0 0;text-align:left;line-height:1.5}
+@media(max-width:600px){
+ #app:has(>.question-screen587)>.cevap-platform-v67{display:none}
+ #app:has(>.question-screen587)>.podiums{margin:8px 0;gap:5px}
+ .question-screen587 .question-host587{margin-bottom:10px}
+ .question-host-portrait587{flex-basis:46px;height:46px}
+ .question-screen587 .answer-actions button{min-height:44px}
+}

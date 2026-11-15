@@ -150,9 +150,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/gonder-gitsin/index.html": {
-    "sha": "18c19f9cf976aa2a3cea5ab953dc2d01695930c6",
+    "sha": "ee727cc3d78c5e59c481a599d592f88ddf65fba2",
     "size": 5153,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Bring the Gönder Gitsin cast together and prioritize questions on phones"
   },
   "games/goz6/index.html": {
     "sha": "20bfc2867dc81217c22f46b1facd4ffcc957186d",
@@ -558,5 +558,15 @@
     "sha": "3fefeef4205f1fdcb7353692d2f1e5cca5b31cf8",
     "size": 8986,
     "reason": "Show the Cevap Soruda presenter and answer review on the question screen"
+  },
+  "games/gonder-gitsin/platform.js": {
+    "sha": "8113a5d0c06310a359aeaeb11b5a87556f8b1976",
+    "size": 4358,
+    "reason": "Bring the Gönder Gitsin cast together and prioritize questions on phones"
+  },
+  "games/gonder-gitsin/platform519.css": {
+    "sha": "0dbbc268f054120899d546a5ad0b67b4dfe5b81e",
+    "size": 3071,
+    "reason": "Bring the Gönder Gitsin cast together and prioritize questions on phones"
   }
 }

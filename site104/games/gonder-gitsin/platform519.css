@@ -4,3 +4,22 @@ html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-hos
 html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-desk-v67{left:48%!important;right:33%!important;top:65%!important;height:7%!important}
 html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 :is(.gonder-player-v67,.gonder-rival435)>strong{max-width:95%!important;font-size:clamp(6px,.9vw,10px)!important;line-height:1.1!important;padding:3px!important;min-height:22px}
 html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-rival435>strong{top:110%!important}
+
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-host-v67{left:32%!important;width:12%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-player-v67{left:44%!important;width:12%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-rival435{left:56%!important;width:12%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-desk-v67{left:42%!important;right:30%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 :is(.gonder-player-v67,.gonder-rival435)>strong{top:100%!important}
+html[data-arena-game="gonder-gitsin"] body #app .gonder-answering588 .gonder-player-v67>strong{background:#153e34!important;outline:2px solid #9dfce0}
+.gonder-turn588{display:block;margin-top:2px;color:#b2ffe7;font-size:clamp(8px,1.1vw,12px);font-weight:800}
+@media(max-width:700px){
+ html[data-arena-game="gonder-gitsin"] body #app:has(>.gonder-platform-v67):not(.g-paused){display:flex;flex-direction:column;min-width:0}
+ html[data-arena-game="gonder-gitsin"] body #app:has(>.gonder-platform-v67):not(.g-paused)>.g-stage{display:contents}
+ html[data-arena-game="gonder-gitsin"] body #app:has(>.gonder-platform-v67):not(.g-paused)>.g-stage>.g-play{order:-1;min-width:0}
+ html[data-arena-game="gonder-gitsin"] body #app:has(>.gonder-platform-v67):not(.g-paused)>.g-stage>.g-ladder{order:1}
+ html[data-arena-game="gonder-gitsin"] body #app>.gonder-platform-v67{height:clamp(235px,65vw,340px)!important}
+ html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 :is(.gonder-host-v67,.gonder-player-v67,.gonder-rival435){width:17%!important;bottom:16%!important}
+ html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-host-v67{left:24%!important}
+ html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-player-v67{left:41%!important}
+ html[data-arena-game="gonder-gitsin"] body #app .gonder-platform-v67 .gonder-rival435{left:58%!important}
+}

@@ -12,3 +12,18 @@ body.playing-game .room-launch,body.playing-game .room-panel,body.playing-game .
 .tile-art:has(.programme-thumb314){height:180px!important;background:#090d20!important}.tile-art:has(.programme-thumb314):before,.tile-art:has(.programme-thumb314):after{display:none!important}.programme-thumb314{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#090d20;z-index:0}.tile-art:has(.programme-thumb314) .tile-category{z-index:2;background:#111729dd;padding:5px 8px;border-radius:7px;font-size:8px;color:#fff!important;max-width:70%;left:10px;top:10px}.tile-art:has(.programme-thumb314) .tile-order{z-index:2;background:#111729cc;border-radius:6px;padding:1px 7px;font-size:16px;left:10px;bottom:10px;color:#fff!important}.tile-art:has(.programme-thumb314) .favorite{z-index:3;background:#111729dd}.game-card h3{overflow-wrap:break-word;line-height:1.3;min-height:2.6em}.card-body .origin{font-size:10px;color:#baacd4!important}@media(max-width:600px){.tile-art:has(.programme-thumb314){height:135px!important}.tile-art:has(.programme-thumb314) .tile-category{font-size:6px;padding:4px 6px;max-width:65%}.game-card h3{font-size:17px}}
 /* The reward-carrying stage temporarily occupies the entire embedded player. */
 body.prize-view381 #player>.playbar{display:none!important}body.prize-view381 #gameFrame{top:0!important;height:100%!important}
+
+img.cover-unavailable { display: none !important; }
+.tile-art .cover-fallback:not([hidden]) {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 18px 36px;
+  background: radial-gradient(ellipse at 50% 30%, #6043af, #18102f 75%);
+  color: #ffdc81;
+  text-align: center;
+  font-size: clamp(1rem, 2.5vw, 1.45rem);
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}

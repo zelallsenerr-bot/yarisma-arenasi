@@ -1,13 +1,13 @@
 {
   "index.html": {
-    "sha": "1318c2eb81421032750a731b6e1fb555a24e306a",
-    "size": 6506,
-    "reason": "Restore the Anlaşma card cover with matching gold and purple studio artwork"
+    "sha": "ec40f66903ee2afe5d870b0f3e243027079ed07c",
+    "size": 6512,
+    "reason": "Show a styled game title when a gallery cover cannot load"
   },
   "app.js": {
-    "sha": "855df161983300bcb8881febbdf097e7735e99a7",
-    "size": 16333,
-    "reason": "Simplify mobile play modes and recover from slow game or video loads"
+    "sha": "fa149408db004476bb3d3775e126b788b2e5114c",
+    "size": 16790,
+    "reason": "Show a styled game title when a gallery cover cannot load"
   },
   "privacy.html": {
     "sha": "59bb518aad8b16130ed3db259ecd564c05565296",
@@ -608,5 +608,10 @@
     "sha": "1d09da5db9dff6c73d469efd9c782afea466851a",
     "size": 55888,
     "reason": "Restore the Anlaşma card cover with matching gold and purple studio artwork"
+  },
+  "style.css": {
+    "sha": "01cea722b9635e852c5ddfd2fee69c67535ce531",
+    "size": 19954,
+    "reason": "Show a styled game title when a gallery cover cannot load"
   }
 }

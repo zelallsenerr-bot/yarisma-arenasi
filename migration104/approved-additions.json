@@ -118,25 +118,5 @@
     "sha": "c34eacdf7ec8ad41e992beba49c364ab48255478",
     "size": 6187,
     "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
-  },
-  "play-edition/scene.js": {
-    "sha": "f53e5162464deb2d344d809d74ad0f51f035a1c2",
-    "size": 5805,
-    "reason": "Publish three original Yarışma Atölyesi games"
-  },
-  "play-edition/app.js": {
-    "sha": "9371357a58ffb96eda47088218ff6bb0687ae856",
-    "size": 8862,
-    "reason": "Publish three original Yarışma Atölyesi games"
-  },
-  "play-edition/style.css": {
-    "sha": "afc5dbee80ed23a83de395c27992489f27f022c4",
-    "size": 2461,
-    "reason": "Publish three original Yarışma Atölyesi games"
-  },
-  "play-edition/index.html": {
-    "sha": "a6a69478c76a264070495e47b518d955a86329f3",
-    "size": 426,
-    "reason": "Publish three original Yarışma Atölyesi games"
   }
 }

@@ -1,8 +1,8 @@
 {
   "index.html": {
-    "sha": "2bac5d3453103bada0b0cd13e7f7e4df9dca3630",
-    "size": 7103,
-    "reason": "Publish three original Yarışma Atölyesi games"
+    "sha": "204f5c27ea26be3916229d1c123829dcc9412814",
+    "size": 6506,
+    "reason": "Simplify mobile play modes and recover from slow game or video loads"
   },
   "app.js": {
     "sha": "855df161983300bcb8881febbdf097e7735e99a7",

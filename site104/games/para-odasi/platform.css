@@ -6,3 +6,18 @@
 .room-desk-v67{min-height:105px;border:7px solid #dde9f4;border-left-color:#c5f9ff;border-radius:13px;background:linear-gradient(#165ba9,#102b72);box-shadow:0 8px 0 #a4b1c8,0 0 13px #55b1ff;padding:12px 3px;color:#fff}.room-desk-v67 strong,.room-desk-v67 span{display:block;overflow-wrap:anywhere;line-height:1.4}.room-desk-v67 strong{font-size:12px}.room-desk-v67 span{font-size:13px;margin-top:9px;color:#dbf3ff}.room-active-v67 .room-desk-v67{border-color:#fff2a8;box-shadow:0 0 20px #ffe0a5}
 .room-host-v67{position:absolute;right:5%;top:35%;width:105px;z-index:2;text-align:center}.room-host-v67>svg{display:block;width:80px;height:120px;margin:auto;background:#102749;border-radius:25px 25px 5px 5px}.room-host-desk-v67{width:90px;min-height:120px;margin:-10px auto 0;position:relative;background:linear-gradient(#4767a2,#142c67);border:8px solid #dae7f4;border-radius:7px;padding:23px 3px;font-size:16px;line-height:1.2;color:#f0edcb;font-weight:bold}
 @media(max-width:600px){#app>.room-platform-v67{height:365px;border-radius:16px}.room-platform-v67>h2{left:29%;right:17%;height:160px;top:17px;font-size:30px;padding:30px 3px;border-width:4px}.room-podiums-v67{left:3%;width:54%;top:48%;gap:5px}.room-podium-v67 .portrait35{width:39px!important;height:53px!important}.room-desk-v67{min-height:85px;padding:8px 1px;border-width:4px;border-radius:8px}.room-desk-v67 strong{font-size:9px}.room-desk-v67 span{font-size:10px;margin-top:5px}.room-host-v67{right:3%;top:43%;width:65px}.room-host-v67>svg{width:50px;height:85px}.room-host-desk-v67{width:59px;min-height:95px;border-width:5px;padding:20px 2px;font-size:12px}}
+
+#view #estimate {
+  width: 100%;
+  max-width: 20rem;
+  min-height: 44px;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+#view .boxes400 > button {
+  min-height: 48px;
+}
+#view .boxes400 > button small {
+  display: block;
+  margin-top: 4px;
+}

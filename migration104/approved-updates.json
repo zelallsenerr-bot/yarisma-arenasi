@@ -290,9 +290,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/para-odasi/index.html": {
-    "sha": "ae6d094245560ab6f46c10b5fe97f66706d8207c",
-    "size": 5353,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "645817aece6f15b4271cd862234709e03247d35a",
+    "size": 5348,
+    "reason": "Validate Para Odası estimates and make box controls easier to tap"
   },
   "games/password/index.html": {
     "sha": "f36baa8b2a87f0d4416bbdbe3e32371943e01cbf",
@@ -623,5 +623,15 @@
     "sha": "5e1571c5e31372722b25332e621a6d7243243ba8",
     "size": 5294,
     "reason": "Clarify consensus and share negotiation in Anlaşma"
+  },
+  "games/para-odasi/platform.js": {
+    "sha": "9a5ec3d8009df03b7e93618acf0d7fb7628f6d81",
+    "size": 2700,
+    "reason": "Validate Para Odası estimates and make box controls easier to tap"
+  },
+  "games/para-odasi/platform.css": {
+    "sha": "c68d86c073793a3a8850aa0b2a690e181f256b51",
+    "size": 3152,
+    "reason": "Validate Para Odası estimates and make box controls easier to tap"
   }
 }

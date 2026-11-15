@@ -1,5 +1,24 @@
 /* Para Odası local stage mirrors the three live team banks. */
 (()=>{'use strict';function install(){const app=document.getElementById('app');if(!app)return;let signature='';
+app.addEventListener('click', event => {
+  const submit = event.target.closest('#view #submit');
+  const estimate = app.querySelector('#view #estimate');
+  if (!submit || !estimate || estimate.disabled) return;
+  estimate.required = true;
+  if (estimate.reportValidity()) return;
+  event.preventDefault();
+  event.stopImmediatePropagation();
+}, true);
+
+app.addEventListener('keydown', event => {
+  if (event.key !== 'Enter' || event.isComposing || event.repeat ||
+      !event.target.matches('#view #estimate')) return;
+  const submit = app.querySelector('#view #submit');
+  if (!submit || submit.disabled) return;
+  event.preventDefault();
+  submit.click();
+});
+
 function update(){const roster=app.querySelector('.players400');let current=app.querySelector('.room-platform-v67');if(!roster){if(current)current.remove();signature='';return}const sig=roster.innerHTML;if(current&&sig===signature)return;signature=sig;
 const stage=document.createElement('section');stage.className='room-platform-v67';stage.setAttribute('aria-label','Para Odası stüdyosu: solda üç yarışmacı kürsüsü, ortada büyük ekran, sağda sunucu');const title=document.createElement('h2');title.innerHTML='PARA<br>ODASI';stage.append(title);
 const podiums=document.createElement('div');podiums.className='room-podiums-v67';Array.from(roster.children).forEach(source=>{const pod=document.createElement('div');pod.className='room-podium-v67'+(source.classList.contains('active')?' room-active-v67':'');const face=source.querySelector('.portrait35');if(face)pod.append(face.cloneNode(true));const desk=document.createElement('div');desk.className='room-desk-v67';const name=document.createElement('strong');name.textContent=source.querySelector('b')?.textContent||'Yarışmacı';const cash=document.createElement('span');cash.textContent=source.querySelector('small')?.textContent||'0 TL';desk.append(name,cash);pod.append(desk);podiums.append(pod)});stage.append(podiums);

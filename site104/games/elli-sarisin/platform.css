@@ -23,3 +23,9 @@ html[data-arena-game="elli-sarisin"] body #app .fifty-out-v67{opacity:1!importan
 html[data-arena-game="elli-sarisin"] body #app .fifty-out-v67>svg{opacity:.16!important;filter:grayscale(1)!important}
 html[data-arena-game="elli-sarisin"] body #app .fifty-out-v67>strong,html[data-arena-game="elli-sarisin"] body #app .fifty-wrong-v67>strong{background:#811f36!important;border-color:#ff9aa9!important}
 html[data-arena-game="elli-sarisin"] body #app .fifty-correct-v67>strong{background:#0c6248!important}
+
+#app .fifty-women-v67 button.fifty-pod-v67{display:block;width:100%;height:auto;min-width:0;min-height:36px;padding:0;cursor:pointer;touch-action:manipulation;isolation:isolate}
+#app .fifty-women-v67 button.fifty-pod-v67>img,#app .fifty-women-v67 button.fifty-pod-v67>strong{pointer-events:none}
+#app .fifty-women-v67 button.fifty-pod-v67:focus-visible,#app .pick-grid195 button:focus-visible{outline:3px solid #ffe46c;outline-offset:-3px}
+#app .fifty-women-v67 .fifty-focus567{outline:3px solid #ffe46c;outline-offset:-3px;z-index:2}
+#app .pick-grid195 button{touch-action:manipulation;min-height:44px}

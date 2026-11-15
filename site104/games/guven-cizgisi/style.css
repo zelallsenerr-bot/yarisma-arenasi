@@ -20,3 +20,13 @@
 .trust-seat167 .trust-buzzer167{left:5.5%;top:47.3%;z-index:1}.trust-seat167.right167 .trust-buzzer167{left:94.5%}.trust-seat167 .trust-body445{z-index:2}.trust-seat167 .trust-arm167{z-index:3}.trust-seat167 .trust-buzzer167{z-index:1}.trust-seat167 .trust-buzzer167 small{transform:translateY(10px)}.trust-seat167.pressed167 .trust-faceoff446{animation:trustPress508 .34s ease-out}@keyframes trustPress508{45%{transform:translateY(3px)}100%{transform:translateY(0)}}.trust-seat167.right167.pressed167 .trust-faceoff446{animation:trustPressRight508 .34s ease-out}@keyframes trustPressRight508{45%{transform:scaleX(-1) translateY(3px)}100%{transform:scaleX(-1)}}
 
 .trust-seat167 .trust-arm167{z-index:1}.trust-seat167 .trust-body445{z-index:2}
+
+#app .trust-motion167{--seat-width167:min(36%,220px);--travel167:clamp(4px,3.4vw,42px);height:clamp(230px,53vw,395px);overflow:hidden}
+#app .trust-motion167 .trust-seat167{bottom:58px}
+#app .trust-motion167 .trust-seat167.left167{right:calc(50% + 6px)}
+#app .trust-motion167 .trust-seat167.right167{left:calc(50% + 6px)}
+#app .trust-motion167 .trust-arm167{z-index:5}
+#app .trust-motion167 .trust-seat167 .trust-buzzer167{top:70%;bottom:auto;left:50%;transform:translateX(-50%);min-width:78px;min-height:44px}
+#app .trust-motion167 .trust-buzzer167 small{transform:none}
+#app .trust-motion167 .trust-name167{max-width:100%;overflow-wrap:anywhere}
+@media(max-width:480px){#app .trust-motion167{--seat-width167:41%;--travel167:4px}}

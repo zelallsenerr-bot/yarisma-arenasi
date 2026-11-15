@@ -125,9 +125,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/elli-sarisin/index.html": {
-    "sha": "e755e7c23bcaff7b7a5c8265983352296c7e3add",
+    "sha": "655cebdb09794ec1c3d876bf6c6f5ecd3f2c9b72",
     "size": 5606,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Improve contestant selection and two-player decision framing"
   },
   "games/esim-yapar/index.html": {
     "sha": "e5e1037f48af5d6dadbf54e97d11ae2101ec8bc7",
@@ -160,9 +160,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/guven-cizgisi/index.html": {
-    "sha": "d085f424871b778fd274c585b58cc59ed3a1e975",
+    "sha": "0e712c9a2d882f7c7d966dbcb45790768fcd089b",
     "size": 5560,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Improve contestant selection and two-player decision framing"
   },
   "games/halka-mucadelesi/index.html": {
     "sha": "6045e3dc183edcc3b19aa8d1eb87a369976d9204",
@@ -488,5 +488,30 @@
     "sha": "138b78799e18390014f81f8718550526ccd51a4b",
     "size": 40009,
     "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
+  },
+  "games/elli-sarisin/app195.js": {
+    "sha": "df7214f5a90a778f0ff91abbc65991f321d8f83b",
+    "size": 14255,
+    "reason": "Improve contestant selection and two-player decision framing"
+  },
+  "games/elli-sarisin/platform.css": {
+    "sha": "ebfa9f2a567e8d88287b50f152db3f6097addc16",
+    "size": 5757,
+    "reason": "Improve contestant selection and two-player decision framing"
+  },
+  "games/elli-sarisin/platform.js": {
+    "sha": "77ee2980f715cad86cc16136da8da45b896bc8b7",
+    "size": 3170,
+    "reason": "Improve contestant selection and two-player decision framing"
+  },
+  "games/guven-cizgisi/app.js": {
+    "sha": "f4a1c891566f6485dcaa70642ab5d6e964fbcd92",
+    "size": 29734,
+    "reason": "Improve contestant selection and two-player decision framing"
+  },
+  "games/guven-cizgisi/style.css": {
+    "sha": "c298cd10acdc6426068ea3e381afe1fede83a4e1",
+    "size": 16704,
+    "reason": "Improve contestant selection and two-player decision framing"
   }
 }

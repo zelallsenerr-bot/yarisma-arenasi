@@ -1,8 +1,8 @@
 name: Android test APK
 on:
   push:
-    branches: [main, original-play-edition]
-    paths: ['android-app/**', 'play-edition/**', '.github/workflows/android-test.yml']
+    branches: [main]
+    paths: ['android-app/**', '.github/workflows/android-test.yml']
   workflow_dispatch:
 permissions:
   contents: read

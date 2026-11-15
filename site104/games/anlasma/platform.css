@@ -20,3 +20,22 @@ body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-desk-v67
 body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-person-v67>strong{display:none}
 body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-panels-v67{gap:5px;padding:5px}
 @media(max-width:600px){body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-person-v67{width:19%;top:30%;height:53%}body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-person-v67.person-0{left:19%}body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-person-v67.person-1{left:40%}body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-person-v67.person-2{left:61%}body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-desk-v67{left:25%;right:17%;top:65%;height:20%;border-width:4px}body[data-game="anlasma"] .deal-platform-v67.stage435.blocking437 .deal-panels-v67 strong{font-size:9px}}
+
+.deal-guide {
+  margin: 12px 0;
+  padding: 10px 14px;
+  border-inline-start: 3px solid #ffda80;
+  border-radius: 8px;
+  background: #312048;
+  color: #fff4d5;
+  line-height: 1.45;
+}
+#view button.deal-compatible-offer {
+  border-color: #ffda80;
+  box-shadow: inset 0 0 0 1px #ffda80;
+}
+#view .deal-compatible-offer small {
+  display: block;
+  margin-top: 4px;
+  color: inherit;
+}

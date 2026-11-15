@@ -70,9 +70,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/anlasma/index.html": {
-    "sha": "49ae0812f5a8583075b3d4728592ac26c24e7bed",
+    "sha": "afa0840bfed2a01f6abbd65344fe89724cea27d6",
     "size": 5331,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Clarify consensus and share negotiation in Anlaşma"
   },
   "games/arkandayiz/index.html": {
     "sha": "8b498fbdfe0c6dac7bfbc5bf35fa7dc74cf73bdb",
@@ -613,5 +613,15 @@
     "sha": "01cea722b9635e852c5ddfd2fee69c67535ce531",
     "size": 19954,
     "reason": "Show a styled game title when a gallery cover cannot load"
+  },
+  "games/anlasma/platform.js": {
+    "sha": "d164ed79b2400de916a62b2fad6dec0a926429ee",
+    "size": 4115,
+    "reason": "Clarify consensus and share negotiation in Anlaşma"
+  },
+  "games/anlasma/platform.css": {
+    "sha": "5e1571c5e31372722b25332e621a6d7243243ba8",
+    "size": 5294,
+    "reason": "Clarify consensus and share negotiation in Anlaşma"
   }
 }

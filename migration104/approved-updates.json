@@ -320,9 +320,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/sans-kapida/index.html": {
-    "sha": "fc2b418fedc841e719c90cd421c1ac3471393e0d",
-    "size": 5274,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "346d0e38ebc1a4ccb6b090accd46ced5d778127d",
+    "size": 5269,
+    "reason": "Make the stakes clear before and after choosing a household item"
   },
   "games/sans-kapiyi-calinca/index.html": {
     "sha": "8cc54c8174ec36dde33cedfc5e1d6d0cf6d4c5a3",
@@ -633,5 +633,15 @@
     "sha": "c68d86c073793a3a8850aa0b2a690e181f256b51",
     "size": 3152,
     "reason": "Validate Para Odası estimates and make box controls easier to tap"
+  },
+  "games/sans-kapida/platform.js": {
+    "sha": "a20e8e526a072cd472c7d06a774724f541d41843",
+    "size": 3588,
+    "reason": "Make the stakes clear before and after choosing a household item"
+  },
+  "games/sans-kapida/platform.css": {
+    "sha": "0b0a2e9730c5ba694b4fcbe3b364d0be39f55f95",
+    "size": 4764,
+    "reason": "Make the stakes clear before and after choosing a household item"
   }
 }

@@ -140,9 +140,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/eyvah-dusuyorum/index.html": {
-    "sha": "58277f0f2291f1070dcab774f0200181d9c56ac9",
+    "sha": "e69c5db3333929576fbc3a4ee6564126307c2f16",
     "size": 6409,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   },
   "games/gel-hemserim/index.html": {
     "sha": "a6fdde3bd23de4fb21c5a61529ef057705787d8d",
@@ -250,9 +250,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kutu-karari/index.html": {
-    "sha": "0284d8941967c52ba69a956fc1034d739ea0152a",
+    "sha": "da4ccf2711b6e072682e643f965c2e0c98a06c69",
     "size": 6120,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   },
   "games/lingo-meydani/index.html": {
     "sha": "ea39ed3d09e982b4d2f6e94936e721aff7f61a09",
@@ -260,9 +260,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/milyoner-aile/index.html": {
-    "sha": "41779b661fee3f9cb2d1a103be0ccfc5805addaf",
-    "size": 5807,
-    "reason": "Simplify mobile play modes and recover from slow game or video loads"
+    "sha": "c44b08c25432958a092b4fcbf1aa525150b65e16",
+    "size": 5999,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   },
   "games/milyonluk-resim/index.html": {
     "sha": "4b10d41f2b070347420a563da74ece1d4c6ef19a",
@@ -425,14 +425,14 @@
     "reason": "Private player reports, accurate local multiplayer labels, saved-game shortcuts, profile usability, contextual setup and backup reminder"
   },
   "games/eyvah-dusuyorum/knowledge516.js": {
-    "sha": "c4180a00057f966390bce4f3813efab9cd2df26b",
-    "size": 28963,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "08b21f78e3ee6771a2e661a7c686bc5cee3b3b6e",
+    "size": 30338,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   },
   "games/kutu-karari/app.js": {
-    "sha": "465829f5d92818071b5e153796077f0afff3d136",
-    "size": 31774,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "46ea9e1b4da2a04f45daca8762e4e0226e186b17",
+    "size": 32161,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   },
   "games/milyoner-aile/app.js": {
     "sha": "0d8d215f45d25b505b7a09b58bae2bb71669d9ff",
@@ -473,5 +473,20 @@
     "sha": "4478e6ffda331eb928713818fd7b4cb096395460",
     "size": 9866,
     "reason": "Simplify mobile play modes and recover from slow game or video loads"
+  },
+  "games/eyvah-dusuyorum/platform.js": {
+    "sha": "97381fe77a42e7cc56081fb21bc9e6adb98bfb24",
+    "size": 13734,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
+  },
+  "games/eyvah-dusuyorum/platform518.css": {
+    "sha": "b4ecbc4ce2e797693eb7d9e61d58acbb865af983",
+    "size": 2692,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
+  },
+  "games/kutu-karari/style.css": {
+    "sha": "138b78799e18390014f81f8718550526ccd51a4b",
+    "size": 40009,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   }
 }

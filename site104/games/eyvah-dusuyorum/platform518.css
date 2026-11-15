@@ -10,3 +10,17 @@ body[data-game="eyvah-dusuyorum"] #app .oval516.dropping516 .drop-target516 .hum
 @media(prefers-reduced-motion:reduce){body[data-game="eyvah-dusuyorum"] #app .oval516 .drop-target516 .standing-body435{filter:none!important}}
 body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong{left:var(--host-name-left518,-12%)}
 body[data-game="eyvah-dusuyorum"] #app .oval516 .eyvah-host516>strong{left:var(--host-name-left518,0px);width:100%}
+
+
+#app .number-picker582{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:.45rem;margin:1rem 0}
+#app .number-picker582 button{min-height:44px;padding:.45rem;background:#15284d;border:1px solid #5594d3;color:#fff;font-weight:700}
+#app .number-picker582 button:disabled{opacity:.5}
+#app .duel-stage582{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr) minmax(0,.78fr);align-items:end}
+#app .duel-stage582 .challenger582{grid-column:2;grid-row:1}
+#app .duel-host582{grid-column:3;grid-row:1;align-self:center;text-align:center;color:#ffd991;font-weight:700;font-size:clamp(.65rem,2vw,.95rem);min-width:0}
+#app .duel-host-art582 svg{display:block;width:100%;height:clamp(80px,20vw,160px);overflow:visible}
+#app .oval516 .eyvah-host516{pointer-events:none}
+#app form#answerForm button{background:#f4cf76;color:#151726;font-weight:800;min-height:44px}
+#app .pass366{min-height:44px}
+@media(max-width:480px){#app .number-picker582{grid-template-columns:repeat(2,minmax(0,1fr))}}
+

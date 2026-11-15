@@ -113,5 +113,10 @@
     "sha": "73eaeb27883e8a5bfd09fe977c131c9e2e3a94d0",
     "size": 4202,
     "reason": "Add opt-in Milyoner broadcast panel and TikFinity chat answer selection"
+  },
+  "assets/family582/clips582.js": {
+    "sha": "c34eacdf7ec8ad41e992beba49c364ab48255478",
+    "size": 6187,
+    "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   }
 }

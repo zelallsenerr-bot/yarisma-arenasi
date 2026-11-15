@@ -23,3 +23,10 @@ button:focus-visible,a:focus-visible{outline:3px solid var(--gold);outline-offse
 .feedback{min-height:1.6em;color:var(--gold)}
 .score{font-size:clamp(1.7rem,6vw,2.7rem);color:var(--mint);font-weight:850}
 @media(max-width:530px){.tiles,.choices{grid-template-columns:1fr}}
+.scene-set{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.5rem;align-items:end;min-height:13rem;padding:1rem .5rem;border-radius:.85rem;background:linear-gradient(var(--sky) 65%,var(--ground) 65%)}
+.scene-prop{display:grid;place-items:center;gap:.35rem;padding:.4rem .2rem;border-radius:.6rem;background:#151b29;color:#fff;text-align:center;font-size:clamp(.7rem,2.5vw,1rem);animation:arrive .35s ease-out}
+.scene-prop[hidden]{display:block;visibility:hidden}
+.scene-prop span{font-size:clamp(1.7rem,9vw,4rem);line-height:1}
+.scene-caption{min-height:3em}
+@keyframes arrive{from{opacity:0;transform:translateY(-.6rem)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.scene-prop{animation:none}}

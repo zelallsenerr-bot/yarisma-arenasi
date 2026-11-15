@@ -1,3 +1,5 @@
+import { startScene } from './scene.js';
+
 const questions = [
   { text: 'Bir üçgenin iç açılarının toplamı kaç derecedir?', choices: ['90', '180', '270', '360'], right: 1 },
   { text: 'Fotoğraf makinesinde diyafram hangi özelliği doğrudan değiştirir?', choices: ['Dosya adı', 'Bellek kapasitesi', 'Işık açıklığı', 'Pil gerilimi'], right: 2 },
@@ -36,9 +38,10 @@ function shuffled(values) {
 
 function home() {
   clearInterval(duelTimer);
-  app.innerHTML = '<h1>Yarışma Atölyesi</h1><div class="tiles"><article class="card"><strong class="accent">Bilgi düellosu</strong><h2>Zaman Pisti</h2><p>Soruları süre dolmadan yanıtla. Seri bonusuyla pistte ilerle.</p><div id="duel-start"></div></article><article class="card"><strong class="accent">Strateji oyunu</strong><h2>Dokuz Kasa</h2><p>Kasalarından çıkan puanları biriktir. Çarpanları ne zaman kullanacağına karar ver.</p><div id="crate-start"></div></article></div>';
+  app.innerHTML = '<h1>Yarışma Atölyesi</h1><div class="tiles"><article class="card"><strong class="accent">Bilgi düellosu</strong><h2>Zaman Pisti</h2><p>Soruları süre dolmadan yanıtla. Seri bonusuyla pistte ilerle.</p><div id="duel-start"></div></article><article class="card"><strong class="accent">Strateji oyunu</strong><h2>Dokuz Kasa</h2><p>Kasalarından çıkan puanları biriktir. Çarpanları ne zaman kullanacağına karar ver.</p><div id="crate-start"></div></article><article class="card"><strong class="accent">Dikkat oyunu</strong><h2>Sahne Hafızası</h2><p>30 saniyelik sahneyi izle ve iki ayrıntıyı birlikte hatırla.</p><div id="scene-start"></div></article></div>';
   document.querySelector('#duel-start').append(button('Zaman Pisti’ni başlat', startDuel, { primary: true }));
   document.querySelector('#crate-start').append(button('Dokuz Kasa’yı başlat', startCrates, { primary: true }));
+  document.querySelector('#scene-start').append(button('Sahne Hafızası’nı başlat', () => startScene(app, home), { primary: true }));
 }
 
 function finish(title, points, summary, restart) {

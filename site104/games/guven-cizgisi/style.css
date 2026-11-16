@@ -30,3 +30,25 @@
 #app .trust-motion167 .trust-buzzer167 small{transform:none}
 #app .trust-motion167 .trust-name167{max-width:100%;overflow-wrap:anywhere}
 @media(max-width:480px){#app .trust-motion167{--seat-width167:41%;--travel167:4px}}
+
+.trust-bank-summary {
+  padding: 12px 16px;
+  margin-block: 14px;
+  border: 1px solid #9c7c48;
+  border-radius: 12px;
+  background: #2d2143;
+  color: #fff3d9;
+}
+.trust-bank-summary dl {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 135px), 1fr));
+  gap: 12px;
+  margin: 0;
+}
+.trust-bank-summary dt { font-size: .86em; }
+.trust-bank-summary dd {
+  margin: 4px 0 0;
+  color: #ffda8a;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}

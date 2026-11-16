@@ -160,9 +160,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/guven-cizgisi/index.html": {
-    "sha": "0e712c9a2d882f7c7d966dbcb45790768fcd089b",
+    "sha": "fed9fca2b94b35349dfb41480f746519dfa1edd3",
     "size": 5560,
-    "reason": "Improve contestant selection and two-player decision framing"
+    "reason": "Show the bank, payouts, and undistributed money on the final screen"
   },
   "games/halka-mucadelesi/index.html": {
     "sha": "6045e3dc183edcc3b19aa8d1eb87a369976d9204",
@@ -505,14 +505,14 @@
     "reason": "Improve contestant selection and two-player decision framing"
   },
   "games/guven-cizgisi/app.js": {
-    "sha": "f4a1c891566f6485dcaa70642ab5d6e964fbcd92",
-    "size": 29734,
-    "reason": "Improve contestant selection and two-player decision framing"
+    "sha": "6c9379ccafcc9640a39e30770c34782827608cd9",
+    "size": 30272,
+    "reason": "Show the bank, payouts, and undistributed money on the final screen"
   },
   "games/guven-cizgisi/style.css": {
-    "sha": "c298cd10acdc6426068ea3e381afe1fede83a4e1",
-    "size": 16704,
-    "reason": "Improve contestant selection and two-player decision framing"
+    "sha": "f76ff8ae59c90ac7c58479e7a00dc5895b14a408",
+    "size": 17177,
+    "reason": "Show the bank, payouts, and undistributed money on the final screen"
   },
   "games/aile-meydani/app.js": {
     "sha": "82e3f7b03a9caca2b234201324252857c9f519d8",

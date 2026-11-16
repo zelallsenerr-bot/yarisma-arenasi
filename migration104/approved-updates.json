@@ -180,9 +180,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/herkes-kazanir/index.html": {
-    "sha": "b48d715bd4cc26a04235a95f70a9ae7dea824287",
-    "size": 5292,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "c2469d1a86113d69c07ed8c5f9a8b3f51674dd7e",
+    "size": 5287,
+    "reason": "Clarify remaining contestants and jokers in round results"
   },
   "games/ilk-bulusma/index.html": {
     "sha": "1e80d4646f835e53a44072796c68dd532862e57e",
@@ -693,5 +693,15 @@
     "sha": "94c163f51aaa7a5c1410e0feccc8af8d084df54a",
     "size": 2478,
     "reason": "Preview the remaining travel budget for every option in Para Bende"
+  },
+  "games/herkes-kazanir/platform.js": {
+    "sha": "c318526a61d2227bdcaf41e547ec90865dc2ca04",
+    "size": 3286,
+    "reason": "Clarify remaining contestants and jokers in round results"
+  },
+  "games/herkes-kazanir/platform.css": {
+    "sha": "bf19cbf5b918eb54826034f3dc6277c9a70fba6f",
+    "size": 3870,
+    "reason": "Clarify remaining contestants and jokers in round results"
   }
 }

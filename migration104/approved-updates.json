@@ -200,9 +200,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kapis-kapis/index.html": {
-    "sha": "0dbc484e518e9d8f2c2bdae74384fe8091cce906",
-    "size": 5018,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "5e2afe6fe872dc0fe6f0c85e08bc59e9db1af4f9",
+    "size": 5013,
+    "reason": "Display selected gifts and the total before returning upstairs"
   },
   "games/kelime-carki/app.js": {
     "sha": "0acbf4ef4a8d7828ec9be38b113ab80c9753f5c9",
@@ -673,5 +673,15 @@
     "sha": "183ae6139d99518946fdcf3405c969acf956ccc9",
     "size": 1664,
     "reason": "Keep the stress meter and selected piece visible during Kızma Kazan tasks"
+  },
+  "games/kapis-kapis/platform.js": {
+    "sha": "774920b8fe85ac6b568bcc0fb48efc2c648ebd7c",
+    "size": 4403,
+    "reason": "Display selected gifts and the total before returning upstairs"
+  },
+  "games/kapis-kapis/platform.css": {
+    "sha": "39304b7d6bb82342eec62e260faa1e809baabf46",
+    "size": 5466,
+    "reason": "Display selected gifts and the total before returning upstairs"
   }
 }

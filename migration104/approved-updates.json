@@ -90,9 +90,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/beyazla-joker/index.html": {
-    "sha": "75e3ad8b1265a13f5f59cd6633dded954325c009",
+    "sha": "d3bb694ede8760ac1cf8f4b6617312ef814a08a6",
     "size": 5367,
-    "reason": "Make joker effects and spent states clear on the question screen"
+    "reason": "Show available jokers per question and make card status explicit"
   },
   "games/bir-iceri-bir-disari/index.html": {
     "sha": "b3080e7ca17383185041d3b26fd78d1c682944bc",
@@ -540,14 +540,14 @@
     "reason": "Add a timed three-contestant Alan final with unique questions"
   },
   "games/beyazla-joker/app.js": {
-    "sha": "c2e37110a768045e92c5405deac39bba00f0f9c2",
-    "size": 12403,
-    "reason": "Make joker effects and spent states clear on the question screen"
+    "sha": "fc5ada450351b7de6529ab96c09d2d6f7b0785e2",
+    "size": 12743,
+    "reason": "Show available jokers per question and make card status explicit"
   },
   "games/beyazla-joker/style.css": {
-    "sha": "b61c584d6a5f889faf41035de185d1d61ba5b68f",
-    "size": 10892,
-    "reason": "Make joker effects and spent states clear on the question screen"
+    "sha": "6e3f103cff27f43800f2b429901df11bea4ee331",
+    "size": 11210,
+    "reason": "Show available jokers per question and make card status explicit"
   },
   "games/cevap-soruda/app.js": {
     "sha": "c84c4f884f094af7253b186ad9221c2f1825fdb0",

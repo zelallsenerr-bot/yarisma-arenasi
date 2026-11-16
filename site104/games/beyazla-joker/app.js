@@ -3,12 +3,19 @@ function menu(){s=null;A.innerHTML=`<section class="welcome"><h1>Beyaz’la Joke
 function companion(){let r=s.relative;return `<aside class="companion338"><div>${window.JokerRelative513?.(r,true)||People37.face(r,2)}<b>${esc(r.name)} · ${esc(r.role)}</b></div><p><b>Beyaz:</b> Bu soruda yalnız değilsin. Yakının da yanına geliyor. Önce soruyu birlikte okuyun. Son karar senin.</p><p><b>${esc(r.name)}:</b> Yanındayım. Sorunun ne istediğine odaklanalım. Bildiğimiz ayrıntılardan başlayalım.</p></aside>`}
 function jokerStock172(){
  const used=7-s.jokers;
- const canUse=s.phase==='question'&&!s.paused&&s.removed.length<3;
+ const available=Math.max(0, Math.min(s.jokers, 3-s.removed.length));
+ const canUse=s.phase==='question'&&!s.paused&&available>0;
+ const note=s.phase!=='question'?'Sonraki soruda açılır.'
+  :s.paused?'Oyun duraklatıldı.'
+  :!s.jokers?'Joker kalmadı.'
+  :available?'Bu soruda '+available+' joker kullanabilirsin.'
+  :'Bu sorunun joker sınırına ulaştın.';
  return `<aside class="joker-stock172" aria-labelledby="jokerStockTitle172">
   <h2 id="jokerStockTitle172">Jokerler · ${s.jokers} / 7 kaldı</h2>
+  <p class="joker-availability">${note}</p>
   <ol>${Array.from({length:7},(_,i)=>{
    const spent=i<used;
-   return `<li class="${spent?'spent172':'ready172'}"><button type="button" data-joker172="${i}" ${spent||!canUse?'disabled':''}><strong>${i+1}. Joker</strong><span>Bir yanlış şıkkı kaldırır</span>${spent?'<small>Kullanıldı</small>':''}</button></li>`;
+   return `<li class="${spent?'spent172':'ready172'}"><button type="button" data-joker172="${i}" ${spent||!canUse?'disabled':''}><strong>${i+1}. Joker</strong><small class="joker-state">${spent?'Harcanmış':canUse?'Hazır':'Bekliyor'}</small></button></li>`;
   }).join('')}</ol>
  </aside>`;
 }

@@ -19,3 +19,19 @@
  #app>.joker-stock172 ol{gap:7px}
  #app>.joker-stock172 li>button{min-height:48px}
 }
+
+.joker-stock172 .joker-availability {
+  margin: 0 0 10px;
+  overflow-wrap: anywhere;
+}
+.joker-stock172 .joker-state {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 4px auto 0;
+  overflow-wrap: anywhere;
+}
+.joker-stock172 button:enabled .joker-state {
+  background: #173b29;
+  color: #d8ffe4;
+}

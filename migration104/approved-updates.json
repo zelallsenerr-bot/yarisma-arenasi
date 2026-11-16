@@ -240,9 +240,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/kizma-kazan/index.html": {
-    "sha": "eec68e36066c48650d43d7d936db0c3dacb21554",
-    "size": 5102,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "7dd09e012137a4743a9a1d019e78409f3422d7bf",
+    "size": 5097,
+    "reason": "Keep the stress meter and selected piece visible during Kızma Kazan tasks"
   },
   "games/kumbara/index.html": {
     "sha": "4ddc944dbca0278705dd05ab1dd458134b7bf77e",
@@ -663,5 +663,15 @@
     "sha": "52d519714a33a742d77d601cc7f1e919ab69a15e",
     "size": 4228,
     "reason": "Preserve age estimates when opening hints and clarify remaining final attempts"
+  },
+  "games/kizma-kazan/platform.js": {
+    "sha": "b7256e039a5f8405f008381fdac481108aa4d417",
+    "size": 2287,
+    "reason": "Keep the stress meter and selected piece visible during Kızma Kazan tasks"
+  },
+  "games/kizma-kazan/platform.css": {
+    "sha": "183ae6139d99518946fdcf3405c969acf956ccc9",
+    "size": 1664,
+    "reason": "Keep the stress meter and selected piece visible during Kızma Kazan tasks"
   }
 }

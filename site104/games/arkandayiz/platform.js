@@ -1,6 +1,31 @@
 /* Local Arkandayız studio; five-friend support group. */
 (()=>{'use strict';function install(){const app=document.getElementById('app');if(!app)return;let signature='';
-function update(){const s=window.Retro400BTest?.state;let current=app.querySelector('.arka-scene589');if(!s||app.querySelector('.hero400')){if(current)current.remove();signature='';return}const sig=JSON.stringify([s.phase,s.step,s.multiplier,s.players.map(p=>[p.id,p.name]),s.opinions]);if(current&&sig===signature)return;signature=sig;
+function showWager(state, view) {
+  if (!view || view.querySelector('.arka-wager')) return;
+  const format = amount => amount.toLocaleString('tr-TR') + ' sanal TL';
+  if (state.phase === 'confidence') {
+    ['normal', 'double'].forEach((id, index) => {
+      const button = view.querySelector('#' + id);
+      if (!button) return;
+      const wager = (state.step + 1) * 1000 * (index + 1);
+      const note = document.createElement('small');
+      note.className = 'arka-wager';
+      note.textContent = 'Doğru cevapta kasa ' + format(state.cash + wager) +
+        ' · Yanlış cevapta kasa ' + format(Math.max(0, state.cash - wager));
+      button.append(note);
+    });
+  } else if (state.phase === 'play') {
+    const heading = view.querySelector('.question400');
+    if (!heading || !Number.isFinite(state.wager)) return;
+    const note = document.createElement('p');
+    note.className = 'arka-wager arka-wager-locked';
+    note.textContent = (state.multiplier === 2 ? 'İki kat' : 'Normal') +
+      ' seçildi · Doğru cevapta +' + format(state.wager) +
+      ' · Yanlış cevapta −' + format(Math.min(state.cash, state.wager));
+    heading.after(note);
+  }
+}
+function update(){const s=window.Retro400BTest?.state;let current=app.querySelector('.arka-scene589');if(!s||app.querySelector('.hero400')){if(current)current.remove();signature='';return}showWager(s,app.querySelector('#view'));const sig=JSON.stringify([s.phase,s.step,s.multiplier,s.players.map(p=>[p.id,p.name]),s.opinions]);if(current&&sig===signature)return;signature=sig;
 const scene=document.createElement('div');scene.className='arka-scene589';
 const stage=document.createElement('section');scene.append(stage);stage.className='arka-platform-v67';stage.setAttribute('aria-label','Arkandayız stüdyosu: önde yarışmacı, arkasında ayakta duran arkadaşları ve ortak buton, iki yanda merdiven');const title=document.createElement('h2');title.textContent='ARKANDAYIZ';stage.append(title);
 for(const side of ['left','right']){const steps=document.createElement('div');steps.className='arka-steps-v67 '+side;steps.setAttribute('aria-hidden','true');stage.append(steps)}

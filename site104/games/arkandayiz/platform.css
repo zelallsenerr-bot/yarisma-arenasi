@@ -31,3 +31,17 @@ body[data-game="arkandayiz"] #app .arka-platform-v67 .arka-player-v67{top:60%;le
 body[data-game="arkandayiz"] #app .arka-platform-v67 .arka-host-v67{top:59%;left:20%;height:28%;width:12%}
 body[data-game="arkandayiz"] .arka-player-v67>svg,body[data-game="arkandayiz"] .arka-host-v67>svg{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;background:transparent!important}
 body[data-game="arkandayiz"] .arka-friend-v67>strong{font-size:clamp(7px,.75vw,10px)!important}
+
+#view .arka-wager {
+  display: block;
+  margin-top: 6px;
+  font-size: .86em;
+  line-height: 1.45;
+}
+.arka-wager-locked {
+  padding: 9px 12px;
+  border-inline-start: 3px solid #ffd885;
+  border-radius: 8px;
+  background: #302044;
+  color: #fff3d6;
+}

@@ -75,9 +75,9 @@
     "reason": "Clarify consensus and share negotiation in Anlaşma"
   },
   "games/arkandayiz/index.html": {
-    "sha": "8b498fbdfe0c6dac7bfbc5bf35fa7dc74cf73bdb",
+    "sha": "f3ced5c7fc00385925a6bb97118096614e7b7902",
     "size": 5365,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
+    "reason": "Show the balance at stake before answering in Arkandayız"
   },
   "games/bak-su-duvara/index.html": {
     "sha": "4bb52282191efc370297b0a7ef3669714cb088bd",
@@ -575,14 +575,14 @@
     "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
   },
   "games/arkandayiz/platform.css": {
-    "sha": "cf100cb6a7c00c37fe05d80aebde5d3ef41ba66c",
-    "size": 7522,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
+    "sha": "692488891befd49e307081db41960e26b229cd7e",
+    "size": 7772,
+    "reason": "Show the balance at stake before answering in Arkandayız"
   },
   "games/arkandayiz/platform.js": {
-    "sha": "63fb6710c9c142c6493c7cad4684531cffcd0dc8",
-    "size": 3787,
-    "reason": "Keep supporter opinions visible and prioritize Arkandayız questions on phones"
+    "sha": "3d9ff320064eba603f6ba5738a26f23be971c3c0",
+    "size": 4998,
+    "reason": "Show the balance at stake before answering in Arkandayız"
   },
   "games/arkandayiz/platform519.css": {
     "sha": "edf7be9cc5734addae6c8aeaaa0775dfad23975d",

@@ -1,2 +1,39 @@
 /* Local age-guessing studio. Secret ages are never read or displayed. */
-(()=>{'use strict';function install(){const app=document.getElementById('app');let signature='';function update(){const s=window.Retro400CTest?.state;let current=app.querySelector('.age-platform-v67');if(!s||s.id!=='yasim-kac'||!app.querySelector('.panel400')){current?.remove();signature='';return}const sig=JSON.stringify([s.name,s.round,s.cash,s.tries]);if(current&&signature===sig)return;signature=sig;const stage=document.createElement('section');stage.className='age-platform-v67';stage.setAttribute('aria-label','Yaşım Kaç: solda Behzat Uygur, ortada yükseltide konuk, önde arkadan görülen iki kişilik yarışmacı masası');stage.innerHTML='<h2>YAŞIM KAÇ?</h2><div class="ag-tunnel" aria-hidden="true">'+Array.from({length:7},(_,i)=>'<i style="--ring:'+i+'"></i>').join('')+'</div><div class="ag-floor" aria-hidden="true"></div><div class="ag-podium" aria-hidden="true"></div><div class="ag-guest"></div><div class="ag-host"></div><div class="ag-desk" aria-hidden="true"></div><div class="ag-team"></div><div class="ag-screen"><strong>?</strong><small>KAÇ YAŞINDA?</small></div>';const guest=stage.querySelector('.ag-guest');const original=app.querySelector('#view .age400');if(original)guest.append(original.cloneNode(true));else guest.innerHTML=window.ArenaHumans435?.person({id:'age-guest-'+s.round,name:'Konuk'},3)||'';guest.insertAdjacentHTML('beforeend','<i class="ag-body"></i><i class="ag-legs"></i>');const label=document.createElement('strong');label.textContent=s.round===6?'FİNAL KONUĞU':(s.round+1)+'. KONUK';guest.append(label);stage.querySelector('.ag-host').innerHTML=(window.ArenaHumans435?.host()||'')+'<strong>Behzat Uygur</strong>';[s.name,'Takım arkadaşı'].forEach((name,i)=>{const person=document.createElement('div');person.className='ag-back ag-back-'+i;person.innerHTML='<i class="ag-head"></i><i class="ag-back-body"></i><i class="ag-back-legs"></i>';const tag=document.createElement('strong');tag.textContent=name;person.append(tag);stage.querySelector('.ag-team').append(person)});if(current)current.replaceWith(stage);else app.prepend(stage)}new MutationObserver(records=>{if(records.every(r=>r.target.nodeType===1&&r.target.closest?.('.age-platform-v67')))return;update()}).observe(app,{subtree:true,childList:true});update()}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install()})();
+(()=>{'use strict';function install(){const app=document.getElementById('app');if (!app) return;
+app.addEventListener('click', event => {
+  const button = event.target.closest('button');
+  const estimate = app.querySelector('#view #estimate');
+  if (!button || !estimate || estimate.disabled) return;
+
+  if (button.id === 'submit') {
+    estimate.required = true;
+    if (!estimate.reportValidity()) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+    }
+    return;
+  }
+
+  if (!/^hint[0-5]$/.test(button.id) || !estimate.value) return;
+  const draft = estimate.value;
+  const state = window.Retro400CTest?.state;
+  const round = state?.round;
+  const tries = state?.tries;
+  setTimeout(() => {
+    const current = window.Retro400CTest?.state;
+    const field = app.querySelector('#view #estimate');
+    if (current === state && current?.round === round && current?.tries === tries &&
+        field && field !== estimate && !field.value) field.value = draft;
+  });
+}, true);
+
+app.addEventListener('keydown', event => {
+  if (event.key !== 'Enter' || event.isComposing || event.repeat ||
+      !event.target.matches('#view #estimate')) return;
+  const submit = app.querySelector('#view #submit');
+  if (!submit || submit.disabled) return;
+  event.preventDefault();
+  submit.click();
+});
+
+let signature='';function update(){const s=window.Retro400CTest?.state;let current=app.querySelector('.age-platform-v67');if(!s||s.id!=='yasim-kac'||!app.querySelector('.panel400')){current?.remove();signature='';return}if(s.round===6)app.querySelector('#view #submit + p')?.classList.add('age-final-attempts');const sig=JSON.stringify([s.name,s.round,s.cash,s.tries]);if(current&&signature===sig)return;signature=sig;const stage=document.createElement('section');stage.className='age-platform-v67';stage.setAttribute('aria-label','Yaşım Kaç: solda Behzat Uygur, ortada yükseltide konuk, önde arkadan görülen iki kişilik yarışmacı masası');stage.innerHTML='<h2>YAŞIM KAÇ?</h2><div class="ag-tunnel" aria-hidden="true">'+Array.from({length:7},(_,i)=>'<i style="--ring:'+i+'"></i>').join('')+'</div><div class="ag-floor" aria-hidden="true"></div><div class="ag-podium" aria-hidden="true"></div><div class="ag-guest"></div><div class="ag-host"></div><div class="ag-desk" aria-hidden="true"></div><div class="ag-team"></div><div class="ag-screen"><strong>?</strong><small>KAÇ YAŞINDA?</small></div>';const guest=stage.querySelector('.ag-guest');const original=app.querySelector('#view .age400');if(original)guest.append(original.cloneNode(true));else guest.innerHTML=window.ArenaHumans435?.person({id:'age-guest-'+s.round,name:'Konuk'},3)||'';guest.insertAdjacentHTML('beforeend','<i class="ag-body"></i><i class="ag-legs"></i>');const label=document.createElement('strong');label.textContent=s.round===6?'FİNAL KONUĞU':(s.round+1)+'. KONUK';guest.append(label);stage.querySelector('.ag-host').innerHTML=(window.ArenaHumans435?.host()||'')+'<strong>Behzat Uygur</strong>';[s.name,'Takım arkadaşı'].forEach((name,i)=>{const person=document.createElement('div');person.className='ag-back ag-back-'+i;person.innerHTML='<i class="ag-head"></i><i class="ag-back-body"></i><i class="ag-back-legs"></i>';const tag=document.createElement('strong');tag.textContent=name;person.append(tag);stage.querySelector('.ag-team').append(person)});if(current)current.replaceWith(stage);else app.prepend(stage)}new MutationObserver(records=>{if(records.every(r=>r.target.nodeType===1&&r.target.closest?.('.age-platform-v67')))return;update()}).observe(app,{subtree:true,childList:true});update()}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install()})();

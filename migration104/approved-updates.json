@@ -410,9 +410,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/yasim-kac/index.html": {
-    "sha": "5e25a3303d8a88b5ef57aa9f7471d0e4239168fa",
-    "size": 4938,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "d27b031ea4832084d89aa15a3d5da1d2feeec376",
+    "size": 4933,
+    "reason": "Preserve age estimates when opening hints and clarify remaining final attempts"
   },
   "games/yetenek-sahnesi/index.html": {
     "sha": "f6ed8ed2baa990e20ddaeb700cb5a140aa2646d4",
@@ -653,5 +653,15 @@
     "sha": "df4f0ee2f7ba52bbc1e8b3c16ecb011ef9e82191",
     "size": 1852,
     "reason": "Show wheel progress and highlight the current wheel in Gel Hemşerim"
+  },
+  "games/yasim-kac/platform.js": {
+    "sha": "e1015bcb3e548ffba606a5f3fcacdeed1a1fcbb5",
+    "size": 3798,
+    "reason": "Preserve age estimates when opening hints and clarify remaining final attempts"
+  },
+  "games/yasim-kac/platform.css": {
+    "sha": "52d519714a33a742d77d601cc7f1e919ab69a15e",
+    "size": 4228,
+    "reason": "Preserve age estimates when opening hints and clarify remaining final attempts"
   }
 }

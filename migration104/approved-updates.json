@@ -145,9 +145,9 @@
     "reason": "Refresh Eyvah and Kutu scenes and extend Turkish family video questions"
   },
   "games/gel-hemserim/index.html": {
-    "sha": "a6fdde3bd23de4fb21c5a61529ef057705787d8d",
-    "size": 5059,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "e608d4b5c7b6f60e8c4999d96831972c113da40d",
+    "size": 5054,
+    "reason": "Show wheel progress and highlight the current wheel in Gel Hemşerim"
   },
   "games/gonder-gitsin/index.html": {
     "sha": "ee727cc3d78c5e59c481a599d592f88ddf65fba2",
@@ -643,5 +643,15 @@
     "sha": "0b0a2e9730c5ba694b4fcbe3b364d0be39f55f95",
     "size": 4764,
     "reason": "Make the stakes clear before and after choosing a household item"
+  },
+  "games/gel-hemserim/platform.js": {
+    "sha": "ae51f8b31229eee1458f3ec0fa6b498afa5574c6",
+    "size": 3333,
+    "reason": "Show wheel progress and highlight the current wheel in Gel Hemşerim"
+  },
+  "games/gel-hemserim/platform.css": {
+    "sha": "df4f0ee2f7ba52bbc1e8b3c16ecb011ef9e82191",
+    "size": 1852,
+    "reason": "Show wheel progress and highlight the current wheel in Gel Hemşerim"
   }
 }

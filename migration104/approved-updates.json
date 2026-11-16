@@ -280,9 +280,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/para-bende/index.html": {
-    "sha": "93aa2a6bc4657d37b76bc224877bd1e71a9e8934",
+    "sha": "657812edf643f3eedba3eb3b747268278dc1c648",
     "size": 5099,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "reason": "Preview the remaining travel budget for every option in Para Bende"
   },
   "games/para-kapani/index.html": {
     "sha": "d3ad2295012a0f09b63f0d31e990cdd353d52684",
@@ -683,5 +683,15 @@
     "sha": "39304b7d6bb82342eec62e260faa1e809baabf46",
     "size": 5466,
     "reason": "Display selected gifts and the total before returning upstairs"
+  },
+  "games/para-bende/platform.js": {
+    "sha": "1eea0cd3c75573b7dd29cf332f091b8ecaada6f1",
+    "size": 3054,
+    "reason": "Preview the remaining travel budget for every option in Para Bende"
+  },
+  "games/para-bende/platform.css": {
+    "sha": "94c163f51aaa7a5c1410e0feccc8af8d084df54a",
+    "size": 2478,
+    "reason": "Preview the remaining travel budget for every option in Para Bende"
   }
 }

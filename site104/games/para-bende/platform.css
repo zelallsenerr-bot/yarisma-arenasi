@@ -7,3 +7,14 @@
 .para-platform-v67.stage435.blocking437 .scene-person435>svg{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;max-height:100%!important;overflow:hidden!important}
 .para-platform-v67.stage435.blocking437 .scene-person435>strong{font-size:clamp(7px,.8vw,11px)!important;white-space:nowrap}
 .para-platform-v67 .pb-hosts{display:none}
+
+#view .pb-after-cost {
+  display: block;
+  margin-top: 5px;
+  font-size: .85em;
+  font-weight: 700;
+  color: #ffe4a0;
+}
+#view button:disabled .pb-after-cost {
+  color: inherit;
+}

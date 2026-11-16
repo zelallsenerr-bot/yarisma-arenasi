@@ -305,9 +305,9 @@
     "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
   },
   "games/risk-meydani/index.html": {
-    "sha": "02bd49f5719c1f1cbb2db1a0b27d44a550329a41",
-    "size": 5334,
-    "reason": "Game-specific usability: family answer/replay/timing, optional quick boxes, automatic camera, duel feedback, editorial wording and isolated practice"
+    "sha": "a2bd035887c3bb9866e006161352a4a829ee0967",
+    "size": 5340,
+    "reason": "Show open question count per category and mark exhausted columns"
   },
   "games/saba-ile-oyuna-geldik/index.html": {
     "sha": "ef0ea5a03b458d70578f0e4837f6a7a421f5f8b2",
@@ -703,5 +703,15 @@
     "sha": "bf19cbf5b918eb54826034f3dc6277c9a70fba6f",
     "size": 3870,
     "reason": "Clarify remaining contestants and jokers in round results"
+  },
+  "games/risk-meydani/app.js": {
+    "sha": "a08f039e3bcc4bbbe460911ed41bc146472b733d",
+    "size": 19140,
+    "reason": "Show open question count per category and mark exhausted columns"
+  },
+  "games/risk-meydani/style.css": {
+    "sha": "1666d61bbb02a9ceaa9cd790b029d2b8f848be5c",
+    "size": 9530,
+    "reason": "Show open question count per category and mark exhausted columns"
   }
 }

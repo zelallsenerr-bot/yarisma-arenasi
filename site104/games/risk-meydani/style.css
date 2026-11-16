@@ -3,3 +3,15 @@
 @media(max-width:580px){.cell{font-size:clamp(12px,4vw,18px)}}
 /* 3.56: podium buzzers remain separate from category control. */
 .podium .buzzer{display:block;width:100%;margin-top:12px;min-height:60px;border-radius:999px;font-size:13px;background:radial-gradient(ellipse at 40% 20%,#ff9c8b,#b32450 60%,#541638);border-color:#ffba92;color:#fff;box-shadow:0 4px 0 #46152c;white-space:normal}.podium .buzzer:disabled{opacity:.48}.responding356{border:2px solid #75e6d3;box-shadow:0 0 30px #75e6d344}.finalcategory356 h2{font-size:clamp(38px,9vw,75px);color:#ffe19a;letter-spacing:1px}.finaltabs356{margin:20px 0}.clue{overflow-wrap:anywhere}.cat{color:#fff1c9;font-size:13px;background:linear-gradient(#303e91,#1e265f)}.tip,.note{color:#bdcbe4}.cell:disabled.used{opacity:1}.panel p{color:#d7dfef}label{color:#e4eafb}@media(max-width:580px){.podium .buzzer{font-size:10px;padding:10px 3px;min-height:54px}.cat{font-size:10px}.finaltabs356 button{padding:12px 5px}.answerform{flex-wrap:wrap}.answerform input{flex:1 1 180px}.answerform button{flex:1}.clue{font-size:clamp(22px,5.5vw,30px)}}
+
+.gridboard .cat-remaining {
+  display: block;
+  margin-top: 4px;
+  color: #fff0b9;
+  font-size: .75rem;
+  letter-spacing: normal;
+}
+.gridboard .cat-empty {
+  background: #22273d;
+}
+.gridboard .cat-empty .cat-remaining { color: #d2d8e8; }
